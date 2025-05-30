@@ -33,6 +33,10 @@ Web scraper para coleta de dados de jogos de futebol das principais ligas europe
 - Ligue 1
 - Ligue 2
 
+### Brasil
+- Série A
+- Série B
+
 ## 🚀 Instalação
 
 1. **Clone o repositório ou baixe os arquivos**
