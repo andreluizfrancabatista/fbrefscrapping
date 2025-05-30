@@ -11,6 +11,13 @@ function formatDate(dateString) {
     return `${day}/${month}/${year}`;
 }
 
+// Função para converter horário de hh:mm:ss para hh:mm
+function formatTime(timeString) {
+    if (!timeString || timeString.length < 5) return '';
+    return timeString.substring(0, 5);
+}
+
+
 // Função para converter array de objetos para CSV
 function arrayToCSV(data, separator = ';') {
     if (!data || data.length === 0) return '';
@@ -117,6 +124,7 @@ async function scrapeSoccerData(pais, liga, link) {
             const dados = {
                 WEEK: [],
                 DATE: [],
+                TIME: [],
                 HOME: [],
                 AWAY: [],
                 FTHG: [],
@@ -127,6 +135,7 @@ async function scrapeSoccerData(pais, liga, link) {
             const next = {
                 WEEK: [],
                 DATE: [],
+                TIME: [],
                 HOME: [],
                 AWAY: []
             };
@@ -178,6 +187,8 @@ async function scrapeSoccerData(pais, liga, link) {
                                         row.querySelector('td[data-stat="gameweek"]');
                         
                         let dateElement  = row.querySelector('td[data-stat="date"]');
+
+                        let timeElement  = row.querySelector('td[data-stat="start_time"]');
                         
                         let homeElement  = row.querySelector('td[data-stat="home_team"]');
                         
@@ -191,6 +202,7 @@ async function scrapeSoccerData(pais, liga, link) {
 
                         const week = weekElement.textContent.trim();
                         const date = dateElement.getAttribute('csk');
+                        const time = timeElement.getAttribute('csk');
                         const home = homeElement.textContent.trim();
                         const away = awayElement.textContent.trim();
                         const score = scoreElement ? scoreElement.textContent.trim() : '';
@@ -206,6 +218,7 @@ async function scrapeSoccerData(pais, liga, link) {
                             // Jogo futuro (sem placar)
                             next.WEEK.push(week);
                             next.DATE.push(date);
+                            next.TIME.push(time);
                             next.HOME.push(home);
                             next.AWAY.push(away);
                             console.log(`Próximo jogo: ${home} vs ${away}`);
@@ -222,6 +235,7 @@ async function scrapeSoccerData(pais, liga, link) {
 
                                     dados.WEEK.push(week);
                                     dados.DATE.push(date);
+                                    dados.TIME.push(time);
                                     dados.HOME.push(home);
                                     dados.AWAY.push(away);
                                     dados.FTHG.push(fthg);
@@ -283,6 +297,7 @@ async function scrapeSoccerData(pais, liga, link) {
         const processedData = data.dados.WEEK.map((week, index) => ({
             WEEK: week,
             DATE: formatDate(data.dados.DATE[index]),
+            TIME: formatTime(data.dados.TIME[index]),
             HOME: data.dados.HOME[index],
             AWAY: data.dados.AWAY[index],
             FTHG: data.dados.FTHG[index],
@@ -307,6 +322,7 @@ async function scrapeSoccerData(pais, liga, link) {
         const nextGamesData = data.next.WEEK.slice(0, 10).map((week, index) => ({
             WEEK: week,
             DATE: formatDate(data.next.DATE[index]),
+            TIME: formatTime(data.next.TIME[index]),
             HOME: data.next.HOME[index],
             AWAY: data.next.AWAY[index]
         }));
