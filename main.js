@@ -22,6 +22,10 @@ const dataset = {
     "franca": {
         "Ligue 1": "https://fbref.com/en/comps/13/schedule/Ligue-1-Scores-and-Fixtures",
         "Ligue 2": "https://fbref.com/en/comps/60/schedule/Ligue-2-Scores-and-Fixtures"
+    },
+    "brasil" : {
+        "Série A" : "https://fbref.com/en/comps/24/schedule/Serie-A-Scores-and-Fixtures",
+        "Série B" : "https://fbref.com/en/comps/38/schedule/Serie-B-Scores-and-Fixtures"
     }
 };
 
