@@ -1,0 +1,241 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;03/08/2024;15:30;Veres Rivne;Karpaty Lviv;0;0;0
+1;03/08/2024;18:00;Kryvbas;Chornomorets Odesa;1;0;1
+1;04/08/2024;13:00;FC LNZ Cherkasy;FK Livyi Bereh;1;0;1
+1;04/08/2024;15:30;Vorskla Poltava;Shakhtar;0;5;-5
+1;04/08/2024;15:30;Obolon-Brovar Kyiv;FK Kolos;2;2;0
+1;04/08/2024;18:00;Zorya Luhansk;FK Inhulets;2;1;1
+2;09/08/2024;15:30;FK Livyi Bereh;Vorskla Poltava;0;3;-3
+2;09/08/2024;18:00;Veres Rivne;Dynamo Kyiv;1;2;-1
+2;10/08/2024;15:30;Chornomorets Odesa;Zorya Luhansk;0;1;-1
+2;10/08/2024;18:00;FK Kolos;FK Inhulets;0;0;0
+2;11/08/2024;13:00;Obolon-Brovar Kyiv;Rukh Lviv;0;4;-4
+2;11/08/2024;15:30;Karpaty Lviv;Kryvbas;3;0;3
+2;11/08/2024;18:00;Shakhtar;FC Polissya Zhytomyr;0;1;-1
+2;12/08/2024;15:30;FC LNZ Cherkasy;FC Oleksandriya;0;2;-2
+3;16/08/2024;15:30;Chornomorets Odesa;FK Kolos;1;0;1
+3;16/08/2024;18:35;Vorskla Poltava;Obolon-Brovar Kyiv;2;0;2
+3;17/08/2024;13:30;Zorya Luhansk;FC Oleksandriya;1;2;-1
+3;17/08/2024;15:30;FC Polissya Zhytomyr;FK Inhulets;1;1;0
+3;17/08/2024;18:00;Karpaty Lviv;Dynamo Kyiv;1;3;-2
+3;18/08/2024;15:30;Veres Rivne;Kryvbas;0;2;-2
+3;18/08/2024;15:30;FC LNZ Cherkasy;Rukh Lviv;3;1;2
+3;18/08/2024;18:00;FK Livyi Bereh;Shakhtar;0;1;-1
+4;24/08/2024;13:00;FC Oleksandriya;Shakhtar;4;3;1
+4;25/08/2024;13:00;FC Polissya Zhytomyr;Obolon-Brovar Kyiv;4;0;4
+4;25/08/2024;15:30;Rukh Lviv;Zorya Luhansk;3;0;3
+4;25/08/2024;18:00;Kryvbas;FK Inhulets;1;1;0
+4;26/08/2024;17:00;FK Livyi Bereh;Chornomorets Odesa;1;0;1
+4;26/08/2024;18:00;FK Kolos;Veres Rivne;0;1;-1
+4;26/08/2024;19:00;FC LNZ Cherkasy;Karpaty Lviv;2;1;1
+5;30/08/2024;15:30;Obolon-Brovar Kyiv;Zorya Luhansk;0;2;-2
+5;30/08/2024;18:00;Rukh Lviv;FK Inhulets;5;0;5
+5;31/08/2024;13:00;Karpaty Lviv;Vorskla Poltava;1;1;0
+5;31/08/2024;15:30;FC Oleksandriya;FK Kolos;2;1;1
+5;31/08/2024;18:00;Chornomorets Odesa;FC Polissya Zhytomyr;1;4;-3
+5;01/09/2024;13:00;Veres Rivne;FK Livyi Bereh;1;3;-2
+5;01/09/2024;15:30;Dynamo Kyiv;FC LNZ Cherkasy;1;0;1
+6;13/09/2024;18:00;Obolon-Brovar Kyiv;FC Oleksandriya;0;0;0
+6;14/09/2024;13:00;Chornomorets Odesa;FK Inhulets;1;0;1
+6;14/09/2024;15:30;Zorya Luhansk;Dynamo Kyiv;0;2;-2
+6;14/09/2024;18:00;Shakhtar;Karpaty Lviv;5;2;3
+6;15/09/2024;13:00;Vorskla Poltava;Rukh Lviv;0;0;0
+6;15/09/2024;15:30;FK Livyi Bereh;Kryvbas;0;1;-1
+6;15/09/2024;18:00;FC Polissya Zhytomyr;Veres Rivne;2;1;1
+6;16/09/2024;18:00;FK Kolos;FC LNZ Cherkasy;1;1;0
+4;18/09/2024;18:00;Dynamo Kyiv;Vorskla Poltava;3;1;2
+7;21/09/2024;13:00;Chornomorets Odesa;Karpaty Lviv;0;1;-1
+7;21/09/2024;15:30;FC Oleksandriya;FK Livyi Bereh;2;0;2
+7;21/09/2024;18:00;Dynamo Kyiv;Rukh Lviv;0;0;0
+7;22/09/2024;13:00;Veres Rivne;FK Inhulets;2;2;0
+7;22/09/2024;16:00;Kryvbas;Vorskla Poltava;1;1;0
+7;22/09/2024;18:00;FC Polissya Zhytomyr;FC LNZ Cherkasy;1;1;0
+7;23/09/2024;15:30;FK Kolos;Zorya Luhansk;1;0;1
+7;23/09/2024;18:00;Shakhtar;Obolon-Brovar Kyiv;4;0;4
+8;27/09/2024;18:00;Veres Rivne;Shakhtar;1;1;0
+8;28/09/2024;13:00;Kryvbas;FC Oleksandriya;0;1;-1
+8;28/09/2024;15:30;FC LNZ Cherkasy;Chornomorets Odesa;1;1;0
+8;28/09/2024;18:00;Karpaty Lviv;FC Polissya Zhytomyr;1;3;-2
+8;29/09/2024;13:00;Obolon-Brovar Kyiv;FK Inhulets;2;1;1
+8;29/09/2024;15:30;Rukh Lviv;FK Kolos;0;0;0
+8;29/09/2024;18:00;FK Livyi Bereh;Dynamo Kyiv;0;3;-3
+8;30/09/2024;18:00;Zorya Luhansk;Vorskla Poltava;2;0;2
+9;04/10/2024;15:30;Chornomorets Odesa;Obolon-Brovar Kyiv;1;0;1
+9;04/10/2024;18:00;Karpaty Lviv;FK Inhulets;0;0;0
+9;05/10/2024;13:00;Veres Rivne;Zorya Luhansk;2;1;1
+9;05/10/2024;15:30;FC Oleksandriya;Rukh Lviv;1;1;0
+9;05/10/2024;18:00;FK Kolos;FK Livyi Bereh;0;0;0
+9;06/10/2024;13:00;FC Polissya Zhytomyr;Vorskla Poltava;2;1;1
+9;06/10/2024;15:30;Shakhtar;FC LNZ Cherkasy;5;1;4
+9;06/10/2024;18:00;Dynamo Kyiv;Kryvbas;2;1;1
+10;18/10/2024;18:00;FK Kolos;Shakhtar;0;1;-1
+10;19/10/2024;13:00;FC Oleksandriya;Vorskla Poltava;1;0;1
+10;19/10/2024;15:30;Obolon-Brovar Kyiv;Dynamo Kyiv;1;5;-4
+10;19/10/2024;18:00;FC Polissya Zhytomyr;FK Livyi Bereh;0;0;0
+10;20/10/2024;13:00;FC LNZ Cherkasy;FK Inhulets;2;0;2
+10;20/10/2024;15:30;Chornomorets Odesa;Veres Rivne;1;1;0
+10;20/10/2024;18:00;Zorya Luhansk;Kryvbas;0;1;-1
+10;21/10/2024;18:00;Rukh Lviv;Karpaty Lviv;0;1;-1
+11;25/10/2024;15:30;Rukh Lviv;Chornomorets Odesa;1;1;0
+11;25/10/2024;18:00;FC Polissya Zhytomyr;FK Kolos;1;1;0
+11;26/10/2024;13:00;FC Oleksandriya;FK Inhulets;2;1;1
+11;26/10/2024;16:50;Kryvbas;FC LNZ Cherkasy;3;1;2
+11;26/10/2024;18:00;Karpaty Lviv;Obolon-Brovar Kyiv;1;0;1
+11;27/10/2024;13:00;FK Livyi Bereh;Zorya Luhansk;0;2;-2
+11;27/10/2024;15:30;Veres Rivne;Vorskla Poltava;2;2;0
+11;27/10/2024;18:00;Dynamo Kyiv;Shakhtar;1;1;0
+12;02/11/2024;15:30;Karpaty Lviv;FK Livyi Bereh;3;0;3
+12;02/11/2024;18:00;Shakhtar;Chornomorets Odesa;2;1;1
+12;03/11/2024;13:00;Vorskla Poltava;FK Kolos;0;1;-1
+12;03/11/2024;15:30;FC Oleksandriya;FC Polissya Zhytomyr;1;0;1
+12;03/11/2024;18:00;Dynamo Kyiv;FK Inhulets;5;2;3
+12;04/11/2024;13:00;Obolon-Brovar Kyiv;Veres Rivne;0;0;0
+12;04/11/2024;15:30;Kryvbas;Rukh Lviv;1;1;0
+12;04/11/2024;18:00;Zorya Luhansk;FC LNZ Cherkasy;1;2;-1
+13;08/11/2024;16:30;Chornomorets Odesa;Vorskla Poltava;0;1;-1
+13;08/11/2024;18:25;FK Livyi Bereh;FK Inhulets;0;0;0
+13;09/11/2024;13:00;FC LNZ Cherkasy;Obolon-Brovar Kyiv;0;1;-1
+13;09/11/2024;15:30;FC Oleksandriya;Karpaty Lviv;3;0;3
+13;09/11/2024;19:20;FK Kolos;Kryvbas;1;1;0
+13;10/11/2024;13:00;Veres Rivne;Rukh Lviv;2;0;2
+13;10/11/2024;15:30;Shakhtar;Zorya Luhansk;3;1;2
+13;10/11/2024;18:00;Dynamo Kyiv;FC Polissya Zhytomyr;2;1;1
+14;22/11/2024;18:00;Karpaty Lviv;FK Kolos;1;0;1
+14;23/11/2024;13:00;Vorskla Poltava;FC LNZ Cherkasy;2;0;2
+14;23/11/2024;15:30;Dynamo Kyiv;Chornomorets Odesa;3;1;2
+14;23/11/2024;18:00;Shakhtar;FK Inhulets;6;0;6
+14;24/11/2024;13:00;Obolon-Brovar Kyiv;Kryvbas;0;1;-1
+14;24/11/2024;17:00;Veres Rivne;FC Oleksandriya;1;1;0
+14;24/11/2024;18:00;Rukh Lviv;FK Livyi Bereh;1;0;1
+14;25/11/2024;18:00;FC Polissya Zhytomyr;Zorya Luhansk;1;1;0
+15;29/11/2024;15:30;Vorskla Poltava;FK Inhulets;0;3;-3
+15;30/11/2024;13:00;FC LNZ Cherkasy;Veres Rivne;1;2;-1
+15;30/11/2024;15:30;Kryvbas;FC Polissya Zhytomyr;3;1;2
+15;30/11/2024;18:00;FK Livyi Bereh;Obolon-Brovar Kyiv;1;1;0
+15;01/12/2024;13:00;FC Oleksandriya;Chornomorets Odesa;3;0;3
+15;01/12/2024;15:30;FK Kolos;Dynamo Kyiv;1;1;0
+15;01/12/2024;18:00;Shakhtar;Rukh Lviv;1;1;0
+15;02/12/2024;18:00;Zorya Luhansk;Karpaty Lviv;2;1;1
+1;04/12/2024;15:30;FC Oleksandriya;Dynamo Kyiv;0;0;0
+1;04/12/2024;18:00;Rukh Lviv;FC Polissya Zhytomyr;1;1;0
+16;05/12/2024;18:00;Shakhtar;Vorskla Poltava;3;1;2
+16;07/12/2024;13:00;FK Livyi Bereh;FC LNZ Cherkasy;3;1;2
+16;07/12/2024;16:30;Chornomorets Odesa;Kryvbas;1;3;-2
+16;07/12/2024;18:00;Karpaty Lviv;Veres Rivne;5;0;5
+16;08/12/2024;15:30;FK Kolos;Obolon-Brovar Kyiv;0;0;0
+16;08/12/2024;18:00;Dynamo Kyiv;FC Oleksandriya;3;0;3
+16;09/12/2024;18:00;FC Polissya Zhytomyr;Rukh Lviv;0;1;-1
+17;13/12/2024;15:30;Vorskla Poltava;FK Livyi Bereh;0;1;-1
+17;14/12/2024;13:00;FC Oleksandriya;FC LNZ Cherkasy;1;1;0
+17;14/12/2024;15:30;Kryvbas;Karpaty Lviv;2;0;2
+17;14/12/2024;18:00;Zorya Luhansk;Chornomorets Odesa;2;1;1
+17;15/12/2024;13:00;FK Inhulets;FK Kolos;0;2;-2
+17;15/12/2024;15:30;Rukh Lviv;Obolon-Brovar Kyiv;1;3;-2
+17;15/12/2024;18:00;FC Polissya Zhytomyr;Shakhtar;1;0;1
+17;16/12/2024;13:00;Dynamo Kyiv;Veres Rivne;1;0;1
+18;21/02/2025;15:30;FK Kolos;Chornomorets Odesa;1;2;-1
+18;22/02/2025;13:00;Kryvbas;Veres Rivne;0;3;-3
+18;22/02/2025;15:30;FK Inhulets;FC Polissya Zhytomyr;0;1;-1
+18;22/02/2025;18:00;Rukh Lviv;FC LNZ Cherkasy;0;1;-1
+18;23/02/2025;13:00;Obolon-Brovar Kyiv;Vorskla Poltava;1;0;1
+18;23/02/2025;15:30;FC Oleksandriya;Zorya Luhansk;2;1;1
+18;23/02/2025;18:00;Dynamo Kyiv;Karpaty Lviv;2;0;2
+18;24/02/2025;18:00;Shakhtar;FK Livyi Bereh;1;0;1
+19;28/02/2025;13:00;Obolon-Brovar Kyiv;FC Polissya Zhytomyr;0;0;0
+19;28/02/2025;15:30;Vorskla Poltava;Dynamo Kyiv;1;1;0
+19;28/02/2025;18:00;Karpaty Lviv;FC LNZ Cherkasy;1;0;1
+19;01/03/2025;16:30;Chornomorets Odesa;FK Livyi Bereh;0;1;-1
+19;01/03/2025;18:00;Shakhtar;FC Oleksandriya;3;0;3
+19;02/03/2025;13:15;FK Inhulets;Kryvbas;2;0;2
+19;02/03/2025;15:30;Zorya Luhansk;Rukh Lviv;2;0;2
+19;02/03/2025;18:00;Veres Rivne;FK Kolos;2;1;1
+20;06/03/2025;13:00;FC Polissya Zhytomyr;Chornomorets Odesa;3;1;2
+20;06/03/2025;13:00;Vorskla Poltava;Karpaty Lviv;0;0;0
+20;06/03/2025;15:30;FC LNZ Cherkasy;Dynamo Kyiv;1;2;-1
+20;06/03/2025;18:00;Shakhtar;Kryvbas;1;1;0
+20;07/03/2025;13:00;FK Livyi Bereh;Veres Rivne;2;0;2
+20;07/03/2025;15:30;FK Kolos;FC Oleksandriya;0;1;-1
+20;07/03/2025;18:00;Zorya Luhansk;Obolon-Brovar Kyiv;2;1;1
+20;08/03/2025;15:30;FK Inhulets;Rukh Lviv;0;1;-1
+21;11/03/2025;13:00;FC Oleksandriya;Obolon-Brovar Kyiv;4;0;4
+21;11/03/2025;15:30;Veres Rivne;FC Polissya Zhytomyr;5;1;4
+21;11/03/2025;15:30;Dynamo Kyiv;Zorya Luhansk;2;2;0
+21;11/03/2025;18:00;Karpaty Lviv;Shakhtar;0;0;0
+21;15/03/2025;18:00;Rukh Lviv;Vorskla Poltava;0;1;-1
+21;16/03/2025;13:00;FK Inhulets;Chornomorets Odesa;1;0;1
+21;16/03/2025;15:30;FC LNZ Cherkasy;FK Kolos;2;0;2
+22;28/03/2025;13:20;FK Inhulets;Veres Rivne;0;0;0
+22;28/03/2025;15:30;FC LNZ Cherkasy;FC Polissya Zhytomyr;0;1;-1
+22;29/03/2025;13:00;FK Livyi Bereh;FC Oleksandriya;0;1;-1
+22;29/03/2025;15:30;Obolon-Brovar Kyiv;Shakhtar;0;2;-2
+22;29/03/2025;18:00;Rukh Lviv;Dynamo Kyiv;0;2;-2
+22;30/03/2025;13:00;Vorskla Poltava;Kryvbas;0;1;-1
+22;30/03/2025;15:30;Karpaty Lviv;Chornomorets Odesa;4;0;4
+22;30/03/2025;18:00;Zorya Luhansk;FK Kolos;0;3;-3
+23;04/04/2025;15:30;FK Inhulets;Obolon-Brovar Kyiv;0;1;-1
+23;05/04/2025;13:00;Vorskla Poltava;Zorya Luhansk;1;2;-1
+23;05/04/2025;15:30;Chornomorets Odesa;FC LNZ Cherkasy;1;0;1
+23;06/04/2025;13:00;FC Oleksandriya;Kryvbas;1;0;1
+23;06/04/2025;15:30;Dynamo Kyiv;FK Livyi Bereh;2;0;2
+23;06/04/2025;18:00;Shakhtar;Veres Rivne;3;0;3
+23;07/04/2025;15:30;FK Kolos;Rukh Lviv;0;1;-1
+23;07/04/2025;18:00;FC Polissya Zhytomyr;Karpaty Lviv;1;1;0
+24;11/04/2025;15:30;FC LNZ Cherkasy;Shakhtar;1;4;-3
+24;12/04/2025;13:00;Kryvbas;Dynamo Kyiv;0;2;-2
+24;12/04/2025;15:30;Rukh Lviv;FC Oleksandriya;1;1;0
+24;12/04/2025;18:00;Obolon-Brovar Kyiv;Chornomorets Odesa;1;0;1
+24;13/04/2025;13:00;Vorskla Poltava;FC Polissya Zhytomyr;0;2;-2
+24;13/04/2025;15:30;FK Livyi Bereh;FK Kolos;0;2;-2
+24;13/04/2025;18:00;Zorya Luhansk;Veres Rivne;1;2;-1
+24;14/04/2025;15:30;FK Inhulets;Karpaty Lviv;1;2;-1
+5;16/04/2025;14:00;Kryvbas;Shakhtar;1;2;-1
+25;18/04/2025;13:00;Vorskla Poltava;FC Oleksandriya;1;3;-2
+25;18/04/2025;18:00;Dynamo Kyiv;Obolon-Brovar Kyiv;3;0;3
+25;19/04/2025;13:00;Karpaty Lviv;Rukh Lviv;3;1;2
+25;19/04/2025;15:30;FK Livyi Bereh;FC Polissya Zhytomyr;1;1;0
+25;19/04/2025;18:00;Shakhtar;FK Kolos;2;4;-2
+25;20/04/2025;13:00;Kryvbas;Zorya Luhansk;3;0;3
+25;20/04/2025;15:30;FK Inhulets;FC LNZ Cherkasy;0;0;0
+25;20/04/2025;18:00;Veres Rivne;Chornomorets Odesa;2;1;1
+26;25/04/2025;15:30;FK Inhulets;FC Oleksandriya;0;1;-1
+26;25/04/2025;18:00;Zorya Luhansk;FK Livyi Bereh;2;1;1
+26;26/04/2025;13:00;Chornomorets Odesa;Rukh Lviv;1;2;-1
+26;26/04/2025;15:30;FC LNZ Cherkasy;Kryvbas;0;0;0
+26;26/04/2025;18:00;Obolon-Brovar Kyiv;Karpaty Lviv;2;2;0
+26;27/04/2025;13:00;Vorskla Poltava;Veres Rivne;3;0;3
+26;27/04/2025;15:30;FK Kolos;FC Polissya Zhytomyr;1;1;0
+26;27/04/2025;18:00;Shakhtar;Dynamo Kyiv;2;2;0
+16;30/04/2025;13:00;FK Inhulets;Zorya Luhansk;1;0;1
+27;02/05/2025;15:30;FK Livyi Bereh;Karpaty Lviv;2;3;-1
+27;02/05/2025;18:00;Rukh Lviv;Kryvbas;0;0;0
+27;03/05/2025;13:00;Chornomorets Odesa;Shakhtar;0;3;-3
+27;03/05/2025;15:30;FK Inhulets;Dynamo Kyiv;0;4;-4
+27;03/05/2025;18:00;Veres Rivne;Obolon-Brovar Kyiv;0;2;-2
+27;04/05/2025;13:00;FC LNZ Cherkasy;Zorya Luhansk;1;1;0
+27;04/05/2025;15:30;FK Kolos;Vorskla Poltava;0;0;0
+27;04/05/2025;18:00;FC Polissya Zhytomyr;FC Oleksandriya;1;2;-1
+21;07/05/2025;13:00;Kryvbas;FK Livyi Bereh;4;0;4
+28;09/05/2025;15:30;Zorya Luhansk;Shakhtar;0;0;0
+28;09/05/2025;18:00;FC Polissya Zhytomyr;Dynamo Kyiv;0;0;0
+28;10/05/2025;13:00;Vorskla Poltava;Chornomorets Odesa;1;2;-1
+28;10/05/2025;15:30;Obolon-Brovar Kyiv;FC LNZ Cherkasy;0;0;0
+28;10/05/2025;18:00;Rukh Lviv;Veres Rivne;2;0;2
+28;11/05/2025;13:00;Kryvbas;FK Kolos;0;1;-1
+28;11/05/2025;18:00;Karpaty Lviv;FC Oleksandriya;2;1;1
+28;12/05/2025;15:30;FK Inhulets;FK Livyi Bereh;2;1;1
+29;17/05/2025;13:00;FK Kolos;Karpaty Lviv;2;1;1
+29;17/05/2025;13:00;Kryvbas;Obolon-Brovar Kyiv;1;0;1
+29;17/05/2025;13:00;Zorya Luhansk;FC Polissya Zhytomyr;0;1;-1
+29;18/05/2025;15:30;FC Oleksandriya;Veres Rivne;3;1;2
+29;18/05/2025;15:30;FK Livyi Bereh;Rukh Lviv;1;0;1
+29;18/05/2025;15:30;FC LNZ Cherkasy;Vorskla Poltava;0;0;0
+29;18/05/2025;15:30;Chornomorets Odesa;Dynamo Kyiv;1;1;0
+29;18/05/2025;15:30;FK Inhulets;Shakhtar;1;4;-3
+30;23/05/2025;15:30;FK Inhulets;Vorskla Poltava;1;1;0
+30;23/05/2025;15:30;Obolon-Brovar Kyiv;FK Livyi Bereh;1;0;1
+30;24/05/2025;13:00;Chornomorets Odesa;FC Oleksandriya;0;0;0
+30;24/05/2025;15:30;Rukh Lviv;Shakhtar;1;1;0
+30;24/05/2025;18:00;Dynamo Kyiv;FK Kolos;1;1;0
+30;25/05/2025;15:30;Veres Rivne;FC LNZ Cherkasy;1;1;0
+30;25/05/2025;18:00;FC Polissya Zhytomyr;Kryvbas;1;1;0
+30;25/05/2025;18:00;Karpaty Lviv;Zorya Luhansk;1;3;-2

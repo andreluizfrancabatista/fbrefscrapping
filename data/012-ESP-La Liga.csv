@@ -1,0 +1,381 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;15/08/2024;19:00;Athletic Club;Getafe;1;1;0
+1;15/08/2024;21:30;Betis;Girona;1;1;0
+1;16/08/2024;19:00;Celta Vigo;Alavés;2;1;1
+1;16/08/2024;20:30;Las Palmas;Sevilla;2;2;0
+1;17/08/2024;19:00;Osasuna;Leganés;1;1;0
+1;17/08/2024;21:30;Valencia;Barcelona;1;2;-1
+1;18/08/2024;19:00;Real Sociedad;Rayo Vallecano;1;2;-1
+1;18/08/2024;21:30;Mallorca;Real Madrid;1;1;0
+1;19/08/2024;19:00;Valladolid;Espanyol;1;0;1
+1;19/08/2024;21:30;Villarreal;Atlético Madrid;2;2;0
+2;23/08/2024;19:00;Celta Vigo;Valencia;3;1;2
+2;23/08/2024;21:30;Sevilla;Villarreal;1;2;-1
+2;24/08/2024;17:00;Osasuna;Mallorca;1;0;1
+2;24/08/2024;19:00;Barcelona;Athletic Club;2;1;1
+2;24/08/2024;21:30;Getafe;Rayo Vallecano;0;0;0
+2;24/08/2024;21:30;Espanyol;Real Sociedad;0;1;-1
+2;25/08/2024;17:00;Real Madrid;Valladolid;3;0;3
+2;25/08/2024;19:00;Leganés;Las Palmas;2;1;1
+2;25/08/2024;19:15;Alavés;Betis;0;0;0
+2;25/08/2024;21:30;Atlético Madrid;Girona;3;0;3
+3;26/08/2024;21:30;Villarreal;Celta Vigo;4;3;1
+3;27/08/2024;19:00;Mallorca;Sevilla;0;0;0
+3;27/08/2024;21:30;Rayo Vallecano;Barcelona;1;2;-1
+3;28/08/2024;19:00;Athletic Club;Valencia;1;0;1
+3;28/08/2024;19:00;Valladolid;Leganés;0;0;0
+3;28/08/2024;21:30;Atlético Madrid;Espanyol;0;0;0
+3;28/08/2024;21:30;Real Sociedad;Alavés;1;2;-1
+3;29/08/2024;19:00;Girona;Osasuna;4;0;4
+3;29/08/2024;20:30;Las Palmas;Real Madrid;1;1;0
+4;31/08/2024;17:00;Barcelona;Valladolid;7;0;7
+4;31/08/2024;19:00;Athletic Club;Atlético Madrid;0;1;-1
+4;31/08/2024;19:15;Espanyol;Rayo Vallecano;2;1;1
+4;31/08/2024;21:30;Valencia;Villarreal;1;1;0
+4;31/08/2024;21:30;Leganés;Mallorca;0;1;-1
+4;01/09/2024;17:00;Alavés;Las Palmas;2;0;2
+4;01/09/2024;17:00;Osasuna;Celta Vigo;3;2;1
+4;01/09/2024;19:00;Sevilla;Girona;0;2;-2
+4;01/09/2024;19:15;Getafe;Real Sociedad;0;0;0
+4;01/09/2024;21:30;Real Madrid;Betis;2;0;2
+5;13/09/2024;21:00;Betis;Leganés;2;0;2
+5;14/09/2024;14:00;Mallorca;Villarreal;1;2;-1
+5;14/09/2024;16:15;Espanyol;Alavés;3;2;1
+5;14/09/2024;18:30;Sevilla;Getafe;1;0;1
+5;14/09/2024;21:00;Real Sociedad;Real Madrid;0;2;-2
+5;15/09/2024;14:00;Celta Vigo;Valladolid;3;1;2
+5;15/09/2024;16:15;Girona;Barcelona;1;4;-3
+5;15/09/2024;17:30;Las Palmas;Athletic Club;2;3;-1
+5;15/09/2024;21:00;Atlético Madrid;Valencia;3;0;3
+5;16/09/2024;21:00;Rayo Vallecano;Osasuna;3;1;2
+7;17/09/2024;19:00;Mallorca;Real Sociedad;1;0;1
+3;18/09/2024;19:00;Betis;Getafe;2;1;1
+7;19/09/2024;19:00;Leganés;Athletic Club;0;2;-2
+6;20/09/2024;21:00;Alavés;Sevilla;2;1;1
+6;21/09/2024;14:00;Valladolid;Real Sociedad;0;0;0
+6;21/09/2024;16:15;Osasuna;Las Palmas;2;1;1
+6;21/09/2024;18:30;Valencia;Girona;2;0;2
+6;21/09/2024;21:00;Real Madrid;Espanyol;4;1;3
+6;22/09/2024;14:00;Getafe;Leganés;1;1;0
+6;22/09/2024;16:15;Athletic Club;Celta Vigo;3;1;2
+6;22/09/2024;18:30;Villarreal;Barcelona;1;5;-4
+6;22/09/2024;21:00;Rayo Vallecano;Atlético Madrid;1;1;0
+6;23/09/2024;21:00;Betis;Mallorca;1;2;-1
+7;24/09/2024;19:00;Sevilla;Valladolid;2;1;1
+7;24/09/2024;19:00;Valencia;Osasuna;0;0;0
+7;24/09/2024;21:00;Real Madrid;Alavés;3;2;1
+7;25/09/2024;19:00;Girona;Rayo Vallecano;0;0;0
+7;25/09/2024;21:00;Barcelona;Getafe;1;0;1
+7;26/09/2024;18:00;Las Palmas;Betis;1;1;0
+7;26/09/2024;19:00;Espanyol;Villarreal;1;2;-1
+7;26/09/2024;21:00;Celta Vigo;Atlético Madrid;0;1;-1
+8;27/09/2024;21:00;Valladolid;Mallorca;1;2;-1
+8;28/09/2024;14:00;Getafe;Alavés;2;0;2
+8;28/09/2024;16:15;Rayo Vallecano;Leganés;1;1;0
+8;28/09/2024;18:30;Real Sociedad;Valencia;3;0;3
+8;28/09/2024;21:00;Osasuna;Barcelona;4;2;2
+8;29/09/2024;14:00;Celta Vigo;Girona;1;1;0
+8;29/09/2024;16:15;Athletic Club;Sevilla;1;1;0
+8;29/09/2024;18:30;Betis;Espanyol;1;0;1
+8;29/09/2024;21:00;Atlético Madrid;Real Madrid;1;1;0
+8;30/09/2024;21:00;Villarreal;Las Palmas;3;1;2
+9;04/10/2024;21:00;Leganés;Valencia;0;0;0
+9;05/10/2024;14:00;Espanyol;Mallorca;2;1;1
+9;05/10/2024;16:15;Getafe;Osasuna;1;1;0
+9;05/10/2024;17:30;Las Palmas;Celta Vigo;0;1;-1
+9;05/10/2024;18:30;Valladolid;Rayo Vallecano;1;2;-1
+9;05/10/2024;21:00;Real Madrid;Villarreal;2;0;2
+9;06/10/2024;14:00;Girona;Athletic Club;2;1;1
+9;06/10/2024;16:15;Alavés;Barcelona;0;3;-3
+9;06/10/2024;18:30;Sevilla;Betis;1;0;1
+9;06/10/2024;21:00;Real Sociedad;Atlético Madrid;1;1;0
+10;18/10/2024;21:00;Alavés;Valladolid;2;3;-1
+10;19/10/2024;14:00;Athletic Club;Espanyol;4;1;3
+10;19/10/2024;16:15;Osasuna;Betis;1;2;-1
+10;19/10/2024;18:30;Girona;Real Sociedad;0;1;-1
+10;19/10/2024;21:00;Celta Vigo;Real Madrid;1;2;-1
+10;20/10/2024;14:00;Mallorca;Rayo Vallecano;1;0;1
+10;20/10/2024;16:15;Atlético Madrid;Leganés;3;1;2
+10;20/10/2024;18:30;Villarreal;Getafe;1;1;0
+10;20/10/2024;21:00;Barcelona;Sevilla;5;1;4
+10;21/10/2024;21:00;Valencia;Las Palmas;2;3;-1
+11;25/10/2024;21:00;Espanyol;Sevilla;0;2;-2
+11;26/10/2024;14:00;Valladolid;Villarreal;1;2;-1
+11;26/10/2024;16:15;Rayo Vallecano;Alavés;1;0;1
+11;26/10/2024;17:30;Las Palmas;Girona;1;0;1
+11;26/10/2024;21:00;Real Madrid;Barcelona;0;4;-4
+11;27/10/2024;14:00;Leganés;Celta Vigo;3;0;3
+11;27/10/2024;16:15;Getafe;Valencia;1;1;0
+11;27/10/2024;18:30;Betis;Atlético Madrid;1;0;1
+11;27/10/2024;21:00;Real Sociedad;Osasuna;0;2;-2
+11;28/10/2024;21:00;Mallorca;Athletic Club;0;0;0
+12;01/11/2024;21:00;Alavés;Mallorca;1;0;1
+12;02/11/2024;14:00;Osasuna;Valladolid;1;0;1
+12;02/11/2024;16:15;Girona;Leganés;4;3;1
+12;03/11/2024;14:00;Atlético Madrid;Las Palmas;2;0;2
+12;03/11/2024;16:15;Barcelona;Espanyol;3;1;2
+12;03/11/2024;18:30;Sevilla;Real Sociedad;0;2;-2
+12;03/11/2024;21:00;Athletic Club;Betis;1;1;0
+12;04/11/2024;21:00;Celta Vigo;Getafe;1;0;1
+13;08/11/2024;21:00;Rayo Vallecano;Las Palmas;1;3;-2
+13;09/11/2024;14:00;Real Madrid;Osasuna;4;0;4
+13;09/11/2024;16:15;Villarreal;Alavés;3;0;3
+13;09/11/2024;21:00;Leganés;Sevilla;1;0;1
+13;10/11/2024;14:00;Betis;Celta Vigo;2;2;0
+13;10/11/2024;16:15;Mallorca;Atlético Madrid;0;1;-1
+13;10/11/2024;18:30;Valladolid;Athletic Club;1;1;0
+13;10/11/2024;18:30;Getafe;Girona;0;1;-1
+13;10/11/2024;21:00;Real Sociedad;Barcelona;1;0;1
+14;22/11/2024;21:00;Getafe;Valladolid;2;0;2
+14;23/11/2024;14:00;Valencia;Betis;4;2;2
+14;23/11/2024;16:15;Atlético Madrid;Alavés;2;1;1
+14;23/11/2024;17:30;Las Palmas;Mallorca;2;3;-1
+14;23/11/2024;18:30;Girona;Espanyol;4;1;3
+14;23/11/2024;21:00;Celta Vigo;Barcelona;2;2;0
+14;24/11/2024;14:00;Osasuna;Villarreal;2;2;0
+14;24/11/2024;16:15;Sevilla;Rayo Vallecano;1;0;1
+14;24/11/2024;18:30;Leganés;Real Madrid;0;3;-3
+14;24/11/2024;21:00;Athletic Club;Real Sociedad;1;0;1
+15;29/11/2024;21:00;Mallorca;Valencia;2;1;1
+15;30/11/2024;14:00;Barcelona;Las Palmas;1;2;-1
+15;30/11/2024;16:15;Alavés;Leganés;1;1;0
+15;30/11/2024;18:30;Espanyol;Celta Vigo;3;1;2
+15;30/11/2024;21:00;Valladolid;Atlético Madrid;0;5;-5
+15;01/12/2024;14:00;Villarreal;Girona;2;2;0
+15;01/12/2024;16:15;Real Madrid;Getafe;2;0;2
+15;01/12/2024;18:30;Rayo Vallecano;Athletic Club;1;2;-1
+15;01/12/2024;21:00;Real Sociedad;Betis;2;0;2
+15;02/12/2024;21:00;Sevilla;Osasuna;1;1;0
+19;03/12/2024;19:00;Mallorca;Barcelona;1;5;-4
+19;04/12/2024;21:00;Athletic Club;Real Madrid;2;1;1
+16;06/12/2024;21:00;Celta Vigo;Mallorca;2;0;2
+16;07/12/2024;13:00;Las Palmas;Valladolid;2;1;1
+16;07/12/2024;16:15;Betis;Barcelona;2;2;0
+16;07/12/2024;18:30;Valencia;Rayo Vallecano;0;1;-1
+16;07/12/2024;21:00;Girona;Real Madrid;0;3;-3
+16;08/12/2024;14:00;Leganés;Real Sociedad;0;3;-3
+16;08/12/2024;16:15;Athletic Club;Villarreal;2;0;2
+16;08/12/2024;18:30;Osasuna;Alavés;2;2;0
+16;08/12/2024;21:00;Atlético Madrid;Sevilla;4;3;1
+16;09/12/2024;21:00;Getafe;Espanyol;1;0;1
+17;13/12/2024;21:00;Valladolid;Valencia;1;0;1
+17;14/12/2024;14:00;Espanyol;Osasuna;0;0;0
+17;14/12/2024;16:15;Mallorca;Girona;2;1;1
+17;14/12/2024;18:30;Sevilla;Celta Vigo;1;0;1
+17;14/12/2024;21:00;Rayo Vallecano;Real Madrid;3;3;0
+17;15/12/2024;14:00;Atlético Madrid;Getafe;1;0;1
+17;15/12/2024;16:15;Alavés;Athletic Club;1;1;0
+17;15/12/2024;18:30;Real Sociedad;Las Palmas;0;0;0
+17;15/12/2024;18:30;Villarreal;Betis;1;2;-1
+17;15/12/2024;21:00;Barcelona;Leganés;0;1;-1
+12;18/12/2024;21:30;Villarreal;Rayo Vallecano;1;1;0
+13;18/12/2024;21:30;Espanyol;Valencia;1;1;0
+18;20/12/2024;21:00;Girona;Valladolid;3;0;3
+18;21/12/2024;14:00;Getafe;Mallorca;0;1;-1
+18;21/12/2024;16:15;Celta Vigo;Real Sociedad;2;0;2
+18;21/12/2024;18:30;Osasuna;Athletic Club;1;2;-1
+18;21/12/2024;21:00;Barcelona;Atlético Madrid;1;2;-1
+18;22/12/2024;14:00;Valencia;Alavés;2;2;0
+18;22/12/2024;16:15;Real Madrid;Sevilla;4;2;2
+18;22/12/2024;17:30;Las Palmas;Espanyol;1;0;1
+18;22/12/2024;18:30;Leganés;Villarreal;2;5;-3
+18;22/12/2024;21:00;Betis;Rayo Vallecano;1;1;0
+12;03/01/2025;21:00;Valencia;Real Madrid;1;2;-1
+19;10/01/2025;21:00;Rayo Vallecano;Celta Vigo;2;1;1
+19;11/01/2025;14:00;Alavés;Girona;0;1;-1
+19;11/01/2025;16:15;Valladolid;Betis;1;0;1
+19;11/01/2025;18:30;Espanyol;Leganés;1;1;0
+19;11/01/2025;21:00;Sevilla;Valencia;1;1;0
+19;12/01/2025;13:00;Las Palmas;Getafe;1;2;-1
+19;12/01/2025;16:15;Atlético Madrid;Osasuna;1;0;1
+19;13/01/2025;21:00;Real Sociedad;Villarreal;1;0;1
+20;17/01/2025;21:00;Espanyol;Valladolid;2;1;1
+20;18/01/2025;14:00;Girona;Sevilla;1;2;-1
+20;18/01/2025;16:15;Leganés;Atlético Madrid;1;0;1
+20;18/01/2025;18:30;Betis;Alavés;1;3;-2
+20;18/01/2025;21:00;Getafe;Barcelona;1;1;0
+20;19/01/2025;14:00;Celta Vigo;Athletic Club;1;2;-1
+20;19/01/2025;16:15;Real Madrid;Las Palmas;4;1;3
+20;19/01/2025;18:30;Osasuna;Rayo Vallecano;1;1;0
+20;19/01/2025;21:00;Valencia;Real Sociedad;1;0;1
+20;20/01/2025;21:00;Villarreal;Mallorca;4;0;4
+21;24/01/2025;20:00;Las Palmas;Osasuna;1;1;0
+21;25/01/2025;14:00;Mallorca;Betis;0;1;-1
+21;25/01/2025;16:15;Atlético Madrid;Villarreal;1;1;0
+21;25/01/2025;18:30;Sevilla;Espanyol;1;1;0
+21;25/01/2025;21:00;Valladolid;Real Madrid;0;3;-3
+21;26/01/2025;14:00;Rayo Vallecano;Girona;2;1;1
+21;26/01/2025;16:15;Real Sociedad;Getafe;0;3;-3
+21;26/01/2025;18:30;Athletic Club;Leganés;0;0;0
+21;26/01/2025;21:00;Barcelona;Valencia;7;1;6
+21;27/01/2025;21:00;Alavés;Celta Vigo;1;1;0
+22;31/01/2025;21:00;Leganés;Rayo Vallecano;0;1;-1
+22;01/02/2025;14:00;Getafe;Sevilla;0;0;0
+22;01/02/2025;16:15;Villarreal;Valladolid;5;1;4
+22;01/02/2025;18:30;Atlético Madrid;Mallorca;2;0;2
+22;01/02/2025;21:00;Espanyol;Real Madrid;1;0;1
+22;02/02/2025;14:00;Barcelona;Alavés;1;0;1
+22;02/02/2025;16:15;Valencia;Celta Vigo;2;1;1
+22;02/02/2025;18:30;Osasuna;Real Sociedad;2;1;1
+22;02/02/2025;21:00;Betis;Athletic Club;2;2;0
+22;03/02/2025;21:00;Girona;Las Palmas;2;1;1
+23;07/02/2025;21:00;Rayo Vallecano;Valladolid;1;0;1
+23;08/02/2025;14:00;Celta Vigo;Betis;3;2;1
+23;08/02/2025;16:15;Athletic Club;Girona;3;0;3
+23;08/02/2025;17:30;Las Palmas;Villarreal;1;2;-1
+23;08/02/2025;21:00;Real Madrid;Atlético Madrid;1;1;0
+23;09/02/2025;14:00;Alavés;Getafe;0;1;-1
+23;09/02/2025;16:15;Valencia;Leganés;2;0;2
+23;09/02/2025;18:30;Real Sociedad;Espanyol;2;1;1
+23;09/02/2025;21:00;Sevilla;Barcelona;1;4;-3
+23;10/02/2025;21:00;Mallorca;Osasuna;1;1;0
+24;14/02/2025;21:00;Girona;Getafe;1;2;-1
+24;15/02/2025;14:00;Leganés;Alavés;3;3;0
+24;15/02/2025;16:15;Osasuna;Real Madrid;1;1;0
+24;15/02/2025;18:30;Atlético Madrid;Celta Vigo;1;1;0
+24;15/02/2025;21:00;Villarreal;Valencia;1;1;0
+24;16/02/2025;14:00;Espanyol;Athletic Club;1;1;0
+24;16/02/2025;16:15;Valladolid;Sevilla;0;4;-4
+24;16/02/2025;18:30;Mallorca;Las Palmas;3;1;2
+24;16/02/2025;21:00;Betis;Real Sociedad;3;0;3
+24;17/02/2025;21:00;Barcelona;Rayo Vallecano;1;0;1
+25;21/02/2025;21:00;Celta Vigo;Osasuna;1;0;1
+25;22/02/2025;14:00;Alavés;Espanyol;0;1;-1
+25;22/02/2025;16:15;Rayo Vallecano;Villarreal;0;1;-1
+25;22/02/2025;18:30;Valencia;Atlético Madrid;0;3;-3
+25;22/02/2025;20:00;Las Palmas;Barcelona;0;2;-2
+25;23/02/2025;14:00;Athletic Club;Valladolid;7;1;6
+25;23/02/2025;16:15;Real Madrid;Girona;2;0;2
+25;23/02/2025;18:30;Getafe;Betis;1;2;-1
+25;23/02/2025;21:00;Real Sociedad;Leganés;3;0;3
+25;24/02/2025;21:00;Sevilla;Mallorca;1;1;0
+26;28/02/2025;21:00;Valladolid;Las Palmas;1;1;0
+26;01/03/2025;14:00;Girona;Celta Vigo;2;2;0
+26;01/03/2025;16:15;Rayo Vallecano;Sevilla;1;1;0
+26;01/03/2025;18:30;Betis;Real Madrid;2;1;1
+26;01/03/2025;21:00;Atlético Madrid;Athletic Club;1;0;1
+26;02/03/2025;14:00;Leganés;Getafe;1;0;1
+26;02/03/2025;16:15;Barcelona;Real Sociedad;4;0;4
+26;02/03/2025;18:30;Mallorca;Alavés;1;1;0
+26;02/03/2025;21:00;Osasuna;Valencia;3;3;0
+27;08/03/2025;14:00;Celta Vigo;Leganés;2;1;1
+27;08/03/2025;16:15;Alavés;Villarreal;1;0;1
+27;08/03/2025;18:30;Valencia;Valladolid;2;1;1
+27;09/03/2025;14:00;Getafe;Atlético Madrid;2;1;1
+27;09/03/2025;16:15;Real Madrid;Rayo Vallecano;2;1;1
+27;09/03/2025;18:30;Betis;Las Palmas;1;0;1
+27;09/03/2025;18:30;Athletic Club;Mallorca;1;1;0
+27;09/03/2025;21:00;Real Sociedad;Sevilla;0;1;-1
+27;10/03/2025;21:00;Espanyol;Girona;1;1;0
+28;14/03/2025;20:00;Las Palmas;Alavés;2;2;0
+28;15/03/2025;14:00;Valladolid;Celta Vigo;0;1;-1
+28;15/03/2025;16:15;Mallorca;Espanyol;2;1;1
+28;15/03/2025;18:30;Villarreal;Real Madrid;1;2;-1
+28;15/03/2025;21:00;Girona;Valencia;1;1;0
+28;16/03/2025;14:00;Leganés;Betis;2;3;-1
+28;16/03/2025;16:15;Sevilla;Athletic Club;0;1;-1
+28;16/03/2025;18:30;Osasuna;Getafe;1;2;-1
+28;16/03/2025;18:30;Rayo Vallecano;Real Sociedad;2;2;0
+28;16/03/2025;21:00;Atlético Madrid;Barcelona;2;4;-2
+27;27/03/2025;21:00;Barcelona;Osasuna;3;0;3
+29;29/03/2025;14:00;Real Sociedad;Valladolid;2;1;1
+29;29/03/2025;16:15;Espanyol;Atlético Madrid;1;1;0
+29;29/03/2025;18:30;Alavés;Rayo Vallecano;0;2;-2
+29;29/03/2025;21:00;Real Madrid;Leganés;3;2;1
+29;30/03/2025;14:00;Getafe;Villarreal;1;2;-1
+29;30/03/2025;16:15;Barcelona;Girona;4;1;3
+29;30/03/2025;18:30;Valencia;Mallorca;1;0;1
+29;30/03/2025;18:30;Athletic Club;Osasuna;0;0;0
+29;30/03/2025;21:00;Betis;Sevilla;2;1;1
+29;31/03/2025;21:00;Celta Vigo;Las Palmas;1;1;0
+30;04/04/2025;21:00;Rayo Vallecano;Espanyol;0;4;-4
+30;05/04/2025;14:00;Girona;Alavés;0;1;-1
+30;05/04/2025;16:15;Real Madrid;Valencia;1;2;-1
+30;05/04/2025;18:30;Mallorca;Celta Vigo;1;2;-1
+30;05/04/2025;21:00;Barcelona;Betis;1;1;0
+30;06/04/2025;13:00;Las Palmas;Real Sociedad;1;3;-2
+30;06/04/2025;16:15;Sevilla;Atlético Madrid;1;2;-1
+30;06/04/2025;18:30;Valladolid;Getafe;0;4;-4
+30;06/04/2025;21:00;Villarreal;Athletic Club;0;0;0
+30;07/04/2025;21:00;Leganés;Osasuna;1;1;0
+31;11/04/2025;21:00;Valencia;Sevilla;1;0;1
+31;12/04/2025;14:00;Real Sociedad;Mallorca;0;2;-2
+31;12/04/2025;16:15;Getafe;Las Palmas;1;3;-2
+31;12/04/2025;18:30;Celta Vigo;Espanyol;0;2;-2
+31;12/04/2025;21:00;Leganés;Barcelona;0;1;-1
+31;13/04/2025;14:00;Osasuna;Girona;2;1;1
+31;13/04/2025;16:15;Alavés;Real Madrid;0;1;-1
+31;13/04/2025;18:30;Betis;Villarreal;1;2;-1
+31;13/04/2025;21:00;Athletic Club;Rayo Vallecano;3;1;2
+31;14/04/2025;21:00;Atlético Madrid;Valladolid;4;2;2
+32;18/04/2025;21:00;Espanyol;Getafe;1;0;1
+32;19/04/2025;14:00;Rayo Vallecano;Valencia;1;1;0
+32;19/04/2025;16:15;Barcelona;Celta Vigo;4;3;1
+32;19/04/2025;18:30;Mallorca;Leganés;0;0;0
+32;19/04/2025;20:00;Las Palmas;Atlético Madrid;1;0;1
+32;20/04/2025;14:00;Valladolid;Osasuna;2;3;-1
+32;20/04/2025;16:15;Villarreal;Real Sociedad;2;2;0
+32;20/04/2025;18:30;Sevilla;Alavés;1;1;0
+32;20/04/2025;21:00;Real Madrid;Athletic Club;1;0;1
+32;21/04/2025;21:00;Girona;Betis;1;3;-2
+33;22/04/2025;19:00;Valencia;Espanyol;1;1;0
+33;22/04/2025;21:30;Barcelona;Mallorca;1;0;1
+33;23/04/2025;19:00;Celta Vigo;Villarreal;3;0;3
+33;23/04/2025;19:00;Athletic Club;Las Palmas;1;0;1
+33;23/04/2025;21:30;Alavés;Real Sociedad;1;0;1
+33;23/04/2025;21:30;Getafe;Real Madrid;0;1;-1
+33;24/04/2025;19:00;Osasuna;Sevilla;1;0;1
+33;24/04/2025;19:00;Leganés;Girona;1;1;0
+33;24/04/2025;21:30;Atlético Madrid;Rayo Vallecano;3;0;3
+33;24/04/2025;21:30;Betis;Valladolid;5;1;4
+26;27/04/2025;16:15;Villarreal;Espanyol;1;0;1
+34;02/05/2025;21:00;Rayo Vallecano;Getafe;1;0;1
+34;03/05/2025;14:00;Alavés;Atlético Madrid;0;0;0
+34;03/05/2025;16:15;Villarreal;Osasuna;4;2;2
+34;03/05/2025;17:30;Las Palmas;Valencia;2;3;-1
+34;03/05/2025;21:00;Valladolid;Barcelona;1;2;-1
+34;04/05/2025;14:00;Real Madrid;Celta Vigo;3;2;1
+34;04/05/2025;16:15;Sevilla;Leganés;2;2;0
+34;04/05/2025;18:30;Espanyol;Betis;1;2;-1
+34;04/05/2025;21:00;Real Sociedad;Athletic Club;0;0;0
+34;05/05/2025;21:00;Girona;Mallorca;1;0;1
+35;09/05/2025;20:00;Las Palmas;Rayo Vallecano;0;1;-1
+35;10/05/2025;14:00;Valencia;Getafe;3;0;3
+35;10/05/2025;16:15;Celta Vigo;Sevilla;3;2;1
+35;10/05/2025;18:30;Mallorca;Valladolid;2;1;1
+35;10/05/2025;18:30;Girona;Villarreal;0;1;-1
+35;10/05/2025;21:00;Atlético Madrid;Real Sociedad;4;0;4
+35;11/05/2025;14:00;Leganés;Espanyol;3;2;1
+35;11/05/2025;16:15;Barcelona;Real Madrid;4;3;1
+35;11/05/2025;18:30;Athletic Club;Alavés;1;0;1
+35;11/05/2025;21:00;Betis;Osasuna;1;1;0
+36;13/05/2025;19:00;Valladolid;Girona;0;1;-1
+36;13/05/2025;20:00;Real Sociedad;Celta Vigo;0;1;-1
+36;13/05/2025;21:30;Sevilla;Las Palmas;1;0;1
+36;14/05/2025;19:00;Alavés;Valencia;1;0;1
+36;14/05/2025;19:00;Villarreal;Leganés;3;0;3
+36;14/05/2025;21:30;Real Madrid;Mallorca;2;1;1
+36;15/05/2025;19:00;Rayo Vallecano;Betis;2;2;0
+36;15/05/2025;19:00;Osasuna;Atlético Madrid;2;0;2
+36;15/05/2025;21:30;Getafe;Athletic Club;0;2;-2
+36;15/05/2025;21:30;Espanyol;Barcelona;0;2;-2
+37;18/05/2025;18:00;Las Palmas;Leganés;0;1;-1
+37;18/05/2025;19:00;Mallorca;Getafe;1;2;-1
+37;18/05/2025;19:00;Valencia;Athletic Club;0;1;-1
+37;18/05/2025;19:00;Atlético Madrid;Betis;4;1;3
+37;18/05/2025;19:00;Osasuna;Espanyol;2;0;2
+37;18/05/2025;19:00;Barcelona;Villarreal;2;3;-1
+37;18/05/2025;19:00;Valladolid;Alavés;0;1;-1
+37;18/05/2025;19:00;Real Sociedad;Girona;3;2;1
+37;18/05/2025;19:00;Sevilla;Real Madrid;0;2;-2
+37;18/05/2025;19:00;Celta Vigo;Rayo Vallecano;1;2;-1
+38;23/05/2025;21:00;Betis;Valencia;1;1;0
+38;24/05/2025;16:15;Real Madrid;Real Sociedad;2;0;2
+38;24/05/2025;18:30;Leganés;Valladolid;3;0;3
+38;24/05/2025;18:30;Espanyol;Las Palmas;2;0;2
+38;24/05/2025;21:00;Rayo Vallecano;Mallorca;0;0;0
+38;24/05/2025;21:00;Alavés;Osasuna;1;1;0
+38;24/05/2025;21:00;Getafe;Celta Vigo;1;2;-1
+38;25/05/2025;14:00;Girona;Atlético Madrid;0;4;-4
+38;25/05/2025;16:15;Villarreal;Sevilla;4;2;2
+38;25/05/2025;21:00;Athletic Club;Barcelona;0;3;-3

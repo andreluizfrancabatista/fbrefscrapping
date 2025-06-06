@@ -1,0 +1,222 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;14/09/2024;15:00;Royal Eagles FC;Cape Town City;1;1;0
+1;14/09/2024;17:30;Marumo Gallants FC;Kaizer Chiefs;1;2;-1
+1;14/09/2024;20:00;Polokwane City;AmaZulu;2;1;1
+1;15/09/2024;15:00;Richards Bay FC;TS Galaxy;1;0;1
+1;17/09/2024;19:30;Sundowns;SuperSport;2;0;2
+1;18/09/2024;19:30;Sekhukhune United FC;Magesi FC;1;0;1
+1;18/09/2024;19:30;Orlando Pirates;Chippa Utd;2;1;1
+1;18/09/2024;19:30;Stellenbosch FC;Golden Arrows;0;2;-2
+2;21/09/2024;15:00;Golden Arrows;Marumo Gallants FC;2;0;2
+2;21/09/2024;15:00;Magesi FC;Polokwane City;0;2;-2
+2;21/09/2024;17:30;SuperSport;Royal Eagles FC;0;0;0
+2;21/09/2024;20:00;Chippa Utd;Richards Bay FC;1;0;1
+3;24/09/2024;15:00;Orlando Pirates;Polokwane City;3;0;3
+3;24/09/2024;17:30;Sundowns;Marumo Gallants FC;4;1;3
+3;24/09/2024;19:30;Royal Eagles FC;Richards Bay FC;0;0;0
+3;25/09/2024;19:30;AmaZulu;Kaizer Chiefs;1;3;-2
+3;25/09/2024;19:30;Stellenbosch FC;Cape Town City;3;0;3
+3;25/09/2024;19:30;SuperSport;TS Galaxy;1;0;1
+3;25/09/2024;19:30;Sekhukhune United FC;Chippa Utd;1;1;0
+3;25/09/2024;19:30;Golden Arrows;Magesi FC;0;1;-1
+4;28/09/2024;15:00;Kaizer Chiefs;Sundowns;1;2;-1
+4;28/09/2024;15:00;Sekhukhune United FC;Golden Arrows;2;0;2
+4;28/09/2024;17:30;Magesi FC;Royal Eagles FC;0;0;0
+4;28/09/2024;20:00;Cape Town City;SuperSport;1;0;1
+4;28/09/2024;20:00;Marumo Gallants FC;AmaZulu;1;0;1
+4;29/09/2024;15:00;Chippa Utd;TS Galaxy;2;1;1
+4;29/09/2024;15:00;Richards Bay FC;Orlando Pirates;0;1;-1
+4;29/09/2024;17:30;Polokwane City;Stellenbosch FC;1;1;0
+12;22/10/2024;19:30;Orlando Pirates;SuperSport;2;0;2
+12;23/10/2024;19:30;Chippa Utd;Stellenbosch FC;0;2;-2
+12;23/10/2024;19:30;Sundowns;Royal Eagles FC;2;1;1
+5;25/10/2024;19:30;Orlando Pirates;AmaZulu;2;1;1
+5;26/10/2024;15:00;Marumo Gallants FC;TS Galaxy;1;1;0
+5;26/10/2024;15:00;Royal Eagles FC;Sekhukhune United FC;2;0;2
+5;26/10/2024;15:00;Richards Bay FC;Stellenbosch FC;0;0;0
+5;26/10/2024;17:30;SuperSport;Kaizer Chiefs;1;0;1
+5;26/10/2024;20:00;Chippa Utd;Golden Arrows;2;0;2
+5;27/10/2024;15:00;Cape Town City;Magesi FC;0;0;0
+5;27/10/2024;15:00;Polokwane City;Sundowns;1;0;1
+6;29/10/2024;19:30;TS Galaxy;Orlando Pirates;0;2;-2
+6;29/10/2024;19:30;AmaZulu;Chippa Utd;2;0;2
+6;29/10/2024;19:30;Sekhukhune United FC;Richards Bay FC;2;0;2
+6;30/10/2024;19:30;Sundowns;Cape Town City;3;0;3
+6;30/10/2024;19:30;Golden Arrows;SuperSport;0;0;0
+6;30/10/2024;19:30;Magesi FC;Kaizer Chiefs;2;2;0
+6;30/10/2024;19:30;Royal Eagles FC;Polokwane City;0;1;-1
+6;31/10/2024;19:30;Stellenbosch FC;Marumo Gallants FC;1;0;1
+17;05/11/2024;19:30;Orlando Pirates;Richards Bay FC;1;0;1
+13;06/11/2024;19:30;Stellenbosch FC;TS Galaxy;1;1;0
+17;06/11/2024;19:30;Sundowns;Polokwane City;2;0;2
+8;26/11/2024;19:30;Chippa Utd;SuperSport;0;0;0
+8;26/11/2024;19:30;Royal Eagles FC;Golden Arrows;2;3;-1
+8;26/11/2024;19:30;Sekhukhune United FC;TS Galaxy;1;3;-2
+8;27/11/2024;19:30;Cape Town City;Polokwane City;1;0;1
+8;27/11/2024;19:30;Kaizer Chiefs;Richards Bay FC;2;1;1
+7;29/11/2024;19:30;SuperSport;Marumo Gallants FC;0;1;-1
+7;30/11/2024;15:30;Richards Bay FC;AmaZulu;1;3;-2
+7;30/11/2024;17:45;Kaizer Chiefs;Royal Eagles FC;2;2;0
+7;30/11/2024;20:00;Chippa Utd;Magesi FC;2;0;2
+7;30/11/2024;20:00;Sundowns;Sekhukhune United FC;3;0;3
+7;01/12/2024;15:30;Golden Arrows;Cape Town City;3;2;1
+7;01/12/2024;15:30;Orlando Pirates;Stellenbosch FC;0;1;-1
+7;01/12/2024;17:45;Polokwane City;TS Galaxy;1;1;0
+9;06/12/2024;19:30;Richards Bay FC;SuperSport;0;1;-1
+9;07/12/2024;15:30;TS Galaxy;AmaZulu;1;0;1
+9;07/12/2024;17:45;Marumo Gallants FC;Magesi FC;3;1;2
+9;07/12/2024;20:00;Sekhukhune United FC;Cape Town City;1;0;1
+9;08/12/2024;15:30;Polokwane City;Kaizer Chiefs;2;0;2
+10;13/12/2024;19:30;AmaZulu;Royal Eagles FC;2;1;1
+10;14/12/2024;15:30;Golden Arrows;Richards Bay FC;0;1;-1
+10;14/12/2024;17:45;Chippa Utd;Cape Town City;0;1;-1
+10;14/12/2024;20:00;SuperSport;Magesi FC;1;0;1
+10;15/12/2024;15:30;Polokwane City;Marumo Gallants FC;1;0;1
+10;16/12/2024;15:30;TS Galaxy;Kaizer Chiefs;1;1;0
+10;18/12/2024;19:30;Stellenbosch FC;Sundowns;0;1;-1
+8;24/12/2024;15:00;AmaZulu;Sundowns;0;1;-1
+20;24/12/2024;15:00;Orlando Pirates;Marumo Gallants FC;8;1;7
+11;28/12/2024;15:30;Richards Bay FC;Sundowns;0;2;-2
+11;28/12/2024;15:30;Golden Arrows;Polokwane City;0;0;0
+11;28/12/2024;17:45;Sekhukhune United FC;Marumo Gallants FC;1;0;1
+11;28/12/2024;20:00;SuperSport;Stellenbosch FC;1;1;0
+11;29/12/2024;15:30;Royal Eagles FC;TS Galaxy;1;3;-2
+11;29/12/2024;15:30;Magesi FC;Orlando Pirates;0;1;-1
+11;29/12/2024;15:30;Cape Town City;AmaZulu;0;1;-1
+11;29/12/2024;17:45;Kaizer Chiefs;Chippa Utd;1;0;1
+12;04/01/2025;15:30;TS Galaxy;Magesi FC;0;0;0
+12;04/01/2025;15:30;AmaZulu;Golden Arrows;0;0;0
+12;04/01/2025;20:00;Marumo Gallants FC;Richards Bay FC;0;0;0
+12;05/01/2025;15:30;Polokwane City;Sekhukhune United FC;1;1;0
+12;05/01/2025;17:45;Cape Town City;Kaizer Chiefs;1;0;1
+2;08/01/2025;19:30;Cape Town City;Orlando Pirates;1;0;1
+2;08/01/2025;19:30;Kaizer Chiefs;Stellenbosch FC;2;1;1
+2;08/01/2025;19:30;AmaZulu;Sekhukhune United FC;0;2;-2
+13;11/01/2025;15:30;Marumo Gallants FC;Cape Town City;1;0;1
+13;11/01/2025;15:30;Magesi FC;AmaZulu;0;1;-1
+13;12/01/2025;15:30;Kaizer Chiefs;Golden Arrows;0;1;-1
+13;12/01/2025;17:45;SuperSport;Sekhukhune United FC;0;3;-3
+14;17/01/2025;19:30;Cape Town City;Richards Bay FC;2;1;1
+14;17/01/2025;19:30;SuperSport;Polokwane City;0;1;-1
+14;18/01/2025;15:30;Golden Arrows;TS Galaxy;1;1;0
+14;18/01/2025;20:00;Chippa Utd;Marumo Gallants FC;2;2;0
+14;19/01/2025;15:30;Kaizer Chiefs;Sekhukhune United FC;1;0;1
+14;22/01/2025;19:30;Magesi FC;Sundowns;1;2;-1
+14;23/01/2025;19:30;AmaZulu;Stellenbosch FC;0;5;-5
+15;31/01/2025;19:30;Richards Bay FC;Magesi FC;0;0;0
+15;01/02/2025;15:30;Orlando Pirates;Kaizer Chiefs;1;0;1
+15;01/02/2025;15:30;Stellenbosch FC;Sekhukhune United FC;1;1;0
+15;01/02/2025;17:30;Polokwane City;Chippa Utd;1;0;1
+15;01/02/2025;20:00;AmaZulu;SuperSport;2;1;1
+15;02/02/2025;15:30;TS Galaxy;Cape Town City;2;0;2
+15;02/02/2025;17:30;Sundowns;Golden Arrows;4;0;4
+16;04/02/2025;19:30;Kaizer Chiefs;AmaZulu;2;2;0
+16;04/02/2025;19:30;Richards Bay FC;Marumo Gallants FC;2;1;1
+16;05/02/2025;12:00;Magesi FC;Chippa Utd;1;4;-3
+16;05/02/2025;19:30;TS Galaxy;Polokwane City;0;0;0
+16;05/02/2025;19:30;SuperSport;Sundowns;0;3;-3
+16;05/02/2025;19:30;Sekhukhune United FC;Orlando Pirates;1;2;-1
+16;05/02/2025;19:30;Cape Town City;Golden Arrows;1;1;0
+17;07/02/2025;19:30;AmaZulu;Marumo Gallants FC;2;0;2
+17;07/02/2025;19:30;Stellenbosch FC;Kaizer Chiefs;0;1;-1
+13;08/02/2025;15:30;Sundowns;Orlando Pirates;4;1;3
+17;08/02/2025;15:30;Magesi FC;Cape Town City;2;0;2
+13;08/02/2025;20:00;Richards Bay FC;Polokwane City;2;0;2
+17;08/02/2025;20:00;TS Galaxy;Chippa Utd;1;0;1
+17;09/02/2025;15:30;Sekhukhune United FC;SuperSport;1;1;0
+2;11/02/2025;19:30;TS Galaxy;Sundowns;1;0;1
+18;18/02/2025;19:30;Polokwane City;Magesi FC;0;1;-1
+18;18/02/2025;19:30;Kaizer Chiefs;SuperSport;1;4;-3
+18;18/02/2025;19:30;TS Galaxy;Stellenbosch FC;2;3;-1
+18;18/02/2025;19:30;Cape Town City;Chippa Utd;0;2;-2
+18;19/02/2025;19:30;Sekhukhune United FC;AmaZulu;4;2;2
+18;19/02/2025;19:30;Marumo Gallants FC;Sundowns;1;3;-2
+19;21/02/2025;19:30;Stellenbosch FC;Richards Bay FC;1;1;0
+19;22/02/2025;15:30;Chippa Utd;Sekhukhune United FC;0;1;-1
+19;22/02/2025;15:30;Orlando Pirates;Cape Town City;2;1;1
+19;22/02/2025;17:45;Sundowns;TS Galaxy;4;1;3
+19;22/02/2025;20:00;AmaZulu;Magesi FC;3;0;3
+19;23/02/2025;15:30;Marumo Gallants FC;Polokwane City;0;0;0
+8;25/02/2025;19:30;Stellenbosch FC;Magesi FC;2;1;1
+24;26/02/2025;19:30;Sekhukhune United FC;Sundowns;2;4;-2
+20;28/02/2025;19:30;Stellenbosch FC;Polokwane City;1;1;0
+20;01/03/2025;15:30;Sundowns;Kaizer Chiefs;1;0;1
+20;01/03/2025;15:30;Magesi FC;SuperSport;1;0;1
+20;01/03/2025;17:30;TS Galaxy;Golden Arrows;2;0;2
+8;01/03/2025;17:45;Marumo Gallants FC;Orlando Pirates;2;0;2
+20;01/03/2025;20:00;Richards Bay FC;Chippa Utd;0;0;0
+20;02/03/2025;15:30;AmaZulu;Cape Town City;2;0;2
+21;04/03/2025;19:30;Kaizer Chiefs;Magesi FC;1;0;1
+21;04/03/2025;19:30;Marumo Gallants FC;Stellenbosch FC;0;1;-1
+21;05/03/2025;19:30;Golden Arrows;Sundowns;1;1;0
+21;05/03/2025;19:30;Richards Bay FC;Sekhukhune United FC;2;1;1
+21;05/03/2025;19:30;Cape Town City;TS Galaxy;1;1;0
+21;05/03/2025;19:30;SuperSport;AmaZulu;0;0;0
+21;05/03/2025;19:30;Chippa Utd;Orlando Pirates;0;1;-1
+22;11/03/2025;19:30;Sundowns;AmaZulu;2;0;2
+22;11/03/2025;19:30;Stellenbosch FC;Orlando Pirates;0;0;0
+22;11/03/2025;19:30;TS Galaxy;SuperSport;3;1;2
+22;11/03/2025;19:30;Magesi FC;Richards Bay FC;1;0;1
+22;12/03/2025;19:30;Polokwane City;Golden Arrows;0;1;-1
+22;12/03/2025;19:30;Kaizer Chiefs;Cape Town City;0;0;0
+22;12/03/2025;19:30;Marumo Gallants FC;Sekhukhune United FC;1;2;-1
+23;14/03/2025;19:30;AmaZulu;TS Galaxy;1;2;-1
+23;15/03/2025;15:30;Magesi FC;Golden Arrows;1;0;1
+23;15/03/2025;15:30;Cape Town City;Marumo Gallants FC;0;1;-1
+23;15/03/2025;20:00;Chippa Utd;Polokwane City;2;0;2
+23;16/03/2025;15:30;Orlando Pirates;Sundowns;2;1;1
+23;16/03/2025;15:30;Richards Bay FC;Kaizer Chiefs;2;0;2
+23;16/03/2025;17:45;Sekhukhune United FC;Stellenbosch FC;1;2;-1
+24;29/03/2025;15:30;Chippa Utd;AmaZulu;2;1;1
+24;29/03/2025;15:30;Golden Arrows;Kaizer Chiefs;2;1;1
+24;29/03/2025;17:45;Magesi FC;Stellenbosch FC;1;0;1
+24;30/03/2025;14:30;Polokwane City;Richards Bay FC;3;1;2
+24;30/03/2025;17:30;TS Galaxy;Marumo Gallants FC;1;2;-1
+24;30/03/2025;17:45;SuperSport;Cape Town City;0;0;0
+25;04/04/2025;19:30;AmaZulu;Richards Bay FC;1;0;1
+25;05/04/2025;15:00;Marumo Gallants FC;SuperSport;1;1;0
+25;05/04/2025;15:00;Golden Arrows;Chippa Utd;0;0;0
+25;05/04/2025;15:00;Polokwane City;Orlando Pirates;0;1;-1
+25;05/04/2025;19:00;Kaizer Chiefs;TS Galaxy;1;1;0
+25;06/04/2025;17:30;Cape Town City;Sekhukhune United FC;1;2;-1
+26;15/04/2025;19:30;Stellenbosch FC;AmaZulu;1;0;1
+26;18/04/2025;19:30;Richards Bay FC;Cape Town City;1;0;1
+26;19/04/2025;15:00;Marumo Gallants FC;Golden Arrows;1;1;0
+26;19/04/2025;17:30;Chippa Utd;Kaizer Chiefs;0;0;0
+26;19/04/2025;17:30;Sekhukhune United FC;Polokwane City;2;0;2
+26;20/04/2025;15:00;Magesi FC;TS Galaxy;2;1;1
+27;26/04/2025;15:00;Polokwane City;SuperSport;1;1;0
+27;26/04/2025;15:00;Golden Arrows;AmaZulu;0;1;-1
+27;26/04/2025;15:00;Kaizer Chiefs;Marumo Gallants FC;1;2;-1
+27;27/04/2025;15:30;TS Galaxy;Sekhukhune United FC;1;1;0
+10;30/04/2025;19:30;Orlando Pirates;Sekhukhune United FC;0;1;-1
+27;30/04/2025;19:30;Stellenbosch FC;Chippa Utd;1;0;1
+27;30/04/2025;19:30;Sundowns;Richards Bay FC;3;0;3
+28;02/05/2025;19:30;AmaZulu;Polokwane City;1;1;0
+28;03/05/2025;15:00;Golden Arrows;Stellenbosch FC;0;3;-3
+28;03/05/2025;15:00;Kaizer Chiefs;Orlando Pirates;1;2;-1
+28;03/05/2025;17:30;Magesi FC;Sekhukhune United FC;1;1;0
+28;03/05/2025;17:45;SuperSport;Chippa Utd;2;0;2
+28;03/05/2025;20:00;Cape Town City;Sundowns;0;2;-2
+28;04/05/2025;15:00;TS Galaxy;Richards Bay FC;0;1;-1
+18;06/05/2025;19:30;Golden Arrows;Orlando Pirates;1;2;-1
+9;07/05/2025;19:30;Sundowns;Chippa Utd;3;0;3
+25;11/05/2025;15:00;Sundowns;Stellenbosch FC;3;0;3
+9;13/05/2025;19:30;Orlando Pirates;Golden Arrows;3;0;3
+30;14/05/2025;19:30;Chippa Utd;Sundowns;0;3;-3
+29;17/05/2025;15:00;Marumo Gallants FC;Chippa Utd;1;1;0
+29;17/05/2025;15:00;Polokwane City;Cape Town City;0;2;-2
+29;17/05/2025;15:00;Sekhukhune United FC;Kaizer Chiefs;1;1;0
+29;17/05/2025;15:00;Stellenbosch FC;SuperSport;2;1;1
+29;17/05/2025;15:00;Orlando Pirates;TS Galaxy;1;1;0
+29;17/05/2025;15:00;Richards Bay FC;Golden Arrows;0;0;0
+29;18/05/2025;17:30;Sundowns;Magesi FC;2;0;2
+26;20/05/2025;19:30;SuperSport;Orlando Pirates;0;1;-1
+30;24/05/2025;15:00;Cape Town City;Stellenbosch FC;0;0;0
+30;24/05/2025;15:00;AmaZulu;Orlando Pirates;1;1;0
+30;24/05/2025;15:00;Golden Arrows;Sekhukhune United FC;3;2;1
+30;24/05/2025;15:00;Kaizer Chiefs;Polokwane City;0;0;0
+30;24/05/2025;15:00;Magesi FC;Marumo Gallants FC;1;1;0
+30;24/05/2025;15:00;SuperSport;Richards Bay FC;0;2;-2
+27;28/05/2025;19:30;Orlando Pirates;Magesi FC;1;1;0
+19;29/05/2025;12:00;SuperSport;Golden Arrows;1;1;0

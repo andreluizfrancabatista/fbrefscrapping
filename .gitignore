@@ -85,8 +85,8 @@ Thumbs.db
 *~
 
 # Data files (CSV outputs from scraping)
-data/
-*.csv
+# data/
+# *.csv
 
 # Screenshots and debug files
 screenshots/

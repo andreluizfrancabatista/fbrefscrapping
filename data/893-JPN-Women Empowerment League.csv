@@ -1,0 +1,133 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;14/09/2024;18:00;Kobe Leonessa;Sanfrecce Hiroshima;1;1;0
+1;15/09/2024;17:00;Vegalta Sendai;JEF United Chiba;1;3;-2
+1;15/09/2024;18:00;Cerezo;Nojima Stella;3;1;2
+1;15/09/2024;18:00;Beleza;Urawa Reds;0;2;-2
+1;15/09/2024;18:00;Nagano Parceiro;Albirex Niigata;1;2;-1
+1;15/09/2024;18:00;Ōmiya Ardija;AS Elfen Saitama;1;2;-1
+2;21/09/2024;12:00;Albirex Niigata;Cerezo;0;0;0
+2;21/09/2024;14:00;AS Elfen Saitama;Beleza;0;4;-4
+2;21/09/2024;14:30;JEF United Chiba;Nagano Parceiro;1;2;-1
+2;21/09/2024;18:00;Sanfrecce Hiroshima;Vegalta Sendai;4;1;3
+2;22/09/2024;14:00;Nojima Stella;Ōmiya Ardija;0;0;0
+2;22/09/2024;16:00;Urawa Reds;Kobe Leonessa;0;1;-1
+3;29/09/2024;12:00;JEF United Chiba;Nojima Stella;2;1;1
+3;29/09/2024;13:00;Vegalta Sendai;Kobe Leonessa;0;1;-1
+3;29/09/2024;14:00;Nagano Parceiro;Urawa Reds;0;1;-1
+3;29/09/2024;14:00;Ōmiya Ardija;Cerezo;0;4;-4
+3;29/09/2024;16:00;Sanfrecce Hiroshima;AS Elfen Saitama;1;0;1
+3;29/09/2024;17:00;Beleza;Albirex Niigata;3;1;2
+4;05/10/2024;13:00;Vegalta Sendai;Ōmiya Ardija;0;0;0
+4;05/10/2024;13:30;Cerezo;Beleza;1;4;-3
+4;05/10/2024;14:00;Nojima Stella;Sanfrecce Hiroshima;0;1;-1
+4;06/10/2024;13:00;Albirex Niigata;JEF United Chiba;0;1;-1
+4;06/10/2024;16:00;Kobe Leonessa;Nagano Parceiro;3;2;1
+5;13/10/2024;17:00;Beleza;Vegalta Sendai;4;0;4
+5;14/10/2024;13:00;AS Elfen Saitama;JEF United Chiba;2;0;2
+5;14/10/2024;14:00;Ōmiya Ardija;Nagano Parceiro;0;0;0
+5;14/10/2024;14:00;Sanfrecce Hiroshima;Albirex Niigata;1;0;1
+5;14/10/2024;16:00;Kobe Leonessa;Nojima Stella;4;0;4
+6;19/10/2024;13:00;Albirex Niigata;AS Elfen Saitama;2;1;1
+6;19/10/2024;14:00;Nojima Stella;Beleza;1;2;-1
+6;20/10/2024;13:00;JEF United Chiba;Urawa Reds;0;2;-2
+6;20/10/2024;14:00;Ōmiya Ardija;Kobe Leonessa;0;1;-1
+6;20/10/2024;14:00;Nagano Parceiro;Vegalta Sendai;2;1;1
+6;20/10/2024;14:00;Cerezo;Sanfrecce Hiroshima;1;4;-3
+7;02/11/2024;13:00;Vegalta Sendai;AS Elfen Saitama;2;1;1
+7;02/11/2024;14:00;Cerezo;JEF United Chiba;1;1;0
+7;02/11/2024;15:00;Beleza;Nagano Parceiro;5;1;4
+7;02/11/2024;16:00;Kobe Leonessa;Albirex Niigata;3;0;3
+7;03/11/2024;14:00;Nojima Stella;Urawa Reds;1;1;0
+8;09/11/2024;13:00;Vegalta Sendai;Cerezo;1;3;-2
+8;09/11/2024;14:00;Ōmiya Ardija;Albirex Niigata;0;1;-1
+8;09/11/2024;14:00;Urawa Reds;Sanfrecce Hiroshima;2;1;1
+8;10/11/2024;11:30;JEF United Chiba;Beleza;1;0;1
+8;10/11/2024;12:00;AS Elfen Saitama;Kobe Leonessa;2;2;0
+8;10/11/2024;14:00;Nagano Parceiro;Nojima Stella;2;3;-1
+9;16/11/2024;14:00;Sanfrecce Hiroshima;JEF United Chiba;0;0;0
+9;16/11/2024;14:00;Cerezo;Nagano Parceiro;1;3;-2
+9;16/11/2024;16:00;Kobe Leonessa;Beleza;0;0;0
+9;17/11/2024;13:00;Albirex Niigata;Vegalta Sendai;3;0;3
+9;17/11/2024;14:00;Nojima Stella;AS Elfen Saitama;2;2;0
+9;17/11/2024;14:00;Urawa Reds;Ōmiya Ardija;4;0;4
+4;20/11/2024;18:00;Urawa Reds;AS Elfen Saitama;1;1;0
+10;23/11/2024;12:00;AS Elfen Saitama;Cerezo;2;1;1
+10;23/11/2024;13:00;Vegalta Sendai;Nojima Stella;2;1;1
+10;23/11/2024;14:00;Nagano Parceiro;Sanfrecce Hiroshima;1;0;1
+10;24/11/2024;13:00;Albirex Niigata;Urawa Reds;0;0;0
+10;24/11/2024;13:00;JEF United Chiba;Kobe Leonessa;1;2;-1
+10;24/11/2024;15:00;Beleza;Ōmiya Ardija;4;1;3
+11;30/11/2024;14:00;Ōmiya Ardija;JEF United Chiba;0;1;-1
+11;30/11/2024;14:00;Urawa Reds;Vegalta Sendai;1;0;1
+11;30/11/2024;14:00;Nojima Stella;Albirex Niigata;0;2;-2
+11;30/11/2024;14:00;Sanfrecce Hiroshima;Beleza;0;2;-2
+11;01/12/2024;12:00;AS Elfen Saitama;Nagano Parceiro;1;1;0
+11;01/12/2024;14:00;Cerezo;Kobe Leonessa;2;1;1
+5;11/12/2024;18:00;Urawa Reds;Cerezo;2;1;1
+7;18/12/2024;18:30;Sanfrecce Hiroshima;Ōmiya Ardija;4;0;4
+12;01/03/2025;12:00;Kobe Leonessa;AS Elfen Saitama;1;0;1
+12;01/03/2025;14:00;Ōmiya Ardija;Nojima Stella;2;1;1
+12;02/03/2025;12:00;Cerezo;Albirex Niigata;1;2;-1
+12;02/03/2025;14:00;Vegalta Sendai;Sanfrecce Hiroshima;0;0;0
+12;02/03/2025;14:00;Nagano Parceiro;Beleza;1;4;-3
+12;03/03/2025;18:00;Urawa Reds;JEF United Chiba;2;0;2
+13;08/03/2025;13:00;JEF United Chiba;Cerezo;0;0;0
+13;08/03/2025;14:00;Sanfrecce Hiroshima;Urawa Reds;0;0;0
+13;08/03/2025;14:00;AS Elfen Saitama;Vegalta Sendai;4;0;4
+13;08/03/2025;18:00;Beleza;Nojima Stella;2;2;0
+13;09/03/2025;13:00;Albirex Niigata;Kobe Leonessa;0;1;-1
+13;09/03/2025;14:00;Nagano Parceiro;Ōmiya Ardija;1;1;0
+14;15/03/2025;14:00;Ōmiya Ardija;Urawa Reds;0;3;-3
+14;15/03/2025;14:00;Sanfrecce Hiroshima;Cerezo;1;1;0
+14;16/03/2025;14:00;Nojima Stella;Nagano Parceiro;3;0;3
+14;16/03/2025;14:00;Kobe Leonessa;JEF United Chiba;2;1;1
+14;16/03/2025;14:00;AS Elfen Saitama;Albirex Niigata;0;4;-4
+14;16/03/2025;14:00;Vegalta Sendai;Beleza;0;2;-2
+15;22/03/2025;13:00;Albirex Niigata;Ōmiya Ardija;1;1;0
+15;22/03/2025;13:00;JEF United Chiba;Sanfrecce Hiroshima;0;2;-2
+15;22/03/2025;14:00;Nagano Parceiro;Kobe Leonessa;0;3;-3
+15;22/03/2025;14:00;Nojima Stella;Vegalta Sendai;2;0;2
+15;22/03/2025;14:00;Cerezo;AS Elfen Saitama;0;0;0
+16;29/03/2025;13:00;JEF United Chiba;AS Elfen Saitama;0;1;-1
+16;29/03/2025;14:00;Sanfrecce Hiroshima;Nagano Parceiro;1;0;1
+16;29/03/2025;15:00;Beleza;Cerezo;2;1;1
+16;30/03/2025;13:00;Albirex Niigata;Nojima Stella;1;0;1
+16;30/03/2025;13:30;Ōmiya Ardija;Vegalta Sendai;3;1;2
+16;30/03/2025;14:00;Kobe Leonessa;Urawa Reds;0;1;-1
+17;12/04/2025;14:00;Kobe Leonessa;Ōmiya Ardija;3;1;2
+17;12/04/2025;14:00;AS Elfen Saitama;Nojima Stella;4;1;3
+17;12/04/2025;14:00;Nagano Parceiro;JEF United Chiba;2;0;2
+17;12/04/2025;17:00;Beleza;Sanfrecce Hiroshima;1;0;1
+17;13/04/2025;14:00;Vegalta Sendai;Albirex Niigata;3;6;-3
+17;13/04/2025;14:00;Cerezo;Urawa Reds;0;1;-1
+15;16/04/2025;14:00;Urawa Reds;Beleza;1;1;0
+18;19/04/2025;13:00;JEF United Chiba;Vegalta Sendai;0;0;0
+18;19/04/2025;14:00;Nojima Stella;Cerezo;0;2;-2
+18;19/04/2025;14:00;Sanfrecce Hiroshima;Kobe Leonessa;1;0;1
+18;19/04/2025;14:00;AS Elfen Saitama;Ōmiya Ardija;0;1;-1
+18;20/04/2025;12:00;Urawa Reds;Nagano Parceiro;2;1;1
+18;20/04/2025;13:00;Albirex Niigata;Beleza;0;2;-2
+19;26/04/2025;14:00;Nojima Stella;JEF United Chiba;4;1;3
+19;26/04/2025;14:00;Vegalta Sendai;Urawa Reds;0;1;-1
+19;26/04/2025;14:00;Ōmiya Ardija;Sanfrecce Hiroshima;0;1;-1
+19;27/04/2025;13:00;Albirex Niigata;Nagano Parceiro;2;1;1
+19;27/04/2025;14:00;Kobe Leonessa;Cerezo;3;1;2
+19;27/04/2025;15:00;Beleza;AS Elfen Saitama;3;0;3
+20;04/05/2025;14:00;Cerezo;Vegalta Sendai;3;1;2
+20;04/05/2025;14:00;Sanfrecce Hiroshima;Nojima Stella;1;1;0
+20;04/05/2025;14:00;Urawa Reds;Albirex Niigata;0;1;-1
+20;04/05/2025;15:00;Beleza;Kobe Leonessa;0;2;-2
+20;04/05/2025;16:00;Nagano Parceiro;AS Elfen Saitama;0;3;-3
+20;06/05/2025;12:00;JEF United Chiba;Ōmiya Ardija;2;2;0
+21;10/05/2025;14:00;Nagano Parceiro;Cerezo;2;1;1
+21;11/05/2025;11:30;JEF United Chiba;Albirex Niigata;0;1;-1
+21;11/05/2025;14:00;Ōmiya Ardija;Beleza;1;2;-1
+21;11/05/2025;14:00;Kobe Leonessa;Vegalta Sendai;6;0;6
+21;11/05/2025;14:00;Urawa Reds;Nojima Stella;2;2;0
+21;11/05/2025;14:00;AS Elfen Saitama;Sanfrecce Hiroshima;1;0;1
+22;17/05/2025;14:00;Cerezo;Ōmiya Ardija;1;2;-1
+22;17/05/2025;14:00;Albirex Niigata;Sanfrecce Hiroshima;2;2;0
+22;17/05/2025;14:00;Vegalta Sendai;Nagano Parceiro;2;2;0
+22;17/05/2025;14:00;Beleza;JEF United Chiba;3;0;3
+22;17/05/2025;14:00;Nojima Stella;Kobe Leonessa;1;3;-2
+22;17/05/2025;14:00;AS Elfen Saitama;Urawa Reds;3;3;0

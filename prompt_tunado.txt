@@ -1,0 +1,138 @@
+# Prompt: Aplicação Web para Soccer Analytics
+
+## 📋 **Contexto**
+Tenho um sistema completo de análise de futebol que funciona da seguinte forma:
+
+1. **Scraper Node.js** coleta dados de jogos das principais ligas mundiais
+2. **Script Python `chance.py`** calcula força dos times e prevê resultados
+3. Arquivos CSV são gerados no formato: `{pais}-{liga}.csv` e `{pais}-{liga}_next.csv`
+4. **Readme.md** que precisa ser ajustado para se adequar a esse novo projeto (Aplicação Web para Soccer Analytics)
+
+## 🎯 **Objetivo**
+Criar uma **aplicação web simples** que permita aos usuários:
+- Selecionar uma liga disponível através de interface amigável
+- Visualizar os resultados da análise do `chance.py` de forma elegante
+- Navegar facilmente entre diferentes ligas
+
+## 🛠️ **Especificações Técnicas**
+
+### **Frontend Requirements:**
+- **HTML/CSS/JavaScript**
+- **Design responsivo** e moderno
+- **Interface intuitiva** para seleção de ligas
+- **Tabelas bem formatadas** para exibir dados
+- **Visual clean** e profissional
+
+### **Backend Requirements:**
+- **Node.js/Express** simples
+- **Endpoint API** que executa o script Python e retorna resultados
+- **Servir arquivos estáticos** (HTML/CSS/JS)
+- **Tratamento de erros** adequado
+
+### **Funcionalidades Principais:**
+
+#### **1. Página Inicial**
+- Dropdown/select elegante para escolher país e liga
+- Botão de análise estilizado
+- Loading indicator durante processamento
+
+#### **2. Página de Resultados**
+- **Ranking de Times** (tabela ordenada por força)
+- **Próximos Jogos** com previsões
+- **Jogos Destacados** (diferença significativa ≥ 1.5) com possibilidade do usuário ajustar esse limiar da diferença. 1.5 é o padrão mas o usuário pode ajustar para outro valor de limiar.
+- Botão "voltar" para nova análise
+- Mensagem de aviso caso o campeonato já tenha terminado (`{pais}-{liga}_next.csv` está vazio)
+
+#### **3. Visual/UX**
+- **Color scheme** relacionado a futebol (verde campo, branco, etc.)
+- **Ícones** de futebol/soccer
+- **Animações sutis** para melhor UX
+- **Mobile-friendly**
+
+## 📊 **Estrutura de Dados**
+
+### **Input (do sistema atual):**
+```
+data/
+├── BRA-Campeonato_Brasileiro_Série_A.csv
+├── BRA-Campeonato_Brasileiro_Série_A_next.csv
+├── ENG-Premier_League.csv
+├── ENG-Premier_League_next.csv
+└── ...
+```
+
+### **Output esperado do chance.py:**
+```
+FORÇA DOS TIMES (Ranking):
+1. Manchester City = 1.85
+2. Arsenal = 1.23
+...
+
+PRÓXIMOS JOGOS COM PREVISÕES:
+WEEK | DATE | HOME | AWAY | PREDICTED_DIFF
+...
+
+JOGOS DESTACADOS (|diff| >= 1.5):
+...
+```
+
+## 🔧 **Implementação Sugerida**
+
+### **Estrutura de Arquivos:**
+```
+/
+├── app.js (servidor Express)
+├── package.json
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/ (ícones, imagens)
+├── data/ (arquivos CSV)
+└── chance.py
+```
+
+### **API Endpoints:**
+- `GET /` - Página inicial
+- `GET /api/leagues` - Lista ligas disponíveis
+- `POST /api/analyze` - Executa análise para liga específica
+- `GET /results/:liga` - Página de resultados
+
+## 💡 **Requisitos Específicos**
+
+1. **Descoberta Automática**: Ler pasta `data/` para listar ligas disponíveis
+2. **Execução Python**: Usar `child_process` para executar `chance.py`
+3. **Parsing Inteligente**: Capturar e estruturar output do Python
+4. **Cache Simples**: Evitar re-execução desnecessária
+5. **Error Handling**: Tratar erros de forma elegante
+
+## 🎨 **Design Guidelines**
+
+- **Paleta**: Verde campo (#4CAF50), branco (#FFFFFF), cinza (#F5F5F5)
+- **Typography**: Sans-serif, limpa e legível
+- **Cards/Containers**: Bordas suaves, sombras sutis
+- **Tabelas**: Zebra striping, hover effects
+- **Buttons**: Call-to-action claros
+
+## 📱 **User Flow 1**
+1. Usuário acessa página inicial
+2. Seleciona país e liga no dropdown
+3. Clica em "Analisar Liga"
+4. Loading indicator aparece
+5. Resultados são exibidos em página dedicada com possibilidade do usuário ajustar esse limiar da diferença. 1.5 é o padrão mas o usuário pode ajustar para outro valor de limiar.
+6. Usuário pode voltar e analisar outra liga
+
+## 📱 **User Flow 2**
+1. Usuário acessa página de 'próximos jogos'
+2. Clica em "Listar jogos da semana"
+3. Loading indicator aparece
+4. Todos os jogos destacados (diff >= 1.5) futuros de todas as ligas são exibidos em página dedicada com possibilidade do usuário ajustar esse limiar da diferença. 1.5 é o padrão mas o usuário pode ajustar para outro valor de limiar.
+6. Usuário pode voltar e analisar outra liga
+
+## ⚡ **Performance**
+- Responses rápidas (< 3 segundos)
+- Loading states claros
+- Otimização para mobile
+- Mínimo de dependências
+
+**Crie uma aplicação web completa e funcional seguindo essas especificações, priorizando simplicidade, elegância e usabilidade.**

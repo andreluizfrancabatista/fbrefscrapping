@@ -1,0 +1,118 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+3;10/08/2024;19:30;St. Pölten;First Vienna;6;0;6
+1;14/08/2024;17:30;Neulengbach;St. Pölten;0;3;-3
+1;14/08/2024;20:30;First Vienna;Landhaus;0;3;-3
+1;15/08/2024;14:00;Lustenau/Dornbirn;LASK;1;0;1
+1;15/08/2024;14:00;Vorderland;Bergheim;3;1;2
+1;15/08/2024;18:00;Kleinmünchen/B-W Linz;Sturm Graz;0;3;-3
+2;18/08/2024;11:00;First Vienna;Neulengbach;0;0;0
+2;18/08/2024;12:45;LASK;Kleinmünchen/B-W Linz;1;3;-2
+2;18/08/2024;13:00;Bergheim;Lustenau/Dornbirn;0;0;0
+2;18/08/2024;14:00;Sturm Graz;Landhaus;1;2;-1
+2;25/08/2024;11:00;Vorderland;St. Pölten;0;3;-3
+3;31/08/2024;14:00;Lustenau/Dornbirn;Vorderland;0;2;-2
+3;01/09/2024;12:15;Landhaus;LASK;6;0;6
+4;21/09/2024;14:00;LASK;Neulengbach;1;0;1
+4;21/09/2024;14:00;Bergheim;Landhaus;0;0;0
+4;22/09/2024;11:00;Lustenau/Dornbirn;Kleinmünchen/B-W Linz;3;0;3
+4;22/09/2024;11:00;Vorderland;First Vienna;1;3;-2
+4;22/09/2024;18:00;Sturm Graz;St. Pölten;0;3;-3
+5;28/09/2024;16:00;Neulengbach;Bergheim;1;1;0
+5;29/09/2024;11:00;Landhaus;Lustenau/Dornbirn;0;0;0
+5;29/09/2024;12:45;First Vienna;Sturm Graz;1;1;0
+5;29/09/2024;15:00;Kleinmünchen/B-W Linz;Vorderland;1;2;-1
+5;29/09/2024;16:00;LASK;St. Pölten;1;6;-5
+6;05/10/2024;14:00;LASK;First Vienna;3;2;1
+6;05/10/2024;14:00;Bergheim;St. Pölten;0;0;0
+6;06/10/2024;10:30;Lustenau/Dornbirn;Neulengbach;1;1;0
+6;06/10/2024;12:30;Kleinmünchen/B-W Linz;Landhaus;1;4;-3
+6;06/10/2024;12:45;Sturm Graz;Vorderland;1;0;1
+7;12/10/2024;13:00;First Vienna;Bergheim;2;0;2
+7;12/10/2024;15:00;Sturm Graz;LASK;3;2;1
+7;12/10/2024;16:00;Neulengbach;Kleinmünchen/B-W Linz;2;0;2
+7;13/10/2024;10:30;St. Pölten;Lustenau/Dornbirn;3;0;3
+7;13/10/2024;12:45;Landhaus;Vorderland;5;0;5
+3;16/10/2024;18:30;Kleinmünchen/B-W Linz;Bergheim;1;2;-1
+3;16/10/2024;20:00;Neulengbach;Sturm Graz;1;0;1
+8;19/10/2024;15:00;Bergheim;Sturm Graz;0;0;0
+8;20/10/2024;11:00;Kleinmünchen/B-W Linz;St. Pölten;0;4;-4
+8;20/10/2024;11:00;Vorderland;LASK;3;0;3
+8;20/10/2024;11:00;Lustenau/Dornbirn;First Vienna;1;2;-1
+8;20/10/2024;13:30;Landhaus;Neulengbach;2;0;2
+9;02/11/2024;13:00;LASK;Bergheim;0;2;-2
+9;02/11/2024;13:30;First Vienna;Kleinmünchen/B-W Linz;2;0;2
+9;03/11/2024;11:00;Neulengbach;Vorderland;2;0;2
+9;03/11/2024;12:45;Sturm Graz;Lustenau/Dornbirn;3;0;3
+9;03/11/2024;15:00;St. Pölten;Landhaus;1;1;0
+10;09/11/2024;13:00;Bergheim;Vorderland;0;0;0
+10;09/11/2024;14:00;LASK;Lustenau/Dornbirn;2;3;-1
+10;09/11/2024;17:30;St. Pölten;Neulengbach;4;0;4
+10;10/11/2024;12:45;Landhaus;First Vienna;0;1;-1
+10;10/11/2024;14:00;Sturm Graz;Kleinmünchen/B-W Linz;0;1;-1
+11;16/11/2024;14:00;Kleinmünchen/B-W Linz;LASK;2;1;1
+11;16/11/2024;14:00;Landhaus;Sturm Graz;0;0;0
+11;16/11/2024;15:00;Neulengbach;First Vienna;1;2;-1
+11;17/11/2024;12:45;Lustenau/Dornbirn;Bergheim;0;0;0
+11;17/11/2024;13:15;St. Pölten;Vorderland;2;1;1
+12;23/11/2024;13:00;LASK;Landhaus;0;2;-2
+12;23/11/2024;14:00;Sturm Graz;Neulengbach;1;0;1
+12;24/11/2024;14:00;Bergheim;Kleinmünchen/B-W Linz;1;0;1
+12;24/11/2024;14:00;First Vienna;St. Pölten;2;1;1
+13;06/12/2024;19:30;Landhaus;Bergheim;2;0;2
+13;07/12/2024;13:00;Neulengbach;LASK;4;2;2
+13;08/12/2024;11:00;First Vienna;Vorderland;5;0;5
+13;08/12/2024;16:00;St. Pölten;Sturm Graz;1;1;0
+13;08/12/2024;17:00;Kleinmünchen/B-W Linz;Lustenau/Dornbirn;3;2;1
+12;09/02/2025;12:00;Vorderland;Lustenau/Dornbirn;2;0;2
+14;15/02/2025;17:00;St. Pölten;LASK;4;0;4
+14;16/02/2025;12:45;Lustenau/Dornbirn;Landhaus;0;5;-5
+14;16/02/2025;14:00;Sturm Graz;First Vienna;2;1;1
+15;01/03/2025;13:00;Landhaus;Kleinmünchen/B-W Linz;2;0;2
+15;01/03/2025;14:00;First Vienna;LASK;2;1;1
+15;02/03/2025;11:00;Neulengbach;Lustenau/Dornbirn;3;0;3
+15;02/03/2025;12:45;Vorderland;Sturm Graz;1;3;-2
+15;02/03/2025;16:00;St. Pölten;Bergheim;4;2;2
+16;08/03/2025;12:30;Kleinmünchen/B-W Linz;Neulengbach;0;0;0
+16;08/03/2025;12:44;Vorderland;Landhaus;0;3;-3
+16;08/03/2025;13:00;Bergheim;First Vienna;1;1;0
+16;09/03/2025;10:30;Lustenau/Dornbirn;St. Pölten;0;3;-3
+16;09/03/2025;13:00;LASK;Sturm Graz;2;1;1
+14;12/03/2025;18:00;Vorderland;Kleinmünchen/B-W Linz;5;0;5
+14;12/03/2025;18:00;Bergheim;Neulengbach;0;0;0
+17;15/03/2025;15:00;LASK;Vorderland;1;0;1
+17;15/03/2025;15:30;Sturm Graz;Bergheim;2;0;2
+17;16/03/2025;12:30;First Vienna;Lustenau/Dornbirn;5;0;5
+17;16/03/2025;16:00;St. Pölten;Kleinmünchen/B-W Linz;3;0;3
+17;19/03/2025;18:00;Neulengbach;Landhaus;0;5;-5
+18;22/03/2025;12:00;Bergheim;LASK;2;0;2
+18;22/03/2025;12:30;Kleinmünchen/B-W Linz;First Vienna;2;0;2
+18;23/03/2025;11:00;Vorderland;Neulengbach;3;0;3
+18;23/03/2025;12:45;Lustenau/Dornbirn;Sturm Graz;1;2;-1
+18;23/03/2025;14:00;Landhaus;St. Pölten;0;2;-2
+1;12/04/2025;15:00;Bergheim;Lustenau/Dornbirn;3;0;3
+1;12/04/2025;18:00;Neulengbach;Kleinmünchen/B-W Linz;0;1;-1
+1;13/04/2025;12:45;Sturm Graz;First Vienna;1;0;1
+1;13/04/2025;12:45;Vorderland;LASK;1;0;1
+1;13/04/2025;13:00;Landhaus;St. Pölten;1;1;0
+2;19/04/2025;12:00;Lustenau/Dornbirn;Neulengbach;1;1;0
+2;19/04/2025;14:00;St. Pölten;Sturm Graz;3;0;3
+2;19/04/2025;17:00;First Vienna;Landhaus;0;5;-5
+2;19/04/2025;19:45;Vorderland;Bergheim;1;0;1
+2;20/04/2025;12:45;LASK;Kleinmünchen/B-W Linz;0;0;0
+3;26/04/2025;12:00;Bergheim;LASK;1;2;-1
+3;26/04/2025;15:30;Kleinmünchen/B-W Linz;Lustenau/Dornbirn;2;0;2
+3;27/04/2025;12:45;First Vienna;St. Pölten;0;4;-4
+3;27/04/2025;13:15;Neulengbach;Vorderland;1;2;-1
+3;27/04/2025;19:45;Sturm Graz;Landhaus;2;2;0
+4;03/05/2025;11:00;Vorderland;Kleinmünchen/B-W Linz;1;0;1
+4;03/05/2025;14:00;Landhaus;Sturm Graz;0;1;-1
+4;03/05/2025;15:00;LASK;Lustenau/Dornbirn;10;1;9
+4;04/05/2025;12:45;Bergheim;Neulengbach;1;0;1
+4;04/05/2025;14:00;St. Pölten;First Vienna;3;1;2
+5;10/05/2025;12:30;Kleinmünchen/B-W Linz;Bergheim;1;1;0
+5;10/05/2025;15:00;Sturm Graz;St. Pölten;1;1;0
+5;10/05/2025;18:45;Neulengbach;LASK;2;2;0
+5;11/05/2025;12:45;Lustenau/Dornbirn;Vorderland;0;6;-6
+5;11/05/2025;19:45;Landhaus;First Vienna;1;1;0
+6;17/05/2025;14:00;First Vienna;Sturm Graz;1;0;1
+6;18/05/2025;17:00;St. Pölten;Landhaus;2;0;2

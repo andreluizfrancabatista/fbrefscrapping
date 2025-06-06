@@ -1,0 +1,99 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;29/03/2025;15:00;Djurgården;Malmö;0;1;-1
+1;29/03/2025;17:30;Häcken;Brommapojkarna;2;0;2
+1;30/03/2025;14:00;Elfsborg;Mjällby;2;2;0
+1;30/03/2025;14:00;Hammarby;Göteborg;4;0;4
+1;30/03/2025;16:30;Halmstad;Degerfors;0;5;-5
+1;30/03/2025;16:30;Norrköping;Öster;4;3;1
+1;31/03/2025;19:00;Värnamo;Sirius;1;2;-1
+1;31/03/2025;19:10;GAIS;AIK Stockholm;0;1;-1
+2;05/04/2025;15:00;Sirius;Djurgården;0;1;-1
+2;05/04/2025;15:00;Göteborg;Halmstad;1;0;1
+2;05/04/2025;17:30;Öster;Häcken;2;0;2
+2;06/04/2025;14:00;AIK Stockholm;Norrköping;4;3;1
+2;06/04/2025;14:00;Brommapojkarna;Hammarby;0;2;-2
+2;06/04/2025;16:30;Degerfors;Värnamo;1;0;1
+2;06/04/2025;16:30;Mjällby;GAIS;1;1;0
+2;07/04/2025;19:10;Malmö;Elfsborg;2;1;1
+3;12/04/2025;15:00;Häcken;Mjällby;0;3;-3
+3;12/04/2025;17:30;Elfsborg;Norrköping;2;0;2
+3;13/04/2025;14:00;Värnamo;Göteborg;0;1;-1
+3;13/04/2025;14:00;Hammarby;Djurgården;2;0;2
+3;13/04/2025;16:30;GAIS;Degerfors;2;0;2
+3;13/04/2025;16:30;Sirius;Brommapojkarna;0;3;-3
+3;14/04/2025;19:00;Halmstad;Öster;1;0;1
+3;14/04/2025;19:10;AIK Stockholm;Malmö;0;0;0
+4;18/04/2025;15:00;Mjällby;Hammarby;3;1;2
+4;18/04/2025;15:00;Malmö;Sirius;1;1;0
+4;19/04/2025;15:00;Degerfors;Elfsborg;0;1;-1
+4;19/04/2025;15:00;Norrköping;Halmstad;3;0;3
+4;20/04/2025;14:00;Brommapojkarna;Värnamo;3;2;1
+4;20/04/2025;14:00;Öster;AIK Stockholm;0;1;-1
+4;20/04/2025;16:30;Göteborg;Häcken;2;3;-1
+4;21/04/2025;14:00;Djurgården;GAIS;0;0;0
+5;23/04/2025;19:00;Halmstad;Mjällby;1;3;-2
+5;23/04/2025;19:00;Häcken;Degerfors;3;4;-1
+5;23/04/2025;19:00;Elfsborg;Sirius;4;3;1
+5;23/04/2025;19:00;Hammarby;Malmö;2;0;2
+5;24/04/2025;19:00;Värnamo;AIK Stockholm;1;2;-1
+5;24/04/2025;19:00;Norrköping;Göteborg;2;3;-1
+5;24/04/2025;19:00;Djurgården;Öster;1;0;1
+5;24/04/2025;19:00;GAIS;Brommapojkarna;1;1;0
+6;27/04/2025;14:00;Mjällby;Degerfors;4;1;3
+6;27/04/2025;14:00;Häcken;Hammarby;1;1;0
+6;27/04/2025;16:00;AIK Stockholm;Elfsborg;2;0;2
+6;27/04/2025;16:30;Sirius;Halmstad;1;1;0
+6;27/04/2025;16:30;Värnamo;Norrköping;1;3;-2
+6;28/04/2025;19:10;Göteborg;GAIS;1;1;0
+6;29/04/2025;19:00;Malmö;Öster;2;0;2
+7;03/05/2025;15:00;Degerfors;Sirius;1;1;0
+7;03/05/2025;17:30;Halmstad;Värnamo;4;2;2
+7;04/05/2025;14:00;Norrköping;Häcken;0;2;-2
+7;04/05/2025;14:00;Djurgården;AIK Stockholm;1;1;0
+7;04/05/2025;16:30;Mjällby;Göteborg;1;0;1
+7;04/05/2025;16:30;Öster;Hammarby;0;3;-3
+7;05/05/2025;19:00;Malmö;Brommapojkarna;1;2;-1
+7;05/05/2025;19:10;Elfsborg;GAIS;2;0;2
+8;10/05/2025;15:00;Brommapojkarna;Halmstad;0;1;-1
+8;10/05/2025;17:30;GAIS;Värnamo;1;1;0
+8;10/05/2025;17:30;Sirius;Häcken;2;0;2
+8;11/05/2025;14:00;Hammarby;Norrköping;1;1;0
+8;11/05/2025;14:00;AIK Stockholm;Mjällby;2;1;1
+8;11/05/2025;16:30;Öster;Elfsborg;0;1;-1
+8;11/05/2025;16:30;Degerfors;Malmö;1;4;-3
+8;12/05/2025;19:10;Göteborg;Djurgården;1;2;-1
+9;14/05/2025;19:00;Halmstad;GAIS;1;3;-2
+9;14/05/2025;19:00;Hammarby;Sirius;3;2;1
+9;14/05/2025;19:00;Häcken;AIK Stockholm;3;3;0
+9;15/05/2025;19:00;Elfsborg;Brommapojkarna;4;3;1
+9;15/05/2025;19:00;Norrköping;Degerfors;1;2;-1
+9;15/05/2025;19:00;Djurgården;Mjällby;1;3;-2
+9;15/05/2025;19:00;Värnamo;Malmö;2;2;0
+9;15/05/2025;19:00;Göteborg;Öster;0;1;-1
+10;18/05/2025;14:00;Häcken;Värnamo;2;0;2
+10;18/05/2025;14:00;AIK Stockholm;Hammarby;0;0;0
+10;18/05/2025;16:30;Malmö;Halmstad;3;0;3
+10;18/05/2025;16:30;Öster;GAIS;1;1;0
+10;19/05/2025;19:00;Degerfors;Göteborg;1;3;-2
+10;19/05/2025;19:00;Sirius;Norrköping;1;2;-1
+10;19/05/2025;19:00;Mjällby;Brommapojkarna;1;0;1
+10;19/05/2025;19:10;Elfsborg;Djurgården;4;0;4
+18;22/05/2025;19:00;Malmö;AIK Stockholm;0;0;0
+18;22/05/2025;19:00;Hammarby;Mjällby;1;2;-1
+11;24/05/2025;15:00;Värnamo;Öster;1;1;0
+11;24/05/2025;17:30;GAIS;Sirius;2;1;1
+11;25/05/2025;14:00;Göteborg;Malmö;1;0;1
+11;25/05/2025;14:00;Halmstad;Elfsborg;1;4;-3
+11;25/05/2025;16:30;Brommapojkarna;AIK Stockholm;0;1;-1
+11;25/05/2025;16:30;Djurgården;Häcken;1;1;0
+11;26/05/2025;19:00;Norrköping;Mjällby;1;1;0
+11;26/05/2025;19:10;Hammarby;Degerfors;1;0;1
+6;29/05/2025;18:00;Brommapojkarna;Djurgården;0;1;-1
+12;31/05/2025;15:00;Degerfors;Öster;1;2;-1
+12;31/05/2025;15:00;Elfsborg;Hammarby;0;2;-2
+12;31/05/2025;15:00;Norrköping;GAIS;0;3;-3
+12;01/06/2025;14:00;Malmö;Häcken;3;0;3
+12;01/06/2025;14:00;Halmstad;Djurgården;1;0;1
+12;01/06/2025;14:00;Brommapojkarna;Göteborg;1;3;-2
+12;01/06/2025;16:30;Mjällby;Värnamo;2;0;2
+12;01/06/2025;16:30;Sirius;AIK Stockholm;3;1;2

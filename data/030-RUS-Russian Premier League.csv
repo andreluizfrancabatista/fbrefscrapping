@@ -1,0 +1,241 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;20/07/2024;15:00;Loko Moscow;FK Akron Tolyatti;3;2;1
+1;20/07/2024;18:30;Samara;Zenit;0;4;-4
+1;20/07/2024;20:00;Dynamo Mosc;Fakel Voronezh;3;1;2
+1;20/07/2024;20:00;Rostov;CSKA Moscow;0;0;0
+1;21/07/2024;19:30;Orenburg;Spartak Moscow;2;0;2
+1;21/07/2024;20:00;FC Khimki;D'mo Makhachkala;1;1;0
+1;21/07/2024;20:00;Akhmat Grozny;Krasnodar;1;1;0
+1;22/07/2024;20:00;Nizhny Novgorod;Rubin Kazan;2;4;-2
+2;26/07/2024;19:00;Samara;Rostov;1;3;-2
+2;27/07/2024;15:00;Nizhny Novgorod;CSKA Moscow;0;3;-3
+2;27/07/2024;17:30;Dynamo Mosc;Loko Moscow;3;1;2
+2;27/07/2024;17:30;Rubin Kazan;Zenit;0;4;-4
+2;27/07/2024;20:00;Fakel Voronezh;FK Akron Tolyatti;0;2;-2
+2;28/07/2024;15:00;FC Khimki;Spartak Moscow;1;3;-2
+2;28/07/2024;19:30;Orenburg;Akhmat Grozny;0;0;0
+2;28/07/2024;20:00;Krasnodar;D'mo Makhachkala;0;0;0
+3;03/08/2024;16:00;FK Akron Tolyatti;Dynamo Mosc;0;2;-2
+3;03/08/2024;17:30;Zenit;Rostov;5;0;5
+3;03/08/2024;20:00;Rubin Kazan;FC Khimki;2;3;-1
+3;04/08/2024;15:30;CSKA Moscow;Orenburg;5;1;4
+3;04/08/2024;17:30;Fakel Voronezh;Krasnodar;0;0;0
+3;04/08/2024;20:30;D'mo Makhachkala;Nizhny Novgorod;0;1;-1
+3;04/08/2024;20:30;Akhmat Grozny;Loko Moscow;0;5;-5
+3;05/08/2024;20:00;Spartak Moscow;Samara;3;0;3
+4;09/08/2024;18:30;Nizhny Novgorod;FC Khimki;1;0;1
+4;09/08/2024;20:45;Rostov;Rubin Kazan;1;1;0
+4;10/08/2024;15:00;Loko Moscow;D'mo Makhachkala;2;0;2
+4;10/08/2024;17:30;Zenit;Dynamo Mosc;1;0;1
+4;10/08/2024;19:30;Orenburg;FK Akron Tolyatti;2;2;0
+4;10/08/2024;20:00;Krasnodar;CSKA Moscow;2;1;1
+4;11/08/2024;18:30;Samara;Fakel Voronezh;2;0;2
+4;11/08/2024;20:00;Spartak Moscow;Akhmat Grozny;0;0;0
+5;17/08/2024;17:00;Dynamo Mosc;Samara;1;0;1
+5;17/08/2024;19:30;Rostov;Orenburg;3;2;1
+5;18/08/2024;15:00;FC Khimki;Zenit;1;1;0
+5;18/08/2024;17:30;CSKA Moscow;Loko Moscow;0;1;-1
+5;18/08/2024;17:30;Spartak Moscow;Fakel Voronezh;3;0;3
+5;18/08/2024;20:00;Krasnodar;Nizhny Novgorod;2;1;1
+5;19/08/2024;18:30;FK Akron Tolyatti;Rubin Kazan;1;2;-1
+5;19/08/2024;20:00;D'mo Makhachkala;Akhmat Grozny;1;0;1
+6;23/08/2024;20:00;Rubin Kazan;D'mo Makhachkala;2;0;2
+6;24/08/2024;15:00;CSKA Moscow;FK Akron Tolyatti;4;0;4
+6;24/08/2024;17:30;Fakel Voronezh;Orenburg;1;0;1
+6;24/08/2024;17:30;Zenit;Spartak Moscow;0;0;0
+6;24/08/2024;20:00;Akhmat Grozny;FC Khimki;3;3;0
+6;25/08/2024;16:00;Samara;Nizhny Novgorod;3;1;2
+6;25/08/2024;17:30;Dynamo Mosc;Krasnodar;0;1;-1
+6;25/08/2024;20:00;Loko Moscow;Rostov;3;2;1
+7;31/08/2024;15:00;FC Khimki;CSKA Moscow;0;2;-2
+7;31/08/2024;17:30;Nizhny Novgorod;Zenit;0;3;-3
+7;31/08/2024;19:45;Spartak Moscow;Rubin Kazan;1;0;1
+7;31/08/2024;20:00;Akhmat Grozny;FK Akron Tolyatti;0;0;0
+7;01/09/2024;17:00;Orenburg;Dynamo Mosc;2;2;0
+7;01/09/2024;18:30;Samara;D'mo Makhachkala;0;1;-1
+7;01/09/2024;19:45;Loko Moscow;Krasnodar;0;3;-3
+7;01/09/2024;20:00;Rostov;Fakel Voronezh;4;1;3
+8;13/09/2024;20:15;Rubin Kazan;Samara;0;2;-2
+8;14/09/2024;14:00;Orenburg;Loko Moscow;2;4;-2
+8;14/09/2024;14:15;Fakel Voronezh;Nizhny Novgorod;0;0;0
+8;14/09/2024;16:30;CSKA Moscow;Zenit;0;1;-1
+8;14/09/2024;19:00;Krasnodar;Rostov;2;0;2
+8;15/09/2024;14:15;Dynamo Mosc;Akhmat Grozny;4;2;2
+8;15/09/2024;17:30;FK Akron Tolyatti;FC Khimki;3;0;3
+8;15/09/2024;19:00;D'mo Makhachkala;Spartak Moscow;1;1;0
+9;21/09/2024;15:00;FK Akron Tolyatti;Krasnodar;2;5;-3
+9;21/09/2024;16:30;Zenit;Fakel Voronezh;3;1;2
+9;21/09/2024;19:00;Rubin Kazan;CSKA Moscow;1;1;0
+9;22/09/2024;14:15;FC Khimki;Orenburg;0;0;0
+9;22/09/2024;16:30;Rostov;D'mo Makhachkala;0;0;0
+9;22/09/2024;16:30;Spartak Moscow;Dynamo Mosc;2;2;0
+9;22/09/2024;19:00;Nizhny Novgorod;Loko Moscow;1;3;-2
+9;23/09/2024;18:30;Akhmat Grozny;Samara;1;1;0
+10;27/09/2024;18:30;Orenburg;Nizhny Novgorod;1;2;-1
+10;27/09/2024;19:00;Fakel Voronezh;Rubin Kazan;0;0;0
+10;28/09/2024;14:00;CSKA Moscow;Akhmat Grozny;3;0;3
+10;28/09/2024;16:30;Loko Moscow;Spartak Moscow;3;1;2
+10;28/09/2024;19:30;Krasnodar;Zenit;2;0;2
+10;28/09/2024;20:00;Rostov;FK Akron Tolyatti;0;2;-2
+10;29/09/2024;17:30;Samara;FC Khimki;0;0;0
+10;29/09/2024;19:00;D'mo Makhachkala;Dynamo Mosc;0;1;-1
+11;05/10/2024;15:00;FK Akron Tolyatti;Nizhny Novgorod;2;2;0
+11;05/10/2024;16:30;Zenit;Orenburg;1;0;1
+11;05/10/2024;19:00;Spartak Moscow;Rostov;3;0;3
+11;05/10/2024;19:00;Rubin Kazan;Akhmat Grozny;2;0;2
+11;06/10/2024;14:00;Fakel Voronezh;D'mo Makhachkala;1;1;0
+11;06/10/2024;16:30;Loko Moscow;Samara;1;0;1
+11;06/10/2024;19:00;Dynamo Mosc;CSKA Moscow;1;2;-1
+11;06/10/2024;19:00;Krasnodar;FC Khimki;4;0;4
+12;18/10/2024;19:00;FK Akron Tolyatti;Zenit;0;5;-5
+12;18/10/2024;20:15;Akhmat Grozny;Fakel Voronezh;2;3;-1
+12;19/10/2024;14:00;Nizhny Novgorod;Rostov;1;1;0
+12;19/10/2024;16:30;Spartak Moscow;Krasnodar;0;3;-3
+12;19/10/2024;16:30;FC Khimki;Loko Moscow;2;0;2
+12;19/10/2024;19:00;D'mo Makhachkala;CSKA Moscow;0;1;-1
+12;20/10/2024;18:30;Orenburg;Samara;2;2;0
+12;20/10/2024;19:00;Rubin Kazan;Dynamo Mosc;0;4;-4
+13;26/10/2024;14:00;D'mo Makhachkala;FK Akron Tolyatti;1;1;0
+13;26/10/2024;16:30;CSKA Moscow;Fakel Voronezh;0;0;0
+13;26/10/2024;19:00;Rostov;Akhmat Grozny;2;3;-1
+13;27/10/2024;14:00;Orenburg;Rubin Kazan;1;2;-1
+13;27/10/2024;14:15;Nizhny Novgorod;Spartak Moscow;0;2;-2
+13;27/10/2024;16:30;FC Khimki;Dynamo Mosc;3;4;-1
+13;27/10/2024;19:30;Zenit;Loko Moscow;1;1;0
+13;28/10/2024;19:30;Samara;Krasnodar;1;2;-1
+14;01/11/2024;19:00;Dynamo Mosc;Rostov;1;1;0
+14;02/11/2024;18:00;Loko Moscow;Rubin Kazan;1;0;1
+14;02/11/2024;18:00;Zenit;D'mo Makhachkala;2;1;1
+14;02/11/2024;20:45;CSKA Moscow;Spartak Moscow;0;2;-2
+14;03/11/2024;14:00;FK Akron Tolyatti;Samara;2;0;2
+14;03/11/2024;15:15;Akhmat Grozny;Nizhny Novgorod;0;2;-2
+14;03/11/2024;17:30;Fakel Voronezh;FC Khimki;1;1;0
+14;03/11/2024;19:45;Krasnodar;Orenburg;4;0;4
+15;09/11/2024;14:00;Loko Moscow;Fakel Voronezh;2;1;1
+15;09/11/2024;16:30;D'mo Makhachkala;Orenburg;2;1;1
+15;09/11/2024;19:00;Rostov;FC Khimki;3;1;2
+15;09/11/2024;19:30;Dynamo Mosc;Nizhny Novgorod;3;1;2
+15;10/11/2024;14:00;Samara;CSKA Moscow;1;2;-1
+15;10/11/2024;15:15;Spartak Moscow;FK Akron Tolyatti;4;0;4
+15;10/11/2024;17:30;Akhmat Grozny;Zenit;1;2;-1
+15;10/11/2024;19:45;Rubin Kazan;Krasnodar;1;1;0
+16;22/11/2024;19:00;Rubin Kazan;FK Akron Tolyatti;3;0;3
+16;23/11/2024;14:00;Orenburg;Zenit;0;1;-1
+16;23/11/2024;14:15;CSKA Moscow;Rostov;1;2;-1
+16;23/11/2024;16:30;FC Khimki;Krasnodar;2;2;0
+16;23/11/2024;18:00;Spartak Moscow;Loko Moscow;5;2;3
+16;24/11/2024;15:00;Samara;Akhmat Grozny;2;1;1
+16;24/11/2024;16:30;Fakel Voronezh;Dynamo Mosc;1;1;0
+16;24/11/2024;19:00;Nizhny Novgorod;D'mo Makhachkala;0;0;0
+17;30/11/2024;15:00;FK Akron Tolyatti;Orenburg;1;0;1
+17;30/11/2024;16:30;CSKA Moscow;Rubin Kazan;2;2;0
+17;30/11/2024;19:00;Rostov;Nizhny Novgorod;4;0;4
+17;01/12/2024;14:00;Loko Moscow;FC Khimki;1;3;-2
+17;01/12/2024;16:30;Zenit;Samara;2;3;-1
+17;01/12/2024;19:00;D'mo Makhachkala;Fakel Voronezh;0;0;0
+17;01/12/2024;19:30;Krasnodar;Spartak Moscow;0;3;-3
+17;02/12/2024;19:00;Akhmat Grozny;Dynamo Mosc;1;1;0
+18;07/12/2024;14:00;Spartak Moscow;Nizhny Novgorod;3;0;3
+18;07/12/2024;16:30;Rostov;Samara;3;1;2
+18;07/12/2024;16:30;Zenit;FK Akron Tolyatti;1;2;-1
+18;07/12/2024;19:00;D'mo Makhachkala;Rubin Kazan;2;3;-1
+18;08/12/2024;14:00;Dynamo Mosc;FC Khimki;4;1;3
+18;08/12/2024;16:30;Fakel Voronezh;CSKA Moscow;0;1;-1
+18;08/12/2024;19:00;Akhmat Grozny;Orenburg;1;0;1
+18;08/12/2024;19:30;Krasnodar;Loko Moscow;0;0;0
+19;28/02/2025;19:00;D'mo Makhachkala;Loko Moscow;1;1;0
+19;01/03/2025;14:00;Nizhny Novgorod;FK Akron Tolyatti;2;1;1
+19;01/03/2025;16:30;Zenit;CSKA Moscow;0;0;0
+19;01/03/2025;19:00;Akhmat Grozny;Rubin Kazan;2;1;1
+19;01/03/2025;19:30;Krasnodar;Samara;1;1;0
+19;02/03/2025;14:00;FC Khimki;Fakel Voronezh;1;0;1
+19;02/03/2025;16:30;Spartak Moscow;Orenburg;2;0;2
+19;02/03/2025;19:30;Rostov;Dynamo Mosc;1;1;0
+20;07/03/2025;18:00;Nizhny Novgorod;Krasnodar;0;3;-3
+20;07/03/2025;20:15;Loko Moscow;Akhmat Grozny;1;1;0
+20;08/03/2025;14:00;Orenburg;Rostov;1;2;-1
+20;08/03/2025;14:30;Fakel Voronezh;Zenit;0;2;-2
+20;08/03/2025;17:00;CSKA Moscow;FC Khimki;1;0;1
+20;08/03/2025;19:30;Dynamo Mosc;D'mo Makhachkala;4;0;4
+20;09/03/2025;17:30;Samara;FK Akron Tolyatti;0;2;-2
+20;09/03/2025;19:30;Rubin Kazan;Spartak Moscow;2;1;1
+21;15/03/2025;14:00;Orenburg;Fakel Voronezh;1;0;1
+21;15/03/2025;14:30;FC Khimki;Akhmat Grozny;1;1;0
+21;15/03/2025;17:00;D'mo Makhachkala;Samara;4;0;4
+21;15/03/2025;19:30;Loko Moscow;Dynamo Mosc;2;1;1
+21;16/03/2025;14:00;FK Akron Tolyatti;CSKA Moscow;1;2;-1
+21;16/03/2025;15:15;Rubin Kazan;Nizhny Novgorod;1;0;1
+21;16/03/2025;17:00;Rostov;Krasnodar;0;1;-1
+21;16/03/2025;19:45;Spartak Moscow;Zenit;2;1;1
+22;28/03/2025;19:30;Samara;Loko Moscow;5;1;4
+22;29/03/2025;14:00;Dynamo Mosc;Orenburg;5;1;4
+22;29/03/2025;16:30;FC Khimki;Nizhny Novgorod;2;0;2
+22;29/03/2025;19:30;CSKA Moscow;D'mo Makhachkala;2;0;2
+22;30/03/2025;14:00;Krasnodar;Fakel Voronezh;5;0;5
+22;30/03/2025;16:30;Akhmat Grozny;Spartak Moscow;0;0;0
+22;30/03/2025;19:30;Zenit;Rubin Kazan;4;0;4
+22;31/03/2025;19:30;FK Akron Tolyatti;Rostov;2;3;-1
+23;04/04/2025;19:00;Nizhny Novgorod;Orenburg;1;2;-1
+23;05/04/2025;14:00;Samara;Rubin Kazan;1;1;0
+23;05/04/2025;15:15;Fakel Voronezh;Akhmat Grozny;0;0;0
+23;05/04/2025;17:30;Loko Moscow;Zenit;1;1;0
+23;05/04/2025;19:45;Krasnodar;FK Akron Tolyatti;1;0;1
+23;06/04/2025;14:00;D'mo Makhachkala;FC Khimki;4;1;3
+23;06/04/2025;16:30;Rostov;Spartak Moscow;0;3;-3
+23;06/04/2025;19:30;CSKA Moscow;Dynamo Mosc;3;1;2
+24;11/04/2025;19:30;Spartak Moscow;D'mo Makhachkala;1;2;-1
+24;12/04/2025;14:00;Orenburg;CSKA Moscow;0;2;-2
+24;12/04/2025;14:30;Nizhny Novgorod;Dynamo Mosc;1;1;0
+24;12/04/2025;17:00;Rubin Kazan;Loko Moscow;1;0;1
+24;12/04/2025;19:30;Akhmat Grozny;Rostov;2;1;1
+24;13/04/2025;15:30;FK Akron Tolyatti;Fakel Voronezh;1;0;1
+24;13/04/2025;17:00;Zenit;Krasnodar;4;1;3
+24;13/04/2025;19:30;FC Khimki;Samara;1;3;-2
+25;19/04/2025;14:00;Orenburg;D'mo Makhachkala;2;1;1
+25;19/04/2025;15:30;FK Akron Tolyatti;Spartak Moscow;2;3;-1
+25;19/04/2025;17:00;Loko Moscow;Nizhny Novgorod;3;0;3
+25;19/04/2025;19:30;Krasnodar;Akhmat Grozny;3;1;2
+25;20/04/2025;14:00;Fakel Voronezh;Rostov;0;2;-2
+25;20/04/2025;14:00;Dynamo Mosc;Rubin Kazan;3;1;2
+25;20/04/2025;16:30;Zenit;FC Khimki;1;0;1
+25;20/04/2025;19:30;CSKA Moscow;Samara;1;1;0
+26;25/04/2025;19:30;D'mo Makhachkala;Krasnodar;2;3;-1
+26;26/04/2025;14:00;Nizhny Novgorod;Akhmat Grozny;1;0;1
+26;26/04/2025;14:00;Dynamo Mosc;Zenit;1;1;0
+26;26/04/2025;16:30;Rostov;Loko Moscow;1;1;0
+26;26/04/2025;19:30;Spartak Moscow;CSKA Moscow;1;2;-1
+26;27/04/2025;15:00;Samara;Orenburg;2;0;2
+26;27/04/2025;16:30;FC Khimki;FK Akron Tolyatti;2;2;0
+26;27/04/2025;19:00;Rubin Kazan;Fakel Voronezh;2;1;1
+27;02/05/2025;19:00;FK Akron Tolyatti;D'mo Makhachkala;1;0;1
+27;03/05/2025;17:00;Loko Moscow;Orenburg;1;1;0
+27;03/05/2025;19:30;Krasnodar;Rubin Kazan;2;1;1
+27;04/05/2025;14:00;Fakel Voronezh;Spartak Moscow;0;0;0
+27;04/05/2025;16:30;Akhmat Grozny;CSKA Moscow;1;1;0
+27;04/05/2025;19:30;FC Khimki;Rostov;1;1;0
+27;04/05/2025;19:30;Zenit;Nizhny Novgorod;2;1;1
+27;05/05/2025;19:30;Samara;Dynamo Mosc;1;3;-2
+28;10/05/2025;16:30;Orenburg;FC Khimki;1;1;0
+28;10/05/2025;17:00;D'mo Makhachkala;Zenit;0;1;-1
+28;10/05/2025;19:30;CSKA Moscow;Krasnodar;1;0;1
+28;11/05/2025;15:00;FK Akron Tolyatti;Akhmat Grozny;3;2;1
+28;11/05/2025;16:30;Fakel Voronezh;Loko Moscow;0;1;-1
+28;11/05/2025;19:30;Rubin Kazan;Rostov;1;0;1
+28;11/05/2025;19:30;Dynamo Mosc;Spartak Moscow;2;0;2
+28;12/05/2025;19:00;Nizhny Novgorod;Samara;5;2;3
+29;17/05/2025;16:00;Orenburg;Krasnodar;1;2;-1
+29;17/05/2025;16:30;FC Khimki;Rubin Kazan;3;2;1
+29;17/05/2025;19:00;Nizhny Novgorod;Fakel Voronezh;1;1;0
+29;18/05/2025;14:00;Akhmat Grozny;D'mo Makhachkala;1;1;0
+29;18/05/2025;14:30;Samara;Spartak Moscow;0;2;-2
+29;18/05/2025;16:30;Dynamo Mosc;FK Akron Tolyatti;2;1;1
+29;18/05/2025;19:00;Rostov;Zenit;0;1;-1
+29;19/05/2025;20:30;Loko Moscow;CSKA Moscow;2;2;0
+30;24/05/2025;16:30;Rubin Kazan;Orenburg;4;2;2
+30;24/05/2025;16:30;CSKA Moscow;Nizhny Novgorod;2;0;2
+30;24/05/2025;16:30;Zenit;Akhmat Grozny;3;0;3
+30;24/05/2025;16:30;Fakel Voronezh;Samara;1;1;0
+30;24/05/2025;16:30;Krasnodar;Dynamo Mosc;3;0;3
+30;24/05/2025;16:30;Spartak Moscow;FC Khimki;5;0;5
+30;24/05/2025;16:30;D'mo Makhachkala;Rostov;1;1;0
+30;24/05/2025;17:30;FK Akron Tolyatti;Loko Moscow;1;4;-3

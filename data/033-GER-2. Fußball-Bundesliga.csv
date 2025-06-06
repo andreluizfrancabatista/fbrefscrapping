@@ -1,0 +1,307 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;02/08/2024;20:30;Köln;Hamburger SV;1;2;-1
+1;03/08/2024;13:00;Magdeburg;Elversberg;0;0;0
+1;03/08/2024;13:00;Karlsruher;Nürnberg;3;2;1
+1;03/08/2024;13:00;Hannover 96;Jahn R'burg;2;0;2
+1;03/08/2024;13:00;Hertha BSC;Paderborn 07;1;2;-1
+1;03/08/2024;20:30;Schalke 04;BTSV;5;1;4
+1;04/08/2024;13:30;Ulm;Kaiserslautern;1;2;-1
+1;04/08/2024;13:30;Greuther Fürth;Preußen Münster;3;1;2
+1;04/08/2024;13:30;Darmstadt 98;Düsseldorf;0;2;-2
+2;09/08/2024;18:30;Jahn R'burg;Ulm;1;0;1
+2;09/08/2024;18:30;Kaiserslautern;Greuther Fürth;2;2;0
+2;10/08/2024;13:00;Düsseldorf;Karlsruher;0;0;0
+2;10/08/2024;13:00;Nürnberg;Schalke 04;3;1;2
+2;10/08/2024;13:00;Elversberg;Köln;2;2;0
+2;10/08/2024;20:30;Hamburger SV;Hertha BSC;1;1;0
+2;11/08/2024;13:30;BTSV;Magdeburg;1;3;-2
+2;11/08/2024;13:30;Preußen Münster;Hannover 96;0;0;0
+2;11/08/2024;13:30;Paderborn 07;Darmstadt 98;3;1;2
+3;23/08/2024;18:30;Karlsruher;Elversberg;3;2;1
+3;23/08/2024;18:30;Hannover 96;Hamburger SV;1;0;1
+3;24/08/2024;13:00;Greuther Fürth;Paderborn 07;1;1;0
+3;24/08/2024;13:00;Preußen Münster;Kaiserslautern;0;1;-1
+3;24/08/2024;13:00;Hertha BSC;Jahn R'burg;2;0;2
+3;24/08/2024;20:30;Köln;BTSV;5;0;5
+3;25/08/2024;13:30;Magdeburg;Schalke 04;2;2;0
+3;25/08/2024;13:30;Ulm;Düsseldorf;1;2;-1
+3;25/08/2024;13:30;Darmstadt 98;Nürnberg;1;1;0
+4;30/08/2024;18:30;Jahn R'burg;Greuther Fürth;0;4;-4
+4;30/08/2024;18:30;Düsseldorf;Hannover 96;1;0;1
+4;31/08/2024;13:00;Nürnberg;Magdeburg;0;4;-4
+4;31/08/2024;13:00;Hamburger SV;Preußen Münster;4;1;3
+4;31/08/2024;13:00;Elversberg;Darmstadt 98;4;0;4
+4;31/08/2024;20:30;Kaiserslautern;Hertha BSC;3;4;-1
+4;01/09/2024;13:30;Paderborn 07;Ulm;0;0;0
+4;01/09/2024;13:30;BTSV;Karlsruher;1;2;-1
+4;01/09/2024;13:30;Schalke 04;Köln;1;3;-2
+5;13/09/2024;18:30;Karlsruher;Schalke 04;2;0;2
+5;13/09/2024;18:30;Preußen Münster;Paderborn 07;3;3;0
+5;14/09/2024;13:00;Ulm;Nürnberg;1;2;-1
+5;14/09/2024;13:00;Hannover 96;Kaiserslautern;3;1;2
+5;14/09/2024;13:00;Darmstadt 98;BTSV;1;1;0
+5;14/09/2024;20:30;Köln;Magdeburg;1;2;-1
+5;15/09/2024;13:30;Hamburger SV;Jahn R'burg;5;0;5
+5;15/09/2024;13:30;Greuther Fürth;Elversberg;0;0;0
+5;15/09/2024;13:30;Hertha BSC;Düsseldorf;0;2;-2
+6;20/09/2024;18:30;Paderborn 07;Hannover 96;2;1;1
+6;20/09/2024;18:30;Schalke 04;Darmstadt 98;3;5;-2
+6;21/09/2024;13:00;Nürnberg;Hertha BSC;0;2;-2
+6;21/09/2024;13:00;BTSV;Greuther Fürth;2;0;2
+6;21/09/2024;13:00;Düsseldorf;Köln;2;2;0
+6;21/09/2024;20:30;Kaiserslautern;Hamburger SV;2;2;0
+6;22/09/2024;13:30;Magdeburg;Karlsruher;2;2;0
+6;22/09/2024;13:30;Jahn R'burg;Preußen Münster;0;3;-3
+6;22/09/2024;13:30;Elversberg;Ulm;1;3;-2
+7;27/09/2024;18:30;Greuther Fürth;Düsseldorf;1;2;-1
+7;27/09/2024;18:30;Ulm;BTSV;3;1;2
+7;28/09/2024;13:00;Darmstadt 98;Magdeburg;1;2;-1
+7;28/09/2024;13:00;Jahn R'burg;Kaiserslautern;0;0;0
+7;28/09/2024;13:00;Hamburger SV;Paderborn 07;2;2;0
+7;28/09/2024;20:30;Preußen Münster;Schalke 04;1;2;-1
+7;29/09/2024;13:30;Köln;Karlsruher;4;4;0
+7;29/09/2024;13:30;Hannover 96;Nürnberg;2;0;2
+7;29/09/2024;13:30;Hertha BSC;Elversberg;1;4;-3
+8;04/10/2024;18:30;Paderborn 07;Jahn R'burg;3;0;3
+8;04/10/2024;18:30;Karlsruher;Darmstadt 98;3;3;0
+8;05/10/2024;13:00;Nürnberg;Preußen Münster;3;2;1
+8;05/10/2024;13:00;Elversberg;Kaiserslautern;1;0;1
+8;05/10/2024;13:00;Köln;Ulm;2;0;2
+8;05/10/2024;20:30;Schalke 04;Hertha BSC;2;2;0
+8;06/10/2024;13:30;BTSV;Hannover 96;2;0;2
+8;06/10/2024;13:30;Düsseldorf;Hamburger SV;0;3;-3
+8;06/10/2024;13:30;Magdeburg;Greuther Fürth;2;2;0
+9;18/10/2024;18:30;Darmstadt 98;Köln;5;1;4
+9;18/10/2024;18:30;Hertha BSC;BTSV;3;1;2
+9;19/10/2024;13:00;Hannover 96;Schalke 04;1;0;1
+9;19/10/2024;13:00;Jahn R'burg;Düsseldorf;0;3;-3
+9;19/10/2024;13:00;Preußen Münster;Elversberg;1;1;0
+9;19/10/2024;20:30;Kaiserslautern;Paderborn 07;3;0;3
+9;20/10/2024;13:30;Greuther Fürth;Nürnberg;0;4;-4
+9;20/10/2024;13:30;Ulm;Karlsruher;0;1;-1
+9;20/10/2024;13:30;Hamburger SV;Magdeburg;3;1;2
+10;25/10/2024;18:30;Köln;Paderborn 07;1;2;-1
+10;25/10/2024;18:30;Nürnberg;Jahn R'burg;8;3;5
+10;26/10/2024;13:00;Elversberg;Hamburger SV;4;2;2
+10;26/10/2024;13:00;Karlsruher;Hertha BSC;1;3;-2
+10;26/10/2024;13:00;Schalke 04;Greuther Fürth;3;4;-1
+10;26/10/2024;20:30;Düsseldorf;Kaiserslautern;3;4;-1
+10;27/10/2024;13:30;BTSV;Preußen Münster;1;1;0
+10;27/10/2024;13:30;Darmstadt 98;Ulm;1;1;0
+10;27/10/2024;13:30;Magdeburg;Hannover 96;0;3;-3
+11;01/11/2024;18:30;Ulm;Schalke 04;0;0;0
+11;01/11/2024;18:30;Preußen Münster;Düsseldorf;1;0;1
+11;02/11/2024;13:00;Hannover 96;Karlsruher;2;1;1
+11;02/11/2024;13:00;Greuther Fürth;Darmstadt 98;1;5;-4
+11;02/11/2024;13:00;Jahn R'burg;Elversberg;1;0;1
+11;02/11/2024;20:30;Hertha BSC;Köln;0;1;-1
+11;03/11/2024;13:30;Kaiserslautern;Magdeburg;2;2;0
+11;03/11/2024;13:30;Paderborn 07;BTSV;0;0;0
+11;03/11/2024;13:30;Hamburger SV;Nürnberg;1;1;0
+12;08/11/2024;18:30;BTSV;Hamburger SV;3;1;2
+12;08/11/2024;18:30;Nürnberg;Kaiserslautern;0;0;0
+12;09/11/2024;13:00;Darmstadt 98;Hertha BSC;3;1;2
+12;09/11/2024;13:00;Köln;Greuther Fürth;1;0;1
+12;09/11/2024;13:00;Magdeburg;Ulm;0;0;0
+12;09/11/2024;20:30;Düsseldorf;Paderborn 07;1;1;0
+12;10/11/2024;13:30;Karlsruher;Preußen Münster;1;1;0
+12;10/11/2024;13:30;Schalke 04;Jahn R'burg;2;0;2
+12;10/11/2024;13:30;Elversberg;Hannover 96;3;1;2
+13;22/11/2024;18:30;Paderborn 07;Nürnberg;3;2;1
+13;22/11/2024;18:45;Preußen Münster;Köln;0;1;-1
+13;23/11/2024;13:00;Greuther Fürth;Karlsruher;2;3;-1
+13;23/11/2024;13:00;Hertha BSC;Ulm;2;2;0
+13;23/11/2024;13:00;Hannover 96;Darmstadt 98;1;2;-1
+13;23/11/2024;13:00;Düsseldorf;Elversberg;0;2;-2
+13;23/11/2024;20:30;Hamburger SV;Schalke 04;2;2;0
+13;24/11/2024;13:30;Kaiserslautern;BTSV;3;2;1
+13;24/11/2024;13:30;Jahn R'burg;Magdeburg;0;1;-1
+14;29/11/2024;18:30;Magdeburg;Hertha BSC;1;3;-2
+14;29/11/2024;18:30;Schalke 04;Kaiserslautern;0;3;-3
+14;30/11/2024;13:00;Elversberg;Paderborn 07;1;3;-2
+14;30/11/2024;13:00;Köln;Hannover 96;2;2;0
+14;30/11/2024;13:00;BTSV;Jahn R'burg;0;0;0
+14;30/11/2024;20:30;Darmstadt 98;Preußen Münster;0;0;0
+14;01/12/2024;13:30;Ulm;Greuther Fürth;1;1;0
+14;01/12/2024;13:30;Nürnberg;Düsseldorf;2;2;0
+14;01/12/2024;13:30;Karlsruher;Hamburger SV;1;3;-2
+15;06/12/2024;18:30;Paderborn 07;Schalke 04;2;4;-2
+15;06/12/2024;18:30;Elversberg;Nürnberg;2;1;1
+15;07/12/2024;13:00;Greuther Fürth;Hertha BSC;2;1;1
+15;07/12/2024;13:00;Kaiserslautern;Karlsruher;3;1;2
+15;07/12/2024;13:00;Hannover 96;Ulm;3;2;1
+15;07/12/2024;20:30;Preußen Münster;Magdeburg;1;2;-1
+15;08/12/2024;13:30;Jahn R'burg;Köln;0;1;-1
+15;08/12/2024;13:30;Düsseldorf;BTSV;5;0;5
+15;08/12/2024;13:30;Hamburger SV;Darmstadt 98;2;2;0
+16;13/12/2024;18:30;Karlsruher;Jahn R'burg;4;2;2
+16;13/12/2024;18:30;Hertha BSC;Preußen Münster;1;2;-1
+16;14/12/2024;13:00;Schalke 04;Düsseldorf;1;1;0
+16;14/12/2024;13:00;Magdeburg;Paderborn 07;1;1;0
+16;14/12/2024;13:00;Ulm;Hamburger SV;1;1;0
+16;14/12/2024;20:30;Darmstadt 98;Kaiserslautern;5;1;4
+16;15/12/2024;13:30;Greuther Fürth;Hannover 96;1;0;1
+16;15/12/2024;13:30;BTSV;Elversberg;0;3;-3
+16;15/12/2024;13:30;Köln;Nürnberg;3;1;2
+17;20/12/2024;18:30;Elversberg;Schalke 04;1;4;-3
+17;20/12/2024;18:30;Düsseldorf;Magdeburg;2;5;-3
+17;21/12/2024;13:00;Preußen Münster;Ulm;0;0;0
+17;21/12/2024;13:00;Hamburger SV;Greuther Fürth;5;0;5
+17;21/12/2024;13:00;Paderborn 07;Karlsruher;1;2;-1
+17;21/12/2024;20:30;Nürnberg;BTSV;1;0;1
+17;22/12/2024;13:30;Kaiserslautern;Köln;0;1;-1
+17;22/12/2024;13:30;Jahn R'burg;Darmstadt 98;2;1;1
+17;22/12/2024;13:30;Hannover 96;Hertha BSC;0;0;0
+18;17/01/2025;18:30;Jahn R'burg;Hannover 96;0;1;-1
+18;17/01/2025;18:30;Düsseldorf;Darmstadt 98;2;2;0
+18;18/01/2025;13:00;Kaiserslautern;Ulm;2;1;1
+18;18/01/2025;13:00;Preußen Münster;Greuther Fürth;2;1;1
+18;18/01/2025;13:00;BTSV;Schalke 04;0;0;0
+18;18/01/2025;20:30;Hamburger SV;Köln;1;0;1
+18;19/01/2025;13:30;Paderborn 07;Hertha BSC;1;2;-1
+18;19/01/2025;13:30;Elversberg;Magdeburg;2;5;-3
+18;19/01/2025;13:30;Nürnberg;Karlsruher;2;1;1
+19;24/01/2025;18:30;Greuther Fürth;Kaiserslautern;2;4;-2
+19;24/01/2025;18:30;Magdeburg;BTSV;1;1;0
+19;25/01/2025;13:00;Köln;Elversberg;1;0;1
+19;25/01/2025;13:00;Schalke 04;Nürnberg;3;1;2
+19;25/01/2025;13:00;Karlsruher;Düsseldorf;2;3;-1
+19;25/01/2025;20:30;Hertha BSC;Hamburger SV;2;3;-1
+19;26/01/2025;13:30;Ulm;Jahn R'burg;5;1;4
+19;26/01/2025;13:30;Darmstadt 98;Paderborn 07;0;1;-1
+19;26/01/2025;13:30;Hannover 96;Preußen Münster;2;2;0
+20;31/01/2025;18:30;Nürnberg;Darmstadt 98;1;0;1
+20;31/01/2025;18:30;Elversberg;Karlsruher;2;2;0
+20;01/02/2025;13:00;BTSV;Köln;1;2;-1
+20;01/02/2025;13:00;Jahn R'burg;Hertha BSC;2;0;2
+20;01/02/2025;13:00;Düsseldorf;Ulm;3;2;1
+20;01/02/2025;20:30;Schalke 04;Magdeburg;2;5;-3
+20;02/02/2025;13:30;Hamburger SV;Hannover 96;2;2;0
+20;02/02/2025;13:30;Kaiserslautern;Preußen Münster;2;1;1
+20;02/02/2025;13:30;Paderborn 07;Greuther Fürth;1;2;-1
+21;07/02/2025;18:30;Greuther Fürth;Jahn R'burg;2;1;1
+21;07/02/2025;18:30;Preußen Münster;Hamburger SV;1;2;-1
+21;08/02/2025;13:00;Magdeburg;Nürnberg;3;4;-1
+21;08/02/2025;13:00;Darmstadt 98;Elversberg;0;3;-3
+21;08/02/2025;13:00;Ulm;Paderborn 07;0;2;-2
+21;08/02/2025;20:30;Hertha BSC;Kaiserslautern;0;1;-1
+21;09/02/2025;13:30;Hannover 96;Düsseldorf;1;1;0
+21;09/02/2025;13:30;Köln;Schalke 04;1;0;1
+21;09/02/2025;13:30;Karlsruher;BTSV;0;2;-2
+22;14/02/2025;18:30;Magdeburg;Köln;3;0;3
+22;14/02/2025;18:30;Paderborn 07;Preußen Münster;2;0;2
+22;15/02/2025;13:00;Elversberg;Greuther Fürth;2;0;2
+22;15/02/2025;13:00;Kaiserslautern;Hannover 96;0;0;0
+22;15/02/2025;13:00;BTSV;Darmstadt 98;1;0;1
+22;15/02/2025;20:30;Düsseldorf;Hertha BSC;2;1;1
+22;16/02/2025;13:30;Jahn R'burg;Hamburger SV;1;1;0
+22;16/02/2025;13:30;Schalke 04;Karlsruher;2;1;1
+22;16/02/2025;13:30;Nürnberg;Ulm;2;0;2
+23;21/02/2025;18:30;Hertha BSC;Nürnberg;0;0;0
+23;21/02/2025;18:30;Hamburger SV;Kaiserslautern;3;0;3
+23;22/02/2025;13:00;Karlsruher;Magdeburg;3;1;2
+23;22/02/2025;13:00;Preußen Münster;Jahn R'burg;2;0;2
+23;22/02/2025;13:00;Ulm;Elversberg;0;0;0
+23;22/02/2025;20:30;Hannover 96;Paderborn 07;1;1;0
+23;23/02/2025;13:30;Köln;Düsseldorf;1;1;0
+23;23/02/2025;13:30;Greuther Fürth;BTSV;3;0;3
+23;23/02/2025;13:30;Darmstadt 98;Schalke 04;2;0;2
+24;28/02/2025;18:30;Schalke 04;Preußen Münster;1;0;1
+24;28/02/2025;18:30;Düsseldorf;Greuther Fürth;1;2;-1
+24;01/03/2025;13:00;BTSV;Ulm;1;1;0
+24;01/03/2025;13:00;Nürnberg;Hannover 96;1;2;-1
+24;01/03/2025;13:00;Kaiserslautern;Jahn R'burg;3;0;3
+24;01/03/2025;20:30;Karlsruher;Köln;1;0;1
+24;02/03/2025;13:30;Paderborn 07;Hamburger SV;2;0;2
+24;02/03/2025;13:30;Elversberg;Hertha BSC;4;0;4
+24;02/03/2025;13:30;Magdeburg;Darmstadt 98;4;1;3
+25;07/03/2025;18:30;Kaiserslautern;Elversberg;1;1;0
+25;07/03/2025;18:30;Darmstadt 98;Karlsruher;3;0;3
+25;08/03/2025;13:00;Ulm;Köln;0;1;-1
+25;08/03/2025;13:00;Greuther Fürth;Magdeburg;1;1;0
+25;08/03/2025;13:00;Hertha BSC;Schalke 04;1;2;-1
+25;08/03/2025;20:30;Hamburger SV;Düsseldorf;4;1;3
+25;09/03/2025;13:30;Hannover 96;BTSV;1;1;0
+25;09/03/2025;13:30;Jahn R'burg;Paderborn 07;0;0;0
+25;09/03/2025;13:30;Preußen Münster;Nürnberg;0;1;-1
+26;14/03/2025;18:30;Magdeburg;Hamburger SV;0;3;-3
+26;14/03/2025;18:30;Schalke 04;Hannover 96;1;2;-1
+26;15/03/2025;13:00;Düsseldorf;Jahn R'burg;1;0;1
+26;15/03/2025;13:00;Elversberg;Preußen Münster;0;1;-1
+26;15/03/2025;13:00;Paderborn 07;Kaiserslautern;5;3;2
+26;15/03/2025;20:30;Köln;Darmstadt 98;2;1;1
+26;16/03/2025;13:30;Karlsruher;Ulm;0;0;0
+26;16/03/2025;13:30;Nürnberg;Greuther Fürth;3;0;3
+26;16/03/2025;13:30;BTSV;Hertha BSC;1;5;-4
+27;28/03/2025;18:30;Ulm;Darmstadt 98;2;1;1
+27;28/03/2025;18:30;Hamburger SV;Elversberg;0;0;0
+27;29/03/2025;13:00;Hertha BSC;Karlsruher;3;1;2
+27;29/03/2025;13:00;Paderborn 07;Köln;1;2;-1
+27;29/03/2025;13:00;Hannover 96;Magdeburg;0;0;0
+27;29/03/2025;20:30;Kaiserslautern;Düsseldorf;3;1;2
+27;30/03/2025;13:30;Preußen Münster;BTSV;1;1;0
+27;30/03/2025;13:30;Greuther Fürth;Schalke 04;3;3;0
+27;30/03/2025;13:30;Jahn R'burg;Nürnberg;2;1;1
+28;04/04/2025;18:30;BTSV;Paderborn 07;3;2;1
+28;04/04/2025;18:30;Karlsruher;Hannover 96;1;0;1
+28;05/04/2025;13:00;Düsseldorf;Preußen Münster;1;0;1
+28;05/04/2025;13:00;Nürnberg;Hamburger SV;0;3;-3
+28;05/04/2025;13:00;Darmstadt 98;Greuther Fürth;1;0;1
+28;05/04/2025;20:30;Köln;Hertha BSC;0;1;-1
+28;06/04/2025;13:30;Elversberg;Jahn R'burg;6;0;6
+28;06/04/2025;13:30;Magdeburg;Kaiserslautern;2;0;2
+28;06/04/2025;13:30;Schalke 04;Ulm;2;1;1
+29;11/04/2025;18:30;Greuther Fürth;Köln;1;1;0
+29;11/04/2025;18:30;Hamburger SV;BTSV;2;4;-2
+29;12/04/2025;13:00;Hannover 96;Elversberg;1;3;-2
+29;12/04/2025;13:00;Hertha BSC;Darmstadt 98;1;1;0
+29;12/04/2025;13:00;Ulm;Magdeburg;1;0;1
+29;12/04/2025;20:30;Kaiserslautern;Nürnberg;1;2;-1
+29;13/04/2025;13:30;Paderborn 07;Düsseldorf;1;2;-1
+29;13/04/2025;13:30;Preußen Münster;Karlsruher;1;1;0
+29;13/04/2025;13:30;Jahn R'burg;Schalke 04;2;0;2
+30;19/04/2025;13:00;Elversberg;Düsseldorf;1;1;0
+30;19/04/2025;13:00;Nürnberg;Paderborn 07;2;3;-1
+30;19/04/2025;13:00;BTSV;Kaiserslautern;2;0;2
+30;19/04/2025;20:30;Schalke 04;Hamburger SV;2;2;0
+30;20/04/2025;13:30;Köln;Preußen Münster;3;1;2
+30;20/04/2025;13:30;Ulm;Hertha BSC;2;3;-1
+30;20/04/2025;13:30;Magdeburg;Jahn R'burg;3;0;3
+30;20/04/2025;13:30;Darmstadt 98;Hannover 96;3;1;2
+30;20/04/2025;13:30;Karlsruher;Greuther Fürth;1;0;1
+31;25/04/2025;18:30;Greuther Fürth;Ulm;0;1;-1
+31;25/04/2025;18:30;Hertha BSC;Magdeburg;1;1;0
+31;26/04/2025;13:00;Preußen Münster;Darmstadt 98;1;1;0
+31;26/04/2025;13:00;Jahn R'burg;BTSV;1;1;0
+31;26/04/2025;13:00;Paderborn 07;Elversberg;1;1;0
+31;26/04/2025;20:30;Düsseldorf;Nürnberg;3;3;0
+31;27/04/2025;13:30;Hamburger SV;Karlsruher;1;2;-1
+31;27/04/2025;13:30;Hannover 96;Köln;1;0;1
+31;27/04/2025;13:30;Kaiserslautern;Schalke 04;2;1;1
+32;02/05/2025;18:30;Magdeburg;Preußen Münster;0;5;-5
+32;02/05/2025;18:30;Schalke 04;Paderborn 07;0;2;-2
+32;03/05/2025;13:00;Ulm;Hannover 96;1;2;-1
+32;03/05/2025;13:00;Darmstadt 98;Hamburger SV;0;4;-4
+32;03/05/2025;13:00;BTSV;Düsseldorf;2;2;0
+32;03/05/2025;20:30;Köln;Jahn R'burg;1;1;0
+32;04/05/2025;13:30;Nürnberg;Elversberg;1;3;-2
+32;04/05/2025;13:30;Hertha BSC;Greuther Fürth;1;0;1
+32;04/05/2025;13:30;Karlsruher;Kaiserslautern;2;2;0
+33;09/05/2025;18:30;Nürnberg;Köln;1;2;-1
+33;09/05/2025;18:30;Preußen Münster;Hertha BSC;2;0;2
+33;10/05/2025;13:00;Elversberg;BTSV;3;0;3
+33;10/05/2025;13:00;Paderborn 07;Magdeburg;2;1;1
+33;10/05/2025;13:00;Düsseldorf;Schalke 04;2;0;2
+33;10/05/2025;20:30;Hamburger SV;Ulm;6;1;5
+33;11/05/2025;13:30;Kaiserslautern;Darmstadt 98;2;1;1
+33;11/05/2025;13:30;Jahn R'burg;Karlsruher;2;2;0
+33;11/05/2025;13:30;Hannover 96;Greuther Fürth;1;1;0
+34;18/05/2025;15:30;Magdeburg;Düsseldorf;4;2;2
+34;18/05/2025;15:30;Ulm;Preußen Münster;2;2;0
+34;18/05/2025;15:30;Karlsruher;Paderborn 07;3;0;3
+34;18/05/2025;15:30;Greuther Fürth;Hamburger SV;3;2;1
+34;18/05/2025;15:30;Hertha BSC;Hannover 96;1;1;0
+34;18/05/2025;15:30;Darmstadt 98;Jahn R'burg;3;1;2
+34;18/05/2025;15:30;BTSV;Nürnberg;1;4;-3
+34;18/05/2025;15:30;Köln;Kaiserslautern;4;0;4
+34;18/05/2025;15:30;Schalke 04;Elversberg;1;2;-1

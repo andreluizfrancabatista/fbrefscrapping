@@ -1,0 +1,64 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;22/03/2025;15:00;Brommapojkarna;Alingsås FC United;5;1;4
+1;22/03/2025;15:00;AIK Fotboll Dam;Linköping;2;0;2
+1;22/03/2025;15:00;IFK Norrköping DFK;Vittsjö;1;1;0
+1;23/03/2025;14:00;Rosengård;Piteå;1;0;1
+1;23/03/2025;15:00;Djurgården;Kristianstad;2;1;1
+1;23/03/2025;15:00;Hammarby;Växjö;4;1;3
+1;23/03/2025;15:10;BK Häcken;Malmö;2;3;-1
+2;29/03/2025;14:00;Linköping;Hammarby;0;5;-5
+2;29/03/2025;14:00;Kristianstad;BK Häcken;2;0;2
+2;29/03/2025;15:00;Vittsjö;Brommapojkarna;1;0;1
+2;29/03/2025;15:00;Växjö;Rosengård;0;1;-1
+2;29/03/2025;15:00;Alingsås FC United;Djurgården;1;4;-3
+2;30/03/2025;14:00;Malmö;IFK Norrköping DFK;0;2;-2
+2;30/03/2025;15:00;Piteå;AIK Fotboll Dam;2;0;2
+3;12/04/2025;13:00;Djurgården;Piteå;3;3;0
+3;12/04/2025;14:00;Brommapojkarna;Linköping;3;1;2
+3;12/04/2025;15:00;Växjö;Alingsås FC United;3;0;3
+3;13/04/2025;15:00;Malmö;Kristianstad;1;0;1
+3;13/04/2025;15:00;IFK Norrköping DFK;AIK Fotboll Dam;1;0;1
+3;13/04/2025;15:00;BK Häcken;Vittsjö;5;1;4
+3;14/04/2025;19:00;Hammarby;Rosengård;4;0;4
+4;18/04/2025;13:00;Vittsjö;Djurgården;1;2;-1
+4;18/04/2025;15:00;Piteå;Alingsås FC United;2;1;1
+4;19/04/2025;13:00;AIK Fotboll Dam;Malmö;1;4;-3
+4;19/04/2025;14:00;Brommapojkarna;Hammarby;1;4;-3
+4;19/04/2025;15:00;BK Häcken;Växjö;3;1;2
+4;20/04/2025;14:00;Linköping;IFK Norrköping DFK;1;1;0
+4;21/04/2025;15:00;Rosengård;Kristianstad;2;1;1
+5;26/04/2025;13:00;AIK Fotboll Dam;Brommapojkarna;2;0;2
+5;26/04/2025;15:00;IFK Norrköping DFK;BK Häcken;0;4;-4
+5;26/04/2025;15:00;Alingsås FC United;Linköping;0;1;-1
+5;26/04/2025;15:00;Växjö;Vittsjö;2;2;0
+5;26/04/2025;15:00;Malmö;Hammarby;1;1;0
+5;27/04/2025;13:00;Kristianstad;Piteå;1;1;0
+5;27/04/2025;15:00;Djurgården;Rosengård;2;2;0
+6;03/05/2025;14:00;Linköping;Malmö;1;1;0
+6;03/05/2025;15:00;Vittsjö;AIK Fotboll Dam;0;0;0
+6;03/05/2025;15:00;Växjö;Kristianstad;2;3;-1
+6;04/05/2025;15:00;Brommapojkarna;Piteå;3;1;2
+6;04/05/2025;15:00;Alingsås FC United;Rosengård;1;0;1
+6;05/05/2025;19:00;Djurgården;IFK Norrköping DFK;1;1;0
+6;05/05/2025;19:00;Hammarby;BK Häcken;1;0;1
+7;09/05/2025;19:00;Malmö;Alingsås FC United;1;0;1
+7;10/05/2025;13:00;AIK Fotboll Dam;Hammarby;1;0;1
+7;10/05/2025;15:00;Linköping;Djurgården;1;2;-1
+7;10/05/2025;15:00;Rosengård;IFK Norrköping DFK;2;1;1
+7;10/05/2025;15:00;Kristianstad;Vittsjö;3;2;1
+7;11/05/2025;13:00;Piteå;Växjö;0;1;-1
+7;11/05/2025;15:00;BK Häcken;Brommapojkarna;6;1;5
+8;16/05/2025;18:00;BK Häcken;Alingsås FC United;6;1;5
+8;16/05/2025;19:00;Växjö;Malmö;2;4;-2
+8;17/05/2025;13:00;Hammarby;Piteå;2;1;1
+8;17/05/2025;14:00;Brommapojkarna;Rosengård;2;1;1
+8;17/05/2025;15:00;Vittsjö;Linköping;2;1;1
+8;17/05/2025;15:00;IFK Norrköping DFK;Kristianstad;1;4;-3
+8;20/05/2025;19:00;Djurgården;AIK Fotboll Dam;4;0;4
+9;24/05/2025;15:00;Rosengård;BK Häcken;0;1;-1
+9;24/05/2025;15:00;Kristianstad;Hammarby;2;0;2
+9;24/05/2025;15:00;Växjö;AIK Fotboll Dam;0;2;-2
+9;24/05/2025;15:00;Alingsås FC United;IFK Norrköping DFK;0;0;0
+9;24/05/2025;15:00;Vittsjö;Malmö;3;2;1
+9;25/05/2025;14:00;Djurgården;Brommapojkarna;1;0;1
+9;25/05/2025;14:00;Piteå;Linköping;2;1;1

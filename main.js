@@ -1,33 +1,6 @@
 const { spawn } = require('child_process');
 const path = require('path');
-
-// Dataset com as ligas e seus respectivos links
-const dataset = {
-    "inglaterra": {
-        "Premier League": "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
-        "EFL Championship": "https://fbref.com/en/comps/10/schedule/Championship-Scores-and-Fixtures"
-    },
-    "espanha": {
-        "La Liga": "https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures",
-        "La Liga 2": "https://fbref.com/en/comps/17/schedule/Segunda-Division-Scores-and-Fixtures"
-    },
-    "italia": {
-        "Serie A": "https://fbref.com/en/comps/11/schedule/Serie-A-Scores-and-Fixtures",
-        "Serie B": "https://fbref.com/en/comps/18/schedule/Serie-B-Scores-and-Fixtures"
-    },
-    "alemanha": {
-        "Bundesliga": "https://fbref.com/en/comps/20/schedule/Bundesliga-Scores-and-Fixtures",
-        "2. Bundesliga": "https://fbref.com/en/comps/33/schedule/2-Bundesliga-Scores-and-Fixtures"
-    },
-    "franca": {
-        "Ligue 1": "https://fbref.com/en/comps/13/schedule/Ligue-1-Scores-and-Fixtures",
-        "Ligue 2": "https://fbref.com/en/comps/60/schedule/Ligue-2-Scores-and-Fixtures"
-    },
-    "brasil" : {
-        "Série A" : "https://fbref.com/en/comps/24/schedule/Serie-A-Scores-and-Fixtures",
-        "Série B" : "https://fbref.com/en/comps/38/schedule/Serie-B-Scores-and-Fixtures"
-    }
-};
+const dataset = require('./data/fbref-dataset');
 
 // Lista de scripts para executar
 const scripts = ["scraper.js"];

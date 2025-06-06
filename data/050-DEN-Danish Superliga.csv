@@ -1,0 +1,193 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;19/07/2024;18:00;AGF;Midtjylland;1;1;0
+1;19/07/2024;20:00;Nordsjælland;Aalborg;3;0;3
+1;21/07/2024;14:00;Silkeborg;SønderjyskE;1;0;1
+1;21/07/2024;16:00;Vejle BK;Randers;2;3;-1
+1;21/07/2024;18:00;Viborg;Brøndby;3;3;0
+1;22/07/2024;19:00;Lyngby;FC Copenhagen;0;2;-2
+2;26/07/2024;19:00;SønderjyskE;Lyngby;1;1;0
+2;27/07/2024;16:00;Nordsjælland;Midtjylland;2;2;0
+2;28/07/2024;14:00;Randers;Viborg;3;1;2
+2;28/07/2024;16:00;Aalborg;Silkeborg;2;1;1
+2;28/07/2024;18:00;FC Copenhagen;AGF;3;2;1
+2;29/07/2024;19:00;Brøndby;Vejle BK;2;1;1
+3;02/08/2024;19:00;AGF;SønderjyskE;4;0;4
+3;03/08/2024;16:00;Midtjylland;Aalborg;2;0;2
+3;04/08/2024;14:00;Silkeborg;Viborg;3;2;1
+3;04/08/2024;16:00;FC Copenhagen;Randers;1;1;0
+3;04/08/2024;18:00;Lyngby;Brøndby;0;2;-2
+3;05/08/2024;19:00;Vejle BK;Nordsjælland;0;1;-1
+4;09/08/2024;19:00;Midtjylland;Vejle BK;2;0;2
+4;11/08/2024;14:00;Randers;Silkeborg;0;2;-2
+4;11/08/2024;14:00;Nordsjælland;Lyngby;1;1;0
+4;11/08/2024;16:00;Brøndby;AGF;0;1;-1
+4;11/08/2024;18:00;SønderjyskE;FC Copenhagen;0;2;-2
+4;12/08/2024;19:00;Viborg;Aalborg;2;3;-1
+5;16/08/2024;19:00;Lyngby;Midtjylland;1;2;-1
+5;18/08/2024;14:00;Randers;SønderjyskE;1;2;-1
+5;18/08/2024;14:00;Silkeborg;Nordsjælland;4;1;3
+5;18/08/2024;16:00;FC Copenhagen;Viborg;1;1;0
+5;18/08/2024;18:00;Aalborg;Brøndby;0;4;-4
+5;19/08/2024;19:00;AGF;Vejle BK;5;1;4
+6;23/08/2024;19:00;Aalborg;AGF;0;4;-4
+6;24/08/2024;16:00;Midtjylland;SønderjyskE;3;2;1
+6;25/08/2024;14:00;Vejle BK;Silkeborg;1;3;-2
+6;25/08/2024;16:00;Nordsjælland;FC Copenhagen;3;2;1
+6;25/08/2024;18:00;Brøndby;Randers;2;2;0
+6;26/08/2024;19:00;Viborg;Lyngby;1;0;1
+7;30/08/2024;19:00;Lyngby;Vejle BK;1;0;1
+7;31/08/2024;16:00;AGF;Nordsjælland;4;2;2
+7;01/09/2024;14:00;FC Copenhagen;Brøndby;3;1;2
+7;01/09/2024;14:00;SønderjyskE;Viborg;2;2;0
+7;01/09/2024;16:00;Silkeborg;Midtjylland;1;3;-2
+7;01/09/2024;18:00;Randers;Aalborg;1;0;1
+8;13/09/2024;19:00;Aalborg;Lyngby;2;1;1
+8;14/09/2024;18:00;Midtjylland;FC Copenhagen;2;1;1
+8;15/09/2024;14:00;AGF;Silkeborg;1;1;0
+8;15/09/2024;16:00;Vejle BK;Viborg;0;5;-5
+8;15/09/2024;18:00;Brøndby;SønderjyskE;2;0;2
+8;16/09/2024;19:00;Nordsjælland;Randers;1;1;0
+9;20/09/2024;19:00;Viborg;Nordsjælland;3;2;1
+9;22/09/2024;14:00;SønderjyskE;Vejle BK;2;1;1
+9;22/09/2024;14:00;Randers;Midtjylland;2;2;0
+9;22/09/2024;16:00;Lyngby;AGF;0;0;0
+9;22/09/2024;18:00;Silkeborg;Brøndby;3;3;0
+9;23/09/2024;19:00;FC Copenhagen;Aalborg;2;0;2
+10;28/09/2024;16:00;AGF;Randers;2;2;0
+10;29/09/2024;14:00;Midtjylland;Viborg;3;1;2
+10;29/09/2024;14:00;Aalborg;SønderjyskE;3;0;3
+10;29/09/2024;16:00;Lyngby;Silkeborg;2;2;0
+10;29/09/2024;18:00;Vejle BK;FC Copenhagen;1;2;-1
+10;30/09/2024;19:00;Nordsjælland;Brøndby;4;1;3
+11;04/10/2024;19:00;Vejle BK;Aalborg;2;2;0
+11;06/10/2024;14:00;Randers;Lyngby;1;1;0
+11;06/10/2024;14:00;SønderjyskE;Nordsjælland;1;4;-3
+11;06/10/2024;16:00;Viborg;AGF;1;1;0
+11;06/10/2024;18:00;Brøndby;Midtjylland;2;0;2
+11;06/10/2024;20:00;Silkeborg;FC Copenhagen;2;2;0
+12;18/10/2024;19:00;FC Copenhagen;Vejle BK;3;1;2
+12;20/10/2024;14:00;Aalborg;Randers;0;2;-2
+12;20/10/2024;14:00;Lyngby;Viborg;0;0;0
+12;20/10/2024;16:00;Nordsjælland;Silkeborg;1;1;0
+12;20/10/2024;18:00;SønderjyskE;Midtjylland;3;2;1
+12;21/10/2024;19:00;AGF;Brøndby;1;0;1
+13;25/10/2024;19:00;Silkeborg;Aalborg;1;1;0
+13;27/10/2024;12:15;Brøndby;FC Copenhagen;0;0;0
+13;27/10/2024;14:00;Vejle BK;Lyngby;2;0;2
+13;27/10/2024;16:00;Viborg;SønderjyskE;4;2;2
+13;27/10/2024;18:00;Midtjylland;AGF;2;0;2
+13;28/10/2024;19:00;Randers;Nordsjælland;4;0;4
+14;02/11/2024;17:00;SønderjyskE;Randers;1;4;-3
+14;03/11/2024;14:00;Midtjylland;Brøndby;1;5;-4
+14;03/11/2024;14:00;Nordsjælland;Viborg;2;1;1
+14;03/11/2024;16:00;AGF;Lyngby;2;1;1
+14;03/11/2024;18:00;Aalborg;Vejle BK;3;3;0
+14;04/11/2024;19:00;FC Copenhagen;Silkeborg;2;2;0
+15;08/11/2024;19:00;Vejle BK;SønderjyskE;1;1;0
+15;10/11/2024;14:00;Silkeborg;Randers;1;0;1
+15;10/11/2024;14:00;Lyngby;Aalborg;2;2;0
+15;10/11/2024;16:00;Viborg;Midtjylland;1;0;1
+15;10/11/2024;18:00;AGF;FC Copenhagen;1;1;0
+15;10/11/2024;20:00;Brøndby;Nordsjælland;1;1;0
+16;22/11/2024;19:00;Nordsjælland;AGF;1;0;1
+16;24/11/2024;14:00;Randers;Vejle BK;2;0;2
+16;24/11/2024;14:00;Aalborg;Viborg;0;0;0
+16;24/11/2024;16:00;SønderjyskE;Brøndby;2;2;0
+16;24/11/2024;18:00;FC Copenhagen;Lyngby;2;1;1
+16;25/11/2024;19:00;Midtjylland;Silkeborg;1;0;1
+17;29/11/2024;19:00;Brøndby;Aalborg;1;0;1
+17;01/12/2024;14:00;Viborg;Randers;1;2;-1
+17;01/12/2024;14:00;Lyngby;SønderjyskE;0;2;-2
+17;01/12/2024;16:00;Vejle BK;Midtjylland;0;3;-3
+17;01/12/2024;18:00;Silkeborg;AGF;1;1;0
+17;02/12/2024;19:00;FC Copenhagen;Nordsjælland;3;1;2
+18;14/02/2025;19:00;Brøndby;Viborg;4;1;3
+18;16/02/2025;14:00;Silkeborg;Vejle BK;0;1;-1
+18;16/02/2025;16:00;SønderjyskE;AGF;1;4;-3
+18;16/02/2025;18:00;Midtjylland;Lyngby;1;0;1
+18;17/02/2025;19:00;Randers;FC Copenhagen;1;2;-1
+19;21/02/2025;19:00;Lyngby;Randers;0;0;0
+19;23/02/2025;14:00;Nordsjælland;SønderjyskE;3;2;1
+19;23/02/2025;14:00;AGF;Aalborg;4;0;4
+19;23/02/2025;16:00;Vejle BK;Brøndby;2;2;0
+19;23/02/2025;18:00;FC Copenhagen;Midtjylland;1;0;1
+19;24/02/2025;19:00;Viborg;Silkeborg;1;4;-3
+18;26/02/2025;19:30;Aalborg;Nordsjælland;1;2;-1
+20;28/02/2025;19:00;Randers;AGF;1;1;0
+20;02/03/2025;14:00;SønderjyskE;Silkeborg;1;3;-2
+20;02/03/2025;14:00;Viborg;Vejle BK;3;1;2
+20;02/03/2025;16:00;Midtjylland;Nordsjælland;2;1;1
+20;02/03/2025;18:00;Aalborg;FC Copenhagen;0;0;0
+20;03/03/2025;19:00;Brøndby;Lyngby;1;1;0
+21;07/03/2025;19:00;Nordsjælland;Vejle BK;3;1;2
+21;09/03/2025;14:00;Silkeborg;Lyngby;0;1;-1
+21;09/03/2025;14:00;Aalborg;Midtjylland;1;4;-3
+21;09/03/2025;16:00;AGF;Viborg;1;1;0
+21;09/03/2025;18:00;FC Copenhagen;SønderjyskE;1;1;0
+21;10/03/2025;19:00;Randers;Brøndby;4;2;2
+22;16/03/2025;17:00;Brøndby;Silkeborg;2;2;0
+22;16/03/2025;17:00;Lyngby;Nordsjælland;1;0;1
+22;16/03/2025;17:00;Midtjylland;Randers;4;2;2
+22;16/03/2025;17:00;Viborg;FC Copenhagen;3;2;1
+22;16/03/2025;17:00;Vejle BK;AGF;3;2;1
+22;16/03/2025;17:00;SønderjyskE;Aalborg;0;3;-3
+1;28/03/2025;19:00;Aalborg;Viborg;0;4;-4
+1;30/03/2025;14:00;SønderjyskE;Silkeborg;2;1;1
+1;30/03/2025;14:00;Lyngby;Vejle BK;1;2;-1
+1;30/03/2025;16:00;AGF;Nordsjælland;2;0;2
+1;30/03/2025;18:00;Midtjylland;Brøndby;0;2;-2
+1;31/03/2025;19:00;FC Copenhagen;Randers;1;0;1
+2;04/04/2025;19:00;Randers;Midtjylland;2;1;1
+2;06/04/2025;14:00;Silkeborg;Lyngby;2;1;1
+2;06/04/2025;14:00;Viborg;SønderjyskE;2;1;1
+2;06/04/2025;16:00;Vejle BK;Aalborg;1;1;0
+2;06/04/2025;18:00;Nordsjælland;FC Copenhagen;0;1;-1
+2;07/04/2025;19:00;Brøndby;AGF;2;1;1
+3;11/04/2025;19:00;Aalborg;Lyngby;2;2;0
+3;13/04/2025;14:00;FC Copenhagen;Brøndby;1;2;-1
+3;13/04/2025;14:00;Viborg;Silkeborg;2;1;1
+3;13/04/2025;16:00;AGF;Midtjylland;1;1;0
+3;13/04/2025;18:00;Nordsjælland;Randers;5;2;3
+3;14/04/2025;19:00;SønderjyskE;Vejle BK;1;0;1
+4;16/04/2025;19:00;Silkeborg;Aalborg;4;0;4
+4;17/04/2025;14:00;Lyngby;SønderjyskE;0;2;-2
+4;17/04/2025;14:00;Vejle BK;Viborg;3;3;0
+4;17/04/2025;16:00;Randers;AGF;3;1;2
+4;17/04/2025;18:00;Midtjylland;FC Copenhagen;4;2;2
+4;18/04/2025;19:00;Brøndby;Nordsjælland;0;0;0
+5;20/04/2025;17:00;Aalborg;SønderjyskE;2;3;-1
+5;21/04/2025;14:00;Viborg;Lyngby;1;1;0
+5;21/04/2025;14:00;Vejle BK;Silkeborg;0;4;-4
+5;21/04/2025;16:00;Brøndby;Randers;4;3;1
+5;21/04/2025;18:00;FC Copenhagen;AGF;3;1;2
+5;22/04/2025;19:00;Nordsjælland;Midtjylland;3;2;1
+6;25/04/2025;19:00;Randers;Brøndby;0;0;0
+6;27/04/2025;14:00;Lyngby;Silkeborg;2;0;2
+6;27/04/2025;14:00;SønderjyskE;Viborg;2;2;0
+6;27/04/2025;16:00;AGF;FC Copenhagen;1;3;-2
+6;27/04/2025;18:00;Midtjylland;Nordsjælland;5;0;5
+6;28/04/2025;19:00;Aalborg;Vejle BK;0;1;-1
+7;02/05/2025;19:00;Randers;Nordsjælland;3;2;1
+7;04/05/2025;14:00;Silkeborg;Vejle BK;1;1;0
+7;04/05/2025;14:00;Lyngby;Viborg;0;0;0
+7;04/05/2025;16:00;Brøndby;FC Copenhagen;0;3;-3
+7;04/05/2025;18:00;Midtjylland;AGF;3;1;2
+7;05/05/2025;19:00;SønderjyskE;Aalborg;2;2;0
+8;11/05/2025;14:00;Nordsjælland;Brøndby;2;2;0
+8;11/05/2025;14:00;Silkeborg;SønderjyskE;1;0;1
+8;11/05/2025;16:00;AGF;Randers;1;3;-2
+8;11/05/2025;18:00;Viborg;Aalborg;3;1;2
+8;11/05/2025;20:00;FC Copenhagen;Midtjylland;1;1;0
+8;12/05/2025;19:00;Vejle BK;Lyngby;2;0;2
+9;16/05/2025;19:00;Nordsjælland;AGF;2;0;2
+9;18/05/2025;14:00;Aalborg;Silkeborg;2;3;-1
+9;18/05/2025;14:00;Viborg;Vejle BK;0;1;-1
+9;18/05/2025;16:00;SønderjyskE;Lyngby;5;1;4
+9;18/05/2025;18:00;Randers;FC Copenhagen;0;4;-4
+9;19/05/2025;19:00;Brøndby;Midtjylland;1;2;-1
+10;24/05/2025;15:00;Vejle BK;SønderjyskE;2;3;-1
+10;24/05/2025;15:00;Lyngby;Aalborg;3;1;2
+10;24/05/2025;15:00;Silkeborg;Viborg;1;2;-1
+10;25/05/2025;17:00;FC Copenhagen;Nordsjælland;3;0;3
+10;25/05/2025;17:00;AGF;Brøndby;2;3;-1
+10;25/05/2025;17:00;Midtjylland;Randers;3;2;1

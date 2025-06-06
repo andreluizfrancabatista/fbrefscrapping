@@ -1,0 +1,271 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;19/07/2024;19:00;Sparta Prague;FK Pardubice;2;1;1
+1;20/07/2024;14:30;Jablonec;Mladá Boleslav;2;0;2
+1;20/07/2024;17:00;Bohemians 1905;Baník Ostrava;2;1;1
+1;20/07/2024;17:00;České Budĕjov.;Sigma Olomouc;0;2;-2
+1;20/07/2024;20:00;Dukla Prague;Viktoria Plzeň;1;3;-2
+1;21/07/2024;14:30;Karviná;Slovan Liberec;1;3;-2
+1;21/07/2024;17:00;Slovácko;Slavia Prague;0;0;0
+1;21/07/2024;20:00;Hradec Králové;Teplice;1;0;1
+2;27/07/2024;14:30;Dukla Prague;Bohemians 1905;1;0;1
+2;27/07/2024;17:00;Teplice;Sparta Prague;1;4;-3
+2;27/07/2024;17:00;FK Pardubice;Karviná;0;1;-1
+2;27/07/2024;20:00;Slavia Prague;České Budĕjov.;4;0;4
+2;28/07/2024;14:30;Slovan Liberec;Sigma Olomouc;1;1;0
+2;28/07/2024;17:00;Mladá Boleslav;Slovácko;3;0;3
+2;28/07/2024;17:00;Baník Ostrava;Jablonec;1;0;1
+2;28/07/2024;20:00;Viktoria Plzeň;Hradec Králové;1;0;1
+3;02/08/2024;17:30;Slovan Liberec;Slavia Prague;0;1;-1
+3;02/08/2024;20:00;Sparta Prague;Dukla Prague;2;0;2
+3;03/08/2024;14:30;Slovácko;Bohemians 1905;0;0;0
+3;03/08/2024;17:00;Jablonec;Viktoria Plzeň;0;0;0
+3;03/08/2024;20:00;Sigma Olomouc;Teplice;2;1;1
+3;04/08/2024;14:30;České Budĕjov.;FK Pardubice;1;3;-2
+3;04/08/2024;17:00;Hradec Králové;Mladá Boleslav;2;1;1
+4;10/08/2024;14:30;Dukla Prague;Jablonec;0;2;-2
+4;10/08/2024;17:00;Teplice;Slovan Liberec;2;1;1
+4;10/08/2024;17:00;Bohemians 1905;Sparta Prague;1;2;-1
+4;10/08/2024;20:00;Slavia Prague;Sigma Olomouc;2;0;2
+4;11/08/2024;14:30;FK Pardubice;Slovácko;0;1;-1
+4;11/08/2024;17:00;Mladá Boleslav;České Budĕjov.;4;0;4
+4;11/08/2024;17:00;Baník Ostrava;Hradec Králové;1;0;1
+4;11/08/2024;20:00;Viktoria Plzeň;Karviná;5;0;5
+5;17/08/2024;14:30;Hradec Králové;Dukla Prague;1;0;1
+5;17/08/2024;17:00;Slavia Prague;Teplice;2;1;1
+5;17/08/2024;17:00;Karviná;Bohemians 1905;1;2;-1
+5;17/08/2024;20:00;Jablonec;Sparta Prague;1;2;-1
+5;18/08/2024;14:30;Sigma Olomouc;Mladá Boleslav;3;2;1
+5;18/08/2024;17:00;Slovan Liberec;FK Pardubice;3;0;3
+5;18/08/2024;17:00;České Budĕjov.;Viktoria Plzeň;0;3;-3
+5;18/08/2024;20:00;Slovácko;Baník Ostrava;1;0;1
+6;24/08/2024;14:30;Bohemians 1905;Jablonec;1;2;-1
+6;24/08/2024;17:00;Sparta Prague;Slovácko;2;2;0
+6;24/08/2024;17:00;Teplice;Karviná;1;3;-2
+6;24/08/2024;20:00;FK Pardubice;Hradec Králové;2;1;1
+6;25/08/2024;14:30;Baník Ostrava;Slovan Liberec;2;0;2
+6;25/08/2024;17:00;Dukla Prague;České Budĕjov.;3;0;3
+3;28/08/2024;18:00;Karviná;Baník Ostrava;0;0;0
+7;31/08/2024;14:30;České Budĕjov.;Bohemians 1905;0;0;0
+7;31/08/2024;17:00;Slovácko;Jablonec;0;0;0
+7;31/08/2024;20:00;Hradec Králové;Sparta Prague;0;2;-2
+7;01/09/2024;14:30;Sigma Olomouc;Baník Ostrava;2;2;0
+7;01/09/2024;14:30;Karviná;Dukla Prague;0;0;0
+7;01/09/2024;17:00;Slavia Prague;FK Pardubice;2;0;2
+7;01/09/2024;17:00;Teplice;Mladá Boleslav;1;2;-1
+7;01/09/2024;20:00;Slovan Liberec;Viktoria Plzeň;1;1;0
+6;17/09/2024;17:00;Viktoria Plzeň;Sigma Olomouc;2;1;1
+6;17/09/2024;19:30;Mladá Boleslav;Slavia Prague;0;2;-2
+9;21/09/2024;13:30;Hradec Králové;Slovácko;3;0;3
+9;21/09/2024;16:00;Karviná;Jablonec;1;0;1
+9;21/09/2024;16:00;Teplice;Baník Ostrava;2;3;-1
+9;21/09/2024;19:00;Slavia Prague;Viktoria Plzeň;3;0;3
+9;22/09/2024;13:00;Mladá Boleslav;FK Pardubice;2;2;0
+9;22/09/2024;15:30;Sigma Olomouc;Dukla Prague;2;1;1
+9;22/09/2024;15:30;České Budĕjov.;Sparta Prague;0;2;-2
+9;22/09/2024;18:30;Slovan Liberec;Bohemians 1905;2;2;0
+10;27/09/2024;19:30;Sparta Prague;Sigma Olomouc;2;3;-1
+10;28/09/2024;13:30;Dukla Prague;Slovan Liberec;1;4;-3
+10;28/09/2024;16:00;FK Pardubice;Teplice;0;1;-1
+10;28/09/2024;16:00;Slovácko;Karviná;2;1;1
+10;28/09/2024;19:00;Jablonec;Hradec Králové;2;0;2
+10;29/09/2024;13:00;Baník Ostrava;České Budĕjov.;2;1;1
+10;29/09/2024;15:30;Viktoria Plzeň;Mladá Boleslav;1;1;0
+10;29/09/2024;18:30;Bohemians 1905;Slavia Prague;0;4;-4
+11;05/10/2024;13:30;Karviná;Hradec Králové;0;0;0
+11;05/10/2024;16:00;Teplice;Dukla Prague;1;1;0
+11;05/10/2024;16:00;České Budĕjov.;Slovácko;0;2;-2
+11;05/10/2024;19:00;Slovan Liberec;Jablonec;0;5;-5
+11;06/10/2024;13:00;Viktoria Plzeň;FK Pardubice;2;0;2
+11;06/10/2024;15:30;Sigma Olomouc;Bohemians 1905;1;3;-2
+11;06/10/2024;15:30;Mladá Boleslav;Baník Ostrava;0;0;0
+11;06/10/2024;18:30;Slavia Prague;Sparta Prague;2;1;1
+12;19/10/2024;13:30;Hradec Králové;Sigma Olomouc;1;1;0
+12;19/10/2024;16:00;Dukla Prague;FK Pardubice;2;1;1
+12;19/10/2024;16:00;Baník Ostrava;Viktoria Plzeň;1;3;-2
+12;19/10/2024;19:00;Sparta Prague;Slovan Liberec;2;1;1
+12;20/10/2024;13:00;Bohemians 1905;Mladá Boleslav;2;2;0
+12;20/10/2024;15:30;Karviná;České Budĕjov.;4;1;3
+12;20/10/2024;15:30;Slovácko;Teplice;0;2;-2
+12;20/10/2024;18:30;Jablonec;Slavia Prague;1;2;-1
+13;26/10/2024;13:30;Slovan Liberec;Slovácko;4;0;4
+13;26/10/2024;16:00;České Budĕjov.;Hradec Králové;0;2;-2
+13;26/10/2024;16:00;FK Pardubice;Baník Ostrava;2;3;-1
+13;26/10/2024;19:00;Sigma Olomouc;Jablonec;0;0;0
+13;27/10/2024;13:00;Teplice;Bohemians 1905;1;2;-1
+13;27/10/2024;15:30;Mladá Boleslav;Karviná;1;1;0
+13;27/10/2024;15:30;Slavia Prague;Dukla Prague;3;0;3
+13;27/10/2024;18:30;Viktoria Plzeň;Sparta Prague;1;0;1
+14;02/11/2024;13:30;Dukla Prague;Mladá Boleslav;0;1;-1
+14;02/11/2024;16:00;Jablonec;Teplice;3;0;3
+14;02/11/2024;16:00;Karviná;Sigma Olomouc;2;1;1
+14;02/11/2024;19:00;Sparta Prague;Baník Ostrava;1;3;-2
+14;03/11/2024;13:00;České Budĕjov.;Slovan Liberec;0;0;0
+14;03/11/2024;15:30;Slovácko;Viktoria Plzeň;1;0;1
+14;03/11/2024;15:30;Bohemians 1905;FK Pardubice;0;0;0
+14;03/11/2024;18:30;Hradec Králové;Slavia Prague;1;1;0
+15;09/11/2024;13:30;Baník Ostrava;Dukla Prague;6;0;6
+15;09/11/2024;16:00;FK Pardubice;Jablonec;2;0;2
+15;09/11/2024;16:00;Slovan Liberec;Hradec Králové;0;0;0
+15;10/11/2024;13:00;Teplice;České Budĕjov.;5;2;3
+15;10/11/2024;15:30;Mladá Boleslav;Sparta Prague;2;2;0
+15;10/11/2024;15:30;Viktoria Plzeň;Bohemians 1905;2;0;2
+15;10/11/2024;18:30;Slavia Prague;Karviná;5;1;4
+16;23/11/2024;13:30;Jablonec;Baník Ostrava;3;1;2
+16;23/11/2024;16:00;Sparta Prague;Teplice;1;1;0
+16;23/11/2024;16:00;Slovácko;Mladá Boleslav;1;1;0
+16;23/11/2024;19:00;Hradec Králové;Viktoria Plzeň;0;1;-1
+16;24/11/2024;13:00;Bohemians 1905;Dukla Prague;3;1;2
+16;24/11/2024;15:30;České Budĕjov.;Slavia Prague;0;4;-4
+16;24/11/2024;15:30;Karviná;FK Pardubice;1;0;1
+16;24/11/2024;18:30;Sigma Olomouc;Slovan Liberec;1;4;-3
+15;27/11/2024;17:00;Sigma Olomouc;Slovácko;2;1;1
+17;30/11/2024;13:30;Bohemians 1905;Slovácko;3;3;0
+17;30/11/2024;16:00;Baník Ostrava;Karviná;2;1;1
+17;30/11/2024;16:00;Teplice;Sigma Olomouc;1;0;1
+17;30/11/2024;19:00;Dukla Prague;Sparta Prague;1;1;0
+17;01/12/2024;13:00;Slavia Prague;Slovan Liberec;1;0;1
+17;01/12/2024;15:30;Mladá Boleslav;Hradec Králové;3;0;3
+17;01/12/2024;15:30;FK Pardubice;České Budĕjov.;0;0;0
+17;01/12/2024;18:30;Viktoria Plzeň;Jablonec;3;2;1
+8;03/12/2024;19:00;Sparta Prague;Karviná;4;1;3
+8;04/12/2024;17:30;Dukla Prague;Slovácko;1;2;-1
+8;04/12/2024;17:30;FK Pardubice;Sigma Olomouc;2;2;0
+8;04/12/2024;17:30;Jablonec;České Budĕjov.;5;0;5
+8;04/12/2024;20:00;Bohemians 1905;Hradec Králové;0;3;-3
+8;05/12/2024;17:30;Baník Ostrava;Slavia Prague;0;1;-1
+8;05/12/2024;17:30;Mladá Boleslav;Slovan Liberec;1;0;1
+8;05/12/2024;20:00;Viktoria Plzeň;Teplice;1;1;0
+18;07/12/2024;13:30;Slovácko;FK Pardubice;1;1;0
+18;07/12/2024;16:00;Jablonec;Dukla Prague;2;1;1
+18;07/12/2024;19:00;Sparta Prague;Bohemians 1905;1;0;1
+18;08/12/2024;13:00;Karviná;Viktoria Plzeň;1;2;-1
+18;08/12/2024;13:00;České Budĕjov.;Mladá Boleslav;0;4;-4
+18;08/12/2024;15:30;Slovan Liberec;Teplice;3;0;3
+18;08/12/2024;15:30;Sigma Olomouc;Slavia Prague;1;2;-1
+18;08/12/2024;18:30;Hradec Králové;Baník Ostrava;0;1;-1
+19;14/12/2024;13:30;Dukla Prague;Hradec Králové;1;2;-1
+19;14/12/2024;16:00;FK Pardubice;Slovan Liberec;1;1;0
+19;14/12/2024;16:00;Bohemians 1905;Karviná;3;3;0
+19;14/12/2024;19:00;Baník Ostrava;Slovácko;3;1;2
+19;15/12/2024;13:00;Sparta Prague;Jablonec;2;1;1
+19;15/12/2024;15:30;Teplice;Slavia Prague;1;0;1
+19;15/12/2024;15:30;Mladá Boleslav;Sigma Olomouc;1;3;-2
+19;15/12/2024;18:30;Viktoria Plzeň;České Budĕjov.;7;2;5
+20;01/02/2025;13:30;Karviná;Teplice;1;1;0
+20;01/02/2025;16:00;Slovan Liberec;Baník Ostrava;0;1;-1
+20;01/02/2025;16:00;České Budĕjov.;Dukla Prague;0;0;0
+20;01/02/2025;19:00;Hradec Králové;FK Pardubice;3;0;3
+20;02/02/2025;13:00;Slovácko;Sparta Prague;0;2;-2
+20;02/02/2025;15:30;Jablonec;Bohemians 1905;0;1;-1
+20;02/02/2025;18:30;Slavia Prague;Mladá Boleslav;1;0;1
+20;03/02/2025;18:00;Sigma Olomouc;Viktoria Plzeň;2;1;1
+21;08/02/2025;13:30;Mladá Boleslav;Teplice;2;1;1
+21;08/02/2025;16:00;FK Pardubice;Slavia Prague;0;2;-2
+21;08/02/2025;19:00;Viktoria Plzeň;Slovan Liberec;3;2;1
+21;09/02/2025;13:00;Jablonec;Slovácko;4;2;2
+21;09/02/2025;15:30;Baník Ostrava;Sigma Olomouc;1;0;1
+21;09/02/2025;15:30;Bohemians 1905;České Budĕjov.;1;0;1
+21;09/02/2025;18:30;Sparta Prague;Hradec Králové;3;0;3
+22;15/02/2025;13:30;Sigma Olomouc;FK Pardubice;4;0;4
+22;15/02/2025;16:00;České Budĕjov.;Jablonec;2;3;-1
+22;15/02/2025;16:00;Slovácko;Dukla Prague;0;0;0
+22;15/02/2025;19:00;Karviná;Sparta Prague;2;3;-1
+22;16/02/2025;13:00;Hradec Králové;Bohemians 1905;2;2;0
+22;16/02/2025;15:30;Teplice;Viktoria Plzeň;0;2;-2
+22;16/02/2025;15:30;Slovan Liberec;Mladá Boleslav;3;1;2
+22;16/02/2025;18:30;Slavia Prague;Baník Ostrava;1;0;1
+23;22/02/2025;13:30;Dukla Prague;Sigma Olomouc;1;3;-2
+23;22/02/2025;16:00;FK Pardubice;Mladá Boleslav;0;3;-3
+23;22/02/2025;16:00;Baník Ostrava;Teplice;2;0;2
+23;22/02/2025;19:00;Sparta Prague;České Budĕjov.;2;1;1
+23;23/02/2025;13:00;Bohemians 1905;Slovan Liberec;0;0;0
+23;23/02/2025;15:30;Jablonec;Karviná;5;0;5
+23;23/02/2025;18:30;Viktoria Plzeň;Slavia Prague;1;3;-2
+24;01/03/2025;13:30;České Budĕjov.;Baník Ostrava;0;4;-4
+24;01/03/2025;16:00;Sigma Olomouc;Sparta Prague;1;2;-1
+24;01/03/2025;16:00;Hradec Králové;Jablonec;1;1;0
+24;01/03/2025;19:00;Teplice;FK Pardubice;2;0;2
+24;02/03/2025;13:00;Slovan Liberec;Dukla Prague;1;1;0
+24;02/03/2025;15:30;Karviná;Slovácko;2;0;2
+24;02/03/2025;15:30;Mladá Boleslav;Viktoria Plzeň;0;2;-2
+24;02/03/2025;18:30;Slavia Prague;Bohemians 1905;2;0;2
+25;08/03/2025;13:30;Dukla Prague;Teplice;1;1;0
+25;08/03/2025;16:00;Slovácko;České Budĕjov.;2;1;1
+25;08/03/2025;16:00;Jablonec;Slovan Liberec;0;0;0
+25;08/03/2025;19:00;Sparta Prague;Slavia Prague;2;0;2
+25;09/03/2025;13:00;Baník Ostrava;Mladá Boleslav;2;1;1
+25;09/03/2025;15:30;Bohemians 1905;Sigma Olomouc;0;1;-1
+25;09/03/2025;15:30;Hradec Králové;Karviná;1;1;0
+25;09/03/2025;18:30;FK Pardubice;Viktoria Plzeň;0;0;0
+21;12/03/2025;18:00;Dukla Prague;Karviná;0;0;0
+26;15/03/2025;13:30;Mladá Boleslav;Bohemians 1905;1;2;-1
+26;15/03/2025;16:00;Teplice;Slovácko;1;0;1
+26;15/03/2025;16:00;FK Pardubice;Dukla Prague;0;1;-1
+26;15/03/2025;19:00;Slovan Liberec;Sparta Prague;1;0;1
+26;16/03/2025;13:00;Sigma Olomouc;Hradec Králové;1;2;-1
+26;16/03/2025;15:30;České Budĕjov.;Karviná;2;3;-1
+26;16/03/2025;15:30;Viktoria Plzeň;Baník Ostrava;0;1;-1
+26;16/03/2025;18:30;Slavia Prague;Jablonec;3;0;3
+27;29/03/2025;13:30;Jablonec;Sigma Olomouc;0;0;0
+27;29/03/2025;16:00;Bohemians 1905;Teplice;1;1;0
+27;29/03/2025;16:00;Baník Ostrava;FK Pardubice;5;2;3
+27;29/03/2025;19:00;Dukla Prague;Slavia Prague;0;0;0
+27;30/03/2025;13:00;Slovácko;Slovan Liberec;0;4;-4
+27;30/03/2025;15:30;Hradec Králové;České Budĕjov.;1;0;1
+27;30/03/2025;15:30;Karviná;Mladá Boleslav;3;1;2
+27;30/03/2025;18:30;Sparta Prague;Viktoria Plzeň;2;4;-2
+28;05/04/2025;13:30;FK Pardubice;Bohemians 1905;2;0;2
+28;05/04/2025;13:30;Sigma Olomouc;Karviná;1;2;-1
+28;05/04/2025;16:00;Baník Ostrava;Sparta Prague;1;1;0
+28;05/04/2025;16:00;Slovan Liberec;České Budĕjov.;2;0;2
+28;05/04/2025;19:00;Slavia Prague;Hradec Králové;2;1;1
+28;06/04/2025;13:00;Teplice;Jablonec;0;1;-1
+28;06/04/2025;15:30;Mladá Boleslav;Dukla Prague;0;1;-1
+28;06/04/2025;18:30;Viktoria Plzeň;Slovácko;2;0;2
+23;09/04/2025;18:00;Slovácko;Hradec Králové;1;5;-4
+29;12/04/2025;16:00;Karviná;Slavia Prague;0;4;-4
+29;12/04/2025;19:00;Dukla Prague;Baník Ostrava;1;2;-1
+29;13/04/2025;13:00;Jablonec;FK Pardubice;1;0;1
+29;13/04/2025;13:00;České Budĕjov.;Teplice;1;1;0
+29;13/04/2025;15:30;Sparta Prague;Mladá Boleslav;2;0;2
+29;13/04/2025;15:30;Slovácko;Sigma Olomouc;2;2;0
+29;13/04/2025;18:30;Bohemians 1905;Viktoria Plzeň;1;2;-1
+29;13/04/2025;18:30;Hradec Králové;Slovan Liberec;0;2;-2
+30;19/04/2025;16:00;Teplice;Hradec Králové;1;0;1
+30;19/04/2025;16:00;Baník Ostrava;Bohemians 1905;1;0;1
+30;19/04/2025;16:00;Viktoria Plzeň;Dukla Prague;4;2;2
+30;19/04/2025;16:00;Slovan Liberec;Karviná;2;3;-1
+30;19/04/2025;16:00;FK Pardubice;Sparta Prague;1;2;-1
+30;19/04/2025;16:00;Slavia Prague;Slovácko;2;0;2
+30;19/04/2025;16:00;Sigma Olomouc;České Budĕjov.;3;0;3
+30;19/04/2025;16:00;Mladá Boleslav;Jablonec;0;1;-1
+1;26/04/2025;13:30;České Budĕjov.;Mladá Boleslav;1;2;-1
+1;26/04/2025;16:00;Slovácko;FK Pardubice;1;0;1
+1;26/04/2025;19:00;Sigma Olomouc;Slavia Prague;0;5;-5
+1;27/04/2025;13:00;Teplice;Dukla Prague;2;2;0
+1;27/04/2025;15:30;Baník Ostrava;Jablonec;1;2;-1
+1;27/04/2025;18:30;Viktoria Plzeň;Sparta Prague;2;0;2
+2;03/05/2025;13:30;Dukla Prague;FK Pardubice;2;0;2
+2;03/05/2025;16:00;Slavia Prague;Viktoria Plzeň;4;3;1
+2;03/05/2025;19:00;Baník Ostrava;Sigma Olomouc;0;0;0
+2;04/05/2025;13:00;Slovácko;České Budĕjov.;0;0;0
+2;04/05/2025;15:30;Mladá Boleslav;Teplice;1;0;1
+2;04/05/2025;18:30;Sparta Prague;Jablonec;1;3;-2
+3;10/05/2025;13:30;FK Pardubice;České Budĕjov.;1;0;1
+3;10/05/2025;16:00;Jablonec;Sigma Olomouc;4;0;4
+3;10/05/2025;19:00;Slavia Prague;Sparta Prague;2;1;1
+3;11/05/2025;13:00;Teplice;Slovácko;1;0;1
+3;11/05/2025;15:00;Mladá Boleslav;Dukla Prague;2;3;-1
+3;11/05/2025;17:30;Viktoria Plzeň;Baník Ostrava;1;2;-1
+4;17/05/2025;17:00;Slovácko;Dukla Prague;3;2;1
+4;17/05/2025;17:00;České Budĕjov.;Teplice;0;3;-3
+4;17/05/2025;17:00;FK Pardubice;Mladá Boleslav;2;1;1
+4;18/05/2025;17:00;Jablonec;Slavia Prague;3;2;1
+4;18/05/2025;17:00;Sigma Olomouc;Viktoria Plzeň;1;2;-1
+4;18/05/2025;17:00;Baník Ostrava;Sparta Prague;3;2;1
+5;24/05/2025;16:00;Viktoria Plzeň;Jablonec;4;1;3
+5;24/05/2025;16:00;Slavia Prague;Baník Ostrava;3;0;3
+5;24/05/2025;16:00;Sparta Prague;Sigma Olomouc;1;1;0
+5;25/05/2025;16:00;Dukla Prague;České Budĕjov.;2;1;1
+5;25/05/2025;16:00;Teplice;FK Pardubice;3;0;3
+5;25/05/2025;16:00;Mladá Boleslav;Slovácko;2;2;0

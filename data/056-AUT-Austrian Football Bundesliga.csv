@@ -1,0 +1,193 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;02/08/2024;20:30;Grazer AK;RB Salzburg;2;3;-1
+1;03/08/2024;17:00;SCR Altach;WSG Tirol;1;2;-1
+1;03/08/2024;17:00;Hartberg;LASK;1;2;-1
+1;03/08/2024;19:30;Wolfsberger AC;SK Austria Klagenfurt;4;1;3
+1;04/08/2024;17:00;Rapid Wien;Sturm Graz;1;0;1
+1;04/08/2024;17:00;Blau-Weiß Linz;Austria Wien;1;0;1
+2;10/08/2024;17:00;LASK;SCR Altach;1;2;-1
+2;10/08/2024;17:00;WSG Tirol;Grazer AK;0;0;0
+2;10/08/2024;19:30;RB Salzburg;Blau-Weiß Linz;5;1;4
+2;11/08/2024;17:00;Sturm Graz;Hartberg;2;0;2
+2;11/08/2024;17:00;Austria Wien;Wolfsberger AC;3;1;2
+2;11/08/2024;17:00;SK Austria Klagenfurt;Rapid Wien;1;1;0
+3;17/08/2024;17:00;SK Austria Klagenfurt;Sturm Graz;0;2;-2
+3;17/08/2024;17:00;Grazer AK;Blau-Weiß Linz;2;2;0
+3;17/08/2024;19:30;LASK;RB Salzburg;0;1;-1
+3;18/08/2024;17:00;Rapid Wien;WSG Tirol;2;0;2
+3;18/08/2024;17:00;Hartberg;Austria Wien;1;1;0
+3;18/08/2024;17:00;SCR Altach;Wolfsberger AC;2;0;2
+4;24/08/2024;17:00;WSG Tirol;SK Austria Klagenfurt;0;1;-1
+4;24/08/2024;19:30;Sturm Graz;SCR Altach;2;1;1
+4;25/08/2024;17:00;Austria Wien;LASK;2;1;1
+4;25/08/2024;17:00;Wolfsberger AC;Grazer AK;4;2;2
+4;25/08/2024;17:00;Blau-Weiß Linz;Rapid Wien;3;0;3
+5;31/08/2024;17:00;Hartberg;Grazer AK;1;1;0
+5;31/08/2024;17:00;SK Austria Klagenfurt;Blau-Weiß Linz;3;1;2
+5;31/08/2024;19:30;Sturm Graz;WSG Tirol;4;2;2
+5;01/09/2024;17:00;Rapid Wien;RB Salzburg;3;2;1
+5;01/09/2024;17:00;SCR Altach;Austria Wien;1;1;0
+5;01/09/2024;17:00;LASK;Wolfsberger AC;1;5;-4
+6;14/09/2024;17:00;Wolfsberger AC;Rapid Wien;1;1;0
+6;14/09/2024;19:30;Blau-Weiß Linz;LASK;1;0;1
+6;15/09/2024;14:30;Grazer AK;SCR Altach;1;1;0
+7;21/09/2024;17:00;LASK;Grazer AK;4;2;2
+7;21/09/2024;17:00;SK Austria Klagenfurt;Hartberg;2;2;0
+7;21/09/2024;17:00;SCR Altach;Blau-Weiß Linz;0;1;-1
+7;22/09/2024;14:30;Sturm Graz;Wolfsberger AC;0;3;-3
+7;22/09/2024;14:30;WSG Tirol;RB Salzburg;0;0;0
+7;22/09/2024;17:00;Rapid Wien;Austria Wien;2;1;1
+6;25/09/2024;18:30;Austria Wien;Sturm Graz;2;2;0
+6;26/09/2024;18:30;Hartberg;WSG Tirol;1;0;1
+8;28/09/2024;17:00;Rapid Wien;LASK;1;1;0
+8;28/09/2024;17:00;Blau-Weiß Linz;Sturm Graz;1;2;-1
+8;28/09/2024;17:00;RB Salzburg;Austria Wien;2;0;2
+8;29/09/2024;14:30;Hartberg;SCR Altach;2;0;2
+8;29/09/2024;14:30;Wolfsberger AC;WSG Tirol;1;3;-2
+8;29/09/2024;17:00;Grazer AK;SK Austria Klagenfurt;0;1;-1
+9;05/10/2024;17:00;Wolfsberger AC;Hartberg;2;3;-1
+9;05/10/2024;17:00;Austria Wien;Grazer AK;2;1;1
+9;05/10/2024;17:00;WSG Tirol;Blau-Weiß Linz;1;1;0
+9;06/10/2024;14:30;SCR Altach;Rapid Wien;0;1;-1
+9;06/10/2024;14:30;LASK;SK Austria Klagenfurt;4;0;4
+9;06/10/2024;17:00;Sturm Graz;RB Salzburg;5;0;5
+10;19/10/2024;17:00;Sturm Graz;Grazer AK;5;2;3
+10;19/10/2024;17:00;RB Salzburg;SCR Altach;2;1;1
+10;19/10/2024;17:00;Blau-Weiß Linz;Wolfsberger AC;0;1;-1
+10;20/10/2024;14:30;SK Austria Klagenfurt;Austria Wien;0;1;-1
+10;20/10/2024;14:30;WSG Tirol;LASK;1;2;-1
+10;20/10/2024;17:00;Rapid Wien;Hartberg;2;1;1
+11;26/10/2024;17:00;Austria Wien;WSG Tirol;3;0;3
+11;26/10/2024;17:00;SCR Altach;SK Austria Klagenfurt;2;2;0
+11;26/10/2024;17:00;Hartberg;Blau-Weiß Linz;2;1;1
+11;27/10/2024;14:30;Wolfsberger AC;RB Salzburg;0;0;0
+11;27/10/2024;14:30;Grazer AK;Rapid Wien;1;1;0
+11;27/10/2024;17:00;LASK;Sturm Graz;1;2;-1
+12;02/11/2024;17:00;Sturm Graz;Rapid Wien;1;1;0
+12;02/11/2024;17:00;RB Salzburg;Grazer AK;0;0;0
+12;02/11/2024;17:00;LASK;Hartberg;1;1;0
+12;03/11/2024;14:30;SK Austria Klagenfurt;Wolfsberger AC;2;1;1
+12;03/11/2024;14:30;WSG Tirol;SCR Altach;1;0;1
+12;03/11/2024;17:00;Austria Wien;Blau-Weiß Linz;2;1;1
+13;09/11/2024;17:00;Wolfsberger AC;Austria Wien;0;1;-1
+13;09/11/2024;17:00;Grazer AK;WSG Tirol;2;1;1
+13;09/11/2024;17:00;Hartberg;Sturm Graz;1;2;-1
+13;10/11/2024;14:30;SCR Altach;LASK;1;2;-1
+13;10/11/2024;14:30;Blau-Weiß Linz;RB Salzburg;2;0;2
+13;10/11/2024;17:00;Rapid Wien;SK Austria Klagenfurt;2;0;2
+14;23/11/2024;17:00;WSG Tirol;Rapid Wien;0;0;0
+14;23/11/2024;17:00;RB Salzburg;LASK;1;2;-1
+14;23/11/2024;17:00;Sturm Graz;SK Austria Klagenfurt;7;0;7
+14;24/11/2024;14:30;Blau-Weiß Linz;Grazer AK;1;2;-1
+14;24/11/2024;14:30;Wolfsberger AC;SCR Altach;2;0;2
+14;24/11/2024;17:00;Austria Wien;Hartberg;1;0;1
+15;30/11/2024;17:00;Grazer AK;Wolfsberger AC;3;4;-1
+15;30/11/2024;17:00;Hartberg;RB Salzburg;1;1;0
+15;30/11/2024;17:00;SCR Altach;Sturm Graz;1;1;0
+15;01/12/2024;14:30;SK Austria Klagenfurt;WSG Tirol;0;3;-3
+15;01/12/2024;14:30;Rapid Wien;Blau-Weiß Linz;0;1;-1
+15;01/12/2024;17:00;LASK;Austria Wien;1;3;-2
+4;04/12/2024;20:30;RB Salzburg;Hartberg;4;0;4
+16;07/12/2024;17:00;RB Salzburg;Rapid Wien;2;2;0
+16;07/12/2024;17:00;Wolfsberger AC;LASK;2;1;1
+16;07/12/2024;17:00;WSG Tirol;Sturm Graz;0;3;-3
+16;08/12/2024;14:30;Blau-Weiß Linz;SK Austria Klagenfurt;2;1;1
+16;08/12/2024;14:30;Grazer AK;Hartberg;0;3;-3
+16;08/12/2024;17:00;Austria Wien;SCR Altach;3;0;3
+6;14/12/2024;17:00;RB Salzburg;SK Austria Klagenfurt;3;0;3
+17;07/02/2025;20:30;Sturm Graz;Austria Wien;2;2;0
+17;08/02/2025;17:00;Rapid Wien;Wolfsberger AC;1;3;-2
+17;08/02/2025;17:00;SCR Altach;Grazer AK;1;2;-1
+17;09/02/2025;14:30;WSG Tirol;Hartberg;0;0;0
+17;09/02/2025;14:30;SK Austria Klagenfurt;RB Salzburg;0;0;0
+17;09/02/2025;17:00;LASK;Blau-Weiß Linz;0;0;0
+18;15/02/2025;17:00;Wolfsberger AC;Sturm Graz;3;0;3
+18;15/02/2025;17:00;Blau-Weiß Linz;SCR Altach;1;3;-2
+18;15/02/2025;17:00;RB Salzburg;WSG Tirol;1;1;0
+18;16/02/2025;14:30;Hartberg;SK Austria Klagenfurt;1;1;0
+18;16/02/2025;14:30;Grazer AK;LASK;0;0;0
+18;16/02/2025;17:00;Austria Wien;Rapid Wien;2;1;1
+19;22/02/2025;17:00;SK Austria Klagenfurt;Grazer AK;4;2;2
+19;22/02/2025;17:00;WSG Tirol;Wolfsberger AC;3;3;0
+19;22/02/2025;17:00;Austria Wien;RB Salzburg;0;1;-1
+19;23/02/2025;14:30;Sturm Graz;Blau-Weiß Linz;2;1;1
+19;23/02/2025;14:30;SCR Altach;Hartberg;0;0;0
+19;23/02/2025;17:00;LASK;Rapid Wien;2;1;1
+20;01/03/2025;17:00;Grazer AK;Austria Wien;1;2;-1
+20;01/03/2025;17:00;Hartberg;Wolfsberger AC;0;3;-3
+20;01/03/2025;17:00;Rapid Wien;SCR Altach;5;0;5
+20;02/03/2025;14:30;Blau-Weiß Linz;WSG Tirol;2;1;1
+20;02/03/2025;14:30;SK Austria Klagenfurt;LASK;1;2;-1
+20;02/03/2025;17:00;RB Salzburg;Sturm Graz;3;1;2
+21;09/03/2025;17:00;Wolfsberger AC;Blau-Weiß Linz;1;2;-1
+21;09/03/2025;17:00;Grazer AK;Sturm Graz;1;2;-1
+21;09/03/2025;17:00;SCR Altach;RB Salzburg;1;1;0
+21;09/03/2025;17:00;Hartberg;Rapid Wien;2;1;1
+21;09/03/2025;17:00;Austria Wien;SK Austria Klagenfurt;2;0;2
+21;09/03/2025;17:00;LASK;WSG Tirol;2;1;1
+22;16/03/2025;17:00;SK Austria Klagenfurt;SCR Altach;2;2;0
+22;16/03/2025;17:00;RB Salzburg;Wolfsberger AC;1;0;1
+22;16/03/2025;17:00;Blau-Weiß Linz;Hartberg;4;1;3
+22;16/03/2025;17:00;Rapid Wien;Grazer AK;3;0;3
+22;16/03/2025;17:00;WSG Tirol;Austria Wien;0;2;-2
+22;16/03/2025;17:00;Sturm Graz;LASK;4;2;2
+1;28/03/2025;19:30;SCR Altach;LASK;0;2;-2
+1;29/03/2025;17:00;Grazer AK;WSG Tirol;0;0;0
+1;29/03/2025;17:00;Hartberg;SK Austria Klagenfurt;2;3;-1
+1;30/03/2025;14:30;Blau-Weiß Linz;Austria Wien;0;2;-2
+1;30/03/2025;14:30;Wolfsberger AC;Sturm Graz;1;1;0
+1;30/03/2025;17:00;Rapid Wien;RB Salzburg;0;2;-2
+2;04/04/2025;19:30;Sturm Graz;Rapid Wien;2;0;2
+2;05/04/2025;17:00;LASK;Grazer AK;1;0;1
+2;05/04/2025;17:00;SK Austria Klagenfurt;SCR Altach;2;3;-1
+2;05/04/2025;17:00;WSG Tirol;Hartberg;1;3;-2
+2;06/04/2025;14:30;RB Salzburg;Blau-Weiß Linz;2;1;1
+2;06/04/2025;17:00;Austria Wien;Wolfsberger AC;0;0;0
+3;11/04/2025;19:30;Blau-Weiß Linz;Wolfsberger AC;1;2;-1
+3;12/04/2025;17:00;WSG Tirol;SK Austria Klagenfurt;5;3;2
+3;12/04/2025;17:00;Grazer AK;SCR Altach;1;0;1
+3;12/04/2025;17:00;Hartberg;LASK;0;1;-1
+3;13/04/2025;14:30;RB Salzburg;Sturm Graz;1;2;-1
+3;13/04/2025;17:00;Rapid Wien;Austria Wien;2;0;2
+4;18/04/2025;19:30;LASK;WSG Tirol;2;0;2
+4;19/04/2025;17:00;SCR Altach;Hartberg;1;1;0
+4;19/04/2025;17:00;SK Austria Klagenfurt;Grazer AK;0;0;0
+4;20/04/2025;14:30;Sturm Graz;Blau-Weiß Linz;2;0;2
+4;20/04/2025;14:30;Wolfsberger AC;Rapid Wien;5;1;4
+4;20/04/2025;17:00;Austria Wien;RB Salzburg;1;3;-2
+5;22/04/2025;18:30;WSG Tirol;SCR Altach;1;0;1
+5;22/04/2025;18:30;Grazer AK;Hartberg;0;3;-3
+5;22/04/2025;20:30;SK Austria Klagenfurt;LASK;1;4;-3
+5;23/04/2025;18:30;Blau-Weiß Linz;Rapid Wien;2;1;1
+5;23/04/2025;18:30;RB Salzburg;Wolfsberger AC;1;1;0
+5;23/04/2025;20:30;Austria Wien;Sturm Graz;2;1;1
+6;25/04/2025;19:30;Hartberg;Grazer AK;1;1;0
+6;26/04/2025;17:00;SCR Altach;WSG Tirol;3;0;3
+6;26/04/2025;17:00;LASK;SK Austria Klagenfurt;6;0;6
+6;27/04/2025;14:30;Rapid Wien;Blau-Weiß Linz;0;0;0
+6;27/04/2025;14:30;Wolfsberger AC;RB Salzburg;2;1;1
+6;27/04/2025;17:00;Sturm Graz;Austria Wien;0;1;-1
+7;02/05/2025;19:30;Grazer AK;SK Austria Klagenfurt;1;1;0
+7;03/05/2025;17:00;WSG Tirol;LASK;1;3;-2
+7;04/05/2025;14:30;Blau-Weiß Linz;Sturm Graz;0;1;-1
+7;04/05/2025;14:30;Rapid Wien;Wolfsberger AC;0;1;-1
+7;04/05/2025;14:30;Hartberg;SCR Altach;2;0;2
+7;04/05/2025;17:00;RB Salzburg;Austria Wien;2;0;2
+8;09/05/2025;19:30;Sturm Graz;RB Salzburg;4;2;2
+8;10/05/2025;17:00;SK Austria Klagenfurt;WSG Tirol;1;4;-3
+8;10/05/2025;17:00;LASK;Hartberg;0;0;0
+8;10/05/2025;17:00;SCR Altach;Grazer AK;2;2;0
+8;11/05/2025;14:30;Wolfsberger AC;Blau-Weiß Linz;2;0;2
+8;11/05/2025;17:00;Austria Wien;Rapid Wien;1;2;-1
+9;17/05/2025;17:00;Hartberg;WSG Tirol;3;2;1
+9;17/05/2025;17:00;Grazer AK;LASK;1;0;1
+9;17/05/2025;17:00;SCR Altach;SK Austria Klagenfurt;0;0;0
+9;18/05/2025;17:00;Blau-Weiß Linz;RB Salzburg;1;2;-1
+9;18/05/2025;17:00;Rapid Wien;Sturm Graz;3;1;2
+9;18/05/2025;17:00;Wolfsberger AC;Austria Wien;1;2;-1
+10;23/05/2025;19:30;SK Austria Klagenfurt;Hartberg;0;1;-1
+10;23/05/2025;19:30;LASK;SCR Altach;0;0;0
+10;23/05/2025;19:30;WSG Tirol;Grazer AK;1;1;0
+10;24/05/2025;17:00;Sturm Graz;Wolfsberger AC;1;1;0
+10;24/05/2025;17:00;Austria Wien;Blau-Weiß Linz;2;2;0
+10;24/05/2025;17:00;RB Salzburg;Rapid Wien;4;2;2

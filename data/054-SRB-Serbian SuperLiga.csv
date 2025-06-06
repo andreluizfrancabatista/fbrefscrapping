@@ -1,0 +1,297 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;19/07/2024;19:00;Radnički Kragujevac;FK Železničar Pančevo;2;3;-1
+1;19/07/2024;21:00;Napredak Kruš;Partizan;0;1;-1
+1;20/07/2024;20:00;Red Star;FK Jedinstvo Ub;4;0;4
+1;20/07/2024;20:00;Mladost Lučani;OFK Beograd;1;2;-1
+1;20/07/2024;20:00;Čukarički;Radnički Niš;2;0;2
+1;21/07/2024;17:30;Novi Pazar;Spartak Subotic;3;2;1
+1;21/07/2024;19:30;Tekstilac Odžaci;Vojvodina;1;3;-2
+1;21/07/2024;19:30;TSC Bačka Top;FK IMT Novi Beograd;1;0;1
+2;27/07/2024;20:00;FK Jedinstvo Ub;Partizan;0;4;-4
+2;27/07/2024;20:00;Red Star;Mladost Lučani;2;2;0
+2;27/07/2024;20:00;FK Železničar Pančevo;Napredak Kruš;1;1;0
+2;28/07/2024;21:00;Radnički Niš;TSC Bačka Top;1;0;1
+2;28/07/2024;21:00;Spartak Subotic;Čukarički;1;1;0
+2;29/07/2024;20:00;OFK Beograd;Tekstilac Odžaci;1;0;1
+3;02/08/2024;20:00;Napredak Kruš;FK IMT Novi Beograd;1;1;0
+3;03/08/2024;17:30;Novi Pazar;OFK Beograd;0;0;0
+3;03/08/2024;20:00;Tekstilac Odžaci;Red Star;0;4;-4
+3;03/08/2024;20:00;Mladost Lučani;FK Jedinstvo Ub;2;1;1
+3;04/08/2024;17:30;TSC Bačka Top;Spartak Subotic;0;0;0
+3;04/08/2024;20:00;Partizan;FK Železničar Pančevo;2;0;2
+3;04/08/2024;20:00;Čukarički;Vojvodina;3;1;2
+3;04/08/2024;21:00;Radnički Kragujevac;Radnički Niš;4;0;4
+4;09/08/2024;18:00;OFK Beograd;Čukarički;1;2;-1
+4;09/08/2024;20:00;Radnički Niš;Napredak Kruš;3;1;2
+4;10/08/2024;20:00;Mladost Lučani;Tekstilac Odžaci;1;2;-1
+4;10/08/2024;20:00;Spartak Subotic;Radnički Kragujevac;1;0;1
+4;10/08/2024;20:00;Red Star;Novi Pazar;4;1;3
+4;11/08/2024;18:00;FK Jedinstvo Ub;FK Železničar Pančevo;0;1;-1
+4;11/08/2024;20:00;Vojvodina;TSC Bačka Top;1;3;-2
+4;11/08/2024;20:00;FK IMT Novi Beograd;Partizan;0;0;0
+5;15/08/2024;20:00;Čukarički;Red Star;1;4;-3
+5;16/08/2024;18:55;TSC Bačka Top;OFK Beograd;0;1;-1
+5;17/08/2024;17:30;Novi Pazar;Mladost Lučani;0;1;-1
+5;17/08/2024;19:30;Napredak Kruš;Spartak Subotic;2;0;2
+5;17/08/2024;19:30;Tekstilac Odžaci;FK Jedinstvo Ub;1;1;0
+5;18/08/2024;19:30;FK Železničar Pančevo;FK IMT Novi Beograd;2;1;1
+5;19/08/2024;19:00;Radnički Kragujevac;Vojvodina;2;2;0
+6;23/08/2024;21:00;Mladost Lučani;Čukarički;3;1;2
+6;24/08/2024;19:00;Radnički Niš;FK Železničar Pančevo;2;1;1
+6;24/08/2024;19:00;Tekstilac Odžaci;Novi Pazar;2;1;1
+6;24/08/2024;21:00;FK Jedinstvo Ub;FK IMT Novi Beograd;2;3;-1
+6;25/08/2024;19:00;OFK Beograd;Radnički Kragujevac;3;5;-2
+6;25/08/2024;19:30;Vojvodina;Napredak Kruš;1;2;-1
+7;30/08/2024;18:30;FK IMT Novi Beograd;Radnički Niš;3;1;2
+7;30/08/2024;20:30;Čukarički;Tekstilac Odžaci;3;0;3
+7;31/08/2024;17:00;Novi Pazar;FK Jedinstvo Ub;3;1;2
+7;31/08/2024;20:30;FK Železničar Pančevo;Spartak Subotic;2;0;2
+7;31/08/2024;20:30;Napredak Kruš;OFK Beograd;1;3;-2
+7;01/09/2024;19:00;TSC Bačka Top;Mladost Lučani;1;2;-1
+7;01/09/2024;19:00;Radnički Kragujevac;Red Star;0;1;-1
+7;01/09/2024;21:05;Partizan;Vojvodina;0;0;0
+8;13/09/2024;19:00;Spartak Subotic;FK IMT Novi Beograd;2;0;2
+8;14/09/2024;18:00;Vojvodina;FK Železničar Pančevo;2;0;2
+8;14/09/2024;20:00;Red Star;Napredak Kruš;2;0;2
+8;14/09/2024;20:00;Mladost Lučani;Radnički Kragujevac;2;1;1
+8;15/09/2024;17:00;Novi Pazar;Čukarički;2;2;0
+8;15/09/2024;19:00;Tekstilac Odžaci;TSC Bačka Top;2;1;1
+8;15/09/2024;19:00;OFK Beograd;Partizan;3;2;1
+8;16/09/2024;20:00;FK Jedinstvo Ub;Radnički Niš;0;2;-2
+2;18/09/2024;18:00;FK IMT Novi Beograd;Radnički Kragujevac;0;4;-4
+9;21/09/2024;18:00;Čukarički;FK Jedinstvo Ub;2;1;1
+9;21/09/2024;18:00;TSC Bačka Top;Novi Pazar;5;2;3
+9;21/09/2024;20:00;Napredak Kruš;Mladost Lučani;1;2;-1
+9;22/09/2024;19:00;Radnički Niš;Spartak Subotic;3;2;1
+9;22/09/2024;19:00;FK IMT Novi Beograd;Vojvodina;0;3;-3
+9;22/09/2024;20:00;FK Železničar Pančevo;OFK Beograd;0;1;-1
+9;23/09/2024;17:00;Radnički Kragujevac;Tekstilac Odžaci;1;0;1
+9;23/09/2024;19:00;Partizan;Red Star;0;4;-4
+10;27/09/2024;19:00;Red Star;FK Železničar Pančevo;2;1;1
+10;28/09/2024;17:00;OFK Beograd;FK IMT Novi Beograd;4;3;1
+10;28/09/2024;18:00;Čukarički;TSC Bačka Top;1;2;-1
+10;28/09/2024;18:00;Novi Pazar;Radnički Kragujevac;2;0;2
+10;28/09/2024;20:00;Vojvodina;Radnički Niš;3;3;0
+10;29/09/2024;15:00;Tekstilac Odžaci;Napredak Kruš;0;0;0
+10;29/09/2024;17:00;Mladost Lučani;Partizan;1;3;-2
+10;29/09/2024;19:00;FK Jedinstvo Ub;Spartak Subotic;2;0;2
+2;02/10/2024;19:00;Vojvodina;Novi Pazar;0;1;-1
+11;04/10/2024;17:30;Radnički Niš;OFK Beograd;1;1;0
+11;05/10/2024;14:00;Radnički Kragujevac;Čukarički;1;1;0
+11;05/10/2024;16:00;FK Železničar Pančevo;Mladost Lučani;1;2;-1
+11;05/10/2024;18:30;Partizan;Tekstilac Odžaci;4;1;3
+11;06/10/2024;14:00;Napredak Kruš;Novi Pazar;2;1;1
+11;06/10/2024;19:00;FK IMT Novi Beograd;Red Star;1;3;-2
+11;06/10/2024;19:00;Spartak Subotic;Vojvodina;0;4;-4
+11;06/10/2024;21:00;TSC Bačka Top;FK Jedinstvo Ub;2;0;2
+12;18/10/2024;16:00;Red Star;Radnički Niš;5;1;4
+12;18/10/2024;18:00;Čukarički;Napredak Kruš;0;0;0
+12;18/10/2024;19:00;TSC Bačka Top;Radnički Kragujevac;0;2;-2
+12;19/10/2024;14:00;OFK Beograd;Spartak Subotic;1;1;0
+12;19/10/2024;16:00;Tekstilac Odžaci;FK Železničar Pančevo;0;2;-2
+12;19/10/2024;18:00;FK Jedinstvo Ub;Vojvodina;1;1;0
+12;20/10/2024;17:00;Mladost Lučani;FK IMT Novi Beograd;1;0;1
+12;21/10/2024;16:00;Novi Pazar;Partizan;3;4;-1
+13;25/10/2024;16:30;FK IMT Novi Beograd;Tekstilac Odžaci;3;0;3
+13;25/10/2024;18:30;Radnički Kragujevac;FK Jedinstvo Ub;4;0;4
+13;26/10/2024;15:55;Partizan;Čukarički;3;1;2
+13;26/10/2024;18:00;Spartak Subotic;Red Star;1;5;-4
+13;26/10/2024;18:00;FK Železničar Pančevo;Novi Pazar;0;1;-1
+13;26/10/2024;20:00;Vojvodina;OFK Beograd;2;1;1
+13;27/10/2024;19:00;Napredak Kruš;TSC Bačka Top;0;3;-3
+13;27/10/2024;20:00;Radnički Niš;Mladost Lučani;1;1;0
+14;03/11/2024;13:00;Novi Pazar;FK IMT Novi Beograd;3;1;2
+14;03/11/2024;13:00;Tekstilac Odžaci;Radnički Niš;1;3;-2
+14;03/11/2024;17:00;Radnički Kragujevac;Napredak Kruš;1;0;1
+14;03/11/2024;17:00;Red Star;Vojvodina;3;0;3
+14;03/11/2024;19:30;TSC Bačka Top;Partizan;1;2;-1
+14;04/11/2024;16:30;Mladost Lučani;Spartak Subotic;0;0;0
+14;04/11/2024;18:30;FK Jedinstvo Ub;OFK Beograd;0;1;-1
+14;04/11/2024;18:30;Čukarički;FK Železničar Pančevo;2;0;2
+15;09/11/2024;13:00;Radnički Niš;Novi Pazar;2;1;1
+15;09/11/2024;15:00;FK IMT Novi Beograd;Čukarički;1;1;0
+15;09/11/2024;16:00;Spartak Subotic;Tekstilac Odžaci;1;0;1
+15;09/11/2024;18:30;Vojvodina;Mladost Lučani;0;0;0
+15;10/11/2024;13:00;Napredak Kruš;FK Jedinstvo Ub;2;1;1
+15;10/11/2024;15:00;FK Železničar Pančevo;TSC Bačka Top;3;3;0
+15;10/11/2024;15:00;Partizan;Radnički Kragujevac;2;2;0
+15;10/11/2024;17:00;OFK Beograd;Red Star;0;1;-1
+16;23/11/2024;14:00;Radnički Niš;Čukarički;2;2;0
+16;23/11/2024;15:00;Spartak Subotic;Novi Pazar;1;1;0
+16;23/11/2024;19:00;Vojvodina;Tekstilac Odžaci;0;0;0
+16;24/11/2024;14:00;OFK Beograd;Mladost Lučani;0;0;0
+16;24/11/2024;16:00;Partizan;Napredak Kruš;0;0;0
+16;24/11/2024;18:00;FK Železničar Pančevo;Radnički Kragujevac;1;1;0
+17;29/11/2024;14:30;Novi Pazar;Vojvodina;0;4;-4
+17;29/11/2024;16:30;Čukarički;Spartak Subotic;1;2;-1
+17;29/11/2024;18:30;Tekstilac Odžaci;OFK Beograd;2;0;2
+17;30/11/2024;14:00;Radnički Kragujevac;FK IMT Novi Beograd;1;3;-2
+17;30/11/2024;14:00;Napredak Kruš;FK Železničar Pančevo;1;2;-1
+17;30/11/2024;14:55;Partizan;FK Jedinstvo Ub;3;0;3
+17;30/11/2024;17:00;Mladost Lučani;Red Star;0;2;-2
+17;01/12/2024;17:00;TSC Bačka Top;Radnički Niš;4;1;3
+5;04/12/2024;16:30;Partizan;Radnički Niš;3;1;2
+6;04/12/2024;18:30;Red Star;TSC Bačka Top;3;1;2
+18;07/12/2024;17:00;Red Star;Tekstilac Odžaci;6;0;6
+18;08/12/2024;13:00;FK Jedinstvo Ub;Mladost Lučani;1;2;-1
+18;08/12/2024;15:00;Vojvodina;Čukarički;0;1;-1
+18;08/12/2024;17:00;Spartak Subotic;TSC Bačka Top;0;0;0
+18;08/12/2024;19:00;FK Železničar Pančevo;Partizan;0;1;-1
+18;09/12/2024;14:00;OFK Beograd;Novi Pazar;1;1;0
+18;09/12/2024;16:00;FK IMT Novi Beograd;Napredak Kruš;3;2;1
+18;09/12/2024;18:00;Radnički Niš;Radnički Kragujevac;1;2;-1
+6;12/12/2024;16:30;Spartak Subotic;Partizan;2;1;1
+19;14/12/2024;13:00;Tekstilac Odžaci;Mladost Lučani;1;0;1
+19;14/12/2024;16:00;FK Železničar Pančevo;FK Jedinstvo Ub;6;0;6
+19;15/12/2024;13:00;Napredak Kruš;Radnički Niš;2;1;1
+19;15/12/2024;14:00;Čukarički;OFK Beograd;0;1;-1
+19;15/12/2024;15:00;Novi Pazar;Red Star;1;7;-6
+19;15/12/2024;16:30;TSC Bačka Top;Vojvodina;1;3;-2
+19;16/12/2024;17:00;Radnički Kragujevac;Spartak Subotic;2;0;2
+19;16/12/2024;19:00;Partizan;FK IMT Novi Beograd;1;1;0
+16;18/12/2024;16:00;FK Jedinstvo Ub;Red Star;0;4;-4
+20;20/12/2024;17:00;Mladost Lučani;Novi Pazar;1;3;-2
+20;21/12/2024;13:00;FK IMT Novi Beograd;FK Železničar Pančevo;1;1;0
+20;21/12/2024;14:00;Vojvodina;Radnički Kragujevac;3;2;1
+20;21/12/2024;16:00;Radnički Niš;Partizan;0;1;-1
+20;22/12/2024;13:00;FK Jedinstvo Ub;Tekstilac Odžaci;1;0;1
+20;22/12/2024;15:00;Red Star;Čukarički;5;2;3
+20;22/12/2024;17:00;Spartak Subotic;Napredak Kruš;0;2;-2
+20;23/12/2024;14:30;OFK Beograd;TSC Bačka Top;2;2;0
+16;26/12/2024;13:00;FK IMT Novi Beograd;TSC Bačka Top;0;2;-2
+21;31/01/2025;17:00;Napredak Kruš;Vojvodina;1;1;0
+21;01/02/2025;14:00;Čukarički;Mladost Lučani;0;0;0
+21;01/02/2025;16:00;Novi Pazar;Tekstilac Odžaci;2;3;-1
+21;01/02/2025;18:30;Partizan;Spartak Subotic;2;2;0
+21;02/02/2025;14:00;FK IMT Novi Beograd;FK Jedinstvo Ub;2;0;2
+21;02/02/2025;16:00;TSC Bačka Top;Red Star;1;2;-1
+21;02/02/2025;17:00;FK Železničar Pančevo;Radnički Niš;0;0;0
+21;03/02/2025;17:00;Radnički Kragujevac;OFK Beograd;2;0;2
+22;07/02/2025;15:00;Tekstilac Odžaci;Čukarički;0;1;-1
+22;08/02/2025;14:00;Mladost Lučani;TSC Bačka Top;4;1;3
+22;08/02/2025;16:00;Red Star;Radnički Kragujevac;6;0;6
+22;08/02/2025;18:30;Vojvodina;Partizan;0;0;0
+22;09/02/2025;14:00;FK Jedinstvo Ub;Novi Pazar;0;1;-1
+22;09/02/2025;16:00;OFK Beograd;Napredak Kruš;0;2;-2
+22;09/02/2025;18:00;Radnički Niš;FK IMT Novi Beograd;3;0;3
+22;09/02/2025;18:30;Spartak Subotic;FK Železničar Pančevo;0;0;0
+23;15/02/2025;13:00;FK IMT Novi Beograd;Spartak Subotic;1;2;-1
+23;15/02/2025;14:00;Partizan;OFK Beograd;4;1;3
+23;15/02/2025;15:00;Napredak Kruš;Red Star;0;4;-4
+23;16/02/2025;13:00;Radnički Kragujevac;Mladost Lučani;1;0;1
+23;16/02/2025;13:55;Radnički Niš;FK Jedinstvo Ub;1;4;-3
+23;16/02/2025;17:00;TSC Bačka Top;Tekstilac Odžaci;1;2;-1
+23;17/02/2025;15:00;Čukarički;Novi Pazar;1;1;0
+23;17/02/2025;17:00;FK Železničar Pančevo;Vojvodina;1;1;0
+24;21/02/2025;15:00;Spartak Subotic;Radnički Niš;1;1;0
+24;21/02/2025;16:00;Tekstilac Odžaci;Radnički Kragujevac;0;1;-1
+24;22/02/2025;13:00;Vojvodina;FK IMT Novi Beograd;0;1;-1
+24;22/02/2025;16:00;Red Star;Partizan;3;3;0
+24;23/02/2025;17:00;Mladost Lučani;Napredak Kruš;1;0;1
+24;23/02/2025;20:00;FK Jedinstvo Ub;Čukarički;0;1;-1
+24;24/02/2025;16:30;Novi Pazar;TSC Bačka Top;2;1;1
+25;26/02/2025;13:00;Spartak Subotic;FK Jedinstvo Ub;1;0;1
+25;26/02/2025;16:00;FK Železničar Pančevo;Red Star;1;3;-2
+25;26/02/2025;18:05;Partizan;Mladost Lučani;2;0;2
+25;26/02/2025;18:30;Radnički Niš;Vojvodina;1;4;-3
+25;26/02/2025;19:30;FK IMT Novi Beograd;OFK Beograd;1;1;0
+25;27/02/2025;17:00;Napredak Kruš;Tekstilac Odžaci;1;1;0
+25;27/02/2025;18:30;Radnički Kragujevac;Novi Pazar;2;0;2
+25;27/02/2025;19:00;TSC Bačka Top;Čukarički;2;1;1
+26;02/03/2025;13:00;OFK Beograd;Radnički Niš;2;0;2
+26;02/03/2025;14:00;Tekstilac Odžaci;Partizan;1;4;-3
+26;02/03/2025;16:00;Red Star;FK IMT Novi Beograd;4;0;4
+26;02/03/2025;17:00;Vojvodina;Spartak Subotic;1;3;-2
+26;03/03/2025;14:00;FK Jedinstvo Ub;TSC Bačka Top;4;1;3
+26;03/03/2025;16:30;Novi Pazar;Napredak Kruš;2;0;2
+26;03/03/2025;18:30;Mladost Lučani;FK Železničar Pančevo;1;1;0
+26;03/03/2025;20:00;Čukarički;Radnički Kragujevac;1;1;0
+27;07/03/2025;18:00;Spartak Subotic;OFK Beograd;0;1;-1
+27;07/03/2025;20:00;FK Železničar Pančevo;Tekstilac Odžaci;3;0;3
+27;08/03/2025;13:00;Napredak Kruš;Čukarički;2;1;1
+27;08/03/2025;16:00;Radnički Niš;Red Star;0;3;-3
+27;08/03/2025;18:05;Partizan;Novi Pazar;3;2;1
+27;08/03/2025;19:00;Radnički Kragujevac;TSC Bačka Top;1;3;-2
+27;09/03/2025;15:00;FK IMT Novi Beograd;Mladost Lučani;3;0;3
+27;09/03/2025;17:00;Vojvodina;FK Jedinstvo Ub;1;0;1
+24;12/03/2025;14:00;OFK Beograd;FK Železničar Pančevo;1;2;-1
+28;14/03/2025;19:00;FK Jedinstvo Ub;Radnički Kragujevac;2;2;0
+28;15/03/2025;14:00;Tekstilac Odžaci;FK IMT Novi Beograd;1;2;-1
+28;16/03/2025;13:00;TSC Bačka Top;Napredak Kruš;4;2;2
+28;16/03/2025;16:00;Red Star;Spartak Subotic;2;1;1
+28;16/03/2025;16:30;OFK Beograd;Vojvodina;3;1;2
+28;16/03/2025;18:05;Čukarički;Partizan;0;1;-1
+28;16/03/2025;20:00;Mladost Lučani;Radnički Niš;1;1;0
+28;17/03/2025;19:00;Novi Pazar;FK Železničar Pančevo;3;1;2
+29;28/03/2025;18:00;FK IMT Novi Beograd;Novi Pazar;0;0;0
+29;29/03/2025;15:30;Radnički Niš;Tekstilac Odžaci;1;2;-1
+29;29/03/2025;16:30;Partizan;TSC Bačka Top;0;0;0
+29;29/03/2025;19:00;Vojvodina;Red Star;3;5;-2
+29;29/03/2025;20:00;Napredak Kruš;Radnički Kragujevac;1;0;1
+29;30/03/2025;15:00;OFK Beograd;FK Jedinstvo Ub;3;0;3
+29;30/03/2025;16:30;Spartak Subotic;Mladost Lučani;0;0;0
+29;30/03/2025;19:30;FK Železničar Pančevo;Čukarički;1;2;-1
+30;05/04/2025;17:30;Tekstilac Odžaci;Spartak Subotic;2;0;2
+30;06/04/2025;15:00;Radnički Kragujevac;Partizan;0;2;-2
+30;06/04/2025;17:00;Red Star;OFK Beograd;3;1;2
+30;06/04/2025;20:00;FK Jedinstvo Ub;Napredak Kruš;0;0;0
+30;07/04/2025;18:00;TSC Bačka Top;FK Železničar Pančevo;1;0;1
+30;07/04/2025;18:00;Novi Pazar;Radnički Niš;3;3;0
+30;07/04/2025;18:00;Čukarički;FK IMT Novi Beograd;0;2;-2
+30;07/04/2025;18:00;Mladost Lučani;Vojvodina;1;3;-2
+1;12/04/2025;14:00;OFK Beograd;Radnički Kragujevac;3;0;3
+1;12/04/2025;16:00;Red Star;Partizan;2;1;1
+1;13/04/2025;14:00;Čukarički;Radnički Niš;2;2;0
+1;13/04/2025;16:00;TSC Bačka Top;Novi Pazar;1;2;-1
+1;13/04/2025;18:00;Vojvodina;Mladost Lučani;3;1;2
+1;13/04/2025;20:00;FK IMT Novi Beograd;Spartak Subotic;2;4;-2
+1;14/04/2025;16:00;Napredak Kruš;Tekstilac Odžaci;0;1;-1
+1;14/04/2025;18:00;FK Železničar Pančevo;FK Jedinstvo Ub;3;1;2
+2;22/04/2025;17:00;Radnički Niš;FK IMT Novi Beograd;1;1;0
+2;22/04/2025;18:30;Tekstilac Odžaci;FK Železničar Pančevo;0;1;-1
+2;23/04/2025;16:00;Novi Pazar;Vojvodina;0;1;-1
+2;23/04/2025;17:00;Mladost Lučani;TSC Bačka Top;2;0;2
+2;23/04/2025;18:00;Partizan;OFK Beograd;2;2;0
+2;23/04/2025;19:00;Radnički Kragujevac;Red Star;4;1;3
+2;24/04/2025;17:00;Spartak Subotic;Napredak Kruš;2;1;1
+2;24/04/2025;18:00;FK Jedinstvo Ub;Čukarički;4;1;3
+3;26/04/2025;17:30;FK IMT Novi Beograd;Tekstilac Odžaci;3;1;2
+3;27/04/2025;18:00;Red Star;OFK Beograd;5;2;3
+3;27/04/2025;19:30;Partizan;Radnički Kragujevac;3;1;2
+3;27/04/2025;20:00;Vojvodina;TSC Bačka Top;0;3;-3
+3;28/04/2025;16:30;Napredak Kruš;FK Jedinstvo Ub;1;0;1
+3;28/04/2025;17:00;Čukarički;Spartak Subotic;0;0;0
+3;28/04/2025;18:00;Mladost Lučani;Novi Pazar;1;1;0
+3;28/04/2025;18:30;FK Železničar Pančevo;Radnički Niš;1;2;-1
+4;02/05/2025;18:30;OFK Beograd;Vojvodina;1;2;-1
+4;03/05/2025;14:00;Napredak Kruš;Čukarički;0;1;-1
+4;03/05/2025;19:00;TSC Bačka Top;Red Star;1;2;-1
+4;03/05/2025;20:00;Radnički Niš;Tekstilac Odžaci;1;0;1
+4;04/05/2025;15:00;FK IMT Novi Beograd;FK Železničar Pančevo;0;1;-1
+4;04/05/2025;16:30;FK Jedinstvo Ub;Spartak Subotic;1;0;1
+4;04/05/2025;17:00;Novi Pazar;Partizan;2;1;1
+4;04/05/2025;20:00;Radnički Kragujevac;Mladost Lučani;1;1;0
+5;10/05/2025;18:00;Tekstilac Odžaci;FK Jedinstvo Ub;2;3;-1
+5;10/05/2025;20:00;Radnički Kragujevac;Novi Pazar;2;3;-1
+5;11/05/2025;16:30;OFK Beograd;Mladost Lučani;1;0;1
+5;11/05/2025;17:00;Spartak Subotic;Radnički Niš;1;0;1
+5;11/05/2025;19:00;Red Star;Vojvodina;1;1;0
+5;11/05/2025;20:00;Partizan;TSC Bačka Top;1;2;-1
+5;12/05/2025;18:00;Čukarički;FK IMT Novi Beograd;1;1;0
+5;12/05/2025;20:00;FK Železničar Pančevo;Napredak Kruš;1;1;0
+6;17/05/2025;18:30;Novi Pazar;Red Star;3;3;0
+6;17/05/2025;18:30;Mladost Lučani;Partizan;0;4;-4
+6;17/05/2025;18:30;Vojvodina;Radnički Kragujevac;0;0;0
+6;17/05/2025;18:30;TSC Bačka Top;OFK Beograd;3;2;1
+6;18/05/2025;17:00;FK Jedinstvo Ub;FK IMT Novi Beograd;0;3;-3
+6;18/05/2025;17:00;Tekstilac Odžaci;Čukarički;0;3;-3
+6;18/05/2025;17:00;FK Železničar Pančevo;Spartak Subotic;3;0;3
+6;18/05/2025;17:00;Napredak Kruš;Radnički Niš;2;1;1
+7;23/05/2025;19:00;Čukarički;FK Železničar Pančevo;2;2;0
+7;24/05/2025;17:00;Radnički Niš;FK Jedinstvo Ub;3;1;2
+7;24/05/2025;17:00;Spartak Subotic;Tekstilac Odžaci;2;4;-2
+7;24/05/2025;17:00;FK IMT Novi Beograd;Napredak Kruš;2;1;1
+7;24/05/2025;19:00;Red Star;Mladost Lučani;3;1;2
+7;25/05/2025;19:00;Partizan;Vojvodina;3;2;1
+7;25/05/2025;19:00;Radnički Kragujevac;TSC Bačka Top;5;2;3
+7;25/05/2025;19:00;OFK Beograd;Novi Pazar;2;3;-1

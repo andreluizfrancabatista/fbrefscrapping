@@ -1,0 +1,181 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;02/08/2024;19:45;Falkirk;Queen's Park FC;2;1;1
+1;03/08/2024;15:00;Hamilton Acad.;Ayr United;0;2;-2
+1;03/08/2024;15:00;Partick Thistle;Morton;0;0;0
+1;03/08/2024;15:00;Livingston;Dunfermline Ath.;2;0;2
+1;03/08/2024;15:00;Airdrieonians;Raith Rovers;1;0;1
+2;09/08/2024;19:45;Queen's Park FC;Livingston;1;1;0
+2;09/08/2024;19:45;Ayr United;Airdrieonians;5;0;5
+2;10/08/2024;15:00;Morton;Hamilton Acad.;0;0;0
+2;10/08/2024;15:00;Raith Rovers;Partick Thistle;1;0;1
+2;10/08/2024;15:00;Dunfermline Ath.;Falkirk;0;2;-2
+11;17/08/2024;15:00;Ayr United;Hamilton Acad.;3;2;1
+3;24/08/2024;15:00;Hamilton Acad.;Dunfermline Ath.;1;0;1
+3;24/08/2024;15:00;Falkirk;Partick Thistle;2;1;1
+3;24/08/2024;15:00;Airdrieonians;Queen's Park FC;0;2;-2
+3;24/08/2024;15:00;Livingston;Morton;1;1;0
+3;24/08/2024;15:00;Ayr United;Raith Rovers;2;0;2
+4;31/08/2024;15:00;Hamilton Acad.;Airdrieonians;2;2;0
+4;31/08/2024;15:00;Partick Thistle;Queen's Park FC;3;0;3
+4;31/08/2024;15:00;Morton;Falkirk;2;3;-1
+4;31/08/2024;15:00;Raith Rovers;Livingston;0;1;-1
+4;31/08/2024;15:00;Dunfermline Ath.;Ayr United;1;1;0
+5;13/09/2024;19:45;Dunfermline Ath.;Raith Rovers;2;0;2
+5;14/09/2024;15:00;Airdrieonians;Falkirk;0;2;-2
+5;14/09/2024;15:00;Livingston;Hamilton Acad.;3;0;3
+5;14/09/2024;15:00;Ayr United;Partick Thistle;1;1;0
+5;14/09/2024;15:00;Queen's Park FC;Morton;1;0;1
+6;21/09/2024;15:00;Queen's Park FC;Ayr United;1;1;0
+6;21/09/2024;15:00;Partick Thistle;Dunfermline Ath.;1;0;1
+6;21/09/2024;15:00;Raith Rovers;Hamilton Acad.;3;3;0
+6;21/09/2024;15:00;Morton;Airdrieonians;2;0;2
+7;28/09/2024;15:00;Hamilton Acad.;Partick Thistle;1;0;1
+7;28/09/2024;15:00;Raith Rovers;Falkirk;1;0;1
+7;28/09/2024;15:00;Dunfermline Ath.;Queen's Park FC;1;2;-1
+7;28/09/2024;15:00;Ayr United;Morton;1;0;1
+7;28/09/2024;15:00;Livingston;Airdrieonians;2;1;1
+8;05/10/2024;15:00;Queen's Park FC;Hamilton Acad.;1;0;1
+8;05/10/2024;15:00;Airdrieonians;Dunfermline Ath.;1;1;0
+8;05/10/2024;15:00;Falkirk;Ayr United;2;0;2
+8;05/10/2024;15:00;Partick Thistle;Livingston;0;0;0
+8;05/10/2024;15:00;Morton;Raith Rovers;2;0;2
+6;08/10/2024;19:45;Falkirk;Livingston;0;0;0
+11;12/10/2024;15:00;Partick Thistle;Falkirk;1;1;0
+9;18/10/2024;19:45;Hamilton Acad.;Falkirk;1;3;-2
+9;19/10/2024;15:00;Ayr United;Livingston;1;2;-1
+9;19/10/2024;15:00;Dunfermline Ath.;Morton;0;0;0
+9;19/10/2024;15:00;Raith Rovers;Queen's Park FC;1;1;0
+9;19/10/2024;15:00;Partick Thistle;Airdrieonians;2;1;1
+10;26/10/2024;15:00;Hamilton Acad.;Morton;3;0;3
+10;26/10/2024;15:00;Airdrieonians;Ayr United;0;1;-1
+10;26/10/2024;15:00;Livingston;Raith Rovers;2;1;1
+10;26/10/2024;15:00;Falkirk;Dunfermline Ath.;2;1;1
+10;26/10/2024;15:00;Queen's Park FC;Partick Thistle;0;1;-1
+11;29/10/2024;19:45;Morton;Queen's Park FC;0;1;-1
+11;29/10/2024;19:45;Raith Rovers;Airdrieonians;1;0;1
+11;29/10/2024;19:45;Dunfermline Ath.;Livingston;3;0;3
+12;01/11/2024;19:45;Raith Rovers;Ayr United;2;0;2
+12;02/11/2024;15:00;Livingston;Queen's Park FC;1;1;0
+12;02/11/2024;15:00;Dunfermline Ath.;Partick Thistle;0;1;-1
+12;02/11/2024;15:00;Airdrieonians;Hamilton Acad.;0;4;-4
+12;02/11/2024;15:00;Falkirk;Morton;6;0;6
+13;08/11/2024;19:45;Morton;Ayr United;1;1;0
+13;09/11/2024;15:00;Partick Thistle;Raith Rovers;1;1;0
+13;09/11/2024;15:00;Hamilton Acad.;Livingston;1;3;-2
+13;09/11/2024;15:00;Falkirk;Airdrieonians;2;0;2
+13;09/11/2024;15:00;Queen's Park FC;Dunfermline Ath.;2;1;1
+14;16/11/2024;15:00;Raith Rovers;Morton;2;3;-1
+14;16/11/2024;15:00;Dunfermline Ath.;Airdrieonians;1;0;1
+14;16/11/2024;15:00;Ayr United;Queen's Park FC;3;2;1
+14;16/11/2024;15:00;Livingston;Falkirk;1;0;1
+14;16/11/2024;15:00;Partick Thistle;Hamilton Acad.;5;1;4
+15;22/11/2024;19:45;Queen's Park FC;Falkirk;0;1;-1
+15;23/11/2024;15:45;Ayr United;Dunfermline Ath.;1;0;1
+16;07/12/2024;15:00;Queen's Park FC;Airdrieonians;2;0;2
+16;07/12/2024;15:00;Morton;Livingston;0;0;0
+16;07/12/2024;15:00;Partick Thistle;Ayr United;1;0;1
+16;07/12/2024;15:00;Dunfermline Ath.;Hamilton Acad.;3;2;1
+16;07/12/2024;15:00;Falkirk;Raith Rovers;3;0;3
+17;13/12/2024;19:45;Livingston;Partick Thistle;2;0;2
+17;14/12/2024;15:00;Hamilton Acad.;Queen's Park FC;2;1;1
+17;14/12/2024;15:00;Airdrieonians;Morton;2;2;0
+17;14/12/2024;15:00;Raith Rovers;Dunfermline Ath.;2;0;2
+17;14/12/2024;15:00;Ayr United;Falkirk;5;2;3
+15;17/12/2024;19:45;Airdrieonians;Livingston;0;3;-3
+18;20/12/2024;19:45;Queen's Park FC;Raith Rovers;1;2;-1
+18;21/12/2024;15:00;Airdrieonians;Partick Thistle;0;2;-2
+18;21/12/2024;15:00;Falkirk;Hamilton Acad.;1;0;1
+18;21/12/2024;15:00;Livingston;Ayr United;0;1;-1
+18;21/12/2024;15:00;Morton;Dunfermline Ath.;2;0;2
+19;27/12/2024;19:45;Dunfermline Ath.;Falkirk;3;3;0
+19;28/12/2024;15:00;Ayr United;Morton;0;0;0
+19;28/12/2024;15:00;Hamilton Acad.;Airdrieonians;3;2;1
+19;28/12/2024;15:00;Partick Thistle;Queen's Park FC;2;1;1
+19;28/12/2024;15:00;Raith Rovers;Livingston;2;1;1
+15;31/12/2024;15:00;Morton;Partick Thistle;2;1;1
+20;04/01/2025;15:00;Ayr United;Raith Rovers;3;0;3
+20;04/01/2025;15:00;Queen's Park FC;Livingston;2;0;2
+20;04/01/2025;15:00;Partick Thistle;Dunfermline Ath.;1;4;-3
+21;10/01/2025;19:45;Hamilton Acad.;Partick Thistle;1;2;-1
+21;11/01/2025;15:00;Falkirk;Queen's Park FC;0;0;0
+21;14/01/2025;19:45;Dunfermline Ath.;Ayr United;0;2;-2
+21;14/01/2025;19:45;Livingston;Airdrieonians;2;1;1
+22;25/01/2025;15:00;Livingston;Hamilton Acad.;3;0;3
+22;25/01/2025;15:00;Ayr United;Partick Thistle;2;1;1
+22;25/01/2025;15:00;Queen's Park FC;Morton;1;2;-1
+22;25/01/2025;15:00;Airdrieonians;Dunfermline Ath.;3;0;3
+22;25/01/2025;15:00;Raith Rovers;Falkirk;0;2;-2
+15;28/01/2025;19:45;Hamilton Acad.;Raith Rovers;0;3;-3
+23;31/01/2025;19:45;Falkirk;Livingston;1;2;-1
+23;01/02/2025;15:00;Partick Thistle;Morton;2;2;0
+23;01/02/2025;15:00;Hamilton Acad.;Ayr United;0;2;-2
+23;01/02/2025;15:00;Airdrieonians;Queen's Park FC;2;1;1
+23;01/02/2025;15:00;Dunfermline Ath.;Raith Rovers;3;1;2
+26;08/02/2025;15:00;Falkirk;Partick Thistle;5;2;3
+24;15/02/2025;15:00;Raith Rovers;Partick Thistle;3;0;3
+24;15/02/2025;15:00;Falkirk;Ayr United;2;2;0
+24;15/02/2025;15:00;Morton;Airdrieonians;2;2;0
+24;15/02/2025;15:00;Livingston;Dunfermline Ath.;0;0;0
+24;15/02/2025;15:00;Queen's Park FC;Hamilton Acad.;1;2;-1
+20;18/02/2025;19:45;Morton;Hamilton Acad.;2;0;2
+25;21/02/2025;19:45;Morton;Falkirk;0;2;-2
+25;22/02/2025;15:00;Raith Rovers;Hamilton Acad.;2;0;2
+25;22/02/2025;15:00;Partick Thistle;Airdrieonians;1;1;0
+25;22/02/2025;15:00;Ayr United;Livingston;1;2;-1
+25;22/02/2025;15:00;Dunfermline Ath.;Queen's Park FC;0;0;0
+26;25/02/2025;19:45;Livingston;Morton;3;2;1
+26;25/02/2025;19:45;Airdrieonians;Raith Rovers;1;0;1
+26;25/02/2025;19:45;Hamilton Acad.;Dunfermline Ath.;1;0;1
+27;28/02/2025;19:45;Partick Thistle;Livingston;1;1;0
+27;01/03/2025;15:00;Ayr United;Airdrieonians;4;1;3
+27;01/03/2025;15:00;Raith Rovers;Queen's Park FC;0;4;-4
+27;01/03/2025;15:00;Dunfermline Ath.;Morton;2;1;1
+27;01/03/2025;15:00;Hamilton Acad.;Falkirk;2;2;0
+20;04/03/2025;19:45;Airdrieonians;Falkirk;0;3;-3
+26;04/03/2025;19:45;Queen's Park FC;Ayr United;2;3;-1
+28;05/03/2025;19:45;Livingston;Raith Rovers;0;0;0
+28;08/03/2025;15:00;Morton;Ayr United;2;1;1
+28;08/03/2025;15:00;Falkirk;Dunfermline Ath.;1;0;1
+28;08/03/2025;15:00;Airdrieonians;Hamilton Acad.;2;1;1
+28;11/03/2025;19:45;Queen's Park FC;Partick Thistle;0;2;-2
+29;14/03/2025;19:45;Raith Rovers;Dunfermline Ath.;2;0;2
+29;15/03/2025;15:00;Airdrieonians;Livingston;3;3;0
+29;15/03/2025;15:00;Partick Thistle;Ayr United;2;0;2
+29;15/03/2025;15:00;Hamilton Acad.;Morton;0;2;-2
+29;15/03/2025;15:00;Queen's Park FC;Falkirk;0;4;-4
+30;21/03/2025;19:45;Partick Thistle;Raith Rovers;0;0;0
+30;22/03/2025;15:00;Falkirk;Airdrieonians;2;0;2
+30;22/03/2025;15:00;Morton;Queen's Park FC;2;1;1
+30;22/03/2025;15:00;Ayr United;Hamilton Acad.;1;1;0
+21;25/03/2025;19:45;Morton;Raith Rovers;3;3;0
+31;25/03/2025;19:45;Livingston;Falkirk;1;0;1
+31;29/03/2025;15:00;Ayr United;Dunfermline Ath.;3;0;3
+31;29/03/2025;15:00;Morton;Partick Thistle;0;1;-1
+31;29/03/2025;15:00;Hamilton Acad.;Raith Rovers;0;3;-3
+30;02/04/2025;19:45;Dunfermline Ath.;Livingston;1;0;1
+31;02/04/2025;19:45;Queen's Park FC;Airdrieonians;0;5;-5
+32;05/04/2025;15:00;Airdrieonians;Partick Thistle;2;1;1
+32;05/04/2025;15:00;Livingston;Queen's Park FC;3;0;3
+32;05/04/2025;15:00;Falkirk;Morton;5;0;5
+32;05/04/2025;15:00;Raith Rovers;Ayr United;1;0;1
+32;05/04/2025;15:00;Dunfermline Ath.;Hamilton Acad.;0;1;-1
+33;11/04/2025;19:45;Ayr United;Falkirk;1;1;0
+33;12/04/2025;15:00;Partick Thistle;Hamilton Acad.;1;2;-1
+33;12/04/2025;15:00;Raith Rovers;Airdrieonians;1;1;0
+33;12/04/2025;15:00;Queen's Park FC;Dunfermline Ath.;0;1;-1
+33;12/04/2025;15:00;Morton;Livingston;1;2;-1
+34;18/04/2025;19:45;Livingston;Ayr United;5;0;5
+34;19/04/2025;15:00;Falkirk;Raith Rovers;1;3;-2
+34;19/04/2025;15:00;Dunfermline Ath.;Partick Thistle;0;0;0
+34;19/04/2025;15:00;Hamilton Acad.;Queen's Park FC;0;0;0
+34;19/04/2025;15:00;Airdrieonians;Morton;0;1;-1
+35;25/04/2025;19:45;Partick Thistle;Falkirk;2;1;1
+35;26/04/2025;15:00;Ayr United;Queen's Park FC;2;2;0
+35;26/04/2025;15:00;Hamilton Acad.;Livingston;0;3;-3
+35;26/04/2025;15:00;Dunfermline Ath.;Airdrieonians;0;0;0
+35;26/04/2025;15:00;Raith Rovers;Morton;1;1;0
+36;02/05/2025;19:45;Queen's Park FC;Raith Rovers;1;5;-4
+36;02/05/2025;19:45;Morton;Dunfermline Ath.;2;0;2
+36;02/05/2025;19:45;Livingston;Partick Thistle;0;1;-1
+36;02/05/2025;19:45;Airdrieonians;Ayr United;0;1;-1
+36;02/05/2025;19:45;Falkirk;Hamilton Acad.;3;1;2

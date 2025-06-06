@@ -1,0 +1,553 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;20:00;Blackburn;Derby County;4;2;2
+1;09/08/2024;20:00;Preston;Sheffield Utd;0;2;-2
+1;10/08/2024;12:30;Millwall;Watford;2;3;-1
+1;10/08/2024;12:30;Cardiff City;Sunderland;0;2;-2
+1;10/08/2024;12:30;QPR;West Brom;1;3;-2
+1;10/08/2024;12:30;Middlesbrough;Swansea City;1;0;1
+1;10/08/2024;12:30;Hull City;Bristol City;1;1;0
+1;10/08/2024;12:30;Oxford United;Norwich City;2;0;2
+1;10/08/2024;12:30;Leeds United;Portsmouth;3;3;0
+1;10/08/2024;12:30;Stoke City;Coventry City;1;0;1
+1;11/08/2024;16:00;Sheffield Weds;Plymouth Argyle;4;0;4
+1;12/08/2024;20:00;Luton Town;Burnley;1;4;-3
+2;16/08/2024;20:00;Coventry City;Oxford United;3;2;1
+2;17/08/2024;12:30;Portsmouth;Luton Town;0;0;0
+2;17/08/2024;12:30;West Brom;Leeds United;0;0;0
+2;17/08/2024;12:30;Derby County;Middlesbrough;1;0;1
+2;17/08/2024;15:00;Bristol City;Millwall;4;3;1
+2;17/08/2024;15:00;Swansea City;Preston;3;0;3
+2;17/08/2024;15:00;Burnley;Cardiff City;5;0;5
+2;17/08/2024;15:00;Plymouth Argyle;Hull City;1;1;0
+2;17/08/2024;15:00;Norwich City;Blackburn;2;2;0
+2;17/08/2024;15:00;Sheffield Utd;QPR;2;2;0
+2;17/08/2024;15:00;Watford;Stoke City;3;0;3
+2;18/08/2024;12:00;Sunderland;Sheffield Weds;4;0;4
+3;23/08/2024;20:00;Sheffield Weds;Leeds United;0;2;-2
+3;24/08/2024;12:30;QPR;Plymouth Argyle;1;1;0
+3;24/08/2024;12:30;Hull City;Millwall;0;0;0
+3;24/08/2024;12:30;Bristol City;Coventry City;1;1;0
+3;24/08/2024;15:00;Sunderland;Burnley;1;0;1
+3;24/08/2024;15:00;Preston;Luton Town;1;0;1
+3;24/08/2024;15:00;Watford;Derby County;2;1;1
+3;24/08/2024;15:00;Blackburn;Oxford United;2;1;1
+3;24/08/2024;15:00;Stoke City;West Brom;1;2;-1
+3;24/08/2024;15:00;Middlesbrough;Portsmouth;2;2;0
+3;24/08/2024;15:00;Norwich City;Sheffield Utd;1;1;0
+3;25/08/2024;15:00;Swansea City;Cardiff City;1;1;0
+4;30/08/2024;20:00;Luton Town;QPR;1;2;-1
+4;31/08/2024;12:30;Cardiff City;Middlesbrough;0;2;-2
+4;31/08/2024;12:30;Burnley;Blackburn;1;1;0
+4;31/08/2024;12:30;Coventry City;Norwich City;0;1;-1
+4;31/08/2024;15:00;Portsmouth;Sunderland;1;3;-2
+4;31/08/2024;15:00;Derby County;Bristol City;3;0;3
+4;31/08/2024;15:00;Leeds United;Hull City;2;0;2
+4;31/08/2024;15:00;Oxford United;Preston;3;1;2
+4;31/08/2024;15:00;West Brom;Swansea City;1;0;1
+4;31/08/2024;15:00;Millwall;Sheffield Weds;3;0;3
+4;31/08/2024;15:00;Plymouth Argyle;Stoke City;0;1;-1
+4;01/09/2024;15:00;Sheffield Utd;Watford;1;0;1
+5;13/09/2024;20:00;Hull City;Sheffield Utd;0;2;-2
+5;14/09/2024;12:30;Oxford United;Stoke City;1;0;1
+5;14/09/2024;12:30;Leeds United;Burnley;0;1;-1
+5;14/09/2024;12:30;Millwall;Luton Town;0;1;-1
+5;14/09/2024;15:00;Swansea City;Norwich City;1;0;1
+5;14/09/2024;15:00;Derby County;Cardiff City;1;0;1
+5;14/09/2024;15:00;Sheffield Weds;QPR;1;1;0
+5;14/09/2024;15:00;Blackburn;Bristol City;3;0;3
+5;14/09/2024;15:00;Watford;Coventry City;1;1;0
+5;14/09/2024;15:00;Plymouth Argyle;Sunderland;3;2;1
+5;14/09/2024;15:00;Middlesbrough;Preston;1;1;0
+5;15/09/2024;15:00;Portsmouth;West Brom;0;3;-3
+6;20/09/2024;20:00;Stoke City;Hull City;1;3;-2
+6;21/09/2024;12:30;QPR;Millwall;1;1;0
+6;21/09/2024;12:30;Norwich City;Watford;4;1;3
+6;21/09/2024;12:30;Sunderland;Middlesbrough;1;0;1
+6;21/09/2024;15:00;West Brom;Plymouth Argyle;1;0;1
+6;21/09/2024;15:00;Luton Town;Sheffield Weds;2;1;1
+6;21/09/2024;15:00;Bristol City;Oxford United;2;1;1
+6;21/09/2024;15:00;Sheffield Utd;Derby County;1;0;1
+6;21/09/2024;15:00;Burnley;Portsmouth;2;1;1
+6;21/09/2024;15:00;Coventry City;Swansea City;1;2;-1
+6;21/09/2024;15:00;Cardiff City;Leeds United;0;2;-2
+6;22/09/2024;12:00;Preston;Blackburn;0;0;0
+7;27/09/2024;20:00;Plymouth Argyle;Luton Town;3;1;2
+7;28/09/2024;12:30;Blackburn;QPR;2;0;2
+7;28/09/2024;12:30;Derby County;Norwich City;2;3;-1
+7;28/09/2024;12:30;Sheffield Weds;West Brom;3;2;1
+7;28/09/2024;15:00;Leeds United;Coventry City;3;0;3
+7;28/09/2024;15:00;Watford;Sunderland;2;1;1
+7;28/09/2024;15:00;Millwall;Preston;3;1;2
+7;28/09/2024;15:00;Middlesbrough;Stoke City;2;0;2
+7;28/09/2024;15:00;Oxford United;Burnley;0;0;0
+7;28/09/2024;15:00;Portsmouth;Sheffield Utd;0;0;0
+7;28/09/2024;15:00;Hull City;Cardiff City;4;1;3
+7;29/09/2024;15:00;Swansea City;Bristol City;1;1;0
+8;01/10/2024;19:45;Burnley;Plymouth Argyle;1;0;1
+8;01/10/2024;19:45;QPR;Hull City;1;3;-2
+8;01/10/2024;19:45;Sunderland;Derby County;2;0;2
+8;01/10/2024;19:45;Luton Town;Oxford United;2;2;0
+8;01/10/2024;19:45;Coventry City;Blackburn;3;0;3
+8;01/10/2024;19:45;Cardiff City;Millwall;1;0;1
+8;01/10/2024;19:45;Norwich City;Leeds United;1;1;0
+8;01/10/2024;20:00;West Brom;Middlesbrough;0;1;-1
+8;02/10/2024;19:45;Stoke City;Portsmouth;6;1;5
+8;02/10/2024;19:45;Sheffield Utd;Swansea City;1;0;1
+8;02/10/2024;19:45;Preston;Watford;3;0;3
+8;02/10/2024;20:00;Bristol City;Sheffield Weds;0;0;0
+9;04/10/2024;20:00;Sunderland;Leeds United;2;2;0
+9;05/10/2024;12:30;Burnley;Preston;0;0;0
+9;05/10/2024;12:30;Portsmouth;Oxford United;1;1;0
+9;05/10/2024;12:30;Norwich City;Hull City;4;0;4
+9;05/10/2024;15:00;Plymouth Argyle;Blackburn;2;1;1
+9;05/10/2024;15:00;Watford;Middlesbrough;2;1;1
+9;05/10/2024;15:00;Swansea City;Stoke City;0;0;0
+9;05/10/2024;15:00;Sheffield Utd;Luton Town;2;0;2
+9;05/10/2024;15:00;Derby County;QPR;2;0;2
+9;05/10/2024;15:00;Coventry City;Sheffield Weds;1;2;-1
+9;05/10/2024;15:00;West Brom;Millwall;0;0;0
+9;06/10/2024;15:00;Bristol City;Cardiff City;1;1;0
+10;18/10/2024;20:00;Leeds United;Sheffield Utd;2;0;2
+10;19/10/2024;12:30;Oxford United;West Brom;1;1;0
+10;19/10/2024;12:30;Cardiff City;Plymouth Argyle;5;0;5
+10;19/10/2024;12:30;Luton Town;Watford;3;0;3
+10;19/10/2024;12:30;Preston;Coventry City;1;0;1
+10;19/10/2024;15:00;Millwall;Derby County;1;1;0
+10;19/10/2024;15:00;QPR;Portsmouth;1;2;-1
+10;19/10/2024;15:00;Stoke City;Norwich City;1;1;0
+10;19/10/2024;15:00;Middlesbrough;Bristol City;0;2;-2
+10;19/10/2024;15:00;Sheffield Weds;Burnley;0;2;-2
+10;19/10/2024;15:00;Blackburn;Swansea City;1;0;1
+10;20/10/2024;15:00;Hull City;Sunderland;0;1;-1
+11;22/10/2024;19:45;Stoke City;Bristol City;2;2;0
+11;22/10/2024;19:45;Oxford United;Derby County;1;1;0
+11;22/10/2024;19:45;Leeds United;Watford;2;1;1
+11;22/10/2024;19:45;Preston;Norwich City;2;2;0
+11;22/10/2024;19:45;Cardiff City;Portsmouth;2;0;2
+11;22/10/2024;19:45;Sheffield Weds;Swansea City;0;0;0
+11;22/10/2024;20:00;QPR;Coventry City;1;1;0
+11;23/10/2024;19:45;Millwall;Plymouth Argyle;1;0;1
+11;23/10/2024;19:45;Luton Town;Sunderland;1;2;-1
+11;23/10/2024;19:45;Blackburn;West Brom;0;0;0
+11;23/10/2024;19:45;Hull City;Burnley;1;1;0
+11;23/10/2024;20:00;Middlesbrough;Sheffield Utd;1;0;1
+12;25/10/2024;20:00;Portsmouth;Sheffield Weds;1;2;-1
+12;26/10/2024;12:30;Bristol City;Leeds United;0;0;0
+12;26/10/2024;12:30;Coventry City;Luton Town;3;2;1
+12;26/10/2024;12:30;Watford;Blackburn;1;0;1
+12;26/10/2024;15:00;Burnley;QPR;0;0;0
+12;26/10/2024;15:00;Plymouth Argyle;Preston;3;3;0
+12;26/10/2024;15:00;Sheffield Utd;Stoke City;2;0;2
+12;26/10/2024;15:00;Sunderland;Oxford United;2;0;2
+12;26/10/2024;15:00;Swansea City;Millwall;0;1;-1
+12;26/10/2024;15:00;West Brom;Cardiff City;0;0;0
+12;26/10/2024;15:00;Derby County;Hull City;1;1;0
+12;27/10/2024;15:00;Norwich City;Middlesbrough;3;3;0
+13;01/11/2024;20:00;Luton Town;West Brom;1;1;0
+13;02/11/2024;12:30;Oxford United;Swansea City;1;2;-1
+13;02/11/2024;12:30;Blackburn;Sheffield Utd;0;2;-2
+13;02/11/2024;12:30;Stoke City;Derby County;2;1;1
+13;02/11/2024;15:00;Cardiff City;Norwich City;2;1;1
+13;02/11/2024;15:00;Sheffield Weds;Watford;2;6;-4
+13;02/11/2024;15:00;Preston;Bristol City;1;3;-2
+13;02/11/2024;15:00;Hull City;Portsmouth;1;1;0
+13;02/11/2024;15:00;QPR;Sunderland;0;0;0
+13;02/11/2024;15:00;Middlesbrough;Coventry City;0;3;-3
+13;02/11/2024;15:00;Leeds United;Plymouth Argyle;3;0;3
+13;03/11/2024;15:00;Millwall;Burnley;1;0;1
+14;05/11/2024;19:45;QPR;Middlesbrough;1;4;-3
+14;05/11/2024;19:45;Sheffield Weds;Norwich City;2;0;2
+14;05/11/2024;19:45;Bristol City;Sheffield Utd;1;2;-1
+14;05/11/2024;19:45;Oxford United;Hull City;1;0;1
+14;05/11/2024;20:00;Plymouth Argyle;Portsmouth;1;0;1
+14;05/11/2024;20:00;Swansea City;Watford;1;0;1
+14;06/11/2024;19:45;Blackburn;Stoke City;0;2;-2
+14;06/11/2024;19:45;Millwall;Leeds United;1;0;1
+14;06/11/2024;19:45;Coventry City;Derby County;1;2;-1
+14;06/11/2024;20:00;Preston;Sunderland;0;0;0
+14;06/11/2024;20:00;Luton Town;Cardiff City;1;0;1
+14;07/11/2024;20:00;West Brom;Burnley;0;0;0
+15;08/11/2024;20:00;Watford;Oxford United;1;0;1
+15;09/11/2024;12:30;Stoke City;Millwall;1;1;0
+15;09/11/2024;12:30;Middlesbrough;Luton Town;5;1;4
+15;09/11/2024;12:30;Cardiff City;Blackburn;1;3;-2
+15;09/11/2024;15:00;Portsmouth;Preston;3;1;2
+15;09/11/2024;15:00;Leeds United;QPR;2;0;2
+15;09/11/2024;15:00;Norwich City;Bristol City;0;2;-2
+15;09/11/2024;15:00;Derby County;Plymouth Argyle;1;1;0
+15;09/11/2024;15:00;Sunderland;Coventry City;2;2;0
+15;10/11/2024;12:30;Sheffield Utd;Sheffield Weds;1;0;1
+15;10/11/2024;13:00;Hull City;West Brom;1;2;-1
+15;10/11/2024;15:00;Burnley;Swansea City;1;0;1
+16;22/11/2024;20:00;Plymouth Argyle;Watford;2;2;0
+16;23/11/2024;12:30;Bristol City;Burnley;0;1;-1
+16;23/11/2024;12:30;Sheffield Weds;Cardiff City;1;1;0
+16;23/11/2024;12:30;Coventry City;Sheffield Utd;2;2;0
+16;23/11/2024;15:00;QPR;Stoke City;1;1;0
+16;23/11/2024;15:00;Millwall;Sunderland;1;1;0
+16;23/11/2024;15:00;Luton Town;Hull City;1;0;1
+16;23/11/2024;15:00;Preston;Derby County;1;1;0
+16;23/11/2024;15:00;Oxford United;Middlesbrough;2;6;-4
+16;23/11/2024;15:00;West Brom;Norwich City;2;2;0
+16;24/11/2024;15:00;Swansea City;Leeds United;3;4;-1
+17;26/11/2024;19:45;Watford;Bristol City;1;0;1
+17;26/11/2024;19:45;Burnley;Coventry City;2;0;2
+17;26/11/2024;19:45;Sheffield Utd;Oxford United;3;0;3
+17;26/11/2024;19:45;Stoke City;Preston;0;0;0
+17;26/11/2024;19:45;Norwich City;Plymouth Argyle;6;1;5
+17;26/11/2024;19:45;Hull City;Sheffield Weds;0;2;-2
+17;26/11/2024;20:00;Sunderland;West Brom;0;0;0
+17;27/11/2024;19:45;Cardiff City;QPR;0;2;-2
+17;27/11/2024;19:45;Middlesbrough;Blackburn;0;1;-1
+17;27/11/2024;19:45;Leeds United;Luton Town;3;0;3
+17;27/11/2024;20:00;Derby County;Swansea City;1;2;-1
+18;29/11/2024;20:00;Sheffield Utd;Sunderland;1;0;1
+18;30/11/2024;12:30;Middlesbrough;Hull City;3;1;2
+18;30/11/2024;12:30;Watford;QPR;0;0;0
+18;30/11/2024;12:30;Oxford United;Millwall;1;1;0
+18;30/11/2024;13:30;Blackburn;Leeds United;1;0;1
+18;30/11/2024;15:00;Stoke City;Burnley;0;2;-2
+18;30/11/2024;15:00;Swansea City;Portsmouth;2;2;0
+18;30/11/2024;15:00;Coventry City;Cardiff City;2;2;0
+18;30/11/2024;15:00;Norwich City;Luton Town;4;2;2
+18;30/11/2024;15:00;Bristol City;Plymouth Argyle;4;0;4
+18;30/11/2024;15:00;Preston;West Brom;1;1;0
+18;01/12/2024;15:00;Derby County;Sheffield Weds;1;2;-1
+19;06/12/2024;20:00;Burnley;Middlesbrough;1;1;0
+19;07/12/2024;12:30;Sunderland;Stoke City;2;1;1
+19;07/12/2024;12:30;Leeds United;Derby County;2;0;2
+19;07/12/2024;12:30;Sheffield Weds;Preston;1;1;0
+19;07/12/2024;15:00;Hull City;Blackburn;0;1;-1
+19;07/12/2024;15:00;QPR;Norwich City;3;0;3
+19;07/12/2024;15:00;Millwall;Coventry City;0;1;-1
+19;07/12/2024;15:00;Portsmouth;Bristol City;3;0;3
+19;07/12/2024;15:15;Luton Town;Swansea City;1;1;0
+19;08/12/2024;15:00;West Brom;Sheffield Utd;2;2;0
+20;10/12/2024;19:45;Luton Town;Stoke City;2;1;1
+20;10/12/2024;19:45;Sheffield Weds;Blackburn;0;1;-1
+20;10/12/2024;19:45;Burnley;Derby County;0;0;0
+20;10/12/2024;19:45;Plymouth Argyle;Swansea City;1;2;-1
+20;10/12/2024;19:45;Portsmouth;Norwich City;0;0;0
+20;10/12/2024;19:45;Sunderland;Bristol City;1;1;0
+20;10/12/2024;20:00;Leeds United;Middlesbrough;3;1;2
+20;11/12/2024;19:45;Cardiff City;Preston;0;2;-2
+20;11/12/2024;19:45;Millwall;Sheffield Utd;0;1;-1
+20;11/12/2024;19:45;QPR;Oxford United;2;0;2
+20;11/12/2024;19:45;Hull City;Watford;1;1;0
+20;11/12/2024;20:00;West Brom;Coventry City;2;0;2
+21;13/12/2024;20:00;Derby County;Portsmouth;4;0;4
+21;14/12/2024;12:30;Bristol City;QPR;1;1;0
+21;14/12/2024;12:30;Coventry City;Hull City;2;1;1
+21;14/12/2024;12:30;Preston;Leeds United;1;1;0
+21;14/12/2024;15:00;Swansea City;Sunderland;2;3;-1
+21;14/12/2024;15:00;Stoke City;Cardiff City;2;2;0
+21;14/12/2024;15:00;Blackburn;Luton Town;2;0;2
+21;14/12/2024;15:00;Middlesbrough;Millwall;1;0;1
+21;14/12/2024;15:00;Sheffield Utd;Plymouth Argyle;2;0;2
+21;14/12/2024;15:00;Oxford United;Sheffield Weds;1;3;-2
+21;15/12/2024;14:00;Watford;West Brom;2;1;1
+21;15/12/2024;15:00;Norwich City;Burnley;1;2;-1
+22;20/12/2024;20:00;Luton Town;Derby County;2;1;1
+22;21/12/2024;12:30;Hull City;Swansea City;2;1;1
+22;21/12/2024;12:30;Sheffield Weds;Stoke City;2;0;2
+22;21/12/2024;12:30;Portsmouth;Coventry City;4;1;3
+22;21/12/2024;15:00;Burnley;Watford;2;1;1
+22;21/12/2024;15:00;QPR;Preston;2;1;1
+22;21/12/2024;15:00;Millwall;Blackburn;1;0;1
+22;21/12/2024;15:00;Leeds United;Oxford United;4;0;4
+22;21/12/2024;15:00;Cardiff City;Sheffield Utd;0;2;-2
+22;21/12/2024;15:00;Plymouth Argyle;Middlesbrough;3;3;0
+22;21/12/2024;15:00;Sunderland;Norwich City;2;1;1
+22;22/12/2024;15:00;West Brom;Bristol City;2;0;2
+23;26/12/2024;15:00;Watford;Portsmouth;2;1;1
+23;26/12/2024;15:00;Norwich City;Millwall;2;1;1
+23;26/12/2024;15:00;Middlesbrough;Sheffield Weds;3;3;0
+23;26/12/2024;15:00;Preston;Hull City;1;0;1
+23;26/12/2024;15:00;Oxford United;Cardiff City;3;2;1
+23;26/12/2024;15:00;Coventry City;Plymouth Argyle;4;0;4
+23;26/12/2024;15:00;Blackburn;Sunderland;2;2;0
+23;26/12/2024;15:00;Sheffield Utd;Burnley;0;2;-2
+23;26/12/2024;15:00;Bristol City;Luton Town;1;0;1
+23;26/12/2024;15:00;Swansea City;QPR;3;0;3
+23;26/12/2024;17:30;Derby County;West Brom;2;1;1
+23;26/12/2024;20:00;Stoke City;Leeds United;0;2;-2
+24;29/12/2024;12:30;Sheffield Utd;West Brom;1;1;0
+24;29/12/2024;12:30;Norwich City;QPR;1;1;0
+24;29/12/2024;12:30;Preston;Sheffield Weds;3;1;2
+24;29/12/2024;15:00;Watford;Cardiff City;1;2;-1
+24;29/12/2024;15:00;Oxford United;Plymouth Argyle;2;0;2
+24;29/12/2024;15:00;Blackburn;Hull City;0;1;-1
+24;29/12/2024;15:00;Stoke City;Sunderland;1;0;1
+24;29/12/2024;15:00;Swansea City;Luton Town;2;1;1
+24;29/12/2024;15:00;Coventry City;Millwall;0;0;0
+24;29/12/2024;15:00;Bristol City;Portsmouth;3;0;3
+24;29/12/2024;17:45;Derby County;Leeds United;0;1;-1
+24;29/12/2024;20:00;Middlesbrough;Burnley;0;0;0
+25;01/01/2025;12:30;Plymouth Argyle;Bristol City;2;2;0
+25;01/01/2025;12:30;QPR;Watford;3;1;2
+25;01/01/2025;13:00;Millwall;Oxford United;0;1;-1
+25;01/01/2025;15:00;Portsmouth;Swansea City;4;0;4
+25;01/01/2025;15:00;Cardiff City;Coventry City;1;1;0
+25;01/01/2025;15:00;Luton Town;Norwich City;0;1;-1
+25;01/01/2025;15:00;West Brom;Preston;3;1;2
+25;01/01/2025;15:00;Leeds United;Blackburn;1;1;0
+25;01/01/2025;15:00;Sheffield Weds;Derby County;4;2;2
+25;01/01/2025;15:00;Burnley;Stoke City;0;0;0
+25;01/01/2025;17:30;Hull City;Middlesbrough;0;1;-1
+25;01/01/2025;20:00;Sunderland;Sheffield Utd;2;1;1
+26;04/01/2025;12:30;Stoke City;Plymouth Argyle;0;0;0
+26;04/01/2025;12:30;Blackburn;Burnley;0;1;-1
+26;04/01/2025;12:30;Swansea City;West Brom;1;1;0
+26;04/01/2025;15:00;Hull City;Leeds United;3;3;0
+26;04/01/2025;15:00;Bristol City;Derby County;1;0;1
+26;04/01/2025;15:00;Watford;Sheffield Utd;1;2;-1
+26;04/01/2025;15:00;Norwich City;Coventry City;2;1;1
+26;04/01/2025;15:00;Sheffield Weds;Millwall;2;2;0
+26;04/01/2025;15:00;Preston;Oxford United;1;1;0
+26;04/01/2025;15:00;Middlesbrough;Cardiff City;1;1;0
+26;05/01/2025;15:00;Sunderland;Portsmouth;1;0;1
+26;06/01/2025;20:00;QPR;Luton Town;2;1;1
+19;14/01/2025;19:45;Cardiff City;Watford;1;1;0
+19;14/01/2025;19:45;Plymouth Argyle;Oxford United;1;1;0
+16;15/01/2025;19:45;Blackburn;Portsmouth;3;0;3
+27;17/01/2025;20:00;Burnley;Sunderland;0;0;0
+27;18/01/2025;12:30;Millwall;Hull City;0;1;-1
+27;18/01/2025;12:30;Cardiff City;Swansea City;3;0;3
+27;18/01/2025;12:30;Plymouth Argyle;QPR;0;1;-1
+27;18/01/2025;15:00;Portsmouth;Middlesbrough;2;1;1
+27;18/01/2025;15:00;Luton Town;Preston;0;0;0
+27;18/01/2025;15:00;Sheffield Utd;Norwich City;2;0;2
+27;18/01/2025;15:00;Oxford United;Blackburn;1;0;1
+27;18/01/2025;15:00;West Brom;Stoke City;1;1;0
+27;18/01/2025;15:00;Coventry City;Bristol City;1;0;1
+27;18/01/2025;15:00;Derby County;Watford;0;2;-2
+27;19/01/2025;12:00;Leeds United;Sheffield Weds;3;0;3
+28;21/01/2025;19:45;Swansea City;Sheffield Utd;1;2;-1
+28;21/01/2025;19:45;Derby County;Sunderland;0;1;-1
+28;21/01/2025;19:45;Oxford United;Luton Town;3;2;1
+28;21/01/2025;19:45;Watford;Preston;1;2;-1
+28;21/01/2025;19:45;Middlesbrough;West Brom;2;0;2
+28;21/01/2025;19:45;Blackburn;Coventry City;0;2;-2
+28;21/01/2025;19:45;Hull City;QPR;1;2;-1
+28;21/01/2025;20:00;Millwall;Cardiff City;2;2;0
+28;22/01/2025;19:45;Leeds United;Norwich City;2;0;2
+28;22/01/2025;19:45;Portsmouth;Stoke City;3;1;2
+28;22/01/2025;19:45;Sheffield Weds;Bristol City;2;2;0
+28;22/01/2025;20:00;Plymouth Argyle;Burnley;0;5;-5
+29;24/01/2025;20:00;Sheffield Utd;Hull City;0;3;-3
+29;25/01/2025;12:30;Luton Town;Millwall;0;1;-1
+29;25/01/2025;12:30;Stoke City;Oxford United;0;0;0
+29;25/01/2025;12:30;Norwich City;Swansea City;5;1;4
+29;25/01/2025;15:00;Sunderland;Plymouth Argyle;2;2;0
+29;25/01/2025;15:00;QPR;Sheffield Weds;0;2;-2
+29;25/01/2025;15:00;Cardiff City;Derby County;2;1;1
+29;25/01/2025;15:00;Preston;Middlesbrough;2;1;1
+29;25/01/2025;15:00;Bristol City;Blackburn;2;1;1
+29;25/01/2025;15:00;Coventry City;Watford;2;1;1
+29;25/01/2025;15:00;West Brom;Portsmouth;5;1;4
+29;27/01/2025;20:00;Burnley;Leeds United;0;0;0
+17;28/01/2025;19:45;Portsmouth;Millwall;0;1;-1
+30;31/01/2025;20:00;Blackburn;Preston;2;1;1
+30;01/02/2025;12:30;Oxford United;Bristol City;1;1;0
+30;01/02/2025;12:30;Plymouth Argyle;West Brom;2;1;1
+30;01/02/2025;12:30;Watford;Norwich City;0;1;-1
+30;01/02/2025;15:00;Hull City;Stoke City;1;2;-1
+30;01/02/2025;15:00;Derby County;Sheffield Utd;0;1;-1
+30;01/02/2025;15:00;Portsmouth;Burnley;0;0;0
+30;01/02/2025;15:00;Millwall;QPR;2;1;1
+30;01/02/2025;15:00;Leeds United;Cardiff City;7;0;7
+30;01/02/2025;15:00;Sheffield Weds;Luton Town;1;1;0
+30;01/02/2025;15:00;Swansea City;Coventry City;0;2;-2
+30;03/02/2025;20:00;Middlesbrough;Sunderland;2;3;-1
+31;04/02/2025;19:45;Burnley;Oxford United;1;0;1
+31;04/02/2025;19:45;QPR;Blackburn;2;1;1
+31;05/02/2025;19:45;Coventry City;Leeds United;0;2;-2
+31;08/02/2025;12:30;Sunderland;Watford;2;2;0
+31;08/02/2025;12:30;West Brom;Sheffield Weds;2;1;1
+31;08/02/2025;15:00;Sheffield Utd;Portsmouth;2;1;1
+31;08/02/2025;15:00;Norwich City;Derby County;1;1;0
+31;09/02/2025;12:00;Bristol City;Swansea City;0;1;-1
+32;11/02/2025;19:45;Derby County;Oxford United;0;0;0
+32;11/02/2025;19:45;Watford;Leeds United;0;4;-4
+32;11/02/2025;19:45;Portsmouth;Cardiff City;2;1;1
+32;11/02/2025;19:45;Coventry City;QPR;1;0;1
+32;11/02/2025;20:00;Norwich City;Preston;0;1;-1
+32;12/02/2025;19:45;Swansea City;Sheffield Weds;0;1;-1
+32;12/02/2025;19:45;Sunderland;Luton Town;2;0;2
+32;12/02/2025;19:45;Plymouth Argyle;Millwall;5;1;4
+32;12/02/2025;19:45;Burnley;Hull City;2;0;2
+32;12/02/2025;19:45;Bristol City;Stoke City;2;0;2
+32;12/02/2025;20:00;Sheffield Utd;Middlesbrough;3;1;2
+32;12/02/2025;20:00;West Brom;Blackburn;0;2;-2
+33;14/02/2025;20:00;QPR;Derby County;4;0;4
+33;15/02/2025;12:30;Oxford United;Portsmouth;0;2;-2
+33;15/02/2025;12:30;Preston;Burnley;0;0;0
+33;15/02/2025;12:30;Cardiff City;Bristol City;1;1;0
+33;15/02/2025;15:00;Millwall;West Brom;1;1;0
+33;15/02/2025;15:00;Stoke City;Swansea City;3;1;2
+33;15/02/2025;15:00;Hull City;Norwich City;1;1;0
+33;15/02/2025;15:00;Luton Town;Sheffield Utd;0;1;-1
+33;15/02/2025;15:00;Blackburn;Plymouth Argyle;2;0;2
+33;15/02/2025;15:00;Middlesbrough;Watford;0;1;-1
+33;15/02/2025;15:00;Sheffield Weds;Coventry City;1;2;-1
+33;17/02/2025;20:00;Leeds United;Sunderland;2;1;1
+31;18/02/2025;19:45;Preston;Millwall;1;1;0
+31;19/02/2025;19:45;Luton Town;Plymouth Argyle;1;1;0
+34;21/02/2025;19:45;Bristol City;Middlesbrough;2;1;1
+34;21/02/2025;20:00;Burnley;Sheffield Weds;4;0;4
+34;22/02/2025;12:30;Plymouth Argyle;Cardiff City;1;1;0
+34;22/02/2025;12:30;Sunderland;Hull City;0;1;-1
+34;22/02/2025;12:30;Derby County;Millwall;0;1;-1
+34;22/02/2025;15:00;West Brom;Oxford United;2;0;2
+34;22/02/2025;15:00;Portsmouth;QPR;2;1;1
+34;22/02/2025;15:00;Coventry City;Preston;2;1;1
+34;22/02/2025;15:00;Norwich City;Stoke City;4;2;2
+34;22/02/2025;15:00;Swansea City;Blackburn;3;0;3
+34;23/02/2025;12:00;Watford;Luton Town;2;0;2
+34;24/02/2025;20:00;Sheffield Utd;Leeds United;1;3;-2
+31;25/02/2025;19:45;Cardiff City;Hull City;1;0;1
+31;25/02/2025;19:45;Stoke City;Middlesbrough;1;3;-2
+35;28/02/2025;20:00;Sheffield Weds;Sunderland;1;2;-1
+35;01/03/2025;12:30;Oxford United;Coventry City;2;3;-1
+35;01/03/2025;12:30;Blackburn;Norwich City;1;1;0
+35;01/03/2025;12:30;Leeds United;West Brom;1;1;0
+35;01/03/2025;15:00;Middlesbrough;Derby County;1;0;1
+35;01/03/2025;15:00;Luton Town;Portsmouth;1;0;1
+35;01/03/2025;15:00;Stoke City;Watford;0;0;0
+35;01/03/2025;15:00;QPR;Sheffield Utd;1;2;-1
+35;04/03/2025;19:45;Millwall;Bristol City;0;2;-2
+35;04/03/2025;19:45;Hull City;Plymouth Argyle;2;0;2
+35;04/03/2025;19:45;Preston;Swansea City;0;0;0
+35;04/03/2025;19:45;Cardiff City;Burnley;1;2;-1
+36;07/03/2025;20:00;Norwich City;Oxford United;1;1;0
+36;08/03/2025;12:30;Watford;Millwall;1;2;-1
+36;08/03/2025;12:30;Coventry City;Stoke City;3;2;1
+36;08/03/2025;15:00;West Brom;QPR;1;0;1
+36;08/03/2025;15:00;Plymouth Argyle;Sheffield Weds;0;3;-3
+36;08/03/2025;15:00;Burnley;Luton Town;4;0;4
+36;08/03/2025;15:00;Swansea City;Middlesbrough;1;0;1
+36;08/03/2025;15:00;Bristol City;Hull City;1;1;0
+36;08/03/2025;15:00;Sunderland;Cardiff City;2;1;1
+36;08/03/2025;15:00;Derby County;Blackburn;2;1;1
+36;08/03/2025;15:00;Sheffield Utd;Preston;1;0;1
+36;09/03/2025;12:00;Portsmouth;Leeds United;1;0;1
+37;11/03/2025;19:45;Norwich City;Sheffield Weds;2;3;-1
+37;11/03/2025;19:45;Sunderland;Preston;1;1;0
+37;11/03/2025;19:45;Derby County;Coventry City;2;0;2
+37;11/03/2025;19:45;Burnley;West Brom;1;1;0
+37;11/03/2025;19:45;Middlesbrough;QPR;2;1;1
+37;11/03/2025;19:45;Cardiff City;Luton Town;1;2;-1
+37;11/03/2025;20:00;Sheffield Utd;Bristol City;1;1;0
+37;12/03/2025;19:45;Leeds United;Millwall;2;0;2
+37;12/03/2025;19:45;Watford;Swansea City;1;0;1
+37;12/03/2025;19:45;Portsmouth;Plymouth Argyle;1;2;-1
+37;12/03/2025;19:45;Hull City;Oxford United;2;1;1
+37;12/03/2025;20:00;Stoke City;Blackburn;1;0;1
+38;14/03/2025;20:00;Bristol City;Norwich City;2;1;1
+38;15/03/2025;12:30;QPR;Leeds United;2;2;0
+38;15/03/2025;12:30;Millwall;Stoke City;1;0;1
+38;15/03/2025;15:00;West Brom;Hull City;1;1;0
+38;15/03/2025;15:00;Luton Town;Middlesbrough;0;0;0
+38;15/03/2025;15:00;Preston;Portsmouth;2;1;1
+38;15/03/2025;15:00;Oxford United;Watford;1;0;1
+38;15/03/2025;15:00;Coventry City;Sunderland;3;0;3
+38;15/03/2025;15:00;Blackburn;Cardiff City;1;2;-1
+38;15/03/2025;15:00;Plymouth Argyle;Derby County;2;3;-1
+38;15/03/2025;15:00;Swansea City;Burnley;0;2;-2
+38;16/03/2025;12:30;Sheffield Weds;Sheffield Utd;0;1;-1
+39;28/03/2025;20:00;Sheffield Utd;Coventry City;3;1;2
+39;29/03/2025;12:30;Hull City;Luton Town;0;1;-1
+39;29/03/2025;12:30;Watford;Plymouth Argyle;0;0;0
+39;29/03/2025;15:00;Burnley;Bristol City;1;0;1
+39;29/03/2025;15:00;Norwich City;West Brom;1;0;1
+39;29/03/2025;15:00;Cardiff City;Sheffield Weds;1;1;0
+39;29/03/2025;15:00;Leeds United;Swansea City;2;2;0
+39;29/03/2025;15:00;Portsmouth;Blackburn;1;0;1
+39;29/03/2025;15:00;Sunderland;Millwall;1;0;1
+39;29/03/2025;15:00;Middlesbrough;Oxford United;2;1;1
+39;29/03/2025;15:00;Stoke City;QPR;3;1;2
+39;02/04/2025;19:45;Derby County;Preston;2;0;2
+40;04/04/2025;20:00;Blackburn;Middlesbrough;0;2;-2
+40;05/04/2025;12:30;Luton Town;Leeds United;1;1;0
+40;05/04/2025;12:30;West Brom;Sunderland;0;1;-1
+40;05/04/2025;12:30;Coventry City;Burnley;1;2;-1
+40;05/04/2025;15:00;QPR;Cardiff City;0;0;0
+40;05/04/2025;15:00;Preston;Stoke City;1;1;0
+40;05/04/2025;15:00;Bristol City;Watford;2;1;1
+40;05/04/2025;15:00;Swansea City;Derby County;1;0;1
+40;05/04/2025;15:00;Plymouth Argyle;Norwich City;2;1;1
+40;05/04/2025;15:00;Millwall;Portsmouth;2;1;1
+40;05/04/2025;15:00;Sheffield Weds;Hull City;0;1;-1
+40;05/04/2025;15:00;Oxford United;Sheffield Utd;1;0;1
+41;08/04/2025;19:45;Watford;Hull City;1;0;1
+41;08/04/2025;19:45;Norwich City;Sunderland;0;0;0
+41;08/04/2025;19:45;Preston;Cardiff City;2;2;0
+41;08/04/2025;19:45;Blackburn;Sheffield Weds;2;2;0
+41;08/04/2025;19:45;Derby County;Burnley;0;0;0
+41;08/04/2025;19:45;Stoke City;Luton Town;1;1;0
+41;08/04/2025;19:45;Bristol City;West Brom;2;1;1
+41;08/04/2025;19:45;Sheffield Utd;Millwall;0;1;-1
+41;08/04/2025;20:00;Middlesbrough;Leeds United;0;1;-1
+41;09/04/2025;19:45;Swansea City;Plymouth Argyle;3;0;3
+41;09/04/2025;19:45;Oxford United;QPR;1;3;-2
+41;09/04/2025;20:00;Coventry City;Portsmouth;1;0;1
+42;11/04/2025;20:00;Burnley;Norwich City;2;1;1
+42;12/04/2025;12:30;Leeds United;Preston;2;1;1
+42;12/04/2025;12:30;Plymouth Argyle;Sheffield Utd;2;1;1
+42;12/04/2025;15:00;Sheffield Weds;Oxford United;0;1;-1
+42;12/04/2025;15:00;Portsmouth;Derby County;2;2;0
+42;12/04/2025;15:00;QPR;Bristol City;1;1;0
+42;12/04/2025;15:00;West Brom;Watford;2;1;1
+42;12/04/2025;15:00;Luton Town;Blackburn;0;1;-1
+42;12/04/2025;15:00;Cardiff City;Stoke City;0;1;-1
+42;12/04/2025;15:00;Sunderland;Swansea City;0;1;-1
+42;12/04/2025;15:00;Millwall;Middlesbrough;1;0;1
+42;14/04/2025;20:00;Hull City;Coventry City;1;1;0
+43;18/04/2025;12:30;Derby County;Luton Town;0;1;-1
+43;18/04/2025;15:00;Bristol City;Sunderland;2;1;1
+43;18/04/2025;15:00;Preston;QPR;1;2;-1
+43;18/04/2025;15:00;Swansea City;Hull City;1;0;1
+43;18/04/2025;15:00;Coventry City;West Brom;2;0;2
+43;18/04/2025;15:00;Blackburn;Millwall;4;1;3
+43;18/04/2025;15:00;Middlesbrough;Plymouth Argyle;2;1;1
+43;18/04/2025;15:00;Norwich City;Portsmouth;3;5;-2
+43;18/04/2025;15:00;Watford;Burnley;1;2;-1
+43;18/04/2025;15:00;Stoke City;Sheffield Weds;2;0;2
+43;18/04/2025;17:30;Sheffield Utd;Cardiff City;2;0;2
+43;18/04/2025;20:00;Oxford United;Leeds United;0;1;-1
+44;21/04/2025;15:00;Sheffield Weds;Middlesbrough;2;1;1
+44;21/04/2025;15:00;West Brom;Derby County;1;3;-2
+44;21/04/2025;15:00;QPR;Swansea City;1;2;-1
+44;21/04/2025;15:00;Leeds United;Stoke City;6;0;6
+44;21/04/2025;15:00;Cardiff City;Oxford United;1;1;0
+44;21/04/2025;15:00;Portsmouth;Watford;1;0;1
+44;21/04/2025;15:00;Plymouth Argyle;Coventry City;3;1;2
+44;21/04/2025;15:00;Millwall;Norwich City;3;1;2
+44;21/04/2025;15:00;Luton Town;Bristol City;3;1;2
+44;21/04/2025;15:00;Hull City;Preston;2;1;1
+44;21/04/2025;15:00;Sunderland;Blackburn;0;1;-1
+44;21/04/2025;17:30;Burnley;Sheffield Utd;2;1;1
+45;25/04/2025;20:00;Stoke City;Sheffield Utd;0;2;-2
+45;26/04/2025;12:30;QPR;Burnley;0;5;-5
+45;26/04/2025;12:30;Luton Town;Coventry City;1;0;1
+45;26/04/2025;15:00;Sheffield Weds;Portsmouth;1;1;0
+45;26/04/2025;15:00;Preston;Plymouth Argyle;1;2;-1
+45;26/04/2025;15:00;Millwall;Swansea City;1;0;1
+45;26/04/2025;15:00;Oxford United;Sunderland;2;0;2
+45;26/04/2025;15:00;Middlesbrough;Norwich City;0;0;0
+45;26/04/2025;15:00;Cardiff City;West Brom;0;0;0
+45;26/04/2025;15:00;Blackburn;Watford;2;1;1
+45;26/04/2025;15:00;Hull City;Derby County;0;1;-1
+45;28/04/2025;20:00;Leeds United;Bristol City;4;0;4
+46;03/05/2025;12:30;Sunderland;QPR;0;1;-1
+46;03/05/2025;12:30;Norwich City;Cardiff City;4;2;2
+46;03/05/2025;12:30;West Brom;Luton Town;5;3;2
+46;03/05/2025;12:30;Coventry City;Middlesbrough;2;0;2
+46;03/05/2025;12:30;Burnley;Millwall;3;1;2
+46;03/05/2025;12:30;Portsmouth;Hull City;1;1;0
+46;03/05/2025;12:30;Bristol City;Preston;2;2;0
+46;03/05/2025;12:30;Derby County;Stoke City;0;0;0
+46;03/05/2025;12:30;Watford;Sheffield Weds;1;1;0
+46;03/05/2025;12:30;Sheffield Utd;Blackburn;1;1;0
+46;03/05/2025;12:30;Plymouth Argyle;Leeds United;1;2;-1
+46;03/05/2025;12:30;Swansea City;Oxford United;3;3;0

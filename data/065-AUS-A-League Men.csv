@@ -1,0 +1,170 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;18/10/2024;19:35;Central Coast;Melb Victory;0;0;0
+1;19/10/2024;17:00;Auckland FC;Brisbane;2;0;2
+1;19/10/2024;17:00;Newcastle;Melb City;0;1;-1
+1;19/10/2024;19:35;W Sydney;Sydney FC;1;2;-1
+1;20/10/2024;16:00;Macarthur FC;Perth Glory;6;1;5
+1;20/10/2024;16:00;Wellington;Western United;1;1;0
+2;25/10/2024;19:05;Macarthur FC;Newcastle;1;2;-1
+2;26/10/2024;16:30;Adelaide;Central Coast;1;1;0
+2;26/10/2024;19:35;Melb City;Melb Victory;1;3;-2
+2;26/10/2024;21:45;Perth Glory;Wellington;0;2;-2
+2;27/10/2024;16:00;Western United;W Sydney;1;1;0
+2;27/10/2024;16:00;Auckland FC;Sydney FC;1;0;1
+3;01/11/2024;18:35;Brisbane;Sydney FC;2;3;-1
+3;02/11/2024;17:00;Central Coast;Perth Glory;0;0;0
+3;02/11/2024;17:00;Wellington;Auckland FC;0;2;-2
+3;02/11/2024;19:35;W Sydney;Adelaide;3;4;-1
+3;03/11/2024;16:00;Melb Victory;Macarthur FC;2;1;1
+3;04/11/2024;19:00;Western United;Melb City;0;1;-1
+4;08/11/2024;19:35;W Sydney;Newcastle;4;1;3
+4;09/11/2024;17:00;Melb Victory;Brisbane;2;0;2
+4;09/11/2024;19:05;Adelaide;Western United;2;1;1
+4;10/11/2024;16:00;Central Coast;Wellington;0;3;-3
+4;10/11/2024;18:00;Sydney FC;Macarthur FC;1;2;-1
+4;10/11/2024;20:45;Perth Glory;Melb City;0;5;-5
+5;22/11/2024;17:30;Perth Glory;Western United;1;3;-2
+5;22/11/2024;20:00;Newcastle;Central Coast;1;2;-1
+5;23/11/2024;16:00;Brisbane;Adelaide;2;3;-1
+5;23/11/2024;19:35;Sydney FC;W Sydney;4;2;2
+5;24/11/2024;15:30;Macarthur FC;Auckland FC;0;1;-1
+5;24/11/2024;15:30;Wellington;Melb Victory;1;0;1
+6;29/11/2024;19:05;Adelaide;Perth Glory;2;2;0
+6;30/11/2024;17:00;Auckland FC;Newcastle;2;0;2
+6;30/11/2024;17:00;Melb City;W Sydney;0;2;-2
+6;30/11/2024;19:35;Macarthur FC;Brisbane;4;4;0
+6;01/12/2024;16:00;Western United;Melb Victory;1;3;-2
+7;06/12/2024;18:35;Brisbane;Melb City;1;4;-3
+7;07/12/2024;17:00;Auckland FC;Wellington;2;1;1
+7;07/12/2024;18:00;Newcastle;Adelaide;0;1;-1
+7;07/12/2024;18:00;Western United;Macarthur FC;0;0;0
+7;08/12/2024;17:00;Melb Victory;Perth Glory;2;0;2
+7;08/12/2024;18:00;Central Coast;Sydney FC;2;1;1
+8;13/12/2024;19:35;Central Coast;Adelaide;0;4;-4
+8;14/12/2024;17:00;Wellington;Macarthur FC;1;2;-1
+8;14/12/2024;17:00;Sydney FC;Western United;3;4;-1
+8;14/12/2024;19:35;W Sydney;Brisbane;2;2;0
+8;14/12/2024;21:45;Perth Glory;Newcastle;0;4;-4
+8;15/12/2024;17:00;Melb City;Auckland FC;2;2;0
+9;20/12/2024;19:05;Adelaide;Sydney FC;3;3;0
+9;21/12/2024;16:00;Brisbane;Perth Glory;0;1;-1
+9;21/12/2024;17:00;Auckland FC;Western United;0;4;-4
+9;21/12/2024;19:35;Melb Victory;Melb City;1;1;0
+9;22/12/2024;17:00;W Sydney;Wellington;4;1;3
+9;23/12/2024;18:30;Macarthur FC;Central Coast;1;1;0
+10;27/12/2024;19:05;Adelaide;W Sydney;2;3;-1
+10;27/12/2024;19:45;Perth Glory;Macarthur FC;0;3;-3
+10;28/12/2024;17:00;Central Coast;Auckland FC;1;4;-3
+10;28/12/2024;17:00;Wellington;Newcastle;2;1;1
+10;28/12/2024;19:35;Sydney FC;Melb Victory;3;0;3
+10;29/12/2024;17:00;Western United;Brisbane;1;0;1
+11;31/12/2024;19:00;Central Coast;Melb City;1;1;0
+11;01/01/2025;17:00;Auckland FC;Melb Victory;0;0;0
+11;01/01/2025;18:00;W Sydney;Macarthur FC;2;3;-1
+12;03/01/2025;17:00;Melb City;Wellington;2;0;2
+12;03/01/2025;18:35;Brisbane;Central Coast;1;3;-2
+12;03/01/2025;21:45;Perth Glory;Western United;2;3;-1
+12;04/01/2025;17:00;Newcastle;Sydney FC;2;2;0
+12;04/01/2025;19:35;Melb Victory;W Sydney;2;2;0
+12;06/01/2025;18:30;Macarthur FC;Adelaide;1;2;-1
+17;07/01/2025;18:00;Melb City;Western United;2;0;2
+11;07/01/2025;19:00;Brisbane;Newcastle;0;1;-1
+11;08/01/2025;19:00;Sydney FC;Perth Glory;3;0;3
+13;10/01/2025;19:35;Melb Victory;Western United;3;4;-1
+13;11/01/2025;17:00;Melb City;Brisbane;1;0;1
+13;11/01/2025;17:00;Wellington;Adelaide;1;2;-1
+13;11/01/2025;19:35;Sydney FC;Central Coast;4;1;3
+13;11/01/2025;21:45;Perth Glory;Auckland FC;1;0;1
+13;12/01/2025;17:00;Newcastle;Macarthur FC;1;3;-2
+14;14/01/2025;21:45;Perth Glory;W Sydney;1;2;-1
+14;15/01/2025;19:00;Wellington;Sydney FC;0;0;0
+15;17/01/2025;17:00;Western United;Newcastle;3;1;2
+15;17/01/2025;19:35;W Sydney;Central Coast;1;3;-2
+15;18/01/2025;17:00;Sydney FC;Brisbane;3;4;-1
+15;18/01/2025;17:00;Auckland FC;Melb City;3;0;3
+15;18/01/2025;19:05;Adelaide;Melb Victory;3;2;1
+15;20/01/2025;18:30;Macarthur FC;Wellington;1;2;-1
+14;22/01/2025;19:00;Adelaide;Auckland FC;2;2;0
+16;24/01/2025;19:35;Melb Victory;Sydney FC;2;0;2
+16;25/01/2025;17:00;Newcastle;Perth Glory;2;2;0
+16;25/01/2025;17:00;Wellington;Central Coast;0;0;0
+16;25/01/2025;19:05;Macarthur FC;Melb City;1;0;1
+16;26/01/2025;17:00;W Sydney;Auckland FC;0;1;-1
+14;29/01/2025;19:00;Western United;Central Coast;2;2;0
+17;31/01/2025;18:35;Brisbane;W Sydney;0;1;-1
+17;01/02/2025;17:00;Sydney FC;Adelaide;4;1;3
+17;01/02/2025;17:00;Auckland FC;Macarthur FC;2;1;1
+17;01/02/2025;19:35;Central Coast;Newcastle;2;2;0
+17;01/02/2025;21:45;Perth Glory;Melb Victory;0;2;-2
+18;06/02/2025;17:00;Wellington;Brisbane;1;1;0
+18;07/02/2025;19:05;Adelaide;Melb City;1;0;1
+18;07/02/2025;21:45;Perth Glory;Central Coast;1;1;0
+18;08/02/2025;17:00;Newcastle;Melb Victory;3;0;3
+18;08/02/2025;19:35;Sydney FC;W Sydney;3;3;0
+18;09/02/2025;16:30;Macarthur FC;Western United;2;2;0
+19;14/02/2025;19:35;Melb Victory;Wellington;1;0;1
+19;15/02/2025;17:00;Melb City;Perth Glory;1;0;1
+19;15/02/2025;18:00;Western United;Auckland FC;0;2;-2
+19;15/02/2025;19:05;Adelaide;Newcastle;1;2;-1
+19;16/02/2025;17:00;W Sydney;Macarthur FC;2;1;1
+20;21/02/2025;19:35;Newcastle;Brisbane;3;1;2
+20;22/02/2025;17:00;Central Coast;W Sydney;0;4;-4
+20;22/02/2025;17:00;Auckland FC;Wellington;6;1;5
+20;22/02/2025;19:35;Melb Victory;Melb City;2;2;0
+20;22/02/2025;21:45;Perth Glory;Sydney FC;0;0;0
+20;23/02/2025;17:00;Western United;Adelaide;3;0;3
+21;28/02/2025;19:30;Wellington;Melb City;0;1;-1
+21;28/02/2025;19:35;Central Coast;Western United;1;3;-2
+21;01/03/2025;16:00;Brisbane;Melb Victory;1;1;0
+21;01/03/2025;17:00;Auckland FC;Adelaide;4;4;0
+21;01/03/2025;19:05;Macarthur FC;Sydney FC;0;2;-2
+21;02/03/2025;17:00;W Sydney;Perth Glory;4;1;3
+22;07/03/2025;19:35;Melb City;Macarthur FC;2;0;2
+22;08/03/2025;16:30;Adelaide;Brisbane;1;1;0
+22;08/03/2025;18:00;Western United;Wellington;4;1;3
+22;08/03/2025;19:35;Melb Victory;Central Coast;3;0;3
+22;09/03/2025;17:00;Newcastle;Auckland FC;1;1;0
+14;12/03/2025;19:00;Melb City;Newcastle;0;1;-1
+23;14/03/2025;19:05;Adelaide;Macarthur FC;4;5;-1
+23;15/03/2025;19:30;W Sydney;Melb Victory;4;2;2
+23;15/03/2025;21:45;Perth Glory;Brisbane;1;3;-2
+23;16/03/2025;17:00;Auckland FC;Central Coast;2;2;0
+23;16/03/2025;17:00;Newcastle;Western United;2;6;-4
+23;16/03/2025;19:00;Sydney FC;Wellington;1;1;0
+24;28/03/2025;19:05;Macarthur FC;Newcastle;3;3;0
+24;29/03/2025;17:00;Sydney FC;Melb City;2;3;-1
+24;29/03/2025;17:00;Wellington;W Sydney;2;2;0
+24;29/03/2025;19:35;Melb Victory;Adelaide;5;3;2
+24;30/03/2025;15:00;Central Coast;Perth Glory;3;1;2
+24;30/03/2025;16:00;Brisbane;Auckland FC;0;2;-2
+25;04/04/2025;18:35;Brisbane;Macarthur FC;1;5;-4
+25;05/04/2025;17:00;Auckland FC;W Sydney;1;1;0
+25;05/04/2025;17:00;Melb City;Central Coast;1;0;1
+25;05/04/2025;18:00;Western United;Perth Glory;3;1;2
+25;05/04/2025;19:05;Adelaide;Sydney FC;2;3;-1
+25;06/04/2025;17:00;Newcastle;Wellington;1;2;-1
+26;11/04/2025;19:35;Melb City;Brisbane;3;2;1
+26;12/04/2025;17:00;Sydney FC;Auckland FC;2;2;0
+26;12/04/2025;17:00;Wellington;Melb Victory;2;3;-1
+26;12/04/2025;19:35;Newcastle;Central Coast;6;0;6
+26;12/04/2025;21:45;Perth Glory;Adelaide;4;1;3
+26;13/04/2025;17:00;W Sydney;Western United;2;0;2
+27;17/04/2025;19:35;Brisbane;Western United;2;1;1
+27;18/04/2025;19:05;Adelaide;Wellington;3;2;1
+27;19/04/2025;17:00;Melb Victory;Auckland FC;0;2;-2
+27;19/04/2025;19:35;W Sydney;Melb City;2;2;0
+27;20/04/2025;15:00;Sydney FC;Newcastle;3;2;1
+27;20/04/2025;17:00;Central Coast;Macarthur FC;2;2;0
+16;22/04/2025;19:00;Brisbane;Adelaide;1;1;0
+28;25/04/2025;19:05;Macarthur FC;Melb Victory;1;2;-1
+28;26/04/2025;15:00;Brisbane;Wellington;1;0;1
+28;26/04/2025;17:00;Newcastle;W Sydney;0;1;-1
+28;26/04/2025;19:35;Melb City;Adelaide;0;0;0
+28;27/04/2025;17:00;Auckland FC;Perth Glory;1;0;1
+28;27/04/2025;17:00;Western United;Sydney FC;1;0;1
+29;02/05/2025;19:35;Central Coast;Brisbane;1;2;-1
+29;03/05/2025;17:00;Melb City;Sydney FC;5;1;4
+29;03/05/2025;18:00;Western United;Auckland FC;4;2;2
+29;03/05/2025;19:05;Macarthur FC;W Sydney;1;3;-2
+29;04/05/2025;17:00;Melb Victory;Newcastle;1;1;0
+29;04/05/2025;17:00;Wellington;Perth Glory;0;2;-2

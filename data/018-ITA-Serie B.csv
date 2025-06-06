@@ -1,0 +1,381 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;16/08/2024;20:30;Brescia;Palermo;1;0;1
+1;17/08/2024;20:30;Bari;Juve Stabia;1;3;-2
+1;17/08/2024;20:30;Südtirol;Modena;2;1;1
+1;17/08/2024;20:30;Salernitana;Cittadella;2;1;1
+1;17/08/2024;20:30;Pisa;Spezia;2;2;0
+1;18/08/2024;20:30;Frosinone;Sampdoria;2;2;0
+1;18/08/2024;20:30;Reggiana;Mantova;2;2;0
+1;18/08/2024;20:30;Catanzaro;Sassuolo;1;1;0
+1;18/08/2024;20:30;Cesena;Carrarese;2;1;1
+1;18/08/2024;20:30;Cosenza;Cremonese;1;0;1
+2;23/08/2024;20:30;Modena;Bari;2;1;1
+2;24/08/2024;19:30;Südtirol;Salernitana;3;2;1
+2;24/08/2024;20:30;Pisa;Palermo;2;0;2
+2;24/08/2024;20:30;Sampdoria;Reggiana;0;1;-1
+2;24/08/2024;20:30;Spezia;Frosinone;2;1;1
+2;24/08/2024;20:30;Cremonese;Carrarese;1;0;1
+2;24/08/2024;20:30;Brescia;Cittadella;0;1;-1
+2;24/08/2024;20:30;Sassuolo;Cesena;2;1;1
+2;25/08/2024;20:30;Mantova;Cosenza;3;2;1
+2;25/08/2024;20:30;Catanzaro;Juve Stabia;0;0;0
+3;27/08/2024;20:30;Cremonese;Palermo;0;1;-1
+3;27/08/2024;20:30;Bari;Sassuolo;1;1;0
+3;27/08/2024;20:30;Cittadella;Pisa;0;3;-3
+3;27/08/2024;20:30;Frosinone;Modena;1;1;0
+3;27/08/2024;20:30;Salernitana;Sampdoria;3;2;1
+3;27/08/2024;20:30;Reggiana;Brescia;2;0;2
+3;27/08/2024;20:30;Carrarese;Südtirol;2;0;2
+3;28/08/2024;20:30;Cesena;Catanzaro;2;0;2
+3;28/08/2024;20:30;Cosenza;Spezia;0;0;0
+3;28/08/2024;20:30;Juve Stabia;Mantova;1;0;1
+4;31/08/2024;18:00;Sampdoria;Bari;0;0;0
+4;31/08/2024;20:30;Südtirol;Brescia;1;2;-1
+4;31/08/2024;20:30;Pisa;Reggiana;2;1;1
+4;31/08/2024;20:30;Modena;Cittadella;0;1;-1
+4;31/08/2024;20:30;Sassuolo;Cremonese;1;4;-3
+4;01/09/2024;20:30;Frosinone;Juve Stabia;0;0;0
+4;01/09/2024;20:30;Spezia;Cesena;2;1;1
+4;01/09/2024;20:30;Palermo;Cosenza;1;1;0
+4;01/09/2024;20:30;Catanzaro;Carrarese;3;1;2
+4;01/09/2024;20:30;Mantova;Salernitana;1;0;1
+5;13/09/2024;20:30;Cesena;Modena;2;2;0
+5;14/09/2024;15:00;Brescia;Frosinone;4;0;4
+5;14/09/2024;15:00;Cittadella;Catanzaro;0;0;0
+5;14/09/2024;15:00;Bari;Mantova;2;0;2
+5;14/09/2024;15:00;Cremonese;Spezia;1;1;0
+5;14/09/2024;15:00;Juve Stabia;Palermo;1;3;-2
+5;15/09/2024;15:00;Reggiana;Südtirol;1;3;-2
+5;15/09/2024;15:00;Cosenza;Sampdoria;2;1;1
+5;15/09/2024;15:00;Carrarese;Sassuolo;0;2;-2
+5;15/09/2024;17:30;Salernitana;Pisa;2;3;-1
+6;20/09/2024;20:30;Catanzaro;Cremonese;1;2;-1
+6;21/09/2024;15:00;Sampdoria;Südtirol;1;0;1
+6;21/09/2024;15:00;Reggiana;Salernitana;0;0;0
+6;21/09/2024;15:00;Cosenza;Sassuolo;0;1;-1
+6;21/09/2024;15:00;Palermo;Cesena;0;0;0
+6;21/09/2024;15:00;Pisa;Brescia;2;1;1
+6;21/09/2024;18:00;Modena;Juve Stabia;3;0;3
+6;22/09/2024;15:00;Mantova;Cittadella;1;0;1
+6;22/09/2024;15:00;Frosinone;Bari;0;3;-3
+6;22/09/2024;15:00;Spezia;Carrarese;4;2;2
+7;27/09/2024;20:30;Cittadella;Frosinone;1;2;-1
+7;28/09/2024;15:00;Sassuolo;Spezia;0;0;0
+7;28/09/2024;15:00;Bari;Cosenza;1;1;0
+7;28/09/2024;15:00;Carrarese;Reggiana;0;0;0
+7;29/09/2024;15:00;Modena;Sampdoria;1;3;-2
+7;29/09/2024;15:00;Salernitana;Catanzaro;0;0;0
+7;29/09/2024;15:00;Juve Stabia;Pisa;2;0;2
+7;29/09/2024;15:00;Cesena;Mantova;4;2;2
+7;30/09/2024;19:30;Südtirol;Palermo;1;3;-2
+7;30/09/2024;20:30;Brescia;Cremonese;3;2;1
+8;04/10/2024;20:30;Sampdoria;Juve Stabia;1;2;-1
+8;05/10/2024;15:00;Sassuolo;Cittadella;6;1;5
+8;05/10/2024;15:00;Spezia;Reggiana;1;0;1
+8;05/10/2024;15:00;Pisa;Cesena;3;1;2
+8;05/10/2024;15:00;Frosinone;Carrarese;0;1;-1
+8;06/10/2024;15:00;Palermo;Salernitana;0;1;-1
+8;06/10/2024;15:00;Cosenza;Südtirol;0;2;-2
+8;06/10/2024;15:00;Catanzaro;Modena;2;2;0
+8;06/10/2024;15:00;Mantova;Brescia;1;1;0
+8;06/10/2024;15:00;Cremonese;Bari;1;1;0
+9;18/10/2024;20:30;Bari;Catanzaro;1;1;0
+9;19/10/2024;15:00;Südtirol;Pisa;1;2;-1
+9;19/10/2024;15:00;Modena;Palermo;2;2;0
+9;19/10/2024;15:00;Cittadella;Cosenza;0;0;0
+9;19/10/2024;15:00;Salernitana;Spezia;0;2;-2
+9;19/10/2024;17:15;Brescia;Sassuolo;2;5;-3
+9;20/10/2024;15:00;Juve Stabia;Cremonese;1;2;-1
+9;20/10/2024;15:00;Reggiana;Frosinone;2;0;2
+9;20/10/2024;15:00;Carrarese;Mantova;1;1;0
+9;20/10/2024;17:15;Cesena;Sampdoria;3;5;-2
+10;25/10/2024;20:30;Spezia;Bari;0;0;0
+10;26/10/2024;15:00;Cosenza;Juve Stabia;1;1;0
+10;26/10/2024;15:00;Cesena;Brescia;2;0;2
+10;26/10/2024;15:00;Cremonese;Salernitana;2;1;1
+10;26/10/2024;15:00;Palermo;Reggiana;2;0;2
+10;26/10/2024;17:15;Carrarese;Cittadella;3;0;3
+10;26/10/2024;17:15;Sassuolo;Modena;2;0;2
+10;27/10/2024;15:00;Sampdoria;Mantova;1;0;1
+10;27/10/2024;15:00;Frosinone;Pisa;0;0;0
+10;27/10/2024;15:00;Catanzaro;Südtirol;3;0;3
+11;29/10/2024;20:30;Brescia;Spezia;1;1;0
+11;29/10/2024;20:30;Modena;Cremonese;2;2;0
+11;29/10/2024;20:30;Salernitana;Cesena;1;1;0
+11;29/10/2024;20:30;Juve Stabia;Sassuolo;2;2;0
+11;29/10/2024;20:30;Bari;Carrarese;0;0;0
+11;29/10/2024;20:30;Reggiana;Cosenza;0;1;-1
+11;30/10/2024;19:30;Südtirol;Frosinone;1;1;0
+11;30/10/2024;20:30;Pisa;Catanzaro;0;0;0
+11;30/10/2024;20:30;Cittadella;Sampdoria;0;0;0
+11;30/10/2024;20:30;Mantova;Palermo;0;0;0
+12;02/11/2024;15:00;Spezia;Modena;1;0;1
+12;02/11/2024;15:00;Bari;Reggiana;2;2;0
+12;02/11/2024;15:00;Carrarese;Juve Stabia;0;0;0
+12;03/11/2024;15:00;Catanzaro;Frosinone;0;0;0
+12;03/11/2024;15:00;Cremonese;Pisa;1;3;-2
+12;03/11/2024;15:00;Palermo;Cittadella;0;1;-1
+12;03/11/2024;15:00;Cosenza;Salernitana;1;1;0
+12;03/11/2024;15:00;Cesena;Südtirol;1;0;1
+12;03/11/2024;17:15;Sassuolo;Mantova;1;0;1
+12;03/11/2024;17:15;Sampdoria;Brescia;0;1;-1
+13;08/11/2024;20:30;Frosinone;Palermo;1;1;0
+13;09/11/2024;15:00;Südtirol;Sassuolo;0;1;-1
+13;09/11/2024;15:00;Brescia;Cosenza;2;3;-1
+13;09/11/2024;15:00;Modena;Carrarese;2;0;2
+13;09/11/2024;15:00;Pisa;Sampdoria;3;0;3
+13;09/11/2024;17:15;Mantova;Cremonese;1;0;1
+13;10/11/2024;15:00;Reggiana;Catanzaro;2;2;0
+13;10/11/2024;15:00;Juve Stabia;Spezia;0;3;-3
+13;10/11/2024;15:00;Cittadella;Cesena;0;2;-2
+13;10/11/2024;17:15;Salernitana;Bari;0;2;-2
+14;22/11/2024;20:30;Cosenza;Modena;1;1;0
+14;23/11/2024;15:00;Catanzaro;Mantova;2;2;0
+14;23/11/2024;15:00;Juve Stabia;Brescia;0;0;0
+14;23/11/2024;15:00;Sassuolo;Salernitana;4;0;4
+14;23/11/2024;15:00;Carrarese;Pisa;1;0;1
+14;23/11/2024;17:15;Cesena;Reggiana;1;1;0
+14;24/11/2024;15:00;Spezia;Südtirol;3;0;3
+14;24/11/2024;15:00;Bari;Cittadella;3;2;1
+14;24/11/2024;15:00;Cremonese;Frosinone;1;0;1
+14;24/11/2024;17:15;Palermo;Sampdoria;1;1;0
+15;29/11/2024;20:30;Reggiana;Sassuolo;0;2;-2
+15;30/11/2024;15:00;Sampdoria;Catanzaro;3;3;0
+15;30/11/2024;15:00;Brescia;Bari;1;1;0
+15;30/11/2024;15:00;Südtirol;Cremonese;0;4;-4
+15;30/11/2024;15:00;Cittadella;Juve Stabia;2;2;0
+15;30/11/2024;17:15;Mantova;Modena;0;0;0
+15;01/12/2024;15:00;Palermo;Spezia;2;0;2
+15;01/12/2024;15:00;Pisa;Cosenza;2;2;0
+15;01/12/2024;15:00;Frosinone;Cesena;3;2;1
+15;01/12/2024;17:15;Salernitana;Carrarese;4;1;3
+16;06/12/2024;20:30;Juve Stabia;Südtirol;2;1;1
+16;07/12/2024;15:00;Bari;Cesena;1;0;1
+16;07/12/2024;15:00;Mantova;Pisa;2;3;-1
+16;07/12/2024;15:00;Modena;Salernitana;1;1;0
+16;07/12/2024;15:00;Carrarese;Palermo;1;0;1
+16;07/12/2024;17:15;Cosenza;Frosinone;0;1;-1
+16;08/12/2024;15:00;Spezia;Cittadella;5;0;5
+16;08/12/2024;15:00;Cremonese;Reggiana;0;2;-2
+16;08/12/2024;15:00;Catanzaro;Brescia;2;1;1
+16;08/12/2024;17:15;Sassuolo;Sampdoria;5;1;4
+17;13/12/2024;20:30;Pisa;Bari;2;0;2
+17;14/12/2024;15:00;Reggiana;Modena;0;1;-1
+17;14/12/2024;15:00;Frosinone;Sassuolo;1;2;-1
+17;14/12/2024;15:00;Südtirol;Mantova;2;2;0
+17;14/12/2024;15:00;Cesena;Cosenza;2;1;1
+17;14/12/2024;17:15;Sampdoria;Spezia;0;0;0
+17;15/12/2024;15:00;Cittadella;Cremonese;0;0;0
+17;15/12/2024;15:00;Palermo;Catanzaro;1;2;-1
+17;15/12/2024;15:00;Brescia;Carrarese;0;0;0
+17;15/12/2024;17:15;Salernitana;Juve Stabia;1;2;-1
+18;20/12/2024;20:30;Salernitana;Brescia;0;0;0
+18;21/12/2024;15:00;Mantova;Frosinone;3;1;2
+18;21/12/2024;15:00;Carrarese;Cosenza;1;0;1
+18;21/12/2024;15:00;Bari;Südtirol;0;1;-1
+18;21/12/2024;15:00;Sassuolo;Palermo;2;1;1
+18;21/12/2024;17:15;Cittadella;Reggiana;3;1;2
+18;21/12/2024;17:15;Modena;Pisa;1;0;1
+18;21/12/2024;17:15;Catanzaro;Spezia;0;1;-1
+18;22/12/2024;15:00;Juve Stabia;Cesena;1;0;1
+18;22/12/2024;17:15;Cremonese;Sampdoria;1;1;0
+19;26/12/2024;12:30;Pisa;Sassuolo;3;1;2
+19;26/12/2024;15:00;Südtirol;Cittadella;1;2;-1
+19;26/12/2024;15:00;Spezia;Mantova;1;1;0
+19;26/12/2024;15:00;Cesena;Cremonese;0;1;-1
+19;26/12/2024;15:00;Frosinone;Salernitana;2;0;2
+19;26/12/2024;15:00;Brescia;Modena;3;3;0
+19;26/12/2024;15:00;Reggiana;Juve Stabia;2;1;1
+19;26/12/2024;15:00;Cosenza;Catanzaro;1;1;0
+19;26/12/2024;18:00;Palermo;Bari;1;0;1
+19;26/12/2024;20:30;Sampdoria;Carrarese;1;1;0
+20;29/12/2024;12:30;Cremonese;Brescia;1;1;0
+20;29/12/2024;15:00;Modena;Südtirol;0;0;0
+20;29/12/2024;15:00;Bari;Spezia;2;0;2
+20;29/12/2024;15:00;Carrarese;Cesena;2;0;2
+20;29/12/2024;15:00;Sassuolo;Cosenza;2;1;1
+20;29/12/2024;15:00;Mantova;Reggiana;0;2;-2
+20;29/12/2024;17:15;Catanzaro;Salernitana;1;0;1
+20;29/12/2024;17:15;Juve Stabia;Frosinone;1;1;0
+20;29/12/2024;17:15;Cittadella;Palermo;2;1;1
+20;29/12/2024;19:30;Sampdoria;Pisa;0;1;-1
+21;12/01/2025;12:30;Salernitana;Sassuolo;1;2;-1
+21;12/01/2025;15:00;Südtirol;Catanzaro;1;1;0
+21;12/01/2025;15:00;Spezia;Juve Stabia;1;1;0
+21;12/01/2025;15:00;Cosenza;Mantova;2;2;0
+21;12/01/2025;15:00;Reggiana;Bari;0;0;0
+21;12/01/2025;15:00;Frosinone;Cremonese;0;3;-3
+21;12/01/2025;15:00;Palermo;Modena;2;0;2
+21;12/01/2025;17:15;Cesena;Cittadella;0;0;0
+21;12/01/2025;19:30;Brescia;Sampdoria;1;1;0
+21;13/01/2025;20:30;Pisa;Carrarese;2;1;1
+22;17/01/2025;20:30;Sampdoria;Cesena;1;2;-1
+22;18/01/2025;15:00;Salernitana;Reggiana;2;1;1
+22;18/01/2025;15:00;Modena;Frosinone;1;1;0
+22;18/01/2025;15:00;Cittadella;Mantova;1;2;-1
+22;18/01/2025;15:00;Cremonese;Cosenza;3;1;2
+22;18/01/2025;17:15;Bari;Brescia;2;2;0
+22;19/01/2025;15:00;Catanzaro;Pisa;0;0;0
+22;19/01/2025;15:00;Palermo;Juve Stabia;1;0;1
+22;19/01/2025;15:00;Sassuolo;Südtirol;5;3;2
+22;19/01/2025;17:15;Carrarese;Spezia;0;4;-4
+23;24/01/2025;20:30;Spezia;Sassuolo;2;1;1
+23;25/01/2025;15:00;Juve Stabia;Carrarese;2;1;1
+23;25/01/2025;15:00;Cosenza;Cittadella;0;1;-1
+23;25/01/2025;15:00;Frosinone;Südtirol;0;3;-3
+23;25/01/2025;15:00;Cesena;Bari;1;1;0
+23;25/01/2025;17:15;Mantova;Sampdoria;2;2;0
+23;26/01/2025;15:00;Pisa;Salernitana;1;0;1
+23;26/01/2025;15:00;Brescia;Catanzaro;2;3;-1
+23;26/01/2025;15:00;Reggiana;Palermo;2;1;1
+23;26/01/2025;17:15;Cremonese;Modena;2;2;0
+24;31/01/2025;20:30;Palermo;Pisa;1;2;-1
+24;01/02/2025;15:00;Sassuolo;Juve Stabia;2;0;2
+24;01/02/2025;15:00;Sampdoria;Cosenza;1;0;1
+24;01/02/2025;15:00;Catanzaro;Cesena;4;2;2
+24;01/02/2025;15:00;Cittadella;Spezia;0;2;-2
+24;01/02/2025;17:15;Modena;Mantova;3;1;2
+24;02/02/2025;15:00;Salernitana;Cremonese;1;0;1
+24;02/02/2025;15:00;Südtirol;Reggiana;2;0;2
+24;02/02/2025;15:00;Carrarese;Brescia;1;2;-1
+24;02/02/2025;17:15;Bari;Frosinone;2;1;1
+25;07/02/2025;20:30;Brescia;Salernitana;0;0;0
+25;08/02/2025;15:00;Cosenza;Carrarese;1;0;1
+25;08/02/2025;15:00;Mantova;Sassuolo;0;3;-3
+25;08/02/2025;15:00;Frosinone;Catanzaro;1;1;0
+25;08/02/2025;15:00;Pisa;Cittadella;0;1;-1
+25;08/02/2025;17:15;Sampdoria;Modena;1;0;1
+25;09/02/2025;15:00;Spezia;Palermo;2;2;0
+25;09/02/2025;15:00;Cremonese;Südtirol;3;1;2
+25;09/02/2025;15:00;Reggiana;Cesena;0;1;-1
+25;09/02/2025;17:15;Juve Stabia;Bari;3;1;2
+26;14/02/2025;20:30;Catanzaro;Cittadella;1;0;1
+26;15/02/2025;15:00;Südtirol;Sampdoria;2;1;1
+26;15/02/2025;15:00;Carrarese;Salernitana;3;2;1
+26;15/02/2025;15:00;Modena;Spezia;1;1;0
+26;15/02/2025;15:00;Sassuolo;Brescia;2;0;2
+26;15/02/2025;17:15;Bari;Cremonese;1;1;0
+26;16/02/2025;15:00;Palermo;Mantova;2;2;0
+26;16/02/2025;15:00;Juve Stabia;Cosenza;3;0;3
+26;16/02/2025;15:00;Frosinone;Reggiana;1;1;0
+26;16/02/2025;17:15;Cesena;Pisa;1;1;0
+27;21/02/2025;20:30;Sampdoria;Sassuolo;0;0;0
+27;22/02/2025;15:00;Mantova;Bari;0;1;-1
+27;22/02/2025;15:00;Reggiana;Carrarese;2;2;0
+27;22/02/2025;15:00;Pisa;Juve Stabia;3;1;2
+27;22/02/2025;15:00;Cittadella;Modena;0;2;-2
+27;22/02/2025;17:15;Cremonese;Cesena;1;2;-1
+27;23/02/2025;15:00;Brescia;Südtirol;0;0;0
+27;23/02/2025;15:00;Cosenza;Palermo;0;3;-3
+27;23/02/2025;15:00;Spezia;Catanzaro;0;1;-1
+27;23/02/2025;17:15;Salernitana;Frosinone;1;1;0
+28;28/02/2025;19:30;Südtirol;Spezia;1;1;0
+28;01/03/2025;15:00;Cesena;Salernitana;2;0;2
+28;01/03/2025;15:00;Carrarese;Cremonese;2;2;0
+28;01/03/2025;15:00;Frosinone;Mantova;2;1;1
+28;01/03/2025;15:00;Juve Stabia;Cittadella;0;1;-1
+28;01/03/2025;17:15;Sassuolo;Pisa;1;0;1
+28;02/03/2025;15:00;Modena;Cosenza;1;1;0
+28;02/03/2025;15:00;Catanzaro;Reggiana;1;1;0
+28;02/03/2025;15:00;Palermo;Brescia;1;0;1
+28;02/03/2025;17:15;Bari;Sampdoria;1;1;0
+29;07/03/2025;20:30;Cosenza;Reggiana;1;0;1
+29;08/03/2025;15:00;Salernitana;Modena;1;0;1
+29;08/03/2025;15:00;Carrarese;Frosinone;0;1;-1
+29;08/03/2025;15:00;Mantova;Juve Stabia;1;1;0
+29;08/03/2025;15:00;Cremonese;Catanzaro;4;0;4
+29;08/03/2025;17:15;Sampdoria;Palermo;1;1;0
+29;08/03/2025;19:30;Brescia;Cesena;1;1;0
+29;09/03/2025;15:00;Spezia;Pisa;3;2;1
+29;09/03/2025;15:00;Sassuolo;Bari;1;1;0
+29;09/03/2025;17:15;Cittadella;Südtirol;1;5;-4
+30;14/03/2025;20:30;Palermo;Cremonese;2;3;-1
+30;15/03/2025;15:00;Cesena;Spezia;0;0;0
+30;15/03/2025;15:00;Frosinone;Brescia;2;1;1
+30;15/03/2025;15:00;Cittadella;Sassuolo;1;2;-1
+30;15/03/2025;15:00;Juve Stabia;Modena;2;1;1
+30;15/03/2025;19:30;Bari;Salernitana;0;0;0
+30;16/03/2025;15:00;Südtirol;Carrarese;2;2;0
+30;16/03/2025;15:00;Reggiana;Sampdoria;2;2;0
+30;16/03/2025;15:00;Pisa;Mantova;3;1;2
+30;16/03/2025;17:15;Catanzaro;Cosenza;4;0;4
+31;28/03/2025;20:30;Spezia;Brescia;0;1;-1
+31;29/03/2025;15:00;Modena;Catanzaro;2;1;1
+31;29/03/2025;15:00;Sampdoria;Frosinone;0;3;-3
+31;29/03/2025;15:00;Mantova;Südtirol;2;0;2
+31;29/03/2025;15:00;Cosenza;Pisa;0;3;-3
+31;29/03/2025;17:15;Cremonese;Cittadella;2;2;0
+31;29/03/2025;19:30;Sassuolo;Reggiana;5;1;4
+31;30/03/2025;15:00;Carrarese;Bari;2;1;1
+31;30/03/2025;15:00;Cesena;Juve Stabia;1;2;-1
+31;30/03/2025;17:15;Salernitana;Palermo;1;2;-1
+32;04/04/2025;20:30;Reggiana;Cremonese;1;2;-1
+32;05/04/2025;15:00;Brescia;Mantova;1;2;-1
+32;05/04/2025;15:00;Frosinone;Cosenza;2;2;0
+32;05/04/2025;15:00;Cittadella;Carrarese;0;0;0
+32;05/04/2025;15:00;Südtirol;Cesena;1;1;0
+32;05/04/2025;17:15;Pisa;Modena;1;2;-1
+32;05/04/2025;19:30;Juve Stabia;Salernitana;1;0;1
+32;06/04/2025;15:00;Palermo;Sassuolo;5;3;2
+32;06/04/2025;15:00;Catanzaro;Bari;3;3;0
+32;06/04/2025;17:15;Spezia;Sampdoria;2;0;2
+33;11/04/2025;20:30;Bari;Palermo;2;1;1
+33;12/04/2025;15:00;Carrarese;Catanzaro;2;2;0
+33;12/04/2025;15:00;Reggiana;Pisa;0;2;-2
+33;12/04/2025;15:00;Salernitana;Südtirol;2;1;1
+33;12/04/2025;15:00;Cosenza;Brescia;1;1;0
+33;12/04/2025;17:15;Sampdoria;Cittadella;1;0;1
+33;12/04/2025;19:30;Modena;Sassuolo;1;3;-2
+33;13/04/2025;15:00;Cremonese;Juve Stabia;1;1;0
+33;13/04/2025;15:00;Cesena;Frosinone;1;1;0
+33;13/04/2025;17:15;Mantova;Spezia;2;2;0
+35;25/04/2025;12:30;Frosinone;Spezia;2;2;0
+35;25/04/2025;15:00;Brescia;Pisa;1;2;-1
+35;25/04/2025;15:00;Carrarese;Sampdoria;1;0;1
+35;25/04/2025;15:00;Salernitana;Cosenza;3;1;2
+35;25/04/2025;15:00;Bari;Modena;1;2;-1
+35;25/04/2025;15:00;Reggiana;Cittadella;2;1;1
+35;25/04/2025;18:00;Cremonese;Mantova;4;2;2
+35;25/04/2025;20:30;Cesena;Sassuolo;0;2;-2
+35;27/04/2025;15:00;Südtirol;Juve Stabia;2;0;2
+35;27/04/2025;15:00;Catanzaro;Palermo;1;3;-2
+36;01/05/2025;12:30;Juve Stabia;Catanzaro;2;0;2
+36;01/05/2025;15:00;Pisa;Frosinone;1;0;1
+36;01/05/2025;15:00;Mantova;Cesena;3;0;3
+36;01/05/2025;15:00;Modena;Reggiana;2;3;-1
+36;01/05/2025;15:00;Cosenza;Bari;1;0;1
+36;01/05/2025;15:00;Sampdoria;Cremonese;0;0;0
+36;01/05/2025;15:00;Spezia;Salernitana;2;0;2
+36;01/05/2025;15:00;Palermo;Südtirol;1;2;-1
+36;01/05/2025;17:15;Cittadella;Brescia;0;1;-1
+36;01/05/2025;19:30;Sassuolo;Carrarese;2;0;2
+37;04/05/2025;15:00;Catanzaro;Sampdoria;2;2;0
+37;04/05/2025;15:00;Salernitana;Mantova;2;0;2
+37;04/05/2025;15:00;Reggiana;Spezia;2;1;1
+37;04/05/2025;15:00;Frosinone;Cittadella;1;1;0
+37;04/05/2025;15:00;Cesena;Palermo;2;1;1
+37;04/05/2025;15:00;Carrarese;Modena;2;1;1
+37;04/05/2025;15:00;Brescia;Juve Stabia;0;0;0
+37;04/05/2025;15:00;Bari;Pisa;1;0;1
+37;04/05/2025;15:00;Südtirol;Cosenza;2;1;1
+37;04/05/2025;19:30;Cremonese;Sassuolo;1;1;0
+38;09/05/2025;20:30;Sassuolo;Catanzaro;0;2;-2
+38;09/05/2025;20:30;Modena;Brescia;2;2;0
+38;09/05/2025;20:30;Spezia;Cremonese;2;3;-1
+38;09/05/2025;20:30;Pisa;Südtirol;3;3;0
+38;09/05/2025;20:30;Juve Stabia;Reggiana;1;2;-1
+38;09/05/2025;20:30;Mantova;Carrarese;2;1;1
+38;09/05/2025;20:30;Sampdoria;Salernitana;1;0;1
+38;09/05/2025;20:30;Cittadella;Bari;3;1;2
+38;09/05/2025;20:30;Palermo;Frosinone;2;0;2
+38;09/05/2025;20:30;Cosenza;Cesena;0;1;-1
+34;13/05/2025;20:30;Spezia;Cosenza;3;1;2
+34;13/05/2025;20:30;Pisa;Cremonese;2;1;1
+34;13/05/2025;20:30;Palermo;Carrarese;1;1;0
+34;13/05/2025;20:30;Südtirol;Bari;0;0;0
+34;13/05/2025;20:30;Juve Stabia;Sampdoria;0;0;0
+34;13/05/2025;20:30;Mantova;Catanzaro;0;0;0
+34;13/05/2025;20:30;Cittadella;Salernitana;0;2;-2
+34;13/05/2025;20:30;Modena;Cesena;0;1;-1
+34;13/05/2025;20:30;Sassuolo;Frosinone;0;1;-1
+34;13/05/2025;20:30;Brescia;Reggiana;2;1;1

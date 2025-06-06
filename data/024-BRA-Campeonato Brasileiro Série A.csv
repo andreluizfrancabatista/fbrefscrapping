@@ -1,0 +1,111 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;29/03/2025;18:30;São Paulo;Sport Recife;0;0;0
+1;29/03/2025;18:30;Juventude;Vitória;2;0;2
+1;29/03/2025;18:30;Fortaleza;Fluminense;2;0;2
+1;29/03/2025;18:30;Cruzeiro;Mirassol;2;1;1
+1;29/03/2025;18:30;Grêmio;Atlético Mineiro;2;1;1
+1;30/03/2025;16:00;Palmeiras;Botafogo (RJ);0;0;0
+1;30/03/2025;18:30;Vasco da Gama;Santos;2;1;1
+1;30/03/2025;20:00;Bahia;Corinthians;1;1;0
+1;29/03/2025;21:00;Flamengo;Internacional;1;1;0
+1;31/03/2025;20:00;RB Bragantino;Ceará;2;2;0
+2;05/04/2025;18:30;Corinthians;Vasco da Gama;3;0;3
+2;05/04/2025;18:30;Ceará;Grêmio;2;0;2
+2;06/04/2025;16:00;Atlético Mineiro;São Paulo;0;0;0
+2;06/04/2025;16:00;Fluminense;RB Bragantino;2;1;1
+2;06/04/2025;18:30;Mirassol;Fortaleza;1;1;0
+2;06/04/2025;18:30;Internacional;Cruzeiro;3;0;3
+2;06/04/2025;18:30;Vitória;Flamengo;1;2;-1
+2;06/04/2025;18:30;Sport Recife;Palmeiras;1;2;-1
+2;06/04/2025;20:30;Santos;Bahia;2;2;0
+2;05/04/2025;21:00;Botafogo (RJ);Juventude;2;0;2
+3;12/04/2025;16:00;Juventude;Ceará;2;1;1
+3;12/04/2025;16:00;RB Bragantino;Botafogo (RJ);1;0;1
+3;12/04/2025;18:30;Palmeiras;Corinthians;2;0;2
+3;13/04/2025;16:00;Bahia;Mirassol;1;1;0
+3;13/04/2025;17:30;Grêmio;Flamengo;0;2;-2
+3;13/04/2025;17:30;São Paulo;Cruzeiro;1;1;0
+3;13/04/2025;19:30;Fluminense;Santos;1;0;1
+3;13/04/2025;20:00;Fortaleza;Internacional;0;0;0
+3;13/04/2025;20:30;Atlético Mineiro;Vitória;2;2;0
+3;12/04/2025;21:00;Vasco da Gama;Sport Recife;3;1;2
+4;16/04/2025;18:30;Botafogo (RJ);São Paulo;2;2;0
+4;16/04/2025;19:00;Sport Recife;RB Bragantino;0;1;-1
+4;16/04/2025;19:00;Mirassol;Grêmio;4;1;3
+4;16/04/2025;19:30;Corinthians;Fluminense;0;2;-2
+4;16/04/2025;19:30;Internacional;Palmeiras;0;1;-1
+4;15/04/2025;21:30;Ceará;Vasco da Gama;2;1;1
+4;16/04/2025;21:30;Vitória;Fortaleza;2;1;1
+4;16/04/2025;21:30;Flamengo;Juventude;6;0;6
+4;16/04/2025;21:30;Santos;Atlético Mineiro;2;0;2
+4;17/04/2025;21:30;Cruzeiro;Bahia;3;0;3
+5;19/04/2025;16:00;Corinthians;Sport Recife;2;1;1
+5;19/04/2025;18:30;Vasco da Gama;Flamengo;0;0;0
+5;20/04/2025;11:00;Juventude;Mirassol;2;2;0
+5;20/04/2025;16:00;São Paulo;Santos;2;1;1
+5;20/04/2025;16:00;Atlético Mineiro;Botafogo (RJ);1;0;1
+5;20/04/2025;18:30;Fluminense;Vitória;1;1;0
+5;20/04/2025;18:30;Fortaleza;Palmeiras;1;2;-1
+5;20/04/2025;20:30;RB Bragantino;Cruzeiro;1;0;1
+5;19/04/2025;21:00;Grêmio;Internacional;1;1;0
+5;21/04/2025;20:00;Bahia;Ceará;1;0;1
+6;26/04/2025;16:00;Internacional;Juventude;3;1;2
+6;26/04/2025;18:30;Mirassol;Atlético Mineiro;2;2;0
+6;26/04/2025;18:30;Ceará;São Paulo;1;1;0
+6;26/04/2025;20:00;Sport Recife;Fortaleza;0;0;0
+6;27/04/2025;16:00;Flamengo;Corinthians;4;0;4
+6;27/04/2025;18:30;Vitória;Grêmio;1;1;0
+6;27/04/2025;18:30;Cruzeiro;Vasco da Gama;1;0;1
+6;27/04/2025;18:30;Palmeiras;Bahia;0;1;-1
+6;27/04/2025;20:30;Santos;RB Bragantino;1;2;-1
+6;26/04/2025;21:00;Botafogo (RJ);Fluminense;2;0;2
+7;03/05/2025;18:30;Fluminense;Sport Recife;2;1;1
+7;03/05/2025;18:30;Ceará;Vitória;1;0;1
+7;03/05/2025;18:30;Corinthians;Internacional;4;2;2
+7;02/05/2025;21:30;São Paulo;Fortaleza;0;0;0
+7;04/05/2025;16:00;Grêmio;Santos;1;0;1
+7;04/05/2025;16:00;Vasco da Gama;Palmeiras;0;1;-1
+7;04/05/2025;18:30;Cruzeiro;Flamengo;2;1;1
+7;03/05/2025;21:00;Bahia;Botafogo (RJ);1;0;1
+7;05/05/2025;19:00;RB Bragantino;Mirassol;1;0;1
+7;05/05/2025;20:00;Juventude;Atlético Mineiro;0;1;-1
+8;10/05/2025;16:00;Fortaleza;Juventude;5;0;5
+8;10/05/2025;18:30;Mirassol;Corinthians;2;1;1
+8;10/05/2025;18:30;Vitória;Vasco da Gama;2;1;1
+8;10/05/2025;18:30;Grêmio;RB Bragantino;1;1;0
+8;11/05/2025;16:00;Sport Recife;Cruzeiro;0;4;-4
+8;11/05/2025;17:30;Palmeiras;São Paulo;1;0;1
+8;11/05/2025;17:30;Atlético Mineiro;Fluminense;3;2;1
+8;11/05/2025;20:00;Botafogo (RJ);Internacional;4;0;4
+8;10/05/2025;21:00;Flamengo;Bahia;1;0;1
+8;12/05/2025;20:00;Santos;Ceará;0;0;0
+9;17/05/2025;16:00;Ceará;Sport Recife;2;0;2
+9;17/05/2025;18:30;Vasco da Gama;Fortaleza;3;0;3
+9;18/05/2025;16:00;Corinthians;Santos;1;0;1
+9;18/05/2025;16:00;Juventude;Fluminense;1;1;0
+9;18/05/2025;16:00;Bahia;Vitória;2;1;1
+9;18/05/2025;18:30;RB Bragantino;Palmeiras;1;2;-1
+9;18/05/2025;18:30;Flamengo;Botafogo (RJ);0;0;0
+9;18/05/2025;20:30;Cruzeiro;Atlético Mineiro;0;0;0
+9;18/05/2025;20:30;Internacional;Mirassol;1;1;0
+9;17/05/2025;21:00;São Paulo;Grêmio;2;1;1
+10;24/05/2025;18:30;Fluminense;Vasco da Gama;2;1;1
+10;24/05/2025;18:30;São Paulo;Mirassol;0;2;-2
+10;25/05/2025;11:00;Grêmio;Bahia;1;0;1
+10;25/05/2025;16:00;Sport Recife;Internacional;1;1;0
+10;25/05/2025;16:00;Palmeiras;Flamengo;0;2;-2
+10;25/05/2025;18:30;Vitória;Santos;0;1;-1
+10;25/05/2025;20:30;Fortaleza;Cruzeiro;0;2;-2
+10;24/05/2025;21:00;Atlético Mineiro;Corinthians;0;0;0
+10;26/05/2025;20:00;RB Bragantino;Juventude;1;0;1
+11;31/05/2025;18:30;Bahia;São Paulo;2;1;1
+11;01/06/2025;11:00;Mirassol;Sport Recife;1;0;1
+11;01/06/2025;16:00;Santos;Botafogo (RJ);0;1;-1
+11;01/06/2025;16:00;Juventude;Grêmio;0;2;-2
+11;01/06/2025;18:30;Flamengo;Fortaleza;5;0;5
+11;01/06/2025;18:30;Ceará;Atlético Mineiro;0;1;-1
+11;01/06/2025;18:30;Corinthians;Vitória;0;0;0
+11;01/06/2025;19:30;Cruzeiro;Palmeiras;2;1;1
+11;01/06/2025;20:30;Internacional;Fluminense;0;2;-2
+11;31/05/2025;21:00;Vasco da Gama;RB Bragantino;0;2;-2
+10;04/06/2025;20:00;Botafogo (RJ);Ceará;3;2;1

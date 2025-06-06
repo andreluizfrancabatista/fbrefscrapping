@@ -1,0 +1,71 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;15/03/2025;11:45;Current;Thorns;3;1;2
+1;15/03/2025;17:30;Royals;Bay FC;1;1;0
+1;14/03/2025;19:00;Dash;Spirit;1;2;-1
+1;14/03/2025;20:00;Pride;Chicago Stars;6;0;6
+1;16/03/2025;15:50;Angel City;Wave;1;1;0
+1;15/03/2025;19:00;Reign;Gotham FC;1;1;0
+1;15/03/2025;20:00;Louisville;Courage;1;1;0
+2;21/03/2025;19:00;Thorns;Angel City;1;1;0
+2;22/03/2025;19:00;Courage;Reign;1;2;-1
+2;22/03/2025;19:30;Spirit;Current;0;2;-2
+2;23/03/2025;14:00;Chicago Stars;Dash;1;2;-1
+2;23/03/2025;17:00;Gotham FC;Pride;0;2;-2
+2;22/03/2025;19:00;Wave;Royals;3;2;1
+2;22/03/2025;19:00;Bay FC;Louisville;2;0;2
+3;29/03/2025;12:00;Pride;Wave;2;1;1
+3;29/03/2025;18:30;Current;Royals;3;0;3
+3;28/03/2025;19:00;Dash;Gotham FC;0;0;0
+3;28/03/2025;20:00;Spirit;Bay FC;2;0;2
+3;30/03/2025;15:00;Chicago Stars;Louisville;0;1;-1
+3;29/03/2025;19:00;Thorns;Courage;0;0;0
+3;30/03/2025;17:00;Angel City;Reign;2;1;1
+4;12/04/2025;16:00;Dash;Angel City;1;3;-2
+4;12/04/2025;16:30;Reign;Pride;0;1;-1
+4;12/04/2025;17:00;Louisville;Spirit;0;2;-2
+4;11/04/2025;20:00;Royals;Thorns;0;1;-1
+4;13/04/2025;16:00;Bay FC;Chicago Stars;1;2;-1
+4;13/04/2025;16:00;Gotham FC;Courage;3;1;2
+4;12/04/2025;19:00;Wave;Current;0;2;-2
+5;19/04/2025;15:00;Louisville;Wave;1;4;-3
+5;19/04/2025;17:05;Pride;Spirit;0;1;-1
+5;19/04/2025;18:30;Current;Dash;2;0;2
+5;18/04/2025;19:00;Reign;Thorns;1;0;1
+5;19/04/2025;19:00;Courage;Bay FC;0;1;-1
+5;18/04/2025;19:30;Royals;Chicago Stars;1;0;1
+5;18/04/2025;19:30;Angel City;Gotham FC;0;4;-4
+6;22/04/2025;19:30;Thorns;Gotham FC;4;1;3
+6;26/04/2025;13:00;Spirit;Gotham FC;0;3;-3
+6;26/04/2025;18:30;Chicago Stars;Wave;0;3;-3
+6;25/04/2025;19:00;Dash;Royals;1;0;1
+6;26/04/2025;19:00;Courage;Current;3;2;1
+6;25/04/2025;20:00;Pride;Angel City;3;2;1
+7;27/04/2025;13:00;Thorns;Louisville;3;3;0
+6;26/04/2025;19:00;Bay FC;Reign;1;1;0
+7;03/05/2025;16:30;Thorns;Pride;1;0;1
+7;02/05/2025;19:00;Dash;Louisville;1;2;-1
+7;02/05/2025;19:30;Reign;Current;1;0;1
+7;02/05/2025;20:00;Spirit;Angel City;3;4;-1
+7;04/05/2025;13:00;Gotham FC;Chicago Stars;0;0;0
+7;03/05/2025;20:00;Royals;Courage;0;2;-2
+8;04/05/2025;17:00;Wave;Bay FC;2;1;1
+8;10/05/2025;11:50;Chicago Stars;Spirit;2;3;-1
+8;10/05/2025;19:30;Courage;Pride;1;1;0
+8;09/05/2025;19:30;Angel City;Royals;2;0;2
+8;09/05/2025;20:00;Louisville;Gotham FC;1;0;1
+8;11/05/2025;11:50;Current;Bay FC;4;1;3
+8;10/05/2025;19:00;Wave;Thorns;1;1;0
+9;11/05/2025;17:00;Reign;Dash;0;1;-1
+9;16/05/2025;19:30;Louisville;Reign;0;1;-1
+9;16/05/2025;19:30;Gotham FC;Wave;0;1;-1
+9;17/05/2025;17:00;Courage;Chicago Stars;2;0;2
+9;16/05/2025;19:00;Dash;Thorns;1;4;-3
+9;17/05/2025;19:30;Spirit;Royals;3;3;0
+9;16/05/2025;20:00;Pride;Current;0;1;-1
+10;17/05/2025;19:00;Bay FC;Angel City;2;0;2
+10;24/05/2025;18:30;Chicago Stars;Current;1;3;-2
+10;23/05/2025;19:00;Reign;Spirit;1;2;-1
+10;23/05/2025;19:30;Royals;Pride;1;3;-2
+10;24/05/2025;19:00;Angel City;Louisville;2;3;-1
+10;24/05/2025;19:00;Dash;Bay FC;2;2;0
+10;25/05/2025;19:00;Wave;Courage;5;2;3

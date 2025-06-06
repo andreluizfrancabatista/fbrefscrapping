@@ -1,0 +1,131 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;30/08/2024;18:00;Fiorentina;Napoli;1;0;1
+1;30/08/2024;21:05;Lazio;AS Roma;2;2;0
+1;31/08/2024;18:00;Internazionale;Sampdoria;5;0;5
+1;01/09/2024;18:00;Sassuolo;Juventus;3;6;-3
+1;01/09/2024;20:30;FC Como Women;Milan;1;0;1
+2;14/09/2024;12:30;AS Roma;Sassuolo;1;1;0
+2;14/09/2024;15:00;Juventus;FC Como Women;4;2;2
+2;14/09/2024;18:00;Milan;Fiorentina;1;2;-1
+2;15/09/2024;12:30;Sampdoria;Lazio;1;1;0
+2;15/09/2024;15:00;Napoli;Internazionale;1;4;-3
+3;20/09/2024;14:30;Napoli;Sassuolo;1;0;1
+3;21/09/2024;15:00;Lazio;Juventus;1;2;-1
+3;22/09/2024;12:30;FC Como Women;AS Roma;1;3;-2
+3;22/09/2024;15:45;Internazionale;Milan;1;1;0
+3;22/09/2024;18:00;Fiorentina;Sampdoria;4;0;4
+4;28/09/2024;15:00;FC Como Women;Sampdoria;1;1;0
+4;28/09/2024;18:00;Sassuolo;Internazionale;1;3;-2
+4;29/09/2024;12:30;AS Roma;Napoli;3;1;2
+4;29/09/2024;15:00;Milan;Lazio;2;1;1
+4;30/09/2024;18:00;Juventus;Fiorentina;4;0;4
+5;05/10/2024;12:30;Fiorentina;FC Como Women;3;1;2
+5;05/10/2024;15:00;Internazionale;AS Roma;1;1;0
+5;05/10/2024;18:00;Sampdoria;Juventus;0;2;-2
+5;06/10/2024;12:05;Lazio;Sassuolo;3;2;1
+5;06/10/2024;14:30;Napoli;Milan;0;1;-1
+6;12/10/2024;15:00;Sassuolo;Fiorentina;1;3;-2
+6;12/10/2024;18:00;FC Como Women;Internazionale;0;1;-1
+6;13/10/2024;12:30;Milan;Sampdoria;1;0;1
+6;13/10/2024;15:30;Juventus;AS Roma;2;1;1
+6;13/10/2024;18:00;Lazio;Napoli;0;0;0
+7;19/10/2024;12:30;Sampdoria;Napoli;0;0;0
+7;19/10/2024;15:00;Fiorentina;Lazio;3;2;1
+7;20/10/2024;12:00;Internazionale;Juventus;0;0;0
+7;20/10/2024;16:00;AS Roma;Milan;2;1;1
+7;20/10/2024;18:00;Sassuolo;FC Como Women;2;4;-2
+8;02/11/2024;20:30;Lazio;FC Como Women;1;2;-1
+8;03/11/2024;12:30;Fiorentina;Internazionale;2;1;1
+8;03/11/2024;12:30;Napoli;Juventus;0;3;-3
+8;03/11/2024;15:00;Sampdoria;AS Roma;1;5;-4
+8;03/11/2024;18:00;Milan;Sassuolo;1;0;1
+9;09/11/2024;14:00;AS Roma;Fiorentina;1;0;1
+9;09/11/2024;16:00;Juventus;Milan;3;0;3
+9;09/11/2024;18:00;Sassuolo;Sampdoria;3;0;3
+9;10/11/2024;12:30;FC Como Women;Napoli;3;0;3
+9;10/11/2024;15:00;Internazionale;Lazio;1;0;1
+10;16/11/2024;15:00;Napoli;Fiorentina;0;0;0
+10;16/11/2024;18:00;Sampdoria;Internazionale;0;3;-3
+10;17/11/2024;12:30;Juventus;Sassuolo;2;2;0
+10;17/11/2024;15:30;AS Roma;Lazio;2;1;1
+10;17/11/2024;18:00;Milan;FC Como Women;0;1;-1
+11;23/11/2024;12:30;Lazio;Sampdoria;0;0;0
+11;23/11/2024;14:45;Internazionale;Napoli;1;0;1
+11;24/11/2024;12:30;Fiorentina;Milan;2;2;0
+11;24/11/2024;16:00;Sassuolo;AS Roma;1;1;0
+11;24/11/2024;18:00;FC Como Women;Juventus;1;4;-3
+12;06/12/2024;20:30;AS Roma;FC Como Women;2;1;1
+12;07/12/2024;12:30;Sassuolo;Napoli;2;1;1
+12;07/12/2024;15:00;Sampdoria;Fiorentina;1;3;-2
+12;08/12/2024;12:30;Juventus;Lazio;3;2;1
+12;08/12/2024;14:30;Milan;Internazionale;1;1;0
+13;14/12/2024;12:30;Lazio;Milan;2;0;2
+13;14/12/2024;15:00;Napoli;AS Roma;1;2;-1
+13;15/12/2024;12:30;Internazionale;Sassuolo;3;0;3
+13;15/12/2024;12:30;Sampdoria;FC Como Women;1;2;-1
+13;15/12/2024;15:30;Fiorentina;Juventus;0;3;-3
+14;11/01/2025;12:30;Juventus;Sampdoria;3;0;3
+14;11/01/2025;15:00;Sassuolo;Lazio;3;1;2
+14;11/01/2025;15:00;FC Como Women;Fiorentina;2;0;2
+14;12/01/2025;12:30;Milan;Napoli;6;0;6
+14;12/01/2025;20:45;AS Roma;Internazionale;1;2;-1
+15;18/01/2025;18:00;Napoli;Lazio;0;4;-4
+15;19/01/2025;12:30;Sampdoria;Milan;2;2;0
+15;19/01/2025;12:30;Internazionale;FC Como Women;1;0;1
+15;19/01/2025;15:30;AS Roma;Juventus;3;1;2
+15;19/01/2025;18:00;Fiorentina;Sassuolo;1;1;0
+16;24/01/2025;18:30;Juventus;Internazionale;2;0;2
+16;25/01/2025;12:30;Lazio;Fiorentina;2;0;2
+16;25/01/2025;12:30;FC Como Women;Sassuolo;0;3;-3
+16;25/01/2025;15:00;Milan;AS Roma;3;2;1
+16;26/01/2025;12:30;Napoli;Sampdoria;0;1;-1
+17;01/02/2025;12:30;Internazionale;Fiorentina;2;0;2
+17;01/02/2025;15:45;AS Roma;Sampdoria;4;0;4
+17;01/02/2025;18:00;Sassuolo;Milan;2;3;-1
+17;02/02/2025;12:30;Juventus;Napoli;1;1;0
+17;02/02/2025;15:00;FC Como Women;Lazio;1;2;-1
+18;09/02/2025;12:30;Lazio;Internazionale;4;4;0
+18;09/02/2025;12:30;Sampdoria;Sassuolo;0;2;-2
+18;09/02/2025;15:00;Fiorentina;AS Roma;0;0;0
+18;09/02/2025;15:00;Milan;Juventus;0;6;-6
+18;09/02/2025;15:00;Napoli;FC Como Women;4;2;2
+1;01/03/2025;12:30;Lazio;Sampdoria;3;0;3
+1;02/03/2025;12:30;Sassuolo;Napoli;3;1;2
+1;02/03/2025;15:30;Juventus;AS Roma;4;3;1
+1;02/03/2025;18:00;Fiorentina;Milan;0;0;0
+2;08/03/2025;15:00;Napoli;Lazio;0;4;-4
+2;09/03/2025;12:30;AS Roma;Internazionale;2;1;1
+2;09/03/2025;18:00;Milan;Juventus;2;2;0
+2;10/03/2025;19:00;FC Como Women;Sassuolo;3;0;3
+3;15/03/2025;12:30;Sampdoria;Napoli;0;0;0
+3;15/03/2025;15:00;Juventus;Fiorentina;0;2;-2
+3;16/03/2025;12:30;Lazio;FC Como Women;0;2;-2
+3;16/03/2025;13:30;Internazionale;Milan;3;3;0
+4;22/03/2025;12:30;Sassuolo;Lazio;0;2;-2
+4;22/03/2025;16:00;Milan;AS Roma;3;1;2
+4;23/03/2025;12:30;Fiorentina;Internazionale;1;0;1
+4;23/03/2025;15:00;FC Como Women;Sampdoria;2;2;0
+5;29/03/2025;15:00;AS Roma;Fiorentina;2;0;2
+5;30/03/2025;12:30;Napoli;FC Como Women;0;2;-2
+5;30/03/2025;15:00;Sampdoria;Sassuolo;2;5;-3
+5;30/03/2025;16:00;Internazionale;Juventus;3;2;1
+6;12/04/2025;12:30;Sampdoria;Lazio;0;3;-3
+6;12/04/2025;15:00;Milan;Fiorentina;5;3;2
+6;13/04/2025;11:30;AS Roma;Juventus;1;2;-1
+6;13/04/2025;15:00;Napoli;Sassuolo;0;1;-1
+7;18/04/2025;17:30;Juventus;Milan;2;0;2
+7;18/04/2025;19:30;Lazio;Napoli;2;1;1
+7;19/04/2025;12:30;Sassuolo;FC Como Women;3;0;3
+7;19/04/2025;15:00;Internazionale;AS Roma;3;0;3
+8;25/04/2025;12:30;Fiorentina;Juventus;3;1;2
+8;25/04/2025;16:00;Milan;Internazionale;1;4;-3
+8;27/04/2025;12:30;Napoli;Sampdoria;2;1;1
+8;27/04/2025;12:30;FC Como Women;Lazio;0;4;-4
+9;03/05/2025;12:30;Internazionale;Fiorentina;1;3;-2
+9;03/05/2025;15:00;Lazio;Sassuolo;5;0;5
+9;03/05/2025;18:00;Sampdoria;FC Como Women;1;2;-1
+9;04/05/2025;12:30;AS Roma;Milan;3;3;0
+10;10/05/2025;15:00;Fiorentina;AS Roma;0;1;-1
+10;10/05/2025;20:30;Juventus;Internazionale;0;1;-1
+10;11/05/2025;12:30;Sassuolo;Sampdoria;4;2;2
+10;11/05/2025;12:30;FC Como Women;Napoli;3;1;2

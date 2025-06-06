@@ -1,0 +1,381 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;02/08/2024;19:00;1860 Munich;Saarbrücken;0;1;-1
+1;03/08/2024;14:00;Sandhausen;Osnabrück;1;0;1
+1;03/08/2024;14:00;Rot-Weiss Essen;Aachen;1;2;-1
+1;03/08/2024;14:00;Dortmund II;Unterhaching;3;0;3
+1;03/08/2024;14:00;Verl;Wehen;2;2;0
+1;03/08/2024;14:00;Erzgebirge Aue;Hannover 96 II;2;1;1
+1;03/08/2024;16:30;Hansa Rostock;Stuttgart II;1;1;0
+1;04/08/2024;13:30;Viktoria Köln;Dresden;1;2;-1
+1;04/08/2024;16:30;Energie Cottbus;Arminia;1;2;-1
+1;04/08/2024;19:30;Ingolstadt 04;SV Waldhof;2;1;1
+2;09/08/2024;19:00;Dresden;Energie Cottbus;4;2;2
+2;10/08/2024;14:00;SV Waldhof;Viktoria Köln;1;2;-1
+2;10/08/2024;14:00;Wehen;Hansa Rostock;1;0;1
+2;10/08/2024;14:00;Osnabrück;Erzgebirge Aue;0;2;-2
+2;10/08/2024;14:00;Aachen;Verl;1;1;0
+2;10/08/2024;14:00;Unterhaching;Ingolstadt 04;2;1;1
+2;10/08/2024;16:30;Arminia;Dortmund II;1;0;1
+2;11/08/2024;13:30;Hannover 96 II;Rot-Weiss Essen;1;3;-2
+2;11/08/2024;16:30;Stuttgart II;1860 Munich;3;1;2
+2;11/08/2024;19:30;Saarbrücken;Sandhausen;0;1;-1
+3;23/08/2024;19:00;Erzgebirge Aue;Dresden;2;0;2
+3;24/08/2024;14:00;Sandhausen;Hannover 96 II;0;1;-1
+3;24/08/2024;14:00;Rot-Weiss Essen;Arminia;0;0;0
+3;24/08/2024;14:00;Saarbrücken;Ingolstadt 04;2;3;-1
+3;24/08/2024;14:00;Hansa Rostock;Dortmund II;1;1;0
+3;24/08/2024;14:00;Osnabrück;Unterhaching;4;2;2
+3;24/08/2024;16:30;Energie Cottbus;Aachen;2;1;1
+3;25/08/2024;13:30;1860 Munich;Viktoria Köln;1;3;-2
+3;25/08/2024;16:30;Verl;SV Waldhof;1;1;0
+3;25/08/2024;19:30;Stuttgart II;Wehen;2;2;0
+4;30/08/2024;19:00;Viktoria Köln;Hansa Rostock;3;0;3
+4;31/08/2024;14:00;Aachen;Erzgebirge Aue;1;2;-1
+4;31/08/2024;14:00;Dresden;Stuttgart II;2;0;2
+4;31/08/2024;14:00;Ingolstadt 04;1860 Munich;1;2;-1
+4;31/08/2024;14:00;Arminia;Sandhausen;1;1;0
+4;31/08/2024;14:00;SV Waldhof;Saarbrücken;0;1;-1
+4;31/08/2024;16:30;Dortmund II;Osnabrück;1;1;0
+4;01/09/2024;13:30;Wehen;Energie Cottbus;2;1;1
+4;01/09/2024;16:30;Unterhaching;Rot-Weiss Essen;2;0;2
+4;01/09/2024;19:30;Hannover 96 II;Verl;1;2;-1
+5;13/09/2024;19:00;Sandhausen;Dortmund II;3;1;2
+5;14/09/2024;14:00;Rot-Weiss Essen;Wehen;0;3;-3
+5;14/09/2024;14:00;Saarbrücken;Unterhaching;1;1;0
+5;14/09/2024;14:00;Stuttgart II;Ingolstadt 04;3;2;1
+5;14/09/2024;14:00;1860 Munich;Dresden;2;3;-1
+5;14/09/2024;14:00;Hansa Rostock;SV Waldhof;1;1;0
+5;14/09/2024;16:30;Osnabrück;Hannover 96 II;1;1;0
+5;15/09/2024;13:30;Erzgebirge Aue;Arminia;1;3;-2
+5;15/09/2024;16:30;Verl;Energie Cottbus;0;3;-3
+5;15/09/2024;19:30;Aachen;Viktoria Köln;1;0;1
+6;20/09/2024;19:00;Unterhaching;Erzgebirge Aue;2;2;0
+6;21/09/2024;14:00;Energie Cottbus;Stuttgart II;4;0;4
+6;21/09/2024;14:00;Dresden;Hansa Rostock;1;1;0
+6;21/09/2024;14:00;Wehen;Sandhausen;1;3;-2
+6;21/09/2024;14:00;Ingolstadt 04;Rot-Weiss Essen;2;2;0
+6;21/09/2024;14:00;SV Waldhof;Osnabrück;3;2;1
+6;21/09/2024;16:30;Arminia;1860 Munich;0;1;-1
+6;22/09/2024;13:30;Hannover 96 II;Saarbrücken;1;3;-2
+6;22/09/2024;16:30;Viktoria Köln;Verl;2;1;1
+6;22/09/2024;19:30;Dortmund II;Aachen;3;0;3
+7;24/09/2024;19:00;Sandhausen;Ingolstadt 04;4;3;1
+7;24/09/2024;19:00;Stuttgart II;Arminia;3;0;3
+7;24/09/2024;19:00;Hansa Rostock;Unterhaching;4;1;3
+7;24/09/2024;19:00;Osnabrück;Energie Cottbus;2;5;-3
+7;24/09/2024;19:00;Erzgebirge Aue;Wehen;2;1;1
+7;25/09/2024;19:00;Rot-Weiss Essen;Dortmund II;3;1;2
+7;25/09/2024;19:00;Aachen;SV Waldhof;0;0;0
+7;25/09/2024;19:00;1860 Munich;Hannover 96 II;1;0;1
+7;25/09/2024;19:00;Verl;Dresden;0;3;-3
+7;25/09/2024;19:00;Saarbrücken;Viktoria Köln;1;0;1
+8;27/09/2024;19:00;Unterhaching;Sandhausen;0;0;0
+8;28/09/2024;14:00;Dortmund II;1860 Munich;1;2;-1
+8;28/09/2024;14:00;SV Waldhof;Rot-Weiss Essen;1;0;1
+8;28/09/2024;14:00;Wehen;Osnabrück;2;1;1
+8;28/09/2024;14:00;Viktoria Köln;Erzgebirge Aue;2;0;2
+8;28/09/2024;14:00;Hannover 96 II;Stuttgart II;3;1;2
+8;28/09/2024;16:30;Energie Cottbus;Saarbrücken;4;1;3
+8;29/09/2024;13:30;Ingolstadt 04;Hansa Rostock;2;1;1
+8;29/09/2024;16:30;Dresden;Aachen;0;0;0
+8;29/09/2024;19:30;Arminia;Verl;2;1;1
+9;04/10/2024;19:00;Dortmund II;Dresden;2;1;1
+9;05/10/2024;14:00;1860 Munich;Wehen;2;3;-1
+9;05/10/2024;14:00;Sandhausen;SV Waldhof;2;1;1
+9;05/10/2024;14:00;Verl;Unterhaching;2;0;2
+9;05/10/2024;14:00;Erzgebirge Aue;Hansa Rostock;1;2;-1
+9;05/10/2024;14:00;Rot-Weiss Essen;Viktoria Köln;2;1;1
+9;05/10/2024;16:30;Aachen;Ingolstadt 04;1;1;0
+9;06/10/2024;13:30;Hannover 96 II;Energie Cottbus;0;0;0
+9;06/10/2024;16:30;Saarbrücken;Arminia;0;0;0
+9;06/10/2024;19:30;Osnabrück;Stuttgart II;1;0;1
+10;18/10/2024;19:00;SV Waldhof;Erzgebirge Aue;3;0;3
+10;19/10/2024;14:00;Viktoria Köln;Dortmund II;3;5;-2
+10;19/10/2024;14:00;Hansa Rostock;Aachen;1;2;-1
+10;19/10/2024;14:00;Energie Cottbus;Sandhausen;1;1;0
+10;19/10/2024;14:00;Wehen;Hannover 96 II;1;5;-4
+10;19/10/2024;14:00;Ingolstadt 04;Verl;1;1;0
+10;19/10/2024;16:30;Stuttgart II;Saarbrücken;2;3;-1
+10;20/10/2024;13:30;Dresden;Rot-Weiss Essen;3;3;0
+10;20/10/2024;16:30;Arminia;Osnabrück;3;1;2
+10;20/10/2024;19:30;Unterhaching;1860 Munich;2;2;0
+11;22/10/2024;19:00;Sandhausen;Stuttgart II;1;1;0
+11;22/10/2024;19:00;Dortmund II;SV Waldhof;0;1;-1
+11;22/10/2024;19:00;Viktoria Köln;Ingolstadt 04;4;4;0
+11;22/10/2024;19:00;Saarbrücken;Hansa Rostock;2;0;2
+11;22/10/2024;19:00;Erzgebirge Aue;Energie Cottbus;1;3;-2
+11;23/10/2024;19:00;Hannover 96 II;Arminia;1;4;-3
+11;23/10/2024;19:00;1860 Munich;Osnabrück;2;2;0
+11;23/10/2024;19:00;Rot-Weiss Essen;Verl;1;3;-2
+11;23/10/2024;19:00;Aachen;Unterhaching;3;1;2
+11;23/10/2024;19:00;Wehen;Dresden;1;0;1
+12;25/10/2024;19:00;Ingolstadt 04;Dortmund II;5;3;2
+12;26/10/2024;14:00;Osnabrück;Saarbrücken;1;1;0
+12;26/10/2024;14:00;Arminia;Aachen;1;1;0
+12;26/10/2024;14:00;Unterhaching;Viktoria Köln;1;1;0
+12;26/10/2024;14:00;Dresden;Hannover 96 II;2;1;1
+12;26/10/2024;14:30;Hansa Rostock;Rot-Weiss Essen;4;0;4
+12;26/10/2024;16:30;Verl;Sandhausen;1;1;0
+12;27/10/2024;13:30;Energie Cottbus;1860 Munich;5;1;4
+12;27/10/2024;16:30;Stuttgart II;Erzgebirge Aue;0;1;-1
+12;27/10/2024;19:30;SV Waldhof;Wehen;2;2;0
+13;01/11/2024;19:00;Viktoria Köln;Stuttgart II;2;0;2
+13;02/11/2024;14:00;Hansa Rostock;Osnabrück;2;0;2
+13;02/11/2024;14:00;Ingolstadt 04;Dresden;1;1;0
+13;02/11/2024;14:00;Rot-Weiss Essen;Energie Cottbus;4;0;4
+13;02/11/2024;14:00;Erzgebirge Aue;Saarbrücken;1;1;0
+13;02/11/2024;14:00;Sandhausen;1860 Munich;0;3;-3
+13;02/11/2024;16:30;Aachen;Hannover 96 II;0;0;0
+13;03/11/2024;13:30;Unterhaching;SV Waldhof;1;1;0
+13;03/11/2024;16:30;Wehen;Arminia;0;0;0
+13;03/11/2024;19:30;Dortmund II;Verl;3;1;2
+14;08/11/2024;19:00;Verl;Hansa Rostock;1;0;1
+14;09/11/2024;14:00;Sandhausen;Aachen;4;0;4
+14;09/11/2024;14:00;1860 Munich;SV Waldhof;3;0;3
+14;09/11/2024;14:00;Energie Cottbus;Dortmund II;3;3;0
+14;09/11/2024;14:00;Osnabrück;Dresden;0;3;-3
+14;09/11/2024;14:00;Saarbrücken;Wehen;3;1;2
+14;09/11/2024;16:30;Arminia;Viktoria Köln;2;0;2
+14;10/11/2024;13:30;Hannover 96 II;Ingolstadt 04;0;4;-4
+14;10/11/2024;16:30;Erzgebirge Aue;Rot-Weiss Essen;2;1;1
+14;10/11/2024;19:30;Stuttgart II;Unterhaching;3;2;1
+15;22/11/2024;19:00;Viktoria Köln;Energie Cottbus;0;1;-1
+15;23/11/2024;14:00;Aachen;1860 Munich;1;1;0
+15;23/11/2024;14:00;Dresden;Saarbrücken;1;1;0
+15;23/11/2024;14:00;Hansa Rostock;Arminia;2;1;1
+15;23/11/2024;14:00;Verl;Stuttgart II;2;2;0
+15;23/11/2024;14:00;Rot-Weiss Essen;Sandhausen;1;1;0
+15;23/11/2024;16:30;Unterhaching;Wehen;1;1;0
+15;24/11/2024;13:30;SV Waldhof;Hannover 96 II;2;1;1
+15;24/11/2024;16:30;Ingolstadt 04;Osnabrück;4;2;2
+15;24/11/2024;19:30;Dortmund II;Erzgebirge Aue;3;1;2
+16;29/11/2024;19:00;Arminia;Ingolstadt 04;1;0;1
+16;30/11/2024;14:00;Erzgebirge Aue;Verl;2;5;-3
+16;30/11/2024;14:00;Energie Cottbus;Unterhaching;2;0;2
+16;30/11/2024;14:00;Hannover 96 II;Dortmund II;2;0;2
+16;30/11/2024;14:00;Sandhausen;Dresden;2;4;-2
+16;30/11/2024;14:00;1860 Munich;Hansa Rostock;1;2;-1
+16;30/11/2024;16:30;Stuttgart II;SV Waldhof;2;0;2
+16;01/12/2024;13:30;Osnabrück;Aachen;1;1;0
+16;01/12/2024;16:30;Saarbrücken;Rot-Weiss Essen;1;0;1
+16;01/12/2024;19:30;Wehen;Viktoria Köln;3;1;2
+17;06/12/2024;19:00;Verl;Saarbrücken;1;1;0
+17;07/12/2024;14:00;Unterhaching;Hannover 96 II;1;2;-1
+17;07/12/2024;14:00;Dortmund II;Wehen;2;2;0
+17;07/12/2024;14:00;Hansa Rostock;Sandhausen;1;0;1
+17;07/12/2024;14:00;Ingolstadt 04;Erzgebirge Aue;1;0;1
+17;07/12/2024;14:00;SV Waldhof;Energie Cottbus;0;1;-1
+17;07/12/2024;16:30;Aachen;Stuttgart II;2;1;1
+17;08/12/2024;13:30;Rot-Weiss Essen;1860 Munich;0;3;-3
+17;08/12/2024;16:30;Dresden;Arminia;3;0;3
+17;08/12/2024;19:30;Viktoria Köln;Osnabrück;2;0;2
+18;13/12/2024;19:00;Dresden;SV Waldhof;2;1;1
+18;14/12/2024;14:00;Hannover 96 II;Viktoria Köln;1;2;-1
+18;14/12/2024;14:00;Wehen;Ingolstadt 04;2;5;-3
+18;14/12/2024;14:00;Arminia;Unterhaching;3;3;0
+18;14/12/2024;14:00;Stuttgart II;Dortmund II;0;3;-3
+18;14/12/2024;14:00;Sandhausen;Erzgebirge Aue;4;6;-2
+18;14/12/2024;16:30;1860 Munich;Verl;0;4;-4
+18;15/12/2024;13:30;Energie Cottbus;Hansa Rostock;3;1;2
+18;15/12/2024;16:30;Osnabrück;Rot-Weiss Essen;2;0;2
+18;15/12/2024;19:30;Saarbrücken;Aachen;1;1;0
+19;20/12/2024;19:00;Ingolstadt 04;Energie Cottbus;1;1;0
+19;21/12/2024;14:00;Erzgebirge Aue;1860 Munich;3;1;2
+19;21/12/2024;14:00;Dortmund II;Saarbrücken;0;0;0
+19;21/12/2024;14:00;Viktoria Köln;Sandhausen;2;0;2
+19;21/12/2024;14:00;Rot-Weiss Essen;Stuttgart II;2;2;0
+19;21/12/2024;14:30;Unterhaching;Dresden;0;3;-3
+19;21/12/2024;16:30;Aachen;Wehen;0;0;0
+19;22/12/2024;13:30;SV Waldhof;Arminia;1;1;0
+19;22/12/2024;16:30;Verl;Osnabrück;1;1;0
+19;22/12/2024;19:30;Hansa Rostock;Hannover 96 II;1;0;1
+20;17/01/2025;19:00;Hannover 96 II;Erzgebirge Aue;2;1;1
+20;18/01/2025;14:00;Osnabrück;Sandhausen;3;2;1
+20;18/01/2025;14:00;Saarbrücken;1860 Munich;4;0;4
+20;18/01/2025;14:00;Stuttgart II;Hansa Rostock;0;3;-3
+20;18/01/2025;14:00;Arminia;Energie Cottbus;0;2;-2
+20;18/01/2025;14:00;Unterhaching;Dortmund II;1;2;-1
+20;18/01/2025;16:30;Wehen;Verl;0;1;-1
+20;19/01/2025;13:30;Dresden;Viktoria Köln;2;3;-1
+20;19/01/2025;16:30;Aachen;Rot-Weiss Essen;2;0;2
+20;19/01/2025;19:30;SV Waldhof;Ingolstadt 04;0;0;0
+21;24/01/2025;19:00;Viktoria Köln;SV Waldhof;1;0;1
+21;25/01/2025;14:00;Erzgebirge Aue;Osnabrück;0;0;0
+21;25/01/2025;14:00;Hansa Rostock;Wehen;1;4;-3
+21;25/01/2025;14:00;Verl;Aachen;2;1;1
+21;25/01/2025;14:00;1860 Munich;Stuttgart II;1;1;0
+21;25/01/2025;14:00;Energie Cottbus;Dresden;1;1;0
+21;25/01/2025;16:30;Sandhausen;Saarbrücken;3;4;-1
+21;26/01/2025;13:30;Rot-Weiss Essen;Hannover 96 II;5;1;4
+21;26/01/2025;16:30;Ingolstadt 04;Unterhaching;3;1;2
+21;26/01/2025;19:30;Dortmund II;Arminia;0;4;-4
+22;31/01/2025;19:00;Aachen;Energie Cottbus;0;0;0
+22;01/02/2025;14:00;SV Waldhof;Verl;2;2;0
+22;01/02/2025;14:00;Dortmund II;Hansa Rostock;0;2;-2
+22;01/02/2025;14:00;Wehen;Stuttgart II;2;0;2
+22;01/02/2025;14:00;Dresden;Erzgebirge Aue;2;1;1
+22;01/02/2025;14:00;Ingolstadt 04;Saarbrücken;1;0;1
+22;01/02/2025;16:30;Viktoria Köln;1860 Munich;1;2;-1
+22;02/02/2025;13:30;Arminia;Rot-Weiss Essen;1;2;-1
+22;02/02/2025;16:30;Unterhaching;Osnabrück;2;3;-1
+22;02/02/2025;19:30;Hannover 96 II;Sandhausen;2;2;0
+23;07/02/2025;19:00;Sandhausen;Arminia;1;0;1
+23;08/02/2025;14:00;Erzgebirge Aue;Aachen;1;1;0
+23;08/02/2025;14:00;Saarbrücken;SV Waldhof;2;1;1
+23;08/02/2025;14:00;Rot-Weiss Essen;Unterhaching;1;1;0
+23;08/02/2025;14:00;Energie Cottbus;Wehen;2;1;1
+23;08/02/2025;14:00;Stuttgart II;Dresden;2;1;1
+23;08/02/2025;16:30;1860 Munich;Ingolstadt 04;1;1;0
+23;09/02/2025;13:30;Hansa Rostock;Viktoria Köln;1;1;0
+23;09/02/2025;16:30;Verl;Hannover 96 II;1;0;1
+23;09/02/2025;19:30;Osnabrück;Dortmund II;1;0;1
+24;14/02/2025;19:00;Viktoria Köln;Aachen;3;1;2
+24;15/02/2025;14:00;Hannover 96 II;Osnabrück;1;5;-4
+24;15/02/2025;14:00;Ingolstadt 04;Stuttgart II;1;1;0
+24;15/02/2025;14:00;Wehen;Rot-Weiss Essen;1;3;-2
+24;15/02/2025;14:00;SV Waldhof;Hansa Rostock;5;0;5
+24;15/02/2025;14:00;Arminia;Erzgebirge Aue;2;1;1
+24;15/02/2025;16:30;Dortmund II;Sandhausen;1;0;1
+24;16/02/2025;13:30;Unterhaching;Saarbrücken;2;0;2
+24;16/02/2025;16:30;Energie Cottbus;Verl;1;0;1
+24;16/02/2025;19:30;Dresden;1860 Munich;5;2;3
+25;21/02/2025;19:00;1860 Munich;Arminia;0;3;-3
+25;22/02/2025;14:00;Verl;Viktoria Köln;1;1;0
+25;22/02/2025;14:00;Aachen;Dortmund II;2;2;0
+25;22/02/2025;14:00;Hansa Rostock;Dresden;1;0;1
+25;22/02/2025;14:00;Rot-Weiss Essen;Ingolstadt 04;2;0;2
+25;22/02/2025;14:00;Erzgebirge Aue;Unterhaching;1;0;1
+25;22/02/2025;16:30;Saarbrücken;Hannover 96 II;4;1;3
+25;23/02/2025;13:30;Stuttgart II;Energie Cottbus;2;0;2
+25;23/02/2025;16:30;Osnabrück;SV Waldhof;1;1;0
+25;23/02/2025;19:30;Sandhausen;Wehen;0;1;-1
+26;28/02/2025;19:00;Viktoria Köln;Saarbrücken;1;2;-1
+26;01/03/2025;14:00;Ingolstadt 04;Sandhausen;2;1;1
+26;01/03/2025;14:00;Energie Cottbus;Osnabrück;1;2;-1
+26;01/03/2025;14:00;Hannover 96 II;1860 Munich;1;3;-2
+26;01/03/2025;14:00;Wehen;Erzgebirge Aue;0;2;-2
+26;01/03/2025;14:00;Dortmund II;Rot-Weiss Essen;0;1;-1
+26;01/03/2025;16:30;Dresden;Verl;3;0;3
+26;02/03/2025;13:30;SV Waldhof;Aachen;2;1;1
+26;02/03/2025;19:30;Arminia;Stuttgart II;4;1;3
+27;07/03/2025;19:00;Osnabrück;Wehen;0;1;-1
+27;08/03/2025;14:00;Aachen;Dresden;0;1;-1
+27;08/03/2025;14:00;Saarbrücken;Energie Cottbus;2;1;1
+27;08/03/2025;14:00;Stuttgart II;Hannover 96 II;2;1;1
+27;08/03/2025;14:00;Hansa Rostock;Ingolstadt 04;2;0;2
+27;08/03/2025;14:00;Sandhausen;Unterhaching;2;2;0
+27;08/03/2025;16:30;Verl;Arminia;2;1;1
+27;09/03/2025;13:30;1860 Munich;Dortmund II;1;0;1
+27;09/03/2025;16:30;Erzgebirge Aue;Viktoria Köln;2;1;1
+27;09/03/2025;19:30;Rot-Weiss Essen;SV Waldhof;1;0;1
+28;11/03/2025;19:00;Energie Cottbus;Hannover 96 II;2;2;0
+28;11/03/2025;19:00;Ingolstadt 04;Aachen;0;3;-3
+28;11/03/2025;19:00;Arminia;Saarbrücken;3;1;2
+28;11/03/2025;19:00;Stuttgart II;Osnabrück;1;2;-1
+28;11/03/2025;19:00;Unterhaching;Verl;1;2;-1
+28;12/03/2025;19:00;Dresden;Dortmund II;0;0;0
+28;12/03/2025;19:00;Hansa Rostock;Erzgebirge Aue;4;1;3
+28;12/03/2025;19:00;Viktoria Köln;Rot-Weiss Essen;1;0;1
+28;12/03/2025;19:00;SV Waldhof;Sandhausen;3;2;1
+28;12/03/2025;19:00;Wehen;1860 Munich;0;0;0
+29;14/03/2025;19:00;Saarbrücken;Stuttgart II;0;2;-2
+29;15/03/2025;14:00;Dortmund II;Viktoria Köln;1;1;0
+29;15/03/2025;14:00;Verl;Ingolstadt 04;1;4;-3
+29;15/03/2025;14:00;Osnabrück;Arminia;0;1;-1
+29;15/03/2025;14:00;Rot-Weiss Essen;Dresden;1;1;0
+29;15/03/2025;14:00;Hannover 96 II;Wehen;3;2;1
+29;15/03/2025;16:30;1860 Munich;Unterhaching;2;1;1
+29;16/03/2025;13:30;Sandhausen;Energie Cottbus;0;1;-1
+29;16/03/2025;16:30;Erzgebirge Aue;SV Waldhof;0;1;-1
+29;16/03/2025;19:30;Aachen;Hansa Rostock;2;1;1
+30;28/03/2025;19:00;Verl;Rot-Weiss Essen;3;0;3
+30;29/03/2025;14:00;SV Waldhof;Dortmund II;0;0;0
+30;29/03/2025;14:00;Unterhaching;Aachen;0;2;-2
+30;29/03/2025;14:00;Energie Cottbus;Erzgebirge Aue;1;0;1
+30;29/03/2025;14:00;Hansa Rostock;Saarbrücken;0;0;0
+30;29/03/2025;14:00;Osnabrück;1860 Munich;1;0;1
+30;29/03/2025;16:30;Arminia;Hannover 96 II;2;2;0
+30;30/03/2025;13:30;Ingolstadt 04;Viktoria Köln;3;1;2
+30;30/03/2025;16:30;Dresden;Wehen;2;0;2
+30;30/03/2025;19:30;Stuttgart II;Sandhausen;2;1;1
+31;04/04/2025;19:00;Hannover 96 II;Dresden;2;3;-1
+31;05/04/2025;14:00;1860 Munich;Energie Cottbus;5;1;4
+31;05/04/2025;14:00;Erzgebirge Aue;Stuttgart II;2;1;1
+31;05/04/2025;14:00;Viktoria Köln;Unterhaching;3;1;2
+31;05/04/2025;14:00;Saarbrücken;Osnabrück;1;1;0
+31;05/04/2025;14:00;Wehen;SV Waldhof;2;2;0
+31;05/04/2025;16:30;Aachen;Arminia;0;1;-1
+31;06/04/2025;13:30;Dortmund II;Ingolstadt 04;3;3;0
+31;06/04/2025;16:30;Sandhausen;Verl;1;3;-2
+31;06/04/2025;19:30;Rot-Weiss Essen;Hansa Rostock;2;1;1
+32;08/04/2025;19:00;Saarbrücken;Erzgebirge Aue;2;0;2
+32;08/04/2025;19:00;Hannover 96 II;Aachen;1;1;0
+32;08/04/2025;19:00;Stuttgart II;Viktoria Köln;1;2;-1
+32;08/04/2025;19:00;SV Waldhof;Unterhaching;0;2;-2
+32;08/04/2025;19:00;Arminia;Wehen;4;2;2
+32;09/04/2025;19:00;Osnabrück;Hansa Rostock;0;1;-1
+32;09/04/2025;19:00;Energie Cottbus;Rot-Weiss Essen;0;1;-1
+32;09/04/2025;19:00;Dresden;Ingolstadt 04;2;2;0
+32;09/04/2025;19:00;Verl;Dortmund II;0;1;-1
+32;09/04/2025;19:00;1860 Munich;Sandhausen;2;0;2
+33;11/04/2025;19:00;Wehen;Saarbrücken;1;1;0
+33;12/04/2025;14:00;Hansa Rostock;Verl;4;0;4
+33;12/04/2025;14:00;Dresden;Osnabrück;0;1;-1
+33;12/04/2025;14:00;Ingolstadt 04;Hannover 96 II;3;3;0
+33;12/04/2025;14:00;Unterhaching;Stuttgart II;2;2;0
+33;12/04/2025;14:00;Rot-Weiss Essen;Erzgebirge Aue;4;2;2
+33;12/04/2025;16:30;Aachen;Sandhausen;2;1;1
+33;13/04/2025;13:30;SV Waldhof;1860 Munich;0;3;-3
+33;13/04/2025;16:30;Dortmund II;Energie Cottbus;4;1;3
+33;13/04/2025;19:30;Viktoria Köln;Arminia;0;2;-2
+34;19/04/2025;14:00;Sandhausen;Rot-Weiss Essen;0;2;-2
+34;19/04/2025;14:00;Arminia;Hansa Rostock;4;0;4
+34;19/04/2025;14:00;1860 Munich;Aachen;2;1;1
+34;19/04/2025;14:00;Energie Cottbus;Viktoria Köln;1;0;1
+34;19/04/2025;14:00;Wehen;Unterhaching;3;0;3
+34;19/04/2025;16:30;Stuttgart II;Verl;1;1;0
+34;19/04/2025;16:30;Osnabrück;Ingolstadt 04;1;0;1
+34;20/04/2025;13:30;Saarbrücken;Dresden;1;4;-3
+34;20/04/2025;16:30;Hannover 96 II;SV Waldhof;1;1;0
+34;20/04/2025;19:30;Erzgebirge Aue;Dortmund II;2;1;1
+35;25/04/2025;19:00;Hansa Rostock;1860 Munich;1;0;1
+35;26/04/2025;14:00;Rot-Weiss Essen;Saarbrücken;0;3;-3
+35;26/04/2025;14:00;Viktoria Köln;Wehen;2;0;2
+35;26/04/2025;14:00;Dortmund II;Hannover 96 II;0;4;-4
+35;26/04/2025;14:00;Dresden;Sandhausen;2;1;1
+35;26/04/2025;14:00;Unterhaching;Energie Cottbus;1;1;0
+35;26/04/2025;16:30;Verl;Erzgebirge Aue;5;1;4
+35;27/04/2025;13:30;Ingolstadt 04;Arminia;0;3;-3
+35;27/04/2025;16:30;Aachen;Osnabrück;1;0;1
+35;27/04/2025;19:30;SV Waldhof;Stuttgart II;0;0;0
+36;02/05/2025;19:00;Osnabrück;Viktoria Köln;2;0;2
+36;03/05/2025;14:00;Sandhausen;Hansa Rostock;0;3;-3
+36;03/05/2025;14:00;Stuttgart II;Aachen;2;1;1
+36;03/05/2025;14:00;1860 Munich;Rot-Weiss Essen;1;3;-2
+36;03/05/2025;14:00;Wehen;Dortmund II;4;2;2
+36;03/05/2025;14:00;Saarbrücken;Verl;4;3;1
+36;03/05/2025;16:30;Arminia;Dresden;1;1;0
+36;04/05/2025;13:30;Energie Cottbus;SV Waldhof;2;4;-2
+36;04/05/2025;16:30;Erzgebirge Aue;Ingolstadt 04;1;0;1
+36;04/05/2025;19:30;Hannover 96 II;Unterhaching;0;0;0
+26;07/05/2025;19:00;Unterhaching;Hansa Rostock;0;2;-2
+37;09/05/2025;19:00;Dortmund II;Stuttgart II;0;1;-1
+37;10/05/2025;14:00;Erzgebirge Aue;Sandhausen;2;3;-1
+37;10/05/2025;14:00;Aachen;Saarbrücken;4;2;2
+37;10/05/2025;14:00;Hansa Rostock;Energie Cottbus;1;3;-2
+37;10/05/2025;14:00;SV Waldhof;Dresden;1;0;1
+37;10/05/2025;14:00;Verl;1860 Munich;2;2;0
+37;10/05/2025;16:30;Ingolstadt 04;Wehen;2;3;-1
+37;11/05/2025;13:30;Unterhaching;Arminia;1;2;-1
+37;11/05/2025;16:30;Rot-Weiss Essen;Osnabrück;3;1;2
+37;11/05/2025;19:30;Viktoria Köln;Hannover 96 II;2;0;2
+38;17/05/2025;13:30;Sandhausen;Viktoria Köln;0;4;-4
+38;17/05/2025;13:30;Osnabrück;Verl;0;3;-3
+38;17/05/2025;13:30;Hannover 96 II;Hansa Rostock;2;1;1
+38;17/05/2025;13:30;Wehen;Aachen;2;1;1
+38;17/05/2025;13:30;Arminia;SV Waldhof;1;0;1
+38;17/05/2025;13:30;Dresden;Unterhaching;3;0;3
+38;17/05/2025;13:30;1860 Munich;Erzgebirge Aue;1;1;0
+38;17/05/2025;13:30;Stuttgart II;Rot-Weiss Essen;1;1;0
+38;17/05/2025;13:30;Saarbrücken;Dortmund II;2;1;1
+38;17/05/2025;13:30;Energie Cottbus;Ingolstadt 04;1;4;-3

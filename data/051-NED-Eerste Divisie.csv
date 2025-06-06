@@ -1,0 +1,381 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;20:00;MVV Maastricht;Cambuur;0;1;-1
+1;09/08/2024;20:00;Helmond Sport;Jong Utrecht;1;1;0
+1;09/08/2024;20:00;Emmen;Dordrecht;1;2;-1
+1;09/08/2024;20:00;Oss;Excelsior;3;1;2
+1;09/08/2024;20:00;Vitesse;Telstar;2;3;-1
+1;09/08/2024;20:00;FC Eindhoven;Den Bosch;2;0;2
+1;10/08/2024;16:30;ADO Den Haag;VVV-Venlo;1;1;0
+1;11/08/2024;16:45;De Graafschap;Volendam;4;3;1
+1;12/08/2024;20:00;Jong AZ;Roda JC;6;1;5
+1;12/08/2024;20:00;Jong PSV;Jong Ajax;2;2;0
+2;16/08/2024;20:00;Roda JC;Oss;0;0;0
+2;16/08/2024;20:00;Excelsior;De Graafschap;3;1;2
+2;16/08/2024;20:00;Jong Utrecht;Jong PSV;0;2;-2
+2;16/08/2024;20:00;VVV-Venlo;Vitesse;0;1;-1
+2;16/08/2024;20:00;Telstar;FC Eindhoven;0;3;-3
+2;16/08/2024;20:15;Den Bosch;Jong AZ;6;0;6
+2;17/08/2024;16:30;Dordrecht;ADO Den Haag;1;1;0
+2;18/08/2024;12:15;Cambuur;Helmond Sport;0;1;-1
+2;18/08/2024;16:45;Volendam;Emmen;0;1;-1
+2;19/08/2024;20:00;Jong Ajax;MVV Maastricht;0;0;0
+3;23/08/2024;20:00;ADO Den Haag;Volendam;2;1;1
+3;23/08/2024;20:00;Emmen;Helmond Sport;0;0;0
+3;23/08/2024;20:00;De Graafschap;Jong Utrecht;2;2;0
+3;23/08/2024;20:00;Den Bosch;MVV Maastricht;1;1;0
+3;23/08/2024;20:00;Oss;Cambuur;1;0;1
+3;24/08/2024;16:30;FC Eindhoven;Jong Ajax;0;3;-3
+3;25/08/2024;12:15;Vitesse;Excelsior;1;1;0
+3;25/08/2024;16:45;VVV-Venlo;Roda JC;1;1;0
+3;26/08/2024;20:00;Jong PSV;Telstar;0;2;-2
+3;26/08/2024;20:00;Jong AZ;Dordrecht;3;1;2
+4;30/08/2024;20:00;Telstar;Jong AZ;0;0;0
+4;30/08/2024;20:00;Jong Ajax;Den Bosch;1;2;-1
+4;30/08/2024;20:00;Jong Utrecht;Emmen;1;2;-1
+4;30/08/2024;20:00;MVV Maastricht;Jong PSV;3;2;1
+4;30/08/2024;20:00;Vitesse;FC Eindhoven;1;1;0
+4;30/08/2024;20:00;ADO Den Haag;Excelsior;0;5;-5
+4;30/08/2024;20:00;Dordrecht;Cambuur;2;0;2
+4;30/08/2024;20:00;Helmond Sport;VVV-Venlo;3;0;3
+4;31/08/2024;16:30;Volendam;Oss;4;0;4
+4;01/09/2024;16:45;Roda JC;De Graafschap;1;4;-3
+5;06/09/2024;20:00;De Graafschap;FC Eindhoven;2;0;2
+5;08/09/2024;14:30;Telstar;MVV Maastricht;4;0;4
+6;13/09/2024;20:00;Jong AZ;Vitesse;0;1;-1
+6;13/09/2024;20:00;FC Eindhoven;Dordrecht;0;0;0
+6;13/09/2024;20:00;MVV Maastricht;Volendam;2;2;0
+6;13/09/2024;20:00;Cambuur;Jong Ajax;0;1;-1
+6;13/09/2024;20:00;Excelsior;Telstar;3;2;1
+6;13/09/2024;20:00;Emmen;Roda JC;1;3;-2
+6;13/09/2024;20:00;VVV-Venlo;Jong Utrecht;3;2;1
+6;13/09/2024;20:00;De Graafschap;Helmond Sport;2;3;-1
+6;13/09/2024;20:00;Den Bosch;ADO Den Haag;2;0;2
+6;13/09/2024;20:00;Oss;Jong PSV;0;3;-3
+5;16/09/2024;20:00;Jong PSV;ADO Den Haag;2;2;0
+5;16/09/2024;20:00;Emmen;Vitesse;3;3;0
+5;16/09/2024;20:00;Excelsior;VVV-Venlo;4;0;4
+5;16/09/2024;20:00;Jong Utrecht;Den Bosch;0;3;-3
+5;16/09/2024;20:00;Helmond Sport;Oss;1;0;1
+5;16/09/2024;20:00;Cambuur;Roda JC;0;0;0
+5;17/09/2024;20:00;Jong Ajax;Jong AZ;1;2;-1
+5;17/09/2024;20:00;Volendam;Dordrecht;2;0;2
+7;20/09/2024;20:00;VVV-Venlo;Jong PSV;0;2;-2
+7;20/09/2024;20:00;ADO Den Haag;Telstar;1;1;0
+7;20/09/2024;20:00;Den Bosch;Emmen;1;0;1
+7;20/09/2024;20:00;Dordrecht;Excelsior;2;2;0
+7;20/09/2024;20:00;Helmond Sport;Volendam;2;3;-1
+7;21/09/2024;16:30;Roda JC;MVV Maastricht;1;0;1
+7;21/09/2024;18:45;Vitesse;Jong Ajax;2;2;0
+7;22/09/2024;16:45;Oss;FC Eindhoven;0;4;-4
+7;23/09/2024;20:00;Jong AZ;De Graafschap;2;2;0
+7;23/09/2024;20:00;Jong Utrecht;Cambuur;0;4;-4
+8;27/09/2024;20:00;Excelsior;Jong AZ;4;2;2
+8;27/09/2024;20:00;MVV Maastricht;Oss;2;2;0
+8;27/09/2024;20:00;Volendam;VVV-Venlo;2;4;-2
+8;27/09/2024;20:00;FC Eindhoven;Roda JC;0;0;0
+8;27/09/2024;20:00;ADO Den Haag;Jong Utrecht;1;1;0
+8;28/09/2024;16:30;Telstar;Den Bosch;0;0;0
+8;29/09/2024;14:30;De Graafschap;Vitesse;3;1;2
+8;29/09/2024;16:45;Cambuur;Emmen;1;3;-2
+8;30/09/2024;20:00;Jong Ajax;Dordrecht;0;1;-1
+8;30/09/2024;20:00;Jong PSV;Helmond Sport;1;3;-2
+9;04/10/2024;20:00;Emmen;MVV Maastricht;1;1;0
+9;04/10/2024;20:00;Dordrecht;Jong PSV;2;0;2
+9;04/10/2024;20:00;Helmond Sport;Jong Ajax;1;1;0
+9;04/10/2024;20:00;Den Bosch;De Graafschap;2;2;0
+9;04/10/2024;20:00;VVV-Venlo;Cambuur;0;1;-1
+9;04/10/2024;20:00;Jong Utrecht;Telstar;1;1;0
+9;04/10/2024;20:00;Vitesse;Volendam;1;2;-1
+9;04/10/2024;20:00;Oss;ADO Den Haag;1;5;-4
+9;04/10/2024;20:00;Jong AZ;FC Eindhoven;2;3;-1
+9;04/10/2024;20:00;Roda JC;Excelsior;3;0;3
+10;12/10/2024;20:00;Telstar;De Graafschap;2;2;0
+10;13/10/2024;14:30;MVV Maastricht;VVV-Venlo;2;0;2
+11;18/10/2024;20:00;Oss;Telstar;1;1;0
+11;18/10/2024;20:00;De Graafschap;Jong PSV;3;1;2
+11;18/10/2024;20:00;Jong Ajax;Jong Utrecht;0;0;0
+11;18/10/2024;20:00;Excelsior;MVV Maastricht;3;2;1
+11;18/10/2024;20:00;Den Bosch;Vitesse;4;2;2
+11;18/10/2024;20:00;FC Eindhoven;Emmen;0;3;-3
+11;18/10/2024;20:00;Cambuur;Volendam;1;2;-1
+11;18/10/2024;20:00;ADO Den Haag;Roda JC;3;0;3
+11;18/10/2024;20:00;Jong AZ;Helmond Sport;2;3;-1
+11;18/10/2024;20:00;VVV-Venlo;Dordrecht;2;3;-1
+10;21/10/2024;20:00;Cambuur;FC Eindhoven;2;0;2
+10;21/10/2024;20:00;Helmond Sport;Roda JC;2;1;1
+10;21/10/2024;20:00;Jong Ajax;ADO Den Haag;0;0;0
+10;21/10/2024;20:00;Jong PSV;Excelsior;1;3;-2
+10;22/10/2024;20:00;Dordrecht;Vitesse;2;2;0
+10;22/10/2024;20:00;Emmen;Oss;2;0;2
+10;22/10/2024;20:00;Jong Utrecht;Jong AZ;0;1;-1
+10;22/10/2024;20:00;Volendam;Den Bosch;3;2;1
+12;25/10/2024;20:00;Oss;Jong AZ;2;1;1
+12;25/10/2024;20:00;ADO Den Haag;De Graafschap;1;2;-1
+12;25/10/2024;20:00;Dordrecht;Jong Utrecht;3;1;2
+12;25/10/2024;20:00;Volendam;FC Eindhoven;4;1;3
+12;25/10/2024;20:00;Vitesse;Jong PSV;1;3;-2
+12;25/10/2024;20:00;Roda JC;Jong Ajax;2;1;1
+12;25/10/2024;20:00;VVV-Venlo;Den Bosch;1;2;-1
+12;26/10/2024;16:30;Excelsior;Cambuur;0;1;-1
+12;27/10/2024;12:15;Emmen;Telstar;0;1;-1
+12;27/10/2024;16:45;MVV Maastricht;Helmond Sport;1;2;-1
+13;01/11/2024;20:00;De Graafschap;Dordrecht;4;1;3
+13;01/11/2024;20:00;Jong Ajax;VVV-Venlo;0;1;-1
+13;01/11/2024;20:00;Jong AZ;Cambuur;2;3;-1
+13;01/11/2024;20:00;FC Eindhoven;ADO Den Haag;0;4;-4
+13;02/11/2024;16:30;Den Bosch;Roda JC;1;1;0
+13;02/11/2024;16:30;Vitesse;Oss;0;0;0
+13;03/11/2024;14:30;Telstar;Volendam;2;2;0
+13;03/11/2024;16:45;Helmond Sport;Excelsior;0;1;-1
+13;04/11/2024;20:00;Jong Utrecht;MVV Maastricht;4;3;1
+13;04/11/2024;20:15;Jong PSV;Emmen;2;3;-1
+14;08/11/2024;20:00;ADO Den Haag;Vitesse;2;0;2
+14;08/11/2024;20:00;Emmen;Jong Ajax;4;2;2
+14;08/11/2024;20:00;Excelsior;FC Eindhoven;2;0;2
+14;08/11/2024;20:00;Cambuur;Jong PSV;1;0;1
+14;08/11/2024;20:00;VVV-Venlo;Jong AZ;0;1;-1
+14;08/11/2024;20:00;MVV Maastricht;De Graafschap;0;0;0
+14;08/11/2024;20:00;Volendam;Jong Utrecht;2;0;2
+14;08/11/2024;20:00;Oss;Den Bosch;1;0;1
+14;09/11/2024;16:30;Roda JC;Telstar;1;0;1
+14;10/11/2024;16:45;Dordrecht;Helmond Sport;4;0;4
+15;15/11/2024;20:00;Telstar;VVV-Venlo;4;0;4
+15;17/11/2024;14:30;FC Eindhoven;MVV Maastricht;1;1;0
+16;22/11/2024;20:00;Helmond Sport;FC Eindhoven;3;4;-1
+16;22/11/2024;20:00;De Graafschap;Oss;4;0;4
+16;22/11/2024;20:00;Vitesse;Cambuur;0;6;-6
+16;22/11/2024;20:00;Jong Ajax;Telstar;3;0;3
+16;22/11/2024;20:00;Jong AZ;ADO Den Haag;3;3;0
+16;22/11/2024;20:00;VVV-Venlo;Emmen;0;2;-2
+16;22/11/2024;20:00;MVV Maastricht;Dordrecht;2;1;1
+16;22/11/2024;20:00;Den Bosch;Excelsior;0;3;-3
+16;22/11/2024;20:00;Jong PSV;Volendam;1;4;-3
+16;22/11/2024;20:00;Jong Utrecht;Roda JC;1;3;-2
+15;25/11/2024;20:00;Emmen;De Graafschap;3;0;3
+15;25/11/2024;20:00;Dordrecht;Oss;2;2;0
+15;25/11/2024;20:00;Helmond Sport;ADO Den Haag;2;1;1
+15;25/11/2024;20:00;Jong PSV;Jong AZ;2;1;1
+15;25/11/2024;20:00;Volendam;Jong Ajax;3;0;3
+15;26/11/2024;20:00;Roda JC;Vitesse;3;0;3
+15;26/11/2024;20:00;Jong Utrecht;Excelsior;0;0;0
+15;26/11/2024;20:00;Cambuur;Den Bosch;1;2;-1
+17;29/11/2024;20:00;Roda JC;Volendam;1;1;0
+17;29/11/2024;20:00;Telstar;Cambuur;2;2;0
+17;29/11/2024;20:00;Excelsior;Jong Ajax;2;0;2
+17;29/11/2024;20:00;Vitesse;Helmond Sport;2;1;1
+17;29/11/2024;20:00;FC Eindhoven;Jong PSV;1;0;1
+17;29/11/2024;20:00;ADO Den Haag;Emmen;2;1;1
+17;30/11/2024;16:30;Oss;Jong Utrecht;1;1;0
+17;01/12/2024;12:15;De Graafschap;VVV-Venlo;3;1;2
+17;01/12/2024;16:45;Den Bosch;Dordrecht;2;3;-1
+17;02/12/2024;20:00;Jong AZ;MVV Maastricht;2;3;-1
+18;06/12/2024;20:00;Dordrecht;Telstar;3;2;1
+18;06/12/2024;20:00;MVV Maastricht;Vitesse;2;2;0
+18;06/12/2024;20:00;VVV-Venlo;Oss;0;0;0
+18;06/12/2024;20:00;Helmond Sport;Den Bosch;0;0;0
+18;06/12/2024;20:00;Volendam;Jong AZ;2;0;2
+18;07/12/2024;16:30;Cambuur;ADO Den Haag;2;1;1
+18;08/12/2024;16:45;Emmen;Excelsior;1;1;0
+18;09/12/2024;20:00;Jong Ajax;De Graafschap;2;0;2
+18;09/12/2024;20:00;Jong Utrecht;FC Eindhoven;0;4;-4
+18;09/12/2024;20:00;Jong PSV;Roda JC;2;3;-1
+19;13/12/2024;20:00;ADO Den Haag;MVV Maastricht;2;0;2
+19;13/12/2024;20:00;Den Bosch;Jong PSV;1;1;0
+19;13/12/2024;20:00;De Graafschap;Cambuur;0;2;-2
+19;13/12/2024;20:00;Jong AZ;Emmen;1;1;0
+19;13/12/2024;20:00;Roda JC;Dordrecht;0;1;-1
+19;13/12/2024;20:00;Oss;Jong Ajax;2;1;1
+19;13/12/2024;20:00;Vitesse;Jong Utrecht;2;1;1
+19;13/12/2024;20:00;FC Eindhoven;VVV-Venlo;1;3;-2
+19;13/12/2024;20:00;Telstar;Helmond Sport;3;0;3
+19;13/12/2024;20:00;Excelsior;Volendam;0;0;0
+20;20/12/2024;20:00;Jong Utrecht;Helmond Sport;3;1;2
+20;20/12/2024;20:00;Emmen;Den Bosch;0;3;-3
+20;20/12/2024;20:00;Dordrecht;FC Eindhoven;3;3;0
+20;20/12/2024;20:00;Jong PSV;Vitesse;6;4;2
+20;20/12/2024;20:00;Cambuur;Jong AZ;0;2;-2
+20;21/12/2024;16:30;VVV-Venlo;Excelsior;1;1;0
+20;22/12/2024;14:30;MVV Maastricht;Telstar;5;1;4
+20;22/12/2024;14:30;Volendam;De Graafschap;2;1;1
+20;22/12/2024;16:45;ADO Den Haag;Oss;1;0;1
+20;23/12/2024;20:00;Jong Ajax;Roda JC;3;1;2
+21;10/01/2025;20:00;Oss;MVV Maastricht;1;0;1
+21;10/01/2025;20:00;FC Eindhoven;Volendam;1;3;-2
+21;10/01/2025;20:00;Excelsior;Dordrecht;1;0;1
+21;12/01/2025;12:15;Telstar;Jong PSV;1;0;1
+21;12/01/2025;16:45;Vitesse;VVV-Venlo;1;4;-3
+21;13/01/2025;20:00;Jong AZ;Jong Ajax;2;1;1
+22;17/01/2025;20:00;Oss;Roda JC;0;2;-2
+22;17/01/2025;20:00;Dordrecht;Jong AZ;1;1;0
+22;17/01/2025;20:00;ADO Den Haag;Helmond Sport;3;1;2
+22;17/01/2025;20:00;VVV-Venlo;Telstar;1;0;1
+22;17/01/2025;20:00;Volendam;Vitesse;4;0;4
+22;17/01/2025;20:00;Cambuur;Excelsior;1;0;1
+22;18/01/2025;16:30;MVV Maastricht;Den Bosch;5;0;5
+22;19/01/2025;16:45;Emmen;FC Eindhoven;1;2;-1
+21;20/01/2025;20:00;Roda JC;Cambuur;0;1;-1
+22;20/01/2025;20:00;Jong Utrecht;De Graafschap;1;1;0
+22;20/01/2025;20:00;Jong Ajax;Jong PSV;4;0;4
+23;24/01/2025;20:00;FC Eindhoven;Cambuur;4;2;2
+23;24/01/2025;20:00;Den Bosch;Oss;1;0;1
+23;24/01/2025;20:00;Vitesse;Dordrecht;0;3;-3
+23;24/01/2025;20:00;De Graafschap;Emmen;4;0;4
+23;24/01/2025;20:00;Roda JC;Jong Utrecht;3;0;3
+23;24/01/2025;20:00;Volendam;MVV Maastricht;3;1;2
+23;25/01/2025;16:30;Telstar;Jong Ajax;3;0;3
+23;26/01/2025;12:15;Excelsior;ADO Den Haag;1;0;1
+23;26/01/2025;16:45;Helmond Sport;Jong AZ;2;1;1
+21;27/01/2025;20:00;Den Bosch;Jong Utrecht;2;0;2
+23;27/01/2025;20:00;Jong PSV;VVV-Venlo;1;2;-1
+24;31/01/2025;20:00;Cambuur;Telstar;2;1;1
+24;31/01/2025;20:00;Dordrecht;De Graafschap;1;1;0
+24;31/01/2025;20:00;ADO Den Haag;FC Eindhoven;2;1;1
+24;31/01/2025;20:00;Den Bosch;Volendam;3;0;3
+24;31/01/2025;20:00;Emmen;Jong PSV;4;2;2
+24;01/02/2025;16:30;Excelsior;Vitesse;1;3;-2
+24;01/02/2025;18:45;MVV Maastricht;Roda JC;3;2;1
+24;02/02/2025;16:45;Oss;Helmond Sport;1;1;0
+21;03/02/2025;20:00;De Graafschap;ADO Den Haag;1;2;-1
+24;03/02/2025;20:15;Jong AZ;VVV-Venlo;3;0;3
+25;07/02/2025;20:00;Roda JC;Jong AZ;3;3;0
+25;07/02/2025;20:00;FC Eindhoven;Oss;3;0;3
+25;07/02/2025;20:00;De Graafschap;Den Bosch;1;0;1
+25;07/02/2025;20:10;Volendam;ADO Den Haag;1;2;-1
+25;08/02/2025;16:30;Helmond Sport;Dordrecht;0;1;-1
+25;09/02/2025;12:15;VVV-Venlo;MVV Maastricht;0;0;0
+25;09/02/2025;16:45;Telstar;Jong Utrecht;6;0;6
+25;10/02/2025;20:00;Vitesse;Emmen;2;0;2
+25;10/02/2025;20:00;Jong PSV;Cambuur;1;4;-3
+25;10/02/2025;20:00;Jong Ajax;Excelsior;3;2;1
+26;14/02/2025;20:00;Dordrecht;Roda JC;2;1;1
+26;14/02/2025;20:00;ADO Den Haag;Jong Ajax;1;0;1
+26;14/02/2025;20:00;Cambuur;Oss;1;1;0
+26;14/02/2025;20:00;MVV Maastricht;FC Eindhoven;2;0;2
+26;14/02/2025;20:00;Den Bosch;Telstar;0;1;-1
+26;15/02/2025;16:30;Emmen;Volendam;1;2;-1
+26;16/02/2025;12:15;Vitesse;De Graafschap;2;0;2
+26;16/02/2025;16:45;Excelsior;Helmond Sport;1;1;0
+27;21/02/2025;20:00;Roda JC;Den Bosch;0;0;0
+27;21/02/2025;20:00;Oss;Emmen;0;4;-4
+27;21/02/2025;20:00;Telstar;Excelsior;1;3;-2
+27;21/02/2025;20:00;Helmond Sport;Vitesse;3;0;3
+27;21/02/2025;20:00;De Graafschap;Jong AZ;5;1;4
+27;22/02/2025;16:30;VVV-Venlo;Volendam;1;3;-2
+27;23/02/2025;12:15;FC Eindhoven;Jong Utrecht;1;2;-1
+27;23/02/2025;16:45;MVV Maastricht;ADO Den Haag;1;4;-3
+21;24/02/2025;20:00;Helmond Sport;Emmen;1;2;-1
+27;24/02/2025;20:00;Jong PSV;Dordrecht;1;2;-1
+27;24/02/2025;20:00;Jong Ajax;Cambuur;1;1;0
+24;28/02/2025;20:00;Jong Utrecht;Jong Ajax;1;2;-1
+28;28/02/2025;20:00;Cambuur;VVV-Venlo;5;0;5
+28;28/02/2025;20:00;Volendam;Helmond Sport;3;1;2
+28;28/02/2025;20:00;Jong PSV;De Graafschap;1;2;-1
+28;28/02/2025;20:00;Dordrecht;Emmen;3;0;3
+28;01/03/2025;16:30;Vitesse;MVV Maastricht;1;0;1
+28;02/03/2025;12:15;ADO Den Haag;Den Bosch;2;1;1
+28;02/03/2025;16:45;Excelsior;Roda JC;1;1;0
+28;03/03/2025;20:00;Jong Ajax;FC Eindhoven;0;2;-2
+28;03/03/2025;20:00;Jong Utrecht;Oss;1;1;0
+28;03/03/2025;20:00;Jong AZ;Telstar;1;2;-1
+29;07/03/2025;20:00;Roda JC;Jong PSV;2;1;1
+29;07/03/2025;20:00;Jong AZ;Jong Utrecht;5;1;4
+29;07/03/2025;20:00;VVV-Venlo;Jong Ajax;1;0;1
+29;07/03/2025;20:00;Emmen;ADO Den Haag;0;1;-1
+29;07/03/2025;20:00;FC Eindhoven;Vitesse;3;3;0
+29;07/03/2025;20:00;De Graafschap;Excelsior;2;1;1
+29;07/03/2025;20:00;Den Bosch;Cambuur;0;2;-2
+29;07/03/2025;20:00;Telstar;Dordrecht;5;0;5
+29;07/03/2025;20:00;Helmond Sport;MVV Maastricht;4;0;4
+29;07/03/2025;20:00;Oss;Volendam;0;2;-2
+31;10/03/2025;20:00;Excelsior;Den Bosch;3;1;2
+31;10/03/2025;20:00;Cambuur;Dordrecht;1;0;1
+31;10/03/2025;20:00;Jong PSV;Oss;2;2;0
+31;10/03/2025;20:00;Jong Utrecht;Vitesse;0;2;-2
+31;11/03/2025;20:00;Roda JC;Helmond Sport;3;2;1
+31;11/03/2025;20:00;Volendam;Telstar;3;0;3
+31;11/03/2025;20:00;ADO Den Haag;Jong AZ;0;3;-3
+31;11/03/2025;20:00;Jong Ajax;Emmen;0;2;-2
+30;14/03/2025;20:00;Vitesse;ADO Den Haag;0;1;-1
+30;14/03/2025;20:00;Emmen;Jong Utrecht;2;0;2
+30;14/03/2025;20:00;FC Eindhoven;Excelsior;1;2;-1
+30;14/03/2025;20:00;Dordrecht;VVV-Venlo;4;0;4
+30;14/03/2025;20:00;Telstar;Roda JC;3;1;2
+30;14/03/2025;20:00;Helmond Sport;Jong PSV;1;1;0
+30;14/03/2025;20:00;MVV Maastricht;Jong AZ;0;1;-1
+30;15/03/2025;16:30;Volendam;Cambuur;4;1;3
+30;16/03/2025;12:15;Oss;De Graafschap;0;2;-2
+30;16/03/2025;16:45;Den Bosch;Jong Ajax;3;1;2
+31;22/03/2025;18:45;De Graafschap;MVV Maastricht;0;0;0
+31;22/03/2025;21:00;VVV-Venlo;FC Eindhoven;2;2;0
+32;28/03/2025;20:00;Cambuur;De Graafschap;3;2;1
+32;28/03/2025;20:00;Telstar;Vitesse;1;0;1
+32;28/03/2025;20:00;Excelsior;Jong Utrecht;3;0;3
+32;28/03/2025;20:00;FC Eindhoven;Helmond Sport;2;2;0
+32;28/03/2025;20:00;MVV Maastricht;Emmen;1;2;-1
+32;29/03/2025;16:30;Roda JC;VVV-Venlo;1;4;-3
+32;30/03/2025;16:45;ADO Den Haag;Dordrecht;2;1;1
+32;31/03/2025;20:00;Jong Ajax;Volendam;0;2;-2
+32;31/03/2025;20:00;Jong AZ;Oss;1;1;0
+32;31/03/2025;20:00;Jong PSV;Den Bosch;2;4;-2
+26;01/04/2025;20:00;Jong Utrecht;VVV-Venlo;0;0;0
+33;04/04/2025;20:00;MVV Maastricht;Excelsior;1;2;-1
+33;04/04/2025;20:00;Dordrecht;Jong Ajax;3;0;3
+33;04/04/2025;20:00;Oss;VVV-Venlo;2;1;1
+33;04/04/2025;20:00;Emmen;Cambuur;3;0;3
+33;04/04/2025;20:00;Vitesse;Jong AZ;2;2;0
+33;04/04/2025;20:00;Volendam;Jong PSV;4;0;4
+33;05/04/2025;16:30;Helmond Sport;Telstar;2;2;0
+33;06/04/2025;12:15;Den Bosch;FC Eindhoven;2;2;0
+33;06/04/2025;16:45;De Graafschap;Roda JC;2;0;2
+26;07/04/2025;20:00;Jong AZ;Jong PSV;2;2;0
+33;07/04/2025;20:00;Jong Utrecht;ADO Den Haag;1;1;0
+34;11/04/2025;20:00;Telstar;ADO Den Haag;1;1;0
+34;11/04/2025;20:00;FC Eindhoven;De Graafschap;1;0;1
+34;11/04/2025;20:00;Roda JC;Emmen;1;0;1
+34;11/04/2025;20:00;Excelsior;Oss;2;0;2
+34;12/04/2025;16:30;Dordrecht;Den Bosch;4;0;4
+34;13/04/2025;12:15;Cambuur;Jong Utrecht;3;1;2
+34;13/04/2025;16:45;VVV-Venlo;Helmond Sport;4;1;3
+34;14/04/2025;20:00;Jong AZ;Volendam;0;1;-1
+34;14/04/2025;20:00;Jong Ajax;Vitesse;1;1;0
+34;14/04/2025;20:00;Jong PSV;MVV Maastricht;3;2;1
+35;18/04/2025;20:00;Emmen;Jong AZ;1;4;-3
+35;18/04/2025;20:00;MVV Maastricht;Jong Utrecht;5;0;5
+35;18/04/2025;20:00;Den Bosch;VVV-Venlo;0;0;0
+35;18/04/2025;20:00;FC Eindhoven;Telstar;0;4;-4
+35;18/04/2025;20:00;Helmond Sport;Cambuur;1;1;0
+35;19/04/2025;16:30;Vitesse;Roda JC;3;0;3
+35;19/04/2025;18:45;Oss;Dordrecht;2;0;2
+35;19/04/2025;21:00;De Graafschap;Jong Ajax;2;0;2
+35;20/04/2025;14:30;ADO Den Haag;Jong PSV;3;2;1
+35;20/04/2025;16:45;Volendam;Excelsior;1;4;-3
+36;24/04/2025;20:00;Roda JC;ADO Den Haag;1;1;0
+36;25/04/2025;20:00;Telstar;Oss;3;2;1
+36;25/04/2025;20:00;Dordrecht;MVV Maastricht;3;0;3
+36;25/04/2025;20:00;Cambuur;Vitesse;2;1;1
+36;27/04/2025;16:45;Excelsior;Emmen;2;0;2
+36;28/04/2025;20:00;Jong Utrecht;Volendam;2;3;-1
+36;28/04/2025;20:00;Jong AZ;Den Bosch;0;0;0
+36;28/04/2025;20:00;VVV-Venlo;De Graafschap;3;1;2
+36;28/04/2025;20:00;Jong PSV;FC Eindhoven;0;2;-2
+36;28/04/2025;20:00;Jong Ajax;Helmond Sport;1;0;1
+37;02/05/2025;20:00;Oss;Vitesse;2;2;0
+37;02/05/2025;20:00;MVV Maastricht;Jong Ajax;1;0;1
+37;02/05/2025;20:00;Den Bosch;Helmond Sport;1;0;1
+37;02/05/2025;20:00;FC Eindhoven;Jong AZ;2;4;-2
+37;02/05/2025;20:00;Excelsior;Jong PSV;5;0;5
+37;02/05/2025;20:00;Jong Utrecht;Dordrecht;1;0;1
+37;02/05/2025;20:00;De Graafschap;Telstar;2;1;1
+37;02/05/2025;20:00;Volendam;Roda JC;3;2;1
+37;02/05/2025;20:00;Emmen;VVV-Venlo;2;1;1
+37;02/05/2025;20:00;ADO Den Haag;Cambuur;3;4;-1
+38;09/05/2025;20:00;Jong PSV;Jong Utrecht;3;1;2
+38;09/05/2025;20:00;Helmond Sport;De Graafschap;1;4;-3
+38;09/05/2025;20:00;VVV-Venlo;ADO Den Haag;2;7;-5
+38;09/05/2025;20:00;Vitesse;Den Bosch;3;1;2
+38;09/05/2025;20:00;Roda JC;FC Eindhoven;0;1;-1
+38;09/05/2025;20:00;Dordrecht;Volendam;4;1;3
+38;09/05/2025;20:00;Jong Ajax;Oss;0;0;0
+38;09/05/2025;20:00;Telstar;Emmen;3;0;3
+38;09/05/2025;20:00;Jong AZ;Excelsior;2;1;1
+38;09/05/2025;20:00;Cambuur;MVV Maastricht;1;0;1

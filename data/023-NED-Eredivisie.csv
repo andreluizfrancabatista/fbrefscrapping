@@ -1,0 +1,307 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;20:00;Groningen;NAC Breda;4;1;3
+1;10/08/2024;16:30;Feyenoord;Willem II;1;1;0
+1;10/08/2024;18:45;NEC Nijmegen;Twente;1;2;-1
+1;10/08/2024;20:00;Almere City;AZ Alkmaar;0;1;-1
+1;10/08/2024;21:00;PSV Eindhoven;RKC Waalwijk;5;1;4
+1;11/08/2024;12:15;Sparta R'dam;Heracles Almelo;0;0;0
+1;11/08/2024;14:30;Utrecht;Zwolle;1;0;1
+1;11/08/2024;14:30;Go Ahead Eag;Fortuna Sittard;0;2;-2
+1;11/08/2024;16:45;Ajax;Heerenveen;1;0;1
+2;16/08/2024;20:00;Fortuna Sittard;Almere City;3;0;3
+2;17/08/2024;16:30;Heerenveen;Utrecht;1;1;0
+2;17/08/2024;18:45;Twente;Sparta R'dam;1;1;0
+2;17/08/2024;20:00;AZ Alkmaar;NEC Nijmegen;1;0;1
+2;17/08/2024;21:00;RKC Waalwijk;Groningen;1;2;-1
+2;18/08/2024;12:15;Heracles Almelo;PSV Eindhoven;1;3;-2
+2;18/08/2024;14:30;Willem II;Go Ahead Eag;2;0;2
+2;18/08/2024;14:30;Zwolle;Feyenoord;1;5;-4
+2;18/08/2024;16:45;NAC Breda;Ajax;2;1;1
+3;24/08/2024;18:45;NEC Nijmegen;Zwolle;1;0;1
+3;24/08/2024;20:00;Almere City;PSV Eindhoven;1;7;-6
+3;24/08/2024;21:00;NAC Breda;Utrecht;1;2;-1
+3;25/08/2024;12:15;Groningen;AZ Alkmaar;0;0;0
+3;25/08/2024;14:30;Sparta R'dam;Feyenoord;1;1;0
+3;25/08/2024;14:30;Heracles Almelo;Willem II;1;1;0
+3;25/08/2024;16:45;Go Ahead Eag;RKC Waalwijk;2;0;2
+4;30/08/2024;20:00;RKC Waalwijk;AZ Alkmaar;0;3;-3
+4;31/08/2024;16:30;Almere City;Groningen;1;1;0
+4;31/08/2024;18:45;Fortuna Sittard;NEC Nijmegen;0;3;-3
+4;31/08/2024;20:00;Heerenveen;NAC Breda;4;0;4
+4;31/08/2024;21:00;Willem II;Sparta R'dam;1;2;-1
+4;01/09/2024;12:15;Utrecht;Twente;2;1;1
+4;01/09/2024;14:30;Zwolle;Heracles Almelo;3;0;3
+4;01/09/2024;16:45;PSV Eindhoven;Go Ahead Eag;3;0;3
+5;14/09/2024;16:30;Twente;Zwolle;1;1;0
+5;14/09/2024;16:30;PSV Eindhoven;NEC Nijmegen;2;0;2
+5;14/09/2024;18:45;Groningen;Feyenoord;2;2;0
+5;14/09/2024;20:00;NAC Breda;Fortuna Sittard;1;0;1
+5;14/09/2024;21:00;AZ Alkmaar;Heerenveen;9;1;8
+5;15/09/2024;12:15;Sparta R'dam;Go Ahead Eag;1;2;-1
+5;15/09/2024;14:30;Willem II;RKC Waalwijk;3;0;3
+5;15/09/2024;16:45;Heracles Almelo;Almere City;0;0;0
+3;17/09/2024;20:00;Twente;Heerenveen;2;0;2
+3;18/09/2024;20:00;Ajax;Fortuna Sittard;5;0;5
+6;20/09/2024;20:00;Zwolle;AZ Alkmaar;1;2;-1
+6;21/09/2024;16:30;Utrecht;Willem II;3;2;1
+6;21/09/2024;18:45;RKC Waalwijk;Sparta R'dam;1;2;-1
+6;21/09/2024;20:00;Go Ahead Eag;Ajax;1;1;0
+6;21/09/2024;21:00;NEC Nijmegen;Heracles Almelo;1;2;-1
+6;22/09/2024;12:15;Heerenveen;Groningen;2;1;1
+6;22/09/2024;14:30;Feyenoord;NAC Breda;2;0;2
+6;22/09/2024;14:30;Almere City;Twente;0;5;-5
+6;22/09/2024;16:45;Fortuna Sittard;PSV Eindhoven;1;3;-2
+7;27/09/2024;20:00;Heracles Almelo;Heerenveen;2;1;1
+7;28/09/2024;16:30;Willem II;PSV Eindhoven;0;2;-2
+7;28/09/2024;18:45;NEC Nijmegen;Feyenoord;1;1;0
+7;28/09/2024;21:00;Sparta R'dam;Fortuna Sittard;1;1;0
+7;29/09/2024;12:15;Zwolle;Almere City;1;0;1
+7;29/09/2024;14:30;Twente;NAC Breda;1;0;1
+7;29/09/2024;14:30;Groningen;Go Ahead Eag;0;1;-1
+7;29/09/2024;16:45;RKC Waalwijk;Ajax;0;2;-2
+7;29/09/2024;20:00;AZ Alkmaar;Utrecht;1;2;-1
+8;04/10/2024;20:00;Almere City;Willem II;0;1;-1
+8;05/10/2024;18:45;NAC Breda;NEC Nijmegen;1;0;1
+8;05/10/2024;20:00;PSV Eindhoven;Sparta R'dam;2;1;1
+8;05/10/2024;21:00;Utrecht;RKC Waalwijk;3;2;1
+8;06/10/2024;12:15;Go Ahead Eag;Heracles Almelo;4;1;3
+8;06/10/2024;14:30;Heerenveen;Zwolle;1;1;0
+8;06/10/2024;14:30;Feyenoord;Twente;2;1;1
+8;06/10/2024;16:45;Ajax;Groningen;3;1;2
+8;06/10/2024;20:00;Fortuna Sittard;AZ Alkmaar;1;0;1
+9;19/10/2024;16:30;Sparta R'dam;Almere City;2;2;0
+9;19/10/2024;18:45;AZ Alkmaar;PSV Eindhoven;1;2;-1
+9;19/10/2024;20:00;NEC Nijmegen;Heerenveen;3;0;3
+9;19/10/2024;20:00;RKC Waalwijk;Twente;2;2;0
+9;19/10/2024;21:00;Go Ahead Eag;Feyenoord;1;5;-4
+9;20/10/2024;12:15;Willem II;Fortuna Sittard;0;0;0
+9;20/10/2024;14:30;Groningen;Utrecht;0;1;-1
+9;20/10/2024;14:30;Heracles Almelo;Ajax;3;4;-1
+9;20/10/2024;16:45;Zwolle;NAC Breda;1;2;-1
+10;25/10/2024;20:00;Almere City;NEC Nijmegen;1;0;1
+10;26/10/2024;16:30;Fortuna Sittard;Groningen;1;0;1
+10;26/10/2024;18:45;PSV Eindhoven;Zwolle;6;0;6
+10;26/10/2024;20:00;NAC Breda;RKC Waalwijk;4;1;3
+10;26/10/2024;21:00;Heerenveen;Sparta R'dam;2;0;2
+10;27/10/2024;12:15;Utrecht;Feyenoord;0;2;-2
+10;27/10/2024;14:30;Twente;Heracles Almelo;5;0;5
+10;27/10/2024;16:45;Ajax;Willem II;1;0;1
+10;27/10/2024;20:00;AZ Alkmaar;Go Ahead Eag;2;2;0
+4;30/10/2024;18:00;Feyenoord;Ajax;0;2;-2
+11;02/11/2024;16:30;Willem II;Twente;0;1;-1
+11;02/11/2024;18:45;Heracles Almelo;NAC Breda;2;0;2
+11;02/11/2024;18:45;Ajax;PSV Eindhoven;3;2;1
+11;02/11/2024;21:00;Fortuna Sittard;Heerenveen;3;0;3
+11;02/11/2024;21:00;Feyenoord;AZ Alkmaar;3;2;1
+11;03/11/2024;12:15;Go Ahead Eag;Zwolle;2;2;0
+11;03/11/2024;14:30;Sparta R'dam;Utrecht;1;4;-3
+11;03/11/2024;14:30;NEC Nijmegen;Groningen;6;0;6
+11;03/11/2024;16:45;RKC Waalwijk;Almere City;2;0;2
+12;08/11/2024;20:00;Utrecht;Heracles Almelo;1;0;1
+12;09/11/2024;16:30;Groningen;Sparta R'dam;1;0;1
+12;09/11/2024;18:45;Zwolle;Fortuna Sittard;3;1;2
+12;09/11/2024;20:00;NAC Breda;PSV Eindhoven;0;3;-3
+12;09/11/2024;21:00;RKC Waalwijk;NEC Nijmegen;0;3;-3
+12;10/11/2024;12:15;Almere City;Feyenoord;1;4;-3
+12;10/11/2024;14:30;Heerenveen;Go Ahead Eag;1;0;1
+12;10/11/2024;14:30;Twente;Ajax;2;2;0
+12;10/11/2024;16:45;AZ Alkmaar;Willem II;1;2;-1
+13;23/11/2024;16:30;Go Ahead Eag;Almere City;3;0;3
+13;23/11/2024;18:45;Feyenoord;Heerenveen;3;0;3
+13;23/11/2024;18:45;Heracles Almelo;RKC Waalwijk;2;2;0
+13;23/11/2024;21:00;Fortuna Sittard;Twente;1;2;-1
+13;23/11/2024;21:00;PSV Eindhoven;Groningen;5;0;5
+13;24/11/2024;12:15;NEC Nijmegen;Utrecht;1;2;-1
+13;24/11/2024;14:30;Sparta R'dam;AZ Alkmaar;1;2;-1
+13;24/11/2024;14:30;Willem II;NAC Breda;2;2;0
+13;24/11/2024;16:45;Ajax;Zwolle;2;0;2
+14;29/11/2024;20:00;Heerenveen;RKC Waalwijk;1;1;0
+14;30/11/2024;16:30;NAC Breda;Almere City;1;0;1
+14;30/11/2024;18:45;Groningen;Willem II;2;0;2
+14;30/11/2024;20:00;Feyenoord;Fortuna Sittard;1;1;0
+14;30/11/2024;21:00;Zwolle;Sparta R'dam;1;0;1
+14;01/12/2024;12:15;Utrecht;PSV Eindhoven;2;5;-3
+14;01/12/2024;14:30;Twente;Go Ahead Eag;3;2;1
+14;01/12/2024;14:30;AZ Alkmaar;Heracles Almelo;1;0;1
+14;01/12/2024;16:45;NEC Nijmegen;Ajax;1;2;-1
+5;04/12/2024;20:00;Ajax;Utrecht;2;2;0
+15;06/12/2024;20:00;PSV Eindhoven;Twente;6;1;5
+15;07/12/2024;16:30;Go Ahead Eag;NEC Nijmegen;5;0;5
+15;07/12/2024;18:45;Sparta R'dam;NAC Breda;0;2;-2
+15;07/12/2024;20:00;RKC Waalwijk;Feyenoord;2;3;-1
+15;07/12/2024;21:00;Heracles Almelo;Fortuna Sittard;2;2;0
+15;08/12/2024;12:15;Groningen;Zwolle;0;0;0
+15;08/12/2024;14:30;AZ Alkmaar;Ajax;2;1;1
+15;08/12/2024;14:30;Willem II;Heerenveen;1;2;-1
+15;08/12/2024;16:45;Almere City;Utrecht;1;3;-2
+16;13/12/2024;20:00;Zwolle;Willem II;0;1;-1
+16;14/12/2024;18:45;Heerenveen;PSV Eindhoven;1;0;1
+16;14/12/2024;20:00;Fortuna Sittard;RKC Waalwijk;3;2;1
+16;14/12/2024;21:00;Feyenoord;Heracles Almelo;5;2;3
+16;15/12/2024;12:15;Utrecht;Go Ahead Eag;3;3;0
+16;15/12/2024;14:30;NEC Nijmegen;Sparta R'dam;1;1;0
+16;15/12/2024;14:30;Twente;Groningen;2;0;2
+16;15/12/2024;16:45;Ajax;Almere City;3;0;3
+16;15/12/2024;20:00;NAC Breda;AZ Alkmaar;1;2;-1
+17;20/12/2024;20:00;RKC Waalwijk;Zwolle;1;1;0
+17;21/12/2024;16:30;Go Ahead Eag;NAC Breda;2;1;1
+17;21/12/2024;18:45;Almere City;Heerenveen;3;0;3
+17;21/12/2024;20:00;AZ Alkmaar;Twente;1;0;1
+17;22/12/2024;12:15;Sparta R'dam;Ajax;0;2;-2
+17;22/12/2024;14:30;PSV Eindhoven;Feyenoord;3;0;3
+17;22/12/2024;14:30;Utrecht;Fortuna Sittard;2;5;-3
+17;22/12/2024;16:45;Willem II;NEC Nijmegen;4;1;3
+18;10/01/2025;20:00;Fortuna Sittard;Go Ahead Eag;0;3;-3
+18;11/01/2025;16:30;Heracles Almelo;Sparta R'dam;1;1;0
+18;11/01/2025;18:45;Ajax;RKC Waalwijk;2;1;1
+18;11/01/2025;20:00;Zwolle;NEC Nijmegen;0;1;-1
+18;11/01/2025;21:00;PSV Eindhoven;AZ Alkmaar;2;2;0
+18;12/01/2025;12:15;Twente;Willem II;6;2;4
+18;12/01/2025;14:30;Feyenoord;Utrecht;1;2;-1
+18;12/01/2025;14:30;Groningen;Almere City;0;0;0
+18;12/01/2025;16:45;NAC Breda;Heerenveen;2;4;-2
+19;18/01/2025;16:30;Zwolle;PSV Eindhoven;3;1;2
+19;18/01/2025;18:45;Utrecht;AZ Alkmaar;0;0;0
+19;18/01/2025;20:00;Willem II;Feyenoord;1;1;0
+19;18/01/2025;21:00;Go Ahead Eag;Groningen;2;1;1
+19;19/01/2025;12:15;NAC Breda;Twente;2;1;1
+19;19/01/2025;14:30;Almere City;Heracles Almelo;0;2;-2
+19;19/01/2025;14:30;Heerenveen;Ajax;0;2;-2
+19;19/01/2025;16:45;NEC Nijmegen;Fortuna Sittard;4;1;3
+19;19/01/2025;20:00;Sparta R'dam;RKC Waalwijk;1;1;0
+20;24/01/2025;20:00;Heracles Almelo;Utrecht;1;1;0
+20;25/01/2025;18:45;PSV Eindhoven;NAC Breda;3;2;1
+20;25/01/2025;21:00;Groningen;Heerenveen;1;0;1
+20;26/01/2025;12:15;Fortuna Sittard;Zwolle;1;4;-3
+20;26/01/2025;14:30;RKC Waalwijk;Willem II;2;0;2
+20;26/01/2025;16:45;AZ Alkmaar;Sparta R'dam;1;2;-1
+17;28/01/2025;20:00;Heracles Almelo;Groningen;1;1;0
+21;31/01/2025;20:00;NAC Breda;Heracles Almelo;1;1;0
+21;01/02/2025;18:45;Zwolle;Utrecht;3;3;0
+21;01/02/2025;20:00;Heerenveen;Fortuna Sittard;2;2;0
+21;01/02/2025;21:00;NEC Nijmegen;PSV Eindhoven;3;3;0
+21;02/02/2025;12:15;Almere City;RKC Waalwijk;1;4;-3
+21;02/02/2025;14:30;Go Ahead Eag;Twente;2;2;0
+21;02/02/2025;14:30;Ajax;Feyenoord;2;1;1
+21;02/02/2025;16:45;Sparta R'dam;Groningen;1;0;1
+21;02/02/2025;20:00;Willem II;AZ Alkmaar;0;2;-2
+22;08/02/2025;16:30;Heracles Almelo;Go Ahead Eag;4;2;2
+22;08/02/2025;18:45;PSV Eindhoven;Willem II;1;1;0
+22;08/02/2025;20:00;Groningen;NEC Nijmegen;2;1;1
+22;08/02/2025;21:00;Feyenoord;Sparta R'dam;3;0;3
+22;09/02/2025;12:15;Utrecht;Almere City;0;1;-1
+22;09/02/2025;14:30;RKC Waalwijk;NAC Breda;5;0;5
+22;09/02/2025;14:30;Fortuna Sittard;Ajax;0;2;-2
+22;09/02/2025;16:45;AZ Alkmaar;Zwolle;2;0;2
+22;09/02/2025;16:45;Heerenveen;Twente;3;3;0
+23;14/02/2025;20:00;Go Ahead Eag;Sparta R'dam;1;0;1
+23;15/02/2025;16:30;PSV Eindhoven;Utrecht;2;2;0
+23;15/02/2025;18:45;NAC Breda;Feyenoord;0;0;0
+23;15/02/2025;21:00;Willem II;Groningen;1;3;-2
+23;16/02/2025;12:15;NEC Nijmegen;Almere City;2;2;0
+23;16/02/2025;14:30;Twente;RKC Waalwijk;2;0;2
+23;16/02/2025;14:30;Zwolle;Heerenveen;1;1;0
+23;16/02/2025;16:45;Ajax;Heracles Almelo;4;0;4
+20;22/02/2025;20:00;Feyenoord;Almere City;2;1;1
+20;23/02/2025;14:30;Twente;NEC Nijmegen;2;0;2
+20;23/02/2025;14:30;Ajax;Go Ahead Eag;2;0;2
+23;23/02/2025;16:45;AZ Alkmaar;Fortuna Sittard;1;0;1
+24;28/02/2025;20:00;RKC Waalwijk;Fortuna Sittard;1;2;-1
+24;01/03/2025;16:30;Utrecht;NAC Breda;1;0;1
+24;01/03/2025;18:45;Go Ahead Eag;PSV Eindhoven;3;2;1
+24;01/03/2025;20:00;Groningen;Twente;1;1;0
+24;01/03/2025;21:00;Feyenoord;NEC Nijmegen;0;0;0
+24;02/03/2025;12:15;Heerenveen;AZ Alkmaar;3;1;2
+24;02/03/2025;14:30;Heracles Almelo;Zwolle;4;2;2
+24;02/03/2025;14:30;Almere City;Ajax;0;1;-1
+24;02/03/2025;16:45;Sparta R'dam;Willem II;4;0;4
+25;07/03/2025;20:00;NAC Breda;Sparta R'dam;1;1;0
+25;08/03/2025;16:30;Fortuna Sittard;Heracles Almelo;1;0;1
+25;08/03/2025;20:00;PSV Eindhoven;Heerenveen;2;1;1
+25;09/03/2025;12:15;Willem II;Utrecht;2;3;-1
+25;09/03/2025;14:30;Zwolle;Ajax;0;1;-1
+25;09/03/2025;14:30;NEC Nijmegen;Go Ahead Eag;2;3;-1
+25;09/03/2025;16:45;Twente;Almere City;1;0;1
+26;14/03/2025;20:00;Almere City;NAC Breda;1;1;0
+26;15/03/2025;16:30;Utrecht;NEC Nijmegen;0;1;-1
+26;15/03/2025;18:45;Sparta R'dam;Zwolle;1;1;0
+26;15/03/2025;20:00;RKC Waalwijk;PSV Eindhoven;0;3;-3
+26;15/03/2025;21:00;Heerenveen;Heracles Almelo;1;1;0
+26;16/03/2025;12:15;Go Ahead Eag;Willem II;1;0;1
+26;16/03/2025;14:30;Groningen;Fortuna Sittard;1;0;1
+26;16/03/2025;14:30;Twente;Feyenoord;2;6;-4
+26;16/03/2025;16:45;Ajax;AZ Alkmaar;2;2;0
+27;29/03/2025;16:30;NAC Breda;Groningen;1;1;0
+27;29/03/2025;18:45;Willem II;Almere City;0;2;-2
+27;29/03/2025;18:45;Fortuna Sittard;Sparta R'dam;0;3;-3
+27;29/03/2025;21:00;Zwolle;RKC Waalwijk;2;0;2
+27;29/03/2025;21:00;NEC Nijmegen;AZ Alkmaar;3;3;0
+27;30/03/2025;12:15;Utrecht;Heerenveen;2;0;2
+27;30/03/2025;14:30;PSV Eindhoven;Ajax;0;2;-2
+27;30/03/2025;14:30;Heracles Almelo;Twente;2;1;1
+27;30/03/2025;16:45;Feyenoord;Go Ahead Eag;3;2;1
+25;01/04/2025;20:00;AZ Alkmaar;RKC Waalwijk;2;2;0
+25;02/04/2025;20:00;Feyenoord;Groningen;4;1;3
+28;04/04/2025;20:00;Heerenveen;Willem II;3;1;2
+28;05/04/2025;16:30;AZ Alkmaar;Feyenoord;0;1;-1
+28;05/04/2025;18:45;Twente;Fortuna Sittard;1;1;0
+28;05/04/2025;20:00;Groningen;PSV Eindhoven;1;3;-2
+28;05/04/2025;21:00;Almere City;Zwolle;2;2;0
+28;06/04/2025;12:15;RKC Waalwijk;Heracles Almelo;0;0;0
+28;06/04/2025;14:30;Sparta R'dam;NEC Nijmegen;2;0;2
+28;06/04/2025;14:30;Go Ahead Eag;Utrecht;2;2;0
+28;06/04/2025;16:45;Ajax;NAC Breda;3;1;2
+29;11/04/2025;20:00;NEC Nijmegen;RKC Waalwijk;2;1;1
+29;12/04/2025;16:30;Fortuna Sittard;Feyenoord;0;2;-2
+29;12/04/2025;18:45;Sparta R'dam;Heerenveen;3;1;2
+29;12/04/2025;20:00;PSV Eindhoven;Almere City;5;0;5
+29;12/04/2025;21:00;NAC Breda;Go Ahead Eag;1;1;0
+29;13/04/2025;12:15;Utrecht;Groningen;3;1;2
+29;13/04/2025;14:30;Zwolle;Twente;1;1;0
+29;13/04/2025;14:30;Heracles Almelo;AZ Alkmaar;1;0;1
+29;13/04/2025;16:45;Willem II;Ajax;1;2;-1
+31;19/04/2025;20:00;Heerenveen;Almere City;2;1;1
+31;20/04/2025;12:15;Utrecht;Ajax;4;0;4
+30;23/04/2025;20:00;Groningen;Heracles Almelo;4;1;3
+30;24/04/2025;18:45;AZ Alkmaar;NAC Breda;1;1;0
+30;24/04/2025;21:00;Twente;PSV Eindhoven;1;3;-2
+30;25/04/2025;18:45;RKC Waalwijk;Utrecht;0;4;-4
+30;25/04/2025;21:00;Feyenoord;Zwolle;4;0;4
+30;27/04/2025;12:15;Fortuna Sittard;Willem II;1;0;1
+30;27/04/2025;14:30;Ajax;Sparta R'dam;1;1;0
+30;27/04/2025;14:30;Heerenveen;NEC Nijmegen;1;0;1
+30;27/04/2025;16:45;Almere City;Go Ahead Eag;0;0;0
+31;03/05/2025;16:30;NEC Nijmegen;Willem II;1;1;0
+31;03/05/2025;18:45;Heracles Almelo;Feyenoord;1;4;-3
+31;03/05/2025;20:00;Groningen;RKC Waalwijk;6;1;5
+31;03/05/2025;21:00;PSV Eindhoven;Fortuna Sittard;4;1;3
+31;04/05/2025;12:15;NAC Breda;Zwolle;1;3;-2
+31;04/05/2025;14:30;Go Ahead Eag;AZ Alkmaar;0;3;-3
+31;04/05/2025;14:30;Sparta R'dam;Twente;0;2;-2
+32;09/05/2025;20:00;Willem II;Heracles Almelo;1;2;-1
+32;10/05/2025;16:30;RKC Waalwijk;Heerenveen;3;1;2
+32;10/05/2025;18:45;Fortuna Sittard;NAC Breda;1;0;1
+32;10/05/2025;21:00;Almere City;Sparta R'dam;0;3;-3
+32;11/05/2025;12:15;Zwolle;Go Ahead Eag;1;1;0
+32;11/05/2025;14:30;Twente;Utrecht;2;0;2
+32;11/05/2025;14:30;Feyenoord;PSV Eindhoven;2;3;-1
+32;11/05/2025;16:45;AZ Alkmaar;Groningen;3;0;3
+32;11/05/2025;16:45;Ajax;NEC Nijmegen;0;3;-3
+33;14/05/2025;20:00;PSV Eindhoven;Heracles Almelo;4;1;3
+33;14/05/2025;20:00;Twente;AZ Alkmaar;2;3;-1
+33;14/05/2025;20:00;Utrecht;Sparta R'dam;1;1;0
+33;14/05/2025;20:00;Willem II;Zwolle;1;2;-1
+33;14/05/2025;20:00;Groningen;Ajax;2;2;0
+33;14/05/2025;20:00;Almere City;Fortuna Sittard;1;1;0
+33;14/05/2025;20:00;Go Ahead Eag;Heerenveen;1;0;1
+33;14/05/2025;20:00;Feyenoord;RKC Waalwijk;2;0;2
+33;14/05/2025;20:00;NEC Nijmegen;NAC Breda;3;0;3
+34;18/05/2025;14:30;AZ Alkmaar;Almere City;1;1;0
+34;18/05/2025;14:30;Heracles Almelo;NEC Nijmegen;1;2;-1
+34;18/05/2025;14:30;RKC Waalwijk;Go Ahead Eag;5;3;2
+34;18/05/2025;14:30;Ajax;Twente;2;0;2
+34;18/05/2025;14:30;Sparta R'dam;PSV Eindhoven;1;3;-2
+34;18/05/2025;14:30;Heerenveen;Feyenoord;2;0;2
+34;18/05/2025;14:30;Fortuna Sittard;Utrecht;0;0;0
+34;18/05/2025;14:30;Zwolle;Groningen;2;0;2
+34;18/05/2025;14:30;NAC Breda;Willem II;1;1;0

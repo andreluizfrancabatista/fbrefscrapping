@@ -1,0 +1,307 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;20:15;Sporting CP;Rio Ave;3;1;2
+1;10/08/2024;15:30;AVS Futebol;Nacional;1;1;0
+1;10/08/2024;18:00;Casa Pia;Boavista;0;1;-1
+1;10/08/2024;20:30;Porto;Gil Vicente FC;3;0;3
+1;11/08/2024;15:30;Estoril;Santa Clara;1;4;-3
+1;11/08/2024;18:00;Famalicão;Benfica;2;0;2
+1;11/08/2024;18:00;Farense;Moreirense;1;2;-1
+1;11/08/2024;20:30;Braga;Estrela;1;1;0
+1;12/08/2024;20:15;Arouca;Vitória;0;1;-1
+2;16/08/2024;16:00;Santa Clara;Porto;0;2;-2
+2;16/08/2024;20:15;Gil Vicente FC;AVS Futebol;4;2;2
+2;17/08/2024;15:30;Rio Ave;Farense;1;0;1
+2;17/08/2024;18:00;Nacional;Sporting CP;1;6;-5
+2;17/08/2024;20:30;Benfica;Casa Pia;3;0;3
+2;18/08/2024;15:30;Moreirense;Arouca;3;1;2
+2;18/08/2024;18:00;Vitória;Estoril;1;0;1
+2;18/08/2024;20:30;Boavista;Braga;0;1;-1
+2;19/08/2024;20:15;Estrela;Famalicão;0;3;-3
+3;23/08/2024;20:15;Farense;Sporting CP;0;5;-5
+3;24/08/2024;15:30;Casa Pia;Santa Clara;0;2;-2
+3;24/08/2024;18:00;Porto;Rio Ave;2;0;2
+3;24/08/2024;20:30;Famalicão;Boavista;1;0;1
+3;24/08/2024;20:30;Benfica;Estrela;1;0;1
+3;25/08/2024;15:30;Arouca;Nacional;1;0;1
+3;25/08/2024;18:00;Estoril;Gil Vicente FC;0;0;0
+3;25/08/2024;20:30;AVS Futebol;Vitória;1;0;1
+3;25/08/2024;20:30;Braga;Moreirense;3;1;2
+4;30/08/2024;20:15;Moreirense;Benfica;1;1;0
+4;31/08/2024;14:30;Santa Clara;AVS Futebol;2;1;1
+4;31/08/2024;18:00;Boavista;Estoril;0;0;0
+4;31/08/2024;18:00;Estrela;Casa Pia;0;1;-1
+4;31/08/2024;20:30;Sporting CP;Porto;2;0;2
+4;01/09/2024;15:30;Nacional;Farense;2;0;2
+4;01/09/2024;18:00;Rio Ave;Arouca;1;0;1
+4;01/09/2024;20:30;Gil Vicente FC;Braga;0;0;0
+4;01/09/2024;20:30;Vitória;Famalicão;2;1;1
+5;13/09/2024;20:15;Arouca;Sporting CP;0;3;-3
+5;14/09/2024;15:30;Casa Pia;Moreirense;3;1;2
+5;14/09/2024;18:00;AVS Futebol;Rio Ave;1;0;1
+5;14/09/2024;20:30;Famalicão;Gil Vicente FC;1;1;0
+5;14/09/2024;20:30;Benfica;Santa Clara;4;1;3
+5;15/09/2024;15:30;Porto;Farense;2;1;1
+5;15/09/2024;18:00;Estoril;Nacional;1;0;1
+5;15/09/2024;20:30;Braga;Vitória;0;2;-2
+5;16/09/2024;20:15;Estrela;Boavista;2;2;0
+6;20/09/2024;20:15;Nacional;Braga;0;3;-3
+6;21/09/2024;14:30;Santa Clara;Estrela;1;0;1
+6;21/09/2024;15:30;Rio Ave;Estoril;2;2;0
+6;21/09/2024;18:00;Vitória;Porto;0;3;-3
+6;21/09/2024;20:30;Moreirense;Famalicão;0;0;0
+6;22/09/2024;15:30;Gil Vicente FC;Casa Pia;1;1;0
+6;22/09/2024;18:00;Farense;Arouca;0;1;-1
+6;22/09/2024;20:30;Sporting CP;AVS Futebol;3;0;3
+6;23/09/2024;20:15;Boavista;Benfica;0;3;-3
+7;27/09/2024;20:15;Estoril;Sporting CP;0;3;-3
+7;28/09/2024;15:30;Estrela;Moreirense;2;1;1
+7;28/09/2024;18:00;Casa Pia;Vitória;1;1;0
+7;28/09/2024;20:30;Benfica;Gil Vicente FC;5;1;4
+7;29/09/2024;15:30;Famalicão;Nacional;0;0;0
+7;29/09/2024;18:00;Porto;Arouca;4;0;4
+7;29/09/2024;19:30;Santa Clara;Boavista;1;0;1
+7;29/09/2024;20:30;Braga;Rio Ave;4;0;4
+7;30/09/2024;20:15;AVS Futebol;Farense;0;0;0
+8;04/10/2024;20:15;Rio Ave;Famalicão;1;1;0
+8;05/10/2024;15:30;Gil Vicente FC;Estrela;3;0;3
+8;05/10/2024;15:30;Moreirense;Santa Clara;1;0;1
+8;05/10/2024;18:00;Arouca;AVS Futebol;1;1;0
+8;05/10/2024;20:30;Sporting CP;Casa Pia;2;0;2
+8;06/10/2024;15:30;Farense;Estoril;1;0;1
+8;06/10/2024;15:30;Vitória;Boavista;2;2;0
+8;06/10/2024;20:30;Porto;Braga;2;1;1
+9;25/10/2024;18:45;Casa Pia;Nacional;1;0;1
+9;25/10/2024;19:45;Santa Clara;Gil Vicente FC;2;1;1
+9;26/10/2024;15:30;Estoril;Arouca;4;1;3
+9;26/10/2024;18:00;Boavista;Moreirense;0;2;-2
+9;26/10/2024;20:30;Famalicão;Sporting CP;0;3;-3
+9;27/10/2024;15:30;Braga;Farense;2;0;2
+9;27/10/2024;18:00;Benfica;Rio Ave;5;0;5
+9;27/10/2024;20:30;Estrela;Vitória;2;2;0
+9;28/10/2024;20:15;AVS Futebol;Porto;0;5;-5
+10;01/11/2024;20:15;Sporting CP;Estrela;5;1;4
+10;02/11/2024;15:30;Rio Ave;Casa Pia;2;2;0
+10;02/11/2024;18:00;Farense;Benfica;1;2;-1
+10;02/11/2024;20:30;Gil Vicente FC;Boavista;1;2;-1
+10;03/11/2024;15:30;AVS Futebol;Famalicão;2;3;-1
+10;03/11/2024;18:00;Vitória;Moreirense;1;0;1
+10;03/11/2024;18:00;Arouca;Braga;1;2;-1
+10;03/11/2024;20:30;Porto;Estoril;4;0;4
+10;04/11/2024;20:15;Nacional;Santa Clara;2;0;2
+11;08/11/2024;20:15;Moreirense;Gil Vicente FC;3;2;1
+11;09/11/2024;15:30;Casa Pia;Farense;1;1;0
+11;09/11/2024;15:30;Estoril;AVS Futebol;0;0;0
+11;09/11/2024;18:00;Famalicão;Arouca;0;0;0
+11;09/11/2024;20:30;Boavista;Rio Ave;0;2;-2
+11;10/11/2024;15:30;Santa Clara;Vitória;1;0;1
+11;10/11/2024;15:30;Estrela;Nacional;2;0;2
+11;10/11/2024;18:45;Braga;Sporting CP;2;4;-2
+11;10/11/2024;20:45;Benfica;Porto;4;1;3
+12;29/11/2024;20:15;Farense;Estrela;1;0;1
+12;30/11/2024;15:30;Rio Ave;Moreirense;3;2;1
+12;30/11/2024;18:00;Nacional;Boavista;0;0;0
+12;30/11/2024;20:30;Sporting CP;Santa Clara;0;1;-1
+12;01/12/2024;15:30;Estoril;Famalicão;2;1;1
+12;01/12/2024;18:00;Arouca;Benfica;0;2;-2
+12;01/12/2024;20:30;AVS Futebol;Braga;0;1;-1
+12;02/12/2024;18:45;Vitória;Gil Vicente FC;4;0;4
+12;02/12/2024;20:45;Porto;Casa Pia;2;0;2
+13;05/12/2024;20:15;Moreirense;Sporting CP;2;1;1
+13;06/12/2024;20:15;Braga;Estoril;2;2;0
+13;07/12/2024;15:30;Gil Vicente FC;Nacional;2;1;1
+13;07/12/2024;17:00;Santa Clara;Rio Ave;1;0;1
+13;07/12/2024;18:00;Benfica;Vitória;1;0;1
+13;07/12/2024;20:30;Famalicão;Porto;1;1;0
+13;08/12/2024;15:30;Boavista;Farense;1;1;0
+13;08/12/2024;18:00;Casa Pia;AVS Futebol;1;1;0
+13;09/12/2024;20:15;Estrela;Arouca;2;1;1
+14;14/12/2024;15:30;Farense;Gil Vicente FC;0;1;-1
+14;14/12/2024;18:00;Nacional;Moreirense;1;0;1
+14;14/12/2024;20:30;Sporting CP;Boavista;3;2;1
+14;15/12/2024;15:30;Arouca;Santa Clara;1;0;1
+14;15/12/2024;18:00;AVS Futebol;Benfica;1;1;0
+14;15/12/2024;20:30;Estoril;Casa Pia;0;2;-2
+14;16/12/2024;18:45;Braga;Famalicão;3;3;0
+14;16/12/2024;20:15;Porto;Estrela;2;0;2
+14;16/12/2024;20:45;Rio Ave;Vitória;2;2;0
+8;19/12/2024;17:00;Nacional;Benfica;0;2;-2
+15;20/12/2024;20:15;Casa Pia;Arouca;3;1;2
+15;21/12/2024;15:30;Famalicão;Farense;1;2;-1
+15;21/12/2024;18:00;Boavista;AVS Futebol;0;0;0
+15;21/12/2024;20:30;Moreirense;Porto;0;3;-3
+15;22/12/2024;16:00;Santa Clara;Braga;0;2;-2
+15;22/12/2024;20:30;Gil Vicente FC;Sporting CP;0;0;0
+15;23/12/2024;18:45;Benfica;Estoril;3;0;3
+15;23/12/2024;18:45;Vitória;Nacional;2;2;0
+15;23/12/2024;20:45;Estrela;Rio Ave;1;0;1
+16;27/12/2024;20:15;Arouca;Gil Vicente FC;1;1;0
+16;28/12/2024;15:30;AVS Futebol;Estrela;1;1;0
+16;28/12/2024;18:00;Estoril;Moreirense;2;2;0
+16;28/12/2024;20:30;Porto;Boavista;4;0;4
+16;29/12/2024;15:30;Farense;Vitória;2;2;0
+16;29/12/2024;15:30;Rio Ave;Nacional;2;1;1
+16;29/12/2024;18:00;Braga;Casa Pia;1;2;-1
+16;29/12/2024;20:30;Sporting CP;Benfica;1;0;1
+16;30/12/2024;20:15;Famalicão;Santa Clara;1;2;-1
+17;03/01/2025;20:15;Vitória;Sporting CP;4;4;0
+17;04/01/2025;15:30;Moreirense;AVS Futebol;1;1;0
+17;04/01/2025;18:00;Benfica;Braga;1;2;-1
+17;04/01/2025;20:30;Boavista;Arouca;1;3;-2
+17;05/01/2025;14:30;Santa Clara;Farense;0;0;0
+17;05/01/2025;18:00;Casa Pia;Famalicão;1;1;0
+17;05/01/2025;20:30;Estrela;Estoril;2;4;-2
+17;06/01/2025;20:15;Gil Vicente FC;Rio Ave;1;1;0
+17;12/01/2025;15:30;Nacional;Porto;2;0;2
+18;17/01/2025;20:15;Benfica;Famalicão;4;0;4
+18;18/01/2025;14:30;Santa Clara;Estoril;2;3;-1
+18;18/01/2025;18:00;Rio Ave;Sporting CP;0;3;-3
+18;18/01/2025;20:30;Vitória;Arouca;2;2;0
+18;19/01/2025;15:30;Moreirense;Farense;0;0;0
+18;19/01/2025;15:30;Nacional;AVS Futebol;3;1;2
+18;19/01/2025;18:00;Estrela;Braga;0;1;-1
+18;19/01/2025;20:30;Gil Vicente FC;Porto;3;1;2
+18;20/01/2025;20:15;Boavista;Casa Pia;2;3;-1
+19;24/01/2025;20:15;Arouca;Moreirense;1;0;1
+19;25/01/2025;15:30;Farense;Rio Ave;1;2;-1
+19;25/01/2025;15:30;Famalicão;Estrela;0;0;0
+19;25/01/2025;18:00;Casa Pia;Benfica;3;1;2
+19;25/01/2025;20:30;Sporting CP;Nacional;2;0;2
+19;26/01/2025;15:30;Estoril;Vitória;1;0;1
+19;26/01/2025;18:00;Porto;Santa Clara;1;1;0
+19;26/01/2025;20:30;Braga;Boavista;3;0;3
+19;27/01/2025;20:15;AVS Futebol;Gil Vicente FC;1;0;1
+20;31/01/2025;20:15;Boavista;Famalicão;0;2;-2
+20;01/02/2025;14:30;Santa Clara;Casa Pia;2;1;1
+20;01/02/2025;15:30;Nacional;Arouca;1;2;-1
+20;01/02/2025;18:00;Gil Vicente FC;Estoril;1;2;-1
+20;01/02/2025;20:30;Vitória;AVS Futebol;2;0;2
+20;02/02/2025;18:00;Sporting CP;Farense;3;1;2
+20;02/02/2025;20:30;Estrela;Benfica;2;3;-1
+20;03/02/2025;18:45;Moreirense;Braga;1;2;-1
+20;03/02/2025;20:45;Rio Ave;Porto;2;2;0
+21;07/02/2025;20:15;Porto;Sporting CP;1;1;0
+21;08/02/2025;15:30;AVS Futebol;Santa Clara;1;2;-1
+21;08/02/2025;18:00;Benfica;Moreirense;3;2;1
+21;08/02/2025;20:30;Famalicão;Vitória;0;0;0
+21;09/02/2025;15:30;Estoril;Boavista;2;1;1
+21;09/02/2025;15:30;Farense;Nacional;0;2;-2
+21;09/02/2025;18:00;Braga;Gil Vicente FC;2;0;2
+21;09/02/2025;20:30;Casa Pia;Estrela;1;0;1
+21;10/02/2025;20:15;Arouca;Rio Ave;1;1;0
+22;14/02/2025;20:15;Boavista;Estrela;0;1;-1
+22;15/02/2025;15:30;Moreirense;Casa Pia;3;2;1
+22;15/02/2025;17:00;Nacional;Estoril;2;2;0
+22;15/02/2025;17:00;Santa Clara;Benfica;0;1;-1
+22;15/02/2025;20:30;Sporting CP;Arouca;2;2;0
+22;16/02/2025;15:30;Rio Ave;AVS Futebol;1;1;0
+22;16/02/2025;18:00;Farense;Porto;0;1;-1
+22;16/02/2025;20:30;Vitória;Braga;0;0;0
+22;17/02/2025;20:15;Gil Vicente FC;Famalicão;0;2;-2
+23;21/02/2025;20:15;Braga;Nacional;1;0;1
+23;22/02/2025;15:30;Casa Pia;Gil Vicente FC;1;0;1
+23;22/02/2025;18:00;Benfica;Boavista;3;0;3
+23;22/02/2025;20:30;Estoril;Rio Ave;2;1;1
+23;23/02/2025;15:30;Arouca;Farense;2;2;0
+23;23/02/2025;15:30;Estrela;Santa Clara;0;0;0
+23;23/02/2025;18:00;AVS Futebol;Sporting CP;2;2;0
+23;23/02/2025;20:30;Famalicão;Moreirense;2;0;2
+23;24/02/2025;20:15;Porto;Vitória;1;1;0
+24;01/03/2025;15:30;Nacional;Famalicão;2;1;1
+24;01/03/2025;18:00;Arouca;Porto;0;2;-2
+24;01/03/2025;20:30;Vitória;Casa Pia;1;0;1
+24;02/03/2025;15:30;Moreirense;Estrela;1;1;0
+24;02/03/2025;15:30;Boavista;Santa Clara;1;0;1
+24;02/03/2025;18:00;Farense;AVS Futebol;0;1;-1
+24;02/03/2025;20:30;Rio Ave;Braga;2;1;1
+24;03/03/2025;20:15;Sporting CP;Estoril;3;1;2
+25;07/03/2025;20:15;Estrela;Gil Vicente FC;1;1;0
+25;08/03/2025;15:30;AVS Futebol;Arouca;0;1;-1
+25;08/03/2025;18:00;Estoril;Farense;2;2;0
+25;08/03/2025;18:00;Benfica;Nacional;3;0;3
+25;08/03/2025;20:30;Braga;Porto;1;0;1
+25;09/03/2025;14:30;Santa Clara;Moreirense;1;1;0
+25;09/03/2025;18:00;Casa Pia;Sporting CP;1;3;-2
+25;09/03/2025;20:30;Boavista;Vitória;1;2;-1
+25;10/03/2025;20:15;Famalicão;Rio Ave;1;0;1
+26;15/03/2025;15:30;Gil Vicente FC;Santa Clara;0;1;-1
+26;15/03/2025;15:30;Farense;Braga;0;1;-1
+26;15/03/2025;18:00;Porto;AVS Futebol;2;0;2
+26;15/03/2025;20:30;Sporting CP;Famalicão;3;1;2
+26;16/03/2025;15:30;Arouca;Estoril;1;1;0
+26;16/03/2025;15:30;Nacional;Casa Pia;3;1;2
+26;16/03/2025;18:00;Rio Ave;Benfica;2;3;-1
+26;16/03/2025;20:30;Vitória;Estrela;2;0;2
+26;16/03/2025;20:30;Moreirense;Boavista;1;0;1
+24;28/03/2025;20:15;Gil Vicente FC;Benfica;0;3;-3
+27;29/03/2025;15:30;Casa Pia;Rio Ave;2;1;1
+27;29/03/2025;18:00;Estrela;Sporting CP;0;3;-3
+27;29/03/2025;20:30;Braga;Arouca;2;1;1
+27;30/03/2025;14:30;Santa Clara;Nacional;1;0;1
+27;30/03/2025;15:30;Famalicão;AVS Futebol;4;1;3
+27;30/03/2025;18:00;Estoril;Porto;1;2;-1
+27;30/03/2025;20:30;Moreirense;Vitória;2;2;0
+27;01/04/2025;20:15;Boavista;Gil Vicente FC;1;3;-2
+27;02/04/2025;20:15;Benfica;Farense;3;2;1
+28;04/04/2025;20:15;AVS Futebol;Estoril;0;3;-3
+28;05/04/2025;18:00;Arouca;Famalicão;1;2;-1
+28;05/04/2025;20:30;Vitória;Santa Clara;2;0;2
+28;06/04/2025;15:30;Gil Vicente FC;Moreirense;0;1;-1
+28;06/04/2025;18:00;Nacional;Estrela;0;1;-1
+28;06/04/2025;20:30;Porto;Benfica;1;4;-3
+28;07/04/2025;18:45;Farense;Casa Pia;0;0;0
+28;07/04/2025;20:15;Rio Ave;Boavista;0;2;-2
+28;07/04/2025;20:45;Sporting CP;Braga;1;1;0
+29;11/04/2025;20:15;Gil Vicente FC;Vitória;0;1;-1
+29;12/04/2025;15:30;Boavista;Nacional;0;1;-1
+29;12/04/2025;15:30;Famalicão;Estoril;3;0;3
+29;12/04/2025;17:00;Santa Clara;Sporting CP;0;1;-1
+29;12/04/2025;20:30;Casa Pia;Porto;0;1;-1
+29;13/04/2025;15:30;Estrela;Farense;0;1;-1
+29;13/04/2025;18:00;Braga;AVS Futebol;4;1;3
+29;13/04/2025;18:00;Benfica;Arouca;2;2;0
+29;13/04/2025;20:30;Moreirense;Rio Ave;0;2;-2
+30;18/04/2025;15:30;Rio Ave;Santa Clara;1;1;0
+30;18/04/2025;15:30;Farense;Boavista;0;1;-1
+30;18/04/2025;18:00;Porto;Famalicão;2;1;1
+30;18/04/2025;20:30;Sporting CP;Moreirense;3;1;2
+30;19/04/2025;15:30;Nacional;Gil Vicente FC;0;3;-3
+30;19/04/2025;15:30;AVS Futebol;Casa Pia;1;1;0
+30;19/04/2025;18:00;Arouca;Estrela;1;0;1
+30;19/04/2025;18:00;Estoril;Braga;0;2;-2
+30;19/04/2025;20:30;Vitória;Benfica;0;3;-3
+31;25/04/2025;20:30;Famalicão;Braga;1;1;0
+31;26/04/2025;14:30;Santa Clara;Arouca;2;0;2
+31;26/04/2025;18:00;Gil Vicente FC;Farense;1;0;1
+31;26/04/2025;20:30;Estrela;Porto;2;0;2
+31;27/04/2025;15:30;Moreirense;Nacional;1;1;0
+31;27/04/2025;18:00;Benfica;AVS Futebol;6;0;6
+31;27/04/2025;18:00;Vitória;Rio Ave;3;0;3
+31;27/04/2025;20:30;Boavista;Sporting CP;0;5;-5
+31;29/04/2025;20:30;Casa Pia;Estoril;1;3;-2
+32;02/05/2025;20:15;Porto;Moreirense;3;1;2
+32;03/05/2025;15:30;Nacional;Vitória;1;2;-1
+32;03/05/2025;15:30;Farense;Famalicão;2;1;1
+32;03/05/2025;18:00;Braga;Santa Clara;1;1;0
+32;03/05/2025;20:30;Estoril;Benfica;1;2;-1
+32;04/05/2025;18:00;Arouca;Casa Pia;0;0;0
+32;04/05/2025;20:30;Sporting CP;Gil Vicente FC;2;1;1
+32;05/05/2025;19:30;Rio Ave;Estrela;2;0;2
+32;05/05/2025;20:15;AVS Futebol;Boavista;1;2;-1
+33;10/05/2025;14:30;Santa Clara;Famalicão;2;1;1
+33;10/05/2025;15:30;Nacional;Rio Ave;3;3;0
+33;10/05/2025;18:00;Benfica;Sporting CP;1;1;0
+33;10/05/2025;20:30;Casa Pia;Braga;2;1;1
+33;10/05/2025;20:30;Gil Vicente FC;Arouca;1;1;0
+33;11/05/2025;15:30;Estrela;AVS Futebol;0;1;-1
+33;11/05/2025;18:00;Moreirense;Estoril;2;2;0
+33;11/05/2025;18:00;Vitória;Farense;1;2;-1
+33;11/05/2025;20:30;Boavista;Porto;1;2;-1
+34;16/05/2025;19:00;Famalicão;Casa Pia;2;1;1
+34;16/05/2025;19:00;Rio Ave;Gil Vicente FC;1;1;0
+34;17/05/2025;18:00;Braga;Benfica;1;1;0
+34;17/05/2025;18:00;Estoril;Estrela;4;0;4
+34;17/05/2025;18:00;Farense;Santa Clara;1;2;-1
+34;17/05/2025;18:00;AVS Futebol;Moreirense;0;3;-3
+34;17/05/2025;18:00;Porto;Nacional;3;0;3
+34;17/05/2025;18:00;Arouca;Boavista;4;1;3
+34;17/05/2025;18:00;Sporting CP;Vitória;2;0;2

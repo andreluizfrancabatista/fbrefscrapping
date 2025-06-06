@@ -1,29 +1,36 @@
 {
-    "name": "soccer-data-scraper",
-    "version": "1.0.0",
-    "description": "Web scraper para dados de futebol usando Node.js e Puppeteer",
-    "main": "scraper.js",
-    "scripts": {
-      "start": "node main.js",
-      "scrape": "node scraper.js",
-      "scrape-all": "node main.js sequential",
-      "scrape-parallel": "node main.js parallel",
-      "debug": "node debug.js",
-      "install-deps": "npm install"
-    },
-    "dependencies": {
-      "puppeteer": "^21.0.0"
-    },
-    "keywords": [
-      "webscraping",
-      "futebol",
-      "soccer",
-      "puppeteer",
-      "nodejs"
-    ],
-    "author": "",
-    "license": "MIT",
-    "engines": {
-      "node": ">=14.0.0"
-    }
+  "name": "soccer-analytics-web",
+  "version": "1.0.0",
+  "description": "Aplicação web para análise de futebol com previsão de resultados",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "scrape-all": "node main.js sequential",
+    "scrape-parallel": "node main.js parallel",
+    "generate-weekly": "node generate-weekly.js",
+    "update-weekly": "npm run generate-weekly"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "soccer",
+    "football",
+    "analytics",
+    "prediction",
+    "web",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
   }
+}

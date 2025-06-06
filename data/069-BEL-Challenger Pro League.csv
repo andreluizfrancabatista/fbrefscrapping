@@ -1,0 +1,226 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;16/08/2024;20:00;RSCA Futures;Deinze;1;4;-3
+1;16/08/2024;20:00;Seraing;Jong Genk;0;2;-2
+1;17/08/2024;16:00;Club NXT;Lokeren-Temse;4;0;4
+1;17/08/2024;20:00;RWDM;Patro Eisden;1;1;0
+1;17/08/2024;20:00;Beveren;Lommel;2;1;1
+1;18/08/2024;13:30;Francs Borains;La Louvière;0;1;-1
+1;18/08/2024;16:00;RFC Liège;Eupen;0;3;-3
+1;18/08/2024;19:15;Zulte Waregem;Lierse;0;1;-1
+2;23/08/2024;20:00;Eupen;Beveren;2;2;0
+2;23/08/2024;20:00;Lokeren-Temse;Francs Borains;0;1;-1
+2;24/08/2024;16:00;Patro Eisden;RSCA Futures;3;1;2
+2;24/08/2024;20:00;La Louvière;Club NXT;1;1;0
+2;24/08/2024;20:00;Lierse;Seraing;3;2;1
+2;25/08/2024;13:30;Lommel;RWDM;0;2;-2
+2;25/08/2024;16:00;Deinze;Zulte Waregem;2;2;0
+2;25/08/2024;19:15;Jong Genk;RFC Liège;4;1;3
+3;30/08/2024;20:00;Zulte Waregem;Lokeren-Temse;1;0;1
+3;30/08/2024;20:00;RWDM;Eupen;2;1;1
+3;31/08/2024;16:00;RSCA Futures;La Louvière;1;2;-1
+3;31/08/2024;20:00;Patro Eisden;Club NXT;2;2;0
+3;31/08/2024;20:00;RFC Liège;Beveren;0;0;0
+3;01/09/2024;13:30;Jong Genk;Francs Borains;1;2;-1
+3;01/09/2024;16:00;Lierse;Deinze;0;1;-1
+3;01/09/2024;19:15;Seraing;Lommel;1;2;-1
+4;13/09/2024;20:00;Club NXT;Seraing;1;1;0
+4;13/09/2024;20:00;Lokeren-Temse;Patro Eisden;2;2;0
+4;14/09/2024;16:00;Francs Borains;Lommel;1;3;-2
+4;14/09/2024;20:00;RFC Liège;RSCA Futures;3;3;0
+4;14/09/2024;20:00;RWDM;Lierse;3;0;3
+4;15/09/2024;13:30;Eupen;Zulte Waregem;1;3;-2
+4;15/09/2024;16:00;Beveren;Jong Genk;3;2;1
+4;15/09/2024;19:15;Deinze;La Louvière;1;2;-1
+5;20/09/2024;20:00;Beveren;Seraing;0;0;0
+5;20/09/2024;20:00;Lommel;RSCA Futures;2;1;1
+5;21/09/2024;16:00;Lierse;Eupen;3;0;3
+5;21/09/2024;20:00;Patro Eisden;Francs Borains;4;1;3
+5;21/09/2024;20:00;Jong Genk;RWDM;0;3;-3
+5;22/09/2024;13:30;Zulte Waregem;RFC Liège;3;1;2
+5;22/09/2024;16:00;Deinze;Club NXT;2;0;2
+5;22/09/2024;19:15;La Louvière;Lokeren-Temse;2;0;2
+6;27/09/2024;20:00;Eupen;Jong Genk;3;1;2
+6;27/09/2024;20:00;Francs Borains;RWDM;1;2;-1
+6;28/09/2024;16:00;Club NXT;Beveren;2;0;2
+6;28/09/2024;20:00;Lommel;Lierse;1;1;0
+6;28/09/2024;20:00;Lokeren-Temse;Deinze;0;0;0
+6;29/09/2024;13:30;Seraing;RFC Liège;0;3;-3
+6;29/09/2024;16:00;RSCA Futures;Zulte Waregem;2;3;-1
+6;29/09/2024;19:15;La Louvière;Patro Eisden;0;2;-2
+7;04/10/2024;20:00;Patro Eisden;Deinze;3;1;2
+7;04/10/2024;20:00;RFC Liège;Lommel;1;1;0
+7;05/10/2024;16:00;Beveren;Lokeren-Temse;0;1;-1
+7;05/10/2024;20:00;RWDM;La Louvière;1;1;0
+7;05/10/2024;20:00;Seraing;Eupen;1;2;-1
+7;06/10/2024;13:30;Jong Genk;RSCA Futures;1;0;1
+7;06/10/2024;16:00;Zulte Waregem;Club NXT;2;1;1
+7;06/10/2024;19:15;Lierse;Francs Borains;4;0;4
+8;18/10/2024;20:00;La Louvière;Beveren;2;0;2
+8;18/10/2024;20:00;Francs Borains;RFC Liège;1;2;-1
+8;19/10/2024;16:00;Club NXT;Lierse;3;1;2
+8;19/10/2024;20:00;Lommel;Eupen;1;1;0
+8;19/10/2024;20:00;Deinze;Jong Genk;1;0;1
+8;20/10/2024;13:30;RSCA Futures;RWDM;2;1;1
+8;20/10/2024;16:00;Patro Eisden;Zulte Waregem;0;1;-1
+8;20/10/2024;19:15;Lokeren-Temse;Seraing;0;1;-1
+9;25/10/2024;20:00;Seraing;Patro Eisden;0;0;0
+9;25/10/2024;20:00;Jong Genk;Lommel;0;4;-4
+9;26/10/2024;16:00;Zulte Waregem;Francs Borains;2;2;0
+9;26/10/2024;20:00;RWDM;Deinze;3;2;1
+9;26/10/2024;20:00;Beveren;RSCA Futures;1;1;0
+9;27/10/2024;13:30;Lierse;La Louvière;1;2;-1
+9;27/10/2024;16:00;RFC Liège;Club NXT;1;1;0
+9;27/10/2024;19:15;Eupen;Lokeren-Temse;0;1;-1
+10;01/11/2024;20:00;RWDM;Zulte Waregem;2;1;1
+10;01/11/2024;20:00;Club NXT;Lommel;1;3;-2
+10;02/11/2024;16:00;RSCA Futures;Eupen;2;2;0
+10;02/11/2024;20:00;La Louvière;RFC Liège;3;1;2
+10;03/11/2024;13:30;Francs Borains;Seraing;0;1;-1
+10;03/11/2024;16:00;Lokeren-Temse;Jong Genk;4;0;4
+10;03/11/2024;16:00;Deinze;Beveren;3;1;2
+10;03/11/2024;19:15;Patro Eisden;Lierse;3;3;0
+11;08/11/2024;20:00;RFC Liège;RWDM;2;1;1
+11;08/11/2024;20:00;Lierse;Lokeren-Temse;2;2;0
+11;09/11/2024;16:00;Jong Genk;Club NXT;1;2;-1
+11;09/11/2024;20:00;Lommel;Deinze;1;1;0
+11;09/11/2024;20:00;Beveren;Francs Borains;4;0;4
+11;10/11/2024;13:30;Zulte Waregem;La Louvière;2;1;1
+11;10/11/2024;16:00;Seraing;RSCA Futures;2;2;0
+11;10/11/2024;19:15;Eupen;Patro Eisden;0;4;-4
+12;22/11/2024;20:00;Club NXT;Eupen;0;4;-4
+12;22/11/2024;20:00;Lierse;Jong Genk;2;2;0
+12;23/11/2024;16:00;Deinze;Francs Borains;0;3;-3
+12;23/11/2024;20:00;RWDM;Beveren;0;2;-2
+12;23/11/2024;20:00;Lokeren-Temse;RSCA Futures;0;1;-1
+12;24/11/2024;13:30;Patro Eisden;RFC Liège;2;0;2
+12;24/11/2024;16:00;La Louvière;Lommel;5;1;4
+12;24/11/2024;19:15;Zulte Waregem;Seraing;5;1;4
+13;29/11/2024;20:00;Lommel;Lokeren-Temse;1;1;0
+13;29/11/2024;20:00;Jong Genk;Zulte Waregem;2;3;-1
+13;30/11/2024;16:00;RSCA Futures;Lierse;2;0;2
+13;30/11/2024;20:00;RFC Liège;Deinze;3;0;3
+13;30/11/2024;20:00;Beveren;Patro Eisden;0;0;0
+13;01/12/2024;13:30;Seraing;RWDM;4;4;0
+13;01/12/2024;16:00;Eupen;La Louvière;3;4;-1
+13;01/12/2024;19:15;Francs Borains;Club NXT;1;2;-1
+14;06/12/2024;20:00;Club NXT;RSCA Futures;3;0;3
+14;06/12/2024;20:00;Lierse;RFC Liège;2;1;1
+14;06/12/2024;20:00;Deinze;Seraing;0;1;-1
+14;07/12/2024;16:00;La Louvière;Jong Genk;2;1;1
+14;07/12/2024;20:00;Zulte Waregem;Beveren;4;0;4
+14;08/12/2024;13:30;Francs Borains;Eupen;3;2;1
+14;08/12/2024;16:00;Lokeren-Temse;RWDM;1;4;-3
+14;08/12/2024;19:15;Patro Eisden;Lommel;4;0;4
+15;13/12/2024;20:00;Beveren;Lierse;1;0;1
+15;13/12/2024;20:00;Seraing;La Louvière;0;1;-1
+15;14/12/2024;16:00;Lommel;Zulte Waregem;1;2;-1
+15;14/12/2024;20:00;Eupen;Deinze;5;0;5
+15;14/12/2024;20:00;RSCA Futures;Francs Borains;0;1;-1
+15;15/12/2024;13:30;Jong Genk;Patro Eisden;1;3;-2
+15;15/12/2024;16:00;RFC Liège;Lokeren-Temse;0;1;-1
+15;15/12/2024;19:15;RWDM;Club NXT;1;0;1
+16;20/12/2024;20:00;Club NXT;Zulte Waregem;0;3;-3
+16;20/12/2024;20:00;Francs Borains;Jong Genk;2;2;0
+16;21/12/2024;16:00;Eupen;RFC Liège;0;1;-1
+16;21/12/2024;20:00;La Louvière;RWDM;0;0;0
+16;22/12/2024;13:30;Lokeren-Temse;Beveren;0;1;-1
+16;22/12/2024;16:00;Patro Eisden;Seraing;2;3;-1
+16;22/12/2024;19:15;Lierse;Lommel;1;0;1
+17;11/01/2025;20:00;RWDM;RFC Liège;2;1;1
+17;11/01/2025;20:00;Zulte Waregem;Patro Eisden;3;2;1
+17;12/01/2025;19:15;Beveren;La Louvière;0;0;0
+18;17/01/2025;20:00;Patro Eisden;Lokeren-Temse;4;1;3
+18;18/01/2025;16:00;Eupen;RWDM;0;1;-1
+18;18/01/2025;20:00;La Louvière;RSCA Futures;2;2;0
+18;18/01/2025;20:00;Francs Borains;Beveren;0;0;0
+18;19/01/2025;13:30;RFC Liège;Zulte Waregem;1;1;0
+18;19/01/2025;16:00;Lierse;Club NXT;1;3;-2
+18;19/01/2025;19:15;Jong Genk;Seraing;2;2;0
+19;24/01/2025;20:00;Lokeren-Temse;Lierse;1;1;0
+19;24/01/2025;20:00;RWDM;Jong Genk;1;0;1
+19;25/01/2025;16:00;Seraing;Francs Borains;1;1;0
+19;25/01/2025;20:00;RSCA Futures;Patro Eisden;1;1;0
+19;25/01/2025;20:00;Zulte Waregem;Eupen;3;2;1
+19;26/01/2025;13:30;Lommel;RFC Liège;0;2;-2
+19;26/01/2025;16:00;Club NXT;La Louvière;2;1;1
+17;28/01/2025;20:00;RSCA Futures;Jong Genk;4;1;3
+17;28/01/2025;20:00;Seraing;Lierse;0;2;-2
+17;28/01/2025;20:00;Lokeren-Temse;Eupen;0;0;0
+17;29/01/2025;19:00;Lommel;Francs Borains;1;2;-1
+20;31/01/2025;20:00;RFC Liège;Seraing;2;1;1
+20;01/02/2025;16:00;RSCA Futures;Club NXT;2;3;-1
+20;01/02/2025;20:00;Lierse;RWDM;0;0;0
+20;01/02/2025;20:00;Eupen;Lommel;3;2;1
+20;02/02/2025;13:30;Francs Borains;Patro Eisden;1;3;-2
+20;02/02/2025;16:00;La Louvière;Zulte Waregem;0;0;0
+20;02/02/2025;19:15;Jong Genk;Beveren;3;3;0
+21;07/02/2025;20:00;Lommel;Club NXT;0;2;-2
+21;08/02/2025;16:00;RFC Liège;Francs Borains;0;1;-1
+21;08/02/2025;20:00;Patro Eisden;Jong Genk;1;0;1
+21;08/02/2025;20:00;RWDM;RSCA Futures;1;0;1
+21;09/02/2025;13:30;Eupen;Lierse;1;3;-2
+21;09/02/2025;16:00;Seraing;Beveren;0;2;-2
+21;09/02/2025;19:15;Lokeren-Temse;La Louvière;0;5;-5
+22;14/02/2025;20:00;Lierse;Zulte Waregem;0;0;0
+22;15/02/2025;16:00;La Louvière;Seraing;4;1;3
+22;15/02/2025;20:00;Beveren;RFC Liège;3;1;2
+22;15/02/2025;20:00;RSCA Futures;Lommel;5;0;5
+22;16/02/2025;13:30;Club NXT;RWDM;0;1;-1
+22;16/02/2025;16:00;Francs Borains;Lokeren-Temse;1;2;-1
+22;16/02/2025;19:15;Jong Genk;Eupen;0;0;0
+23;21/02/2025;20:00;RWDM;Francs Borains;1;0;1
+23;21/02/2025;20:00;Zulte Waregem;Jong Genk;3;1;2
+23;22/02/2025;16:00;Lommel;Beveren;1;2;-1
+23;22/02/2025;20:00;Lokeren-Temse;Club NXT;2;1;1
+23;22/02/2025;20:00;Eupen;RSCA Futures;2;2;0
+23;23/02/2025;16:00;Patro Eisden;La Louvière;1;1;0
+23;23/02/2025;19:15;RFC Liège;Lierse;2;1;1
+24;28/02/2025;20:00;La Louvière;Eupen;2;0;2
+24;28/02/2025;20:00;Beveren;Zulte Waregem;3;2;1
+24;01/03/2025;20:00;Club NXT;Patro Eisden;0;1;-1
+24;01/03/2025;20:00;RSCA Futures;RFC Liège;2;4;-2
+24;02/03/2025;13:30;Jong Genk;Lokeren-Temse;1;2;-1
+24;02/03/2025;16:00;Lommel;Seraing;2;2;0
+24;02/03/2025;19:15;Francs Borains;Lierse;1;0;1
+25;07/03/2025;20:00;Seraing;Club NXT;2;3;-1
+25;08/03/2025;16:00;Lierse;RSCA Futures;3;1;2
+25;08/03/2025;20:00;Eupen;Francs Borains;3;1;2
+25;08/03/2025;20:00;Zulte Waregem;Lommel;0;1;-1
+25;09/03/2025;13:30;RFC Liège;La Louvière;1;1;0
+25;09/03/2025;16:00;Patro Eisden;Beveren;1;2;-1
+25;09/03/2025;19:15;RWDM;Lokeren-Temse;1;0;1
+26;14/03/2025;20:00;La Louvière;Lierse;2;1;1
+26;14/03/2025;20:00;Club NXT;Jong Genk;3;0;3
+26;14/03/2025;20:00;Beveren;RWDM;0;2;-2
+26;15/03/2025;16:00;RSCA Futures;Seraing;1;1;0
+26;15/03/2025;16:00;Francs Borains;Zulte Waregem;1;3;-2
+26;15/03/2025;20:00;Lommel;Patro Eisden;0;1;-1
+26;15/03/2025;20:00;Lokeren-Temse;RFC Liège;2;1;1
+27;28/03/2025;20:00;RWDM;Seraing;3;0;3
+27;29/03/2025;16:00;Jong Genk;La Louvière;0;1;-1
+27;29/03/2025;20:00;Lierse;Beveren;0;1;-1
+27;29/03/2025;20:00;Zulte Waregem;RSCA Futures;3;1;2
+27;30/03/2025;13:30;Lokeren-Temse;Lommel;1;0;1
+27;30/03/2025;16:00;RFC Liège;Patro Eisden;2;2;0
+27;30/03/2025;19:15;Eupen;Club NXT;1;0;1
+28;04/04/2025;20:00;Beveren;Eupen;3;0;3
+28;04/04/2025;20:00;Patro Eisden;RWDM;1;1;0
+28;05/04/2025;16:00;RSCA Futures;Lokeren-Temse;0;2;-2
+28;05/04/2025;20:00;Lommel;Jong Genk;2;0;2
+28;05/04/2025;20:00;Club NXT;RFC Liège;2;1;1
+28;06/04/2025;16:00;La Louvière;Francs Borains;2;1;1
+28;06/04/2025;19:15;Seraing;Zulte Waregem;0;0;0
+29;11/04/2025;20:00;RWDM;Lommel;0;1;-1
+29;11/04/2025;20:00;Lierse;Patro Eisden;1;0;1
+29;12/04/2025;16:00;Eupen;Seraing;2;1;1
+29;12/04/2025;20:00;Lokeren-Temse;Zulte Waregem;2;0;2
+29;13/04/2025;13:30;Beveren;Club NXT;2;2;0
+29;13/04/2025;16:00;RFC Liège;Jong Genk;3;1;2
+29;13/04/2025;19:15;Francs Borains;RSCA Futures;3;2;1
+30;18/04/2025;20:00;Club NXT;Francs Borains;2;0;2
+30;18/04/2025;20:00;Patro Eisden;Eupen;1;0;1
+30;18/04/2025;20:00;RSCA Futures;Beveren;0;4;-4
+30;18/04/2025;20:00;Lommel;La Louvière;1;2;-1
+30;18/04/2025;20:00;Zulte Waregem;RWDM;2;1;1
+30;18/04/2025;20:00;Seraing;Lokeren-Temse;0;4;-4
+30;18/04/2025;20:00;Jong Genk;Lierse;1;3;-2

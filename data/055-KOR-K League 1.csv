@@ -1,0 +1,105 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;15/02/2025;13:00;Pohang;Daejeon Citizen FC;0;3;-3
+1;15/02/2025;15:30;Jeju United FC;FC Seoul;2;0;2
+1;15/02/2025;16:30;Gwangju FC;Suwon FC;0;0;0
+1;16/02/2025;14:00;Ulsan HD;FC Anyang;0;1;-1
+1;16/02/2025;16:30;Daegu;Gangwon;2;1;1
+1;16/02/2025;16:30;Jeonbuk Hyundai;Sangju Sangmu;2;1;1
+2;22/02/2025;14:00;Jeju United FC;Sangju Sangmu;2;3;-1
+2;22/02/2025;16:30;Daegu;Suwon FC;3;1;2
+2;22/02/2025;16:30;FC Seoul;FC Anyang;2;1;1
+2;23/02/2025;14:00;Daejeon Citizen FC;Ulsan HD;0;2;-2
+2;23/02/2025;16:30;Gangwon;Pohang;2;1;1
+2;23/02/2025;16:30;Jeonbuk Hyundai;Gwangju FC;2;2;0
+3;01/03/2025;14:00;Ulsan HD;Jeonbuk Hyundai;1;0;1
+3;01/03/2025;16:30;Gwangju FC;FC Anyang;2;1;1
+3;01/03/2025;16:30;Pohang;Daegu;0;0;0
+3;02/03/2025;14:00;Daejeon Citizen FC;Suwon FC;1;0;1
+3;02/03/2025;16:30;Gangwon;Jeju United FC;0;0;0
+3;03/03/2025;14:00;FC Seoul;Sangju Sangmu;0;0;0
+4;08/03/2025;14:00;Suwon FC;FC Seoul;0;0;0
+4;08/03/2025;16:30;Daegu;Daejeon Citizen FC;1;2;-1
+4;08/03/2025;16:30;FC Anyang;Sangju Sangmu;1;3;-2
+4;09/03/2025;14:00;Ulsan HD;Jeju United FC;2;0;2
+4;09/03/2025;16:30;Jeonbuk Hyundai;Gangwon;0;1;-1
+5;15/03/2025;14:00;Jeju United FC;Daejeon Citizen FC;1;3;-2
+5;15/03/2025;16:30;Daegu;FC Anyang;0;1;-1
+5;15/03/2025;16:30;Gangwon;FC Seoul;0;1;-1
+5;16/03/2025;14:00;Suwon FC;Ulsan HD;1;1;0
+5;16/03/2025;16:30;Jeonbuk Hyundai;Pohang;2;2;0
+5;16/03/2025;16:30;Sangju Sangmu;Gwangju FC;0;0;0
+4;22/03/2025;16:30;Gwangju FC;Pohang;2;3;-1
+6;29/03/2025;14:00;FC Seoul;Daegu;3;2;1
+6;29/03/2025;16:30;Daejeon Citizen FC;Gwangju FC;1;1;0
+6;29/03/2025;16:30;Pohang;Ulsan HD;1;0;1
+6;30/03/2025;14:00;Jeju United FC;Suwon FC;1;0;1
+6;30/03/2025;16:30;Sangju Sangmu;Gangwon;1;0;1
+6;30/03/2025;16:30;FC Anyang;Jeonbuk Hyundai;0;1;-1
+18;01/04/2025;19:30;Ulsan HD;Daejeon Citizen FC;2;3;-1
+7;05/04/2025;14:00;Ulsan HD;FC Seoul;0;0;0
+7;05/04/2025;16:30;Sangju Sangmu;Daegu;2;0;2
+7;05/04/2025;16:30;Daejeon Citizen FC;Jeonbuk Hyundai;0;2;-2
+7;05/04/2025;19:00;Suwon FC;Pohang;1;1;0
+7;06/04/2025;16:30;FC Anyang;Gangwon;2;0;2
+7;06/04/2025;16:30;Gwangju FC;Jeju United FC;1;0;1
+10;09/04/2025;19:30;Gwangju FC;Daegu;2;1;1
+8;12/04/2025;14:00;Suwon FC;Sangju Sangmu;3;2;1
+8;12/04/2025;16:30;FC Seoul;Daejeon Citizen FC;2;2;0
+8;12/04/2025;16:30;Pohang;FC Anyang;2;1;1
+8;13/04/2025;14:00;Gangwon;Gwangju FC;1;0;1
+8;13/04/2025;16:30;Jeonbuk Hyundai;Jeju United FC;1;1;0
+8;13/04/2025;16:30;Daegu;Ulsan HD;0;1;-1
+9;19/04/2025;14:00;Ulsan HD;Gangwon;1;2;-1
+9;19/04/2025;16:30;Sangju Sangmu;Daejeon Citizen FC;0;2;-2
+9;19/04/2025;16:30;FC Anyang;Suwon FC;3;1;2
+9;19/04/2025;19:00;FC Seoul;Gwangju FC;1;2;-1
+9;20/04/2025;16:30;Jeju United FC;Pohang;2;0;2
+9;20/04/2025;16:30;Jeonbuk Hyundai;Daegu;3;1;2
+19;23/04/2025;19:30;FC Anyang;Ulsan HD;0;1;-1
+10;26/04/2025;14:00;Suwon FC;Jeonbuk Hyundai;1;2;-1
+10;26/04/2025;16:30;FC Anyang;Jeju United FC;2;1;1
+10;27/04/2025;14:00;Pohang;FC Seoul;1;0;1
+10;27/04/2025;16:30;Daejeon Citizen FC;Gangwon;1;0;1
+10;27/04/2025;16:30;Sangju Sangmu;Ulsan HD;2;0;2
+11;02/05/2025;19:30;Pohang;Sangju Sangmu;1;2;-1
+11;02/05/2025;19:30;Ulsan HD;Gwangju FC;3;0;3
+11;03/05/2025;16:30;Daejeon Citizen FC;FC Anyang;2;1;1
+11;03/05/2025;16:30;Daegu;Jeju United FC;3;1;2
+11;03/05/2025;19:00;Gangwon;Suwon FC;0;0;0
+11;03/05/2025;19:00;FC Seoul;Jeonbuk Hyundai;0;1;-1
+12;05/05/2025;16:30;Ulsan HD;Pohang;1;1;0
+12;05/05/2025;16:30;Gwangju FC;Sangju Sangmu;1;0;1
+12;06/05/2025;14:00;Jeonbuk Hyundai;Daejeon Citizen FC;1;1;0
+12;06/05/2025;16:30;Jeju United FC;Gangwon;0;3;-3
+12;06/05/2025;19:00;FC Anyang;FC Seoul;1;1;0
+12;06/05/2025;19:00;Suwon FC;Daegu;2;1;1
+13;10/05/2025;16:30;Pohang;Suwon FC;2;0;2
+13;10/05/2025;19:00;Daejeon Citizen FC;FC Seoul;0;0;0
+13;10/05/2025;19:00;FC Anyang;Daegu;2;2;0
+13;11/05/2025;16:30;Jeju United FC;Ulsan HD;1;2;-1
+13;11/05/2025;19:00;Gangwon;Sangju Sangmu;0;4;-4
+13;11/05/2025;19:00;Gwangju FC;Jeonbuk Hyundai;0;1;-1
+14;17/05/2025;16:30;Jeonbuk Hyundai;FC Anyang;2;0;2
+14;17/05/2025;19:00;Gangwon;Ulsan HD;1;1;0
+14;17/05/2025;19:00;Sangju Sangmu;Jeju United FC;1;1;0
+14;18/05/2025;16:30;Daegu;FC Seoul;0;1;-1
+14;18/05/2025;16:30;Pohang;Gwangju FC;0;1;-1
+14;18/05/2025;19:00;Suwon FC;Daejeon Citizen FC;3;0;3
+15;23/05/2025;19:30;FC Anyang;Pohang;0;2;-2
+15;23/05/2025;19:30;Jeju United FC;Jeonbuk Hyundai;0;0;0
+15;24/05/2025;16:30;FC Seoul;Suwon FC;1;1;0
+15;24/05/2025;19:00;Daejeon Citizen FC;Daegu;2;1;1
+15;24/05/2025;19:00;Ulsan HD;Sangju Sangmu;3;2;1
+15;25/05/2025;16:30;Gwangju FC;Gangwon;0;1;-1
+16;27/05/2025;19:30;Daegu;Jeonbuk Hyundai;0;4;-4
+16;27/05/2025;19:30;Daejeon Citizen FC;Pohang;1;3;-2
+16;27/05/2025;19:30;Suwon FC;Jeju United FC;0;1;-1
+16;28/05/2025;19:30;Gangwon;FC Anyang;1;3;-2
+16;28/05/2025;19:30;Sangju Sangmu;FC Seoul;0;1;-1
+16;28/05/2025;19:30;Gwangju FC;Ulsan HD;1;1;0
+17;31/05/2025;19:00;FC Anyang;Daejeon Citizen FC;1;1;0
+17;31/05/2025;19:00;Jeonbuk Hyundai;Ulsan HD;3;1;2
+17;31/05/2025;19:00;FC Seoul;Jeju United FC;1;3;-2
+17;01/06/2025;19:00;Sangju Sangmu;Suwon FC;1;1;0
+17;01/06/2025;19:00;Pohang;Gangwon;2;1;1
+17;01/06/2025;19:00;Daegu;Gwangju FC;1;1;0

@@ -1,0 +1,79 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;29/03/2025;16:00;Strømsgodset;Rosenborg;1;2;-1
+1;29/03/2025;18:00;Fredrikstad;Brann;3;0;3
+1;30/03/2025;14:30;Vålerenga;Viking;3;1;2
+1;30/03/2025;17:00;HamKam;Kristiansund;2;1;1
+1;30/03/2025;17:00;Tromsø;Haugesund;1;0;1
+1;30/03/2025;17:00;KFUM Oslo;Sandefjord;3;1;2
+1;30/03/2025;17:00;Molde;Sarpsborg 08;0;2;-2
+1;30/03/2025;19:15;Bryne;Bodø/Glimt;0;1;-1
+2;05/04/2025;16:00;Bodø/Glimt;HamKam;3;0;3
+2;05/04/2025;18:00;Rosenborg;Fredrikstad;1;0;1
+2;06/04/2025;14:30;Brann;Tromsø;3;1;2
+2;06/04/2025;17:00;Sandefjord;Molde;3;0;3
+2;06/04/2025;17:00;Haugesund;Strømsgodset;0;5;-5
+2;06/04/2025;17:00;Sarpsborg 08;Vålerenga;1;1;0
+2;06/04/2025;17:00;Kristiansund;Bryne;2;1;1
+2;06/04/2025;19:15;Viking;KFUM Oslo;3;1;2
+17;09/04/2025;19:00;Fredrikstad;Vålerenga;2;0;2
+16;10/04/2025;19:00;Viking;Kristiansund;3;1;2
+17;10/04/2025;19:00;Brann;Strømsgodset;2;1;1
+3;20/04/2025;14:30;Tromsø;Kristiansund;2;3;-1
+3;21/04/2025;14:30;Vålerenga;Rosenborg;0;2;-2
+3;21/04/2025;17:00;Strømsgodset;Brann;1;2;-1
+3;21/04/2025;17:00;Fredrikstad;Sandefjord;3;1;2
+3;21/04/2025;17:00;KFUM Oslo;Sarpsborg 08;1;3;-2
+3;21/04/2025;17:00;HamKam;Viking;2;5;-3
+3;21/04/2025;17:00;Bryne;Haugesund;3;1;2
+3;21/04/2025;19:15;Molde;Bodø/Glimt;2;2;0
+4;27/04/2025;14:30;Rosenborg;Molde;0;0;0
+4;27/04/2025;17:00;Brann;Bryne;3;2;1
+4;27/04/2025;17:00;Kristiansund;Vålerenga;0;2;-2
+4;27/04/2025;17:00;Haugesund;Fredrikstad;0;0;0
+4;27/04/2025;17:00;Bodø/Glimt;KFUM Oslo;3;0;3
+4;27/04/2025;17:00;Sandefjord;HamKam;2;0;2
+4;27/04/2025;17:15;Sarpsborg 08;Strømsgodset;2;3;-1
+4;27/04/2025;19:15;Viking;Tromsø;4;4;0
+18;30/04/2025;18:00;Viking;Haugesund;5;1;4
+17;01/05/2025;18:00;Rosenborg;Kristiansund;1;1;0
+5;02/05/2025;19:00;HamKam;KFUM Oslo;0;0;0
+5;03/05/2025;18:00;Vålerenga;Brann;2;4;-2
+5;04/05/2025;17:00;Tromsø;Sandefjord;0;1;-1
+5;04/05/2025;17:00;Viking;Sarpsborg 08;0;0;0
+5;04/05/2025;17:00;Strømsgodset;Kristiansund;1;2;-1
+5;04/05/2025;17:00;Molde;Haugesund;2;1;1
+5;04/05/2025;19:15;Rosenborg;Bryne;3;0;3
+6;11/05/2025;14:30;Brann;Rosenborg;0;0;0
+6;11/05/2025;17:00;Sarpsborg 08;HamKam;4;0;4
+6;11/05/2025;17:00;KFUM Oslo;Tromsø;1;3;-2
+6;11/05/2025;17:00;Sandefjord;Vålerenga;2;1;1
+6;11/05/2025;17:00;Bryne;Molde;0;3;-3
+6;11/05/2025;17:00;Kristiansund;Fredrikstad;0;1;-1
+6;11/05/2025;19:15;Haugesund;Viking;1;4;-3
+7;16/05/2025;18:00;Brann;Sarpsborg 08;2;2;0
+7;16/05/2025;18:00;Rosenborg;Haugesund;1;0;1
+7;16/05/2025;18:00;Strømsgodset;Bryne;0;2;-2
+7;16/05/2025;18:00;Viking;Sandefjord;3;1;2
+7;16/05/2025;18:00;Fredrikstad;KFUM Oslo;1;0;1
+7;16/05/2025;18:00;Molde;Kristiansund;0;1;-1
+7;16/05/2025;18:00;Tromsø;Bodø/Glimt;2;1;1
+7;16/05/2025;20:00;Vålerenga;HamKam;1;1;0
+8;24/05/2025;16:00;Bryne;Fredrikstad;4;3;1
+8;24/05/2025;18:00;Bodø/Glimt;Rosenborg;4;0;4
+8;25/05/2025;14:30;HamKam;Molde;2;1;1
+8;25/05/2025;17:00;Sarpsborg 08;Tromsø;0;1;-1
+8;25/05/2025;17:00;Kristiansund;Viking;0;1;-1
+8;25/05/2025;17:00;Sandefjord;Strømsgodset;3;2;1
+8;25/05/2025;19:15;Haugesund;Brann;0;2;-2
+8;26/05/2025;19:00;KFUM Oslo;Vålerenga;0;1;-1
+18;28/05/2025;19:00;Fredrikstad;Rosenborg;0;2;-2
+19;28/05/2025;21:00;Bodø/Glimt;Viking;2;4;-2
+15;29/05/2025;18:00;Brann;Molde;0;3;-3
+9;31/05/2025;16:00;Strømsgodset;HamKam;0;3;-3
+9;31/05/2025;18:45;Tromsø;Vålerenga;2;1;1
+9;01/06/2025;14:30;Fredrikstad;Sarpsborg 08;1;1;0
+9;01/06/2025;17:00;Brann;Kristiansund;4;2;2
+9;01/06/2025;17:00;Rosenborg;KFUM Oslo;1;1;0
+9;01/06/2025;17:00;Bryne;Sandefjord;3;2;1
+9;01/06/2025;17:00;Haugesund;Bodø/Glimt;0;4;-4
+9;01/06/2025;19:15;Molde;Viking;0;1;-1

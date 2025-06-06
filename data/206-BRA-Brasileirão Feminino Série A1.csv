@@ -1,0 +1,97 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;22/03/2025;16:00;Juventude;América (MG);1;1;0
+1;22/03/2025;16:00;Internacional;EC Bahia;2;3;-1
+1;23/03/2025;16:00;Ferroviária;Sport Recife;7;0;7
+1;23/03/2025;17:00;AE 3B da Amazônia;Fluminense FC;0;1;-1
+1;23/03/2025;18:30;Cruzeiro EC;Grêmio FBPA;4;3;1
+1;22/03/2025;21:00;Palmeiras;Red Bull Bragantino;0;0;0
+1;24/03/2025;19:00;Real Brasília FC;Corinthians;2;8;-6
+1;24/03/2025;21:30;Flamengo;São Paulo;0;1;-1
+2;26/03/2025;16:00;América (MG);Palmeiras;1;2;-1
+2;26/03/2025;17:00;Red Bull Bragantino;Internacional;3;0;3
+2;26/03/2025;19:00;Grêmio FBPA;Ferroviária;1;1;0
+2;27/03/2025;15:00;EC Bahia;Flamengo;3;3;0
+2;27/03/2025;15:00;Sport Recife;Real Brasília FC;0;2;-2
+2;27/03/2025;15:00;São Paulo;AE 3B da Amazônia;8;0;8
+2;27/03/2025;16:00;Corinthians;Juventude;2;0;2
+2;26/03/2025;21:30;Fluminense FC;Cruzeiro EC;1;2;-1
+3;29/03/2025;15:00;Palmeiras;Grêmio FBPA;3;3;0
+3;30/03/2025;15:00;Ferroviária;Real Brasília FC;3;2;1
+3;30/03/2025;15:00;São Paulo;Cruzeiro EC;1;1;0
+3;30/03/2025;16:00;Juventude;Fluminense FC;1;2;-1
+3;30/03/2025;17:00;Red Bull Bragantino;Corinthians;2;2;0
+3;30/03/2025;18:00;Flamengo;AE 3B da Amazônia;5;1;4
+3;31/03/2025;16:00;Internacional;Sport Recife;2;2;0
+3;31/03/2025;20:00;América (MG);EC Bahia;1;1;0
+4;11/04/2025;18:30;Sport Recife;Flamengo;1;2;-1
+4;12/04/2025;11:00;Corinthians;Palmeiras;1;2;-1
+4;12/04/2025;15:00;Cruzeiro EC;Juventude;4;0;4
+4;12/04/2025;16:00;Grêmio FBPA;EC Bahia;1;0;1
+4;12/04/2025;17:00;Fluminense FC;Internacional;0;0;0
+4;13/04/2025;15:00;Real Brasília FC;Red Bull Bragantino;2;1;1
+4;13/04/2025;17:00;AE 3B da Amazônia;América (MG);0;3;-3
+4;12/04/2025;21:00;Ferroviária;São Paulo;1;0;1
+5;15/04/2025;18:30;Flamengo;Palmeiras;2;5;-3
+5;16/04/2025;11:00;Fluminense FC;Corinthians;1;1;0
+5;16/04/2025;15:00;EC Bahia;Real Brasília FC;2;0;2
+5;16/04/2025;15:00;América (MG);Grêmio FBPA;0;0;0
+5;16/04/2025;16:00;São Paulo;Sport Recife;2;1;1
+5;16/04/2025;16:00;Juventude;Red Bull Bragantino;1;0;1
+5;17/04/2025;16:00;Internacional;Cruzeiro EC;1;2;-1
+5;16/04/2025;20:00;AE 3B da Amazônia;Ferroviária;0;1;-1
+6;19/04/2025;16:00;Red Bull Bragantino;Flamengo;2;0;2
+6;19/04/2025;18:00;Grêmio FBPA;São Paulo;1;2;-1
+6;20/04/2025;15:00;Real Brasília FC;Juventude;1;1;0
+6;20/04/2025;15:00;Sport Recife;Fluminense FC;0;2;-2
+6;20/04/2025;15:00;América (MG);Cruzeiro EC;0;3;-3
+6;20/04/2025;16:00;Ferroviária;Internacional;2;1;1
+6;20/04/2025;20:30;Palmeiras;EC Bahia;3;1;2
+6;19/04/2025;21:00;Corinthians;AE 3B da Amazônia;8;0;8
+7;26/04/2025;15:00;São Paulo;Corinthians;1;1;0
+7;26/04/2025;15:00;Cruzeiro EC;Red Bull Bragantino;2;1;1
+7;26/04/2025;17:00;Palmeiras;Ferroviária;1;2;-1
+7;27/04/2025;11:00;EC Bahia;Fluminense FC;2;1;1
+7;27/04/2025;15:00;AE 3B da Amazônia;Real Brasília FC;2;2;0
+7;27/04/2025;15:00;Sport Recife;América (MG);1;2;-1
+7;26/04/2025;21:00;Flamengo;Juventude;2;0;2
+7;28/04/2025;20:00;Grêmio FBPA;Internacional;2;2;0
+8;30/04/2025;15:00;AE 3B da Amazônia;Sport Recife;2;1;1
+8;30/04/2025;16:00;São Paulo;América (MG);1;3;-2
+8;30/04/2025;16:00;Juventude;Palmeiras;0;4;-4
+8;01/05/2025;15:00;EC Bahia;Red Bull Bragantino;1;0;1
+8;01/05/2025;15:00;Fluminense FC;Ferroviária;1;1;0
+8;01/05/2025;16:00;Cruzeiro EC;Flamengo;1;1;0
+8;01/05/2025;16:00;Internacional;Real Brasília FC;1;0;1
+8;02/05/2025;18:00;Corinthians;Grêmio FBPA;2;0;2
+9;03/05/2025;18:00;Palmeiras;São Paulo;1;2;-1
+9;04/05/2025;11:00;Ferroviária;Flamengo;1;2;-1
+9;04/05/2025;15:00;América (MG);Fluminense FC;3;1;2
+9;04/05/2025;16:00;Internacional;AE 3B da Amazônia;1;0;1
+9;04/05/2025;17:00;Red Bull Bragantino;Sport Recife;1;0;1
+9;04/05/2025;18:00;Grêmio FBPA;Juventude;3;1;2
+9;04/05/2025;18:30;Corinthians;EC Bahia;5;1;4
+9;05/05/2025;15:00;Real Brasília FC;Cruzeiro EC;0;3;-3
+10;10/05/2025;17:00;Flamengo;Real Brasília FC;4;0;4
+10;10/05/2025;18:00;Palmeiras;AE 3B da Amazônia;4;2;2
+10;09/05/2025;21:00;São Paulo;Fluminense FC;0;0;0
+10;11/05/2025;15:00;Cruzeiro EC;EC Bahia;1;0;1
+10;11/05/2025;17:00;Red Bull Bragantino;América (MG);2;0;2
+10;11/05/2025;20:00;Ferroviária;Corinthians;1;1;0
+10;10/05/2025;21:00;Juventude;Internacional;1;1;0
+10;12/05/2025;15:00;Sport Recife;Grêmio FBPA;1;1;0
+11;17/05/2025;17:00;Cruzeiro EC;Ferroviária;3;1;2
+11;16/05/2025;21:00;Fluminense FC;Flamengo;1;2;-1
+11;18/05/2025;15:00;EC Bahia;São Paulo;1;2;-1
+11;18/05/2025;15:00;Real Brasília FC;América (MG);1;1;0
+11;18/05/2025;16:00;Grêmio FBPA;Red Bull Bragantino;1;1;0
+11;18/05/2025;17:00;AE 3B da Amazônia;Juventude;2;1;1
+11;17/05/2025;21:00;Corinthians;Sport Recife;4;0;4
+11;19/05/2025;20:00;Internacional;Palmeiras;2;2;0
+12;21/05/2025;15:00;Red Bull Bragantino;Fluminense FC;2;2;0
+12;21/05/2025;16:00;São Paulo;Real Brasília FC;5;0;5
+12;21/05/2025;16:30;América (MG);Corinthians;0;1;-1
+12;21/05/2025;19:00;Grêmio FBPA;AE 3B da Amazônia;4;0;4
+12;21/05/2025;19:00;Ferroviária;Juventude;2;0;2
+12;22/05/2025;15:00;Flamengo;Internacional;4;1;3
+12;22/05/2025;16:00;Palmeiras;Cruzeiro EC;0;1;-1
+12;22/05/2025;17:00;Sport Recife;EC Bahia;0;2;-2

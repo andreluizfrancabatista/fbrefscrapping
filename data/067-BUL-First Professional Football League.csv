@@ -1,0 +1,293 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;19/07/2024;18:45;Cherno More;CSKA 1948;0;0;0
+1;19/07/2024;21:15;FK Levski 2005;Slavia Sofia;1;0;1
+1;20/07/2024;19:00;Loko Plovdiv;Arda;1;0;1
+1;20/07/2024;21:15;Lokomotiv Sofia;Levski Sofia;1;6;-5
+1;21/07/2024;19:00;Botev Vratsa;Botev Plovdiv;1;3;-2
+1;21/07/2024;21:15;Ludogorets;CSKA Sofia;1;0;1
+1;22/07/2024;19:00;PFC Hebar Pazardzhik;FC Spartak Varna;0;2;-2
+1;22/07/2024;21:15;Septemvri Sofia;Beroe;0;1;-1
+2;26/07/2024;19:00;Arda;FK Levski 2005;1;0;1
+2;26/07/2024;21:15;Levski Sofia;Botev Vratsa;4;0;4
+2;27/07/2024;19:00;CSKA Sofia;PFC Hebar Pazardzhik;3;1;2
+2;28/07/2024;19:00;CSKA 1948;FC Spartak Varna;2;2;0
+2;28/07/2024;21:15;Botev Plovdiv;Loko Plovdiv;2;2;0
+2;29/07/2024;19:00;Beroe;Lokomotiv Sofia;0;0;0
+2;29/07/2024;21:15;Cherno More;Septemvri Sofia;2;0;2
+3;02/08/2024;19:00;PFC Hebar Pazardzhik;Slavia Sofia;1;1;0
+3;02/08/2024;21:15;Loko Plovdiv;Levski Sofia;0;2;-2
+3;03/08/2024;19:00;FC Spartak Varna;CSKA Sofia;3;0;3
+3;03/08/2024;21:15;Ludogorets;Arda;5;1;4
+3;04/08/2024;19:00;Lokomotiv Sofia;Cherno More;2;1;1
+3;04/08/2024;21:15;FK Levski 2005;Botev Plovdiv;0;1;-1
+3;05/08/2024;21:15;Botev Vratsa;Beroe;1;2;-1
+4;09/08/2024;19:00;Slavia Sofia;FC Spartak Varna;3;1;2
+4;09/08/2024;21:15;Arda;PFC Hebar Pazardzhik;2;1;1
+4;10/08/2024;19:00;Beroe;Loko Plovdiv;0;2;-2
+4;10/08/2024;21:15;Levski Sofia;FK Levski 2005;3;0;3
+4;12/08/2024;19:00;Septemvri Sofia;Lokomotiv Sofia;0;1;-1
+4;12/08/2024;21:15;Cherno More;Botev Vratsa;2;1;1
+5;16/08/2024;19:00;FC Spartak Varna;Arda;1;0;1
+5;16/08/2024;21:15;FK Levski 2005;Beroe;0;1;-1
+5;17/08/2024;19:00;CSKA Sofia;Slavia Sofia;0;1;-1
+5;17/08/2024;21:15;Ludogorets;Levski Sofia;1;0;1
+5;18/08/2024;19:00;Lokomotiv Sofia;CSKA 1948;0;0;0
+5;18/08/2024;21:15;PFC Hebar Pazardzhik;Botev Plovdiv;0;1;-1
+5;19/08/2024;19:00;Botev Vratsa;Septemvri Sofia;2;0;2
+5;19/08/2024;21:15;Loko Plovdiv;Cherno More;1;2;-1
+6;23/08/2024;19:00;Lokomotiv Sofia;Botev Vratsa;0;1;-1
+6;23/08/2024;21:15;Levski Sofia;PFC Hebar Pazardzhik;1;0;1
+6;24/08/2024;19:00;Arda;CSKA Sofia;2;1;1
+6;24/08/2024;21:15;Botev Plovdiv;FC Spartak Varna;0;1;-1
+6;25/08/2024;19:00;CSKA 1948;Slavia Sofia;2;0;2
+6;25/08/2024;21:15;Beroe;Ludogorets;0;1;-1
+6;26/08/2024;19:00;Septemvri Sofia;Loko Plovdiv;2;3;-1
+6;26/08/2024;21:15;Cherno More;FK Levski 2005;3;0;3
+7;30/08/2024;17:00;Slavia Sofia;Arda;1;1;0
+7;30/08/2024;19:15;Botev Vratsa;CSKA 1948;0;3;-3
+7;30/08/2024;21:30;CSKA Sofia;Botev Plovdiv;0;1;-1
+7;31/08/2024;19:00;FC Spartak Varna;Levski Sofia;0;0;0
+7;31/08/2024;21:15;FK Levski 2005;Septemvri Sofia;2;0;2
+7;01/09/2024;17:00;Loko Plovdiv;Lokomotiv Sofia;1;1;0
+7;01/09/2024;19:15;PFC Hebar Pazardzhik;Beroe;3;1;2
+7;01/09/2024;21:30;Ludogorets;Cherno More;0;0;0
+12;13/09/2024;17:00;Loko Plovdiv;PFC Hebar Pazardzhik;3;3;0
+12;13/09/2024;19:30;Botev Vratsa;FC Spartak Varna;1;1;0
+12;14/09/2024;17:30;Septemvri Sofia;Slavia Sofia;3;2;1
+12;14/09/2024;20:00;Beroe;Botev Plovdiv;0;1;-1
+12;15/09/2024;17:00;Cherno More;Arda;1;1;0
+12;15/09/2024;19:15;CSKA 1948;Levski Sofia;2;4;-2
+12;15/09/2024;21:30;FK Levski 2005;Ludogorets;0;3;-3
+12;16/09/2024;19:45;Lokomotiv Sofia;CSKA Sofia;0;3;-3
+2;18/09/2024;17:30;Slavia Sofia;Ludogorets;0;1;-1
+9;19/09/2024;17:00;Loko Plovdiv;CSKA 1948;0;2;-2
+9;20/09/2024;17:00;PFC Hebar Pazardzhik;Septemvri Sofia;1;2;-1
+9;21/09/2024;17:30;CSKA Sofia;Beroe;1;0;1
+9;21/09/2024;20:00;Ludogorets;Lokomotiv Sofia;2;0;2
+9;22/09/2024;17:30;Slavia Sofia;Levski Sofia;0;1;-1
+9;22/09/2024;20:00;FC Spartak Varna;Cherno More;0;2;-2
+9;23/09/2024;17:30;FK Levski 2005;Botev Vratsa;3;0;3
+9;23/09/2024;20:00;Arda;Botev Plovdiv;1;0;1
+3;25/09/2024;17:30;Septemvri Sofia;CSKA 1948;1;1;0
+10;27/09/2024;17:30;Lokomotiv Sofia;PFC Hebar Pazardzhik;0;0;0
+10;27/09/2024;20:00;Beroe;Slavia Sofia;1;0;1
+10;28/09/2024;17:00;Loko Plovdiv;FK Levski 2005;0;2;-2
+10;28/09/2024;20:00;Cherno More;CSKA Sofia;0;0;0
+10;29/09/2024;16:15;CSKA 1948;Botev Plovdiv;0;1;-1
+10;29/09/2024;18:45;Levski Sofia;Arda;2;1;1
+10;29/09/2024;21:15;Botev Vratsa;Ludogorets;0;2;-2
+10;30/09/2024;20:00;Septemvri Sofia;FC Spartak Varna;0;1;-1
+11;04/10/2024;15:00;FK Levski 2005;CSKA 1948;1;1;0
+11;04/10/2024;17:30;Arda;Beroe;1;1;0
+11;04/10/2024;20:00;Slavia Sofia;Cherno More;1;0;1
+11;05/10/2024;17:30;CSKA Sofia;Septemvri Sofia;0;1;-1
+11;05/10/2024;20:00;Botev Plovdiv;Levski Sofia;1;0;1
+11;06/10/2024;15:00;PFC Hebar Pazardzhik;Botev Vratsa;1;1;0
+11;06/10/2024;17:30;FC Spartak Varna;Lokomotiv Sofia;3;2;1
+11;06/10/2024;20:00;Ludogorets;Loko Plovdiv;1;0;1
+8;18/10/2024;17:00;Beroe;FC Spartak Varna;3;0;3
+8;18/10/2024;19:30;Botev Vratsa;Loko Plovdiv;0;0;0
+8;19/10/2024;12:45;Lokomotiv Sofia;FK Levski 2005;0;0;0
+8;19/10/2024;15:45;Levski Sofia;CSKA Sofia;1;0;1
+8;19/10/2024;18:45;Botev Plovdiv;Slavia Sofia;1;0;1
+8;20/10/2024;16:45;Cherno More;PFC Hebar Pazardzhik;1;0;1
+8;20/10/2024;19:15;Septemvri Sofia;Ludogorets;0;2;-2
+8;21/10/2024;18:00;CSKA 1948;Arda;1;2;-1
+13;23/10/2024;17:30;FC Spartak Varna;Loko Plovdiv;1;0;1
+13;24/10/2024;15:00;Slavia Sofia;Lokomotiv Sofia;3;2;1
+13;24/10/2024;17:30;CSKA Sofia;Botev Vratsa;2;0;2
+13;25/10/2024;14:00;Arda;Septemvri Sofia;2;1;1
+13;25/10/2024;16:30;Botev Plovdiv;Cherno More;1;0;1
+13;25/10/2024;19:00;Levski Sofia;Beroe;0;2;-2
+13;26/10/2024;14:00;PFC Hebar Pazardzhik;FK Levski 2005;0;0;0
+13;28/10/2024;18:00;Ludogorets;CSKA 1948;3;0;3
+14;01/11/2024;17:30;Botev Vratsa;Slavia Sofia;3;2;1
+14;02/11/2024;12:00;Lokomotiv Sofia;Arda;0;2;-2
+14;02/11/2024;14:30;Loko Plovdiv;CSKA Sofia;2;2;0
+14;02/11/2024;17:00;FK Levski 2005;FC Spartak Varna;0;1;-1
+14;03/11/2024;12:30;CSKA 1948;Beroe;1;1;0
+14;03/11/2024;15:00;Ludogorets;PFC Hebar Pazardzhik;3;0;3
+14;03/11/2024;17:30;Cherno More;Levski Sofia;2;1;1
+14;04/11/2024;17:30;Septemvri Sofia;Botev Plovdiv;1;0;1
+4;07/11/2024;17:30;CSKA 1948;CSKA Sofia;1;3;-2
+15;08/11/2024;15:00;Arda;Botev Vratsa;2;0;2
+15;08/11/2024;17:30;Botev Plovdiv;Lokomotiv Sofia;2;0;2
+15;09/11/2024;12:30;Slavia Sofia;Loko Plovdiv;2;1;1
+15;09/11/2024;15:00;Beroe;Cherno More;0;1;-1
+15;09/11/2024;17:30;Levski Sofia;Septemvri Sofia;2;3;-1
+15;10/11/2024;12:30;PFC Hebar Pazardzhik;CSKA 1948;1;1;0
+15;10/11/2024;15:00;CSKA Sofia;FK Levski 2005;2;2;0
+15;10/11/2024;17:30;FC Spartak Varna;Ludogorets;1;3;-2
+16;22/11/2024;17:00;FC Spartak Varna;PFC Hebar Pazardzhik;4;0;4
+16;23/11/2024;12:30;Arda;Loko Plovdiv;4;2;2
+16;23/11/2024;15:00;Botev Plovdiv;Botev Vratsa;3;1;2
+16;23/11/2024;17:30;Levski Sofia;Lokomotiv Sofia;2;0;2
+16;24/11/2024;12:15;Beroe;Septemvri Sofia;2;0;2
+16;24/11/2024;14:30;CSKA 1948;Cherno More;0;4;-4
+16;24/11/2024;17:00;CSKA Sofia;Ludogorets;2;2;0
+16;25/11/2024;17:30;Slavia Sofia;FK Levski 2005;0;1;-1
+17;29/11/2024;14:30;FC Spartak Varna;CSKA 1948;1;1;0
+17;29/11/2024;17:00;Septemvri Sofia;Cherno More;1;2;-1
+17;30/11/2024;12:30;Lokomotiv Sofia;Beroe;2;1;1
+17;30/11/2024;15:00;Botev Vratsa;Levski Sofia;0;2;-2
+17;30/11/2024;17:30;PFC Hebar Pazardzhik;CSKA Sofia;0;1;-1
+17;01/12/2024;12:30;Loko Plovdiv;Botev Plovdiv;0;1;-1
+17;01/12/2024;15:00;FK Levski 2005;Arda;0;0;0
+17;01/12/2024;17:30;Ludogorets;Slavia Sofia;2;0;2
+18;03/12/2024;12:30;CSKA 1948;Septemvri Sofia;2;0;2
+18;03/12/2024;15:00;Cherno More;Lokomotiv Sofia;4;0;4
+18;03/12/2024;17:30;CSKA Sofia;FC Spartak Varna;3;1;2
+18;04/12/2024;12:30;Beroe;Botev Vratsa;5;1;4
+18;04/12/2024;15:00;Arda;Ludogorets;0;4;-4
+18;04/12/2024;17:30;Levski Sofia;Loko Plovdiv;2;1;1
+18;05/12/2024;15:00;Slavia Sofia;PFC Hebar Pazardzhik;3;2;1
+18;05/12/2024;17:30;Botev Plovdiv;FK Levski 2005;1;0;1
+19;07/12/2024;12:30;Loko Plovdiv;Beroe;1;2;-1
+19;07/12/2024;15:00;Botev Vratsa;Cherno More;2;3;-1
+19;07/12/2024;17:30;CSKA Sofia;CSKA 1948;2;2;0
+19;08/12/2024;12:00;Lokomotiv Sofia;Septemvri Sofia;1;2;-1
+19;08/12/2024;14:30;FK Levski 2005;Levski Sofia;0;2;-2
+19;08/12/2024;17:00;Ludogorets;Botev Plovdiv;3;0;3
+19;09/12/2024;14:45;PFC Hebar Pazardzhik;Arda;0;2;-2
+19;09/12/2024;17:00;FC Spartak Varna;Slavia Sofia;1;3;-2
+4;19/12/2024;17:00;Botev Plovdiv;Ludogorets;2;4;-2
+20;07/02/2025;17:30;Arda;FC Spartak Varna;2;2;0
+20;08/02/2025;12:30;Septemvri Sofia;Botev Vratsa;2;2;0
+20;08/02/2025;15:00;Cherno More;Loko Plovdiv;1;2;-1
+20;08/02/2025;17:30;Slavia Sofia;CSKA Sofia;1;0;1
+20;09/02/2025;12:00;CSKA 1948;Lokomotiv Sofia;1;4;-3
+20;09/02/2025;14:30;Botev Plovdiv;PFC Hebar Pazardzhik;1;1;0
+20;09/02/2025;17:15;Levski Sofia;Ludogorets;2;1;1
+20;10/02/2025;17:30;Beroe;FK Levski 2005;0;0;0
+21;14/02/2025;17:30;Botev Vratsa;Lokomotiv Sofia;0;3;-3
+21;15/02/2025;12:30;FK Levski 2005;Cherno More;1;1;0
+21;15/02/2025;15:00;FC Spartak Varna;Botev Plovdiv;1;0;1
+21;15/02/2025;17:30;PFC Hebar Pazardzhik;Levski Sofia;1;4;-3
+21;16/02/2025;12:30;Loko Plovdiv;Septemvri Sofia;0;1;-1
+21;16/02/2025;15:00;Ludogorets;Beroe;2;1;1
+21;16/02/2025;17:30;CSKA Sofia;Arda;2;0;2
+21;17/02/2025;18:00;Slavia Sofia;CSKA 1948;1;1;0
+22;21/02/2025;12:45;CSKA 1948;Botev Vratsa;1;0;1
+22;21/02/2025;15:15;Beroe;PFC Hebar Pazardzhik;2;1;1
+22;21/02/2025;17:45;Levski Sofia;FC Spartak Varna;2;0;2
+22;22/02/2025;12:30;Arda;Slavia Sofia;1;1;0
+22;22/02/2025;15:00;Botev Plovdiv;CSKA Sofia;0;3;-3
+22;22/02/2025;17:30;Cherno More;Ludogorets;1;1;0
+22;23/02/2025;17:00;Lokomotiv Sofia;Loko Plovdiv;0;1;-1
+22;24/02/2025;17:30;Septemvri Sofia;FK Levski 2005;1;0;1
+23;01/03/2025;12:15;FK Levski 2005;Lokomotiv Sofia;0;2;-2
+23;01/03/2025;14:45;Loko Plovdiv;Botev Vratsa;1;0;1
+23;01/03/2025;16:45;FC Spartak Varna;Beroe;0;3;-3
+23;02/03/2025;14:00;CSKA Sofia;Levski Sofia;2;2;0
+23;02/03/2025;17:15;PFC Hebar Pazardzhik;Cherno More;0;1;-1
+23;03/03/2025;12:30;Arda;CSKA 1948;1;0;1
+23;03/03/2025;15:00;Slavia Sofia;Botev Plovdiv;3;2;1
+23;03/03/2025;17:30;Ludogorets;Septemvri Sofia;0;0;0
+24;07/03/2025;17:30;Botev Vratsa;FK Levski 2005;0;0;0
+24;08/03/2025;12:30;CSKA 1948;Loko Plovdiv;2;1;1
+24;08/03/2025;15:00;Beroe;CSKA Sofia;0;2;-2
+24;08/03/2025;17:30;Cherno More;FC Spartak Varna;1;1;0
+24;09/03/2025;12:00;Botev Plovdiv;Arda;1;1;0
+24;09/03/2025;14:30;Levski Sofia;Slavia Sofia;3;3;0
+24;09/03/2025;17:00;Lokomotiv Sofia;Ludogorets;1;2;-1
+24;10/03/2025;17:30;Septemvri Sofia;PFC Hebar Pazardzhik;6;1;5
+25;14/03/2025;15:15;Slavia Sofia;Beroe;2;1;1
+25;14/03/2025;17:45;FK Levski 2005;Loko Plovdiv;0;0;0
+25;15/03/2025;12:30;PFC Hebar Pazardzhik;Lokomotiv Sofia;2;1;1
+25;15/03/2025;15:00;Ludogorets;Botev Vratsa;3;0;3
+25;15/03/2025;17:30;CSKA Sofia;Cherno More;1;1;0
+25;16/03/2025;12:00;FC Spartak Varna;Septemvri Sofia;4;2;2
+25;16/03/2025;14:30;Botev Plovdiv;CSKA 1948;0;5;-5
+25;16/03/2025;17:00;Arda;Levski Sofia;1;1;0
+26;28/03/2025;16:15;Lokomotiv Sofia;FC Spartak Varna;2;1;1
+26;28/03/2025;18:45;Botev Vratsa;PFC Hebar Pazardzhik;1;0;1
+26;29/03/2025;12:15;CSKA 1948;FK Levski 2005;4;1;3
+26;29/03/2025;14:45;Cherno More;Slavia Sofia;1;1;0
+26;29/03/2025;17:15;Septemvri Sofia;CSKA Sofia;0;1;-1
+26;30/03/2025;13:30;Beroe;Arda;1;4;-3
+26;30/03/2025;16:00;Loko Plovdiv;Ludogorets;1;0;1
+26;30/03/2025;18:30;Levski Sofia;Botev Plovdiv;1;1;0
+27;01/04/2025;16:15;FC Spartak Varna;Botev Vratsa;1;0;1
+27;01/04/2025;18:45;Slavia Sofia;Septemvri Sofia;2;3;-1
+27;02/04/2025;14:15;Arda;Cherno More;4;0;4
+27;02/04/2025;16:45;Botev Plovdiv;Beroe;0;0;0
+27;02/04/2025;19:15;CSKA Sofia;Lokomotiv Sofia;1;0;1
+27;03/04/2025;14:30;PFC Hebar Pazardzhik;Loko Plovdiv;0;0;0
+27;03/04/2025;17:00;Ludogorets;FK Levski 2005;3;0;3
+27;03/04/2025;19:30;Levski Sofia;CSKA 1948;2;0;2
+28;05/04/2025;16:30;Cherno More;Botev Plovdiv;1;1;0
+28;05/04/2025;19:00;Botev Vratsa;CSKA Sofia;1;1;0
+28;06/04/2025;12:15;FK Levski 2005;PFC Hebar Pazardzhik;1;0;1
+28;06/04/2025;14:45;Lokomotiv Sofia;Slavia Sofia;3;2;1
+28;06/04/2025;17:15;Beroe;Levski Sofia;0;1;-1
+28;07/04/2025;15:00;Septemvri Sofia;Arda;0;4;-4
+28;07/04/2025;17:30;Loko Plovdiv;FC Spartak Varna;1;2;-1
+28;07/04/2025;20:00;CSKA 1948;Ludogorets;1;3;-2
+29;11/04/2025;16:30;FC Spartak Varna;FK Levski 2005;1;0;1
+29;11/04/2025;19:00;Beroe;CSKA 1948;2;0;2
+29;12/04/2025;14:00;Botev Plovdiv;Septemvri Sofia;3;0;3
+29;12/04/2025;16:30;CSKA Sofia;Loko Plovdiv;2;0;2
+29;13/04/2025;15:00;Arda;Lokomotiv Sofia;5;0;5
+29;13/04/2025;17:30;Levski Sofia;Cherno More;1;2;-1
+29;14/04/2025;17:30;Slavia Sofia;Botev Vratsa;4;2;2
+29;14/04/2025;20:00;PFC Hebar Pazardzhik;Ludogorets;0;2;-2
+30;18/04/2025;14:00;Lokomotiv Sofia;Botev Plovdiv;1;1;0
+30;18/04/2025;16:30;Cherno More;Beroe;1;1;0
+30;18/04/2025;19:00;FK Levski 2005;CSKA Sofia;1;0;1
+30;19/04/2025;14:00;Botev Vratsa;Arda;3;1;2
+30;19/04/2025;16:30;Loko Plovdiv;Slavia Sofia;0;1;-1
+30;19/04/2025;19:00;Ludogorets;FC Spartak Varna;2;1;1
+30;21/04/2025;16:30;Septemvri Sofia;Levski Sofia;0;1;-1
+30;21/04/2025;19:00;CSKA 1948;PFC Hebar Pazardzhik;1;3;-2
+1;25/04/2025;17:30;Slavia Sofia;PFC Hebar Pazardzhik;3;2;1
+1;25/04/2025;20:00;Lokomotiv Sofia;FK Levski 2005;3;0;3
+1;26/04/2025;17:30;FC Spartak Varna;CSKA Sofia;0;1;-1
+1;26/04/2025;20:00;Levski Sofia;Arda;1;1;0
+1;27/04/2025;15:15;Botev Plovdiv;Beroe;1;1;0
+1;27/04/2025;20:45;Ludogorets;Cherno More;2;0;2
+1;28/04/2025;17:30;Septemvri Sofia;Loko Plovdiv;2;0;2
+1;28/04/2025;20:00;CSKA 1948;Botev Vratsa;0;1;-1
+2;01/05/2025;19:30;PFC Hebar Pazardzhik;FK Levski 2005;1;3;-2
+2;02/05/2025;15:00;Botev Vratsa;Septemvri Sofia;3;2;1
+2;02/05/2025;17:30;Slavia Sofia;CSKA 1948;0;1;-1
+2;02/05/2025;20:00;Loko Plovdiv;Lokomotiv Sofia;1;1;0
+2;03/05/2025;17:00;Beroe;CSKA Sofia;0;3;-3
+2;03/05/2025;19:30;Ludogorets;Levski Sofia;1;1;0
+2;04/05/2025;15:30;Cherno More;Arda;1;1;0
+2;04/05/2025;18:00;Botev Plovdiv;FC Spartak Varna;3;2;1
+3;06/05/2025;17:00;FK Levski 2005;Loko Plovdiv;0;4;-4
+3;06/05/2025;19:30;Septemvri Sofia;Slavia Sofia;3;1;2
+3;07/05/2025;17:00;CSKA 1948;PFC Hebar Pazardzhik;0;0;0
+3;07/05/2025;19:30;Lokomotiv Sofia;Botev Vratsa;3;0;3
+3;09/05/2025;17:45;Arda;Ludogorets;1;1;0
+3;09/05/2025;20:15;CSKA Sofia;Botev Plovdiv;3;0;3
+4;10/05/2025;15:00;Slavia Sofia;Lokomotiv Sofia;0;0;0
+3;10/05/2025;17:30;FC Spartak Varna;Beroe;1;2;-1
+3;10/05/2025;20:00;Levski Sofia;Cherno More;2;0;2
+4;11/05/2025;15:30;PFC Hebar Pazardzhik;Loko Plovdiv;1;2;-1
+4;11/05/2025;18:00;Botev Vratsa;FK Levski 2005;1;0;1
+4;11/05/2025;20:30;CSKA 1948;Septemvri Sofia;2;0;2
+4;13/05/2025;17:45;Cherno More;Ludogorets;2;0;2
+4;13/05/2025;20:15;CSKA Sofia;FC Spartak Varna;5;0;5
+5;14/05/2025;15:15;Lokomotiv Sofia;CSKA 1948;2;1;1
+4;14/05/2025;17:45;Beroe;Botev Plovdiv;0;6;-6
+4;14/05/2025;20:15;Arda;Levski Sofia;0;3;-3
+5;15/05/2025;15:15;FK Levski 2005;Slavia Sofia;0;1;-1
+5;15/05/2025;17:45;Loko Plovdiv;Botev Vratsa;1;3;-2
+5;15/05/2025;20:15;Septemvri Sofia;PFC Hebar Pazardzhik;1;0;1
+5;17/05/2025;17:30;CSKA Sofia;Beroe;2;1;1
+5;17/05/2025;20:00;Levski Sofia;Ludogorets;2;2;0
+5;18/05/2025;17:00;FC Spartak Varna;Botev Plovdiv;2;1;1
+5;18/05/2025;19:30;Arda;Cherno More;0;0;0
+6;19/05/2025;17:45;CSKA 1948;FK Levski 2005;2;0;2
+6;19/05/2025;20:15;Slavia Sofia;Loko Plovdiv;1;2;-1
+6;20/05/2025;17:45;PFC Hebar Pazardzhik;Botev Vratsa;1;0;1
+6;20/05/2025;20:15;Septemvri Sofia;Lokomotiv Sofia;0;2;-2
+7;25/05/2025;20:45;Loko Plovdiv;CSKA 1948;0;1;-1
+7;25/05/2025;20:45;Botev Vratsa;Slavia Sofia;2;1;1
+7;25/05/2025;20:45;Lokomotiv Sofia;PFC Hebar Pazardzhik;3;0;3
+7;25/05/2025;20:45;FK Levski 2005;Septemvri Sofia;1;2;-1
+6;26/05/2025;17:45;Cherno More;Levski Sofia;0;0;0
+6;26/05/2025;17:45;Ludogorets;Arda;2;2;0
+6;26/05/2025;20:45;Beroe;FC Spartak Varna;3;1;2
+6;26/05/2025;20:45;Botev Plovdiv;CSKA Sofia;0;4;-4

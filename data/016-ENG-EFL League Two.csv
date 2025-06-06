@@ -1,0 +1,553 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;20:00;Chesterfield;Swindon Town;1;1;0
+1;10/08/2024;15:00;Walsall;Morecambe;1;0;1
+1;10/08/2024;15:00;Tranmere Rovers;Notts County;0;0;0
+1;10/08/2024;15:00;Gillingham;Carlisle United;4;1;3
+1;10/08/2024;15:00;Fleetwood Town;Grimsby Town;1;0;1
+1;10/08/2024;15:00;Harrogate;Bromley;0;2;-2
+1;10/08/2024;15:00;Cheltenham;Newport County;3;2;1
+1;10/08/2024;15:00;MK Dons;Bradford City;1;2;-1
+1;10/08/2024;15:00;Barrow;Crewe Alexandra;1;0;1
+1;10/08/2024;15:00;Doncaster;Acc'ton Stanley;4;1;3
+1;10/08/2024;15:00;AFC Wimbledon;Colchester Utd;4;2;2
+1;10/08/2024;15:00;Salford City;Port Vale;0;2;-2
+2;17/08/2024;12:30;Carlisle United;Barrow;1;0;1
+2;17/08/2024;12:30;Bromley;AFC Wimbledon;2;0;2
+2;17/08/2024;15:00;Newport County;Doncaster;3;1;2
+2;17/08/2024;15:00;Acc'ton Stanley;Harrogate;3;3;0
+2;17/08/2024;15:00;Grimsby Town;Cheltenham;3;2;1
+2;17/08/2024;15:00;Swindon Town;Walsall;0;4;-4
+2;17/08/2024;15:00;Colchester Utd;MK Dons;2;0;2
+2;17/08/2024;15:00;Morecambe;Gillingham;0;1;-1
+2;17/08/2024;15:00;Port Vale;Tranmere Rovers;0;0;0
+2;17/08/2024;15:00;Crewe Alexandra;Chesterfield;0;5;-5
+2;17/08/2024;15:00;Bradford City;Salford City;0;0;0
+2;18/08/2024;13:00;Notts County;Fleetwood Town;2;2;0
+3;22/08/2024;20:00;Notts County;Grimsby Town;4;1;3
+3;24/08/2024;12:30;Crewe Alexandra;Swindon Town;0;0;0
+3;24/08/2024;12:30;Tranmere Rovers;Walsall;1;0;1
+3;24/08/2024;15:00;MK Dons;Carlisle United;3;0;3
+3;24/08/2024;15:00;Chesterfield;Salford City;1;1;0
+3;24/08/2024;15:00;Fleetwood Town;Gillingham;0;0;0
+3;24/08/2024;15:00;Doncaster;Morecambe;1;0;1
+3;24/08/2024;15:00;Barrow;Port Vale;4;0;4
+3;24/08/2024;15:00;Newport County;Acc'ton Stanley;3;1;2
+3;24/08/2024;15:00;Cheltenham;AFC Wimbledon;0;1;-1
+3;24/08/2024;15:00;Bradford City;Bromley;3;1;2
+3;24/08/2024;15:00;Colchester Utd;Harrogate;0;1;-1
+4;31/08/2024;12:30;Gillingham;Chesterfield;1;0;1
+4;31/08/2024;12:30;Port Vale;Doncaster;2;3;-1
+4;31/08/2024;15:00;AFC Wimbledon;Fleetwood Town;1;0;1
+4;31/08/2024;15:00;Walsall;Cheltenham;2;1;1
+4;31/08/2024;15:00;Bromley;Crewe Alexandra;1;2;-1
+4;31/08/2024;15:00;Morecambe;Newport County;0;1;-1
+4;31/08/2024;15:00;Acc'ton Stanley;Colchester Utd;1;1;0
+4;31/08/2024;15:00;Grimsby Town;Bradford City;2;1;1
+4;31/08/2024;15:00;Swindon Town;Notts County;1;2;-1
+4;31/08/2024;15:00;Carlisle United;Tranmere Rovers;1;2;-1
+4;31/08/2024;15:00;Harrogate;Barrow;0;1;-1
+4;02/09/2024;20:00;Salford City;MK Dons;1;0;1
+5;07/09/2024;15:00;Newport County;Port Vale;1;4;-3
+5;07/09/2024;15:00;Crewe Alexandra;Morecambe;1;0;1
+5;07/09/2024;15:00;Bradford City;Carlisle United;2;1;1
+5;07/09/2024;15:00;MK Dons;Walsall;1;0;1
+5;07/09/2024;15:00;Cheltenham;Harrogate;1;0;1
+5;07/09/2024;15:00;Barrow;Swindon Town;1;1;0
+5;07/09/2024;15:00;Doncaster;Gillingham;1;0;1
+5;07/09/2024;15:00;Notts County;Acc'ton Stanley;2;0;2
+5;07/09/2024;15:00;Colchester Utd;Bromley;1;1;0
+5;07/09/2024;15:00;Chesterfield;Grimsby Town;2;1;1
+6;12/09/2024;20:00;Harrogate;Doncaster;2;0;2
+6;14/09/2024;12:30;AFC Wimbledon;MK Dons;3;0;3
+6;14/09/2024;12:30;Swindon Town;Newport County;4;0;4
+6;14/09/2024;15:00;Walsall;Bradford City;2;1;1
+6;14/09/2024;15:00;Port Vale;Chesterfield;1;0;1
+6;14/09/2024;15:00;Carlisle United;Fleetwood Town;2;3;-1
+6;14/09/2024;15:00;Bromley;Notts County;2;4;-2
+6;14/09/2024;15:00;Acc'ton Stanley;Crewe Alexandra;0;1;-1
+6;14/09/2024;15:00;Grimsby Town;Barrow;1;2;-1
+6;14/09/2024;15:00;Morecambe;Colchester Utd;3;3;0
+6;14/09/2024;15:00;Salford City;Cheltenham;2;1;1
+6;14/09/2024;15:00;Gillingham;Tranmere Rovers;3;0;3
+7;21/09/2024;12:30;Acc'ton Stanley;Port Vale;2;2;0
+7;21/09/2024;12:30;Chesterfield;Cheltenham;1;1;0
+7;21/09/2024;15:00;MK Dons;Doncaster;1;1;0
+7;21/09/2024;15:00;Notts County;Gillingham;0;1;-1
+7;21/09/2024;15:00;Bradford City;AFC Wimbledon;0;0;0
+7;21/09/2024;15:00;Barrow;Newport County;2;0;2
+7;21/09/2024;15:00;Crewe Alexandra;Harrogate;3;0;3
+7;21/09/2024;15:00;Salford City;Walsall;0;2;-2
+7;21/09/2024;15:00;Colchester Utd;Tranmere Rovers;3;0;3
+7;21/09/2024;15:00;Swindon Town;Carlisle United;0;2;-2
+7;21/09/2024;15:00;Grimsby Town;Bromley;1;0;1
+7;23/09/2024;20:00;Fleetwood Town;Morecambe;2;2;0
+8;27/09/2024;19:45;Tranmere Rovers;Salford City;0;0;0
+8;28/09/2024;12:30;Harrogate;Bradford City;2;1;1
+8;28/09/2024;12:30;Walsall;Colchester Utd;4;0;4
+8;28/09/2024;15:00;Carlisle United;Grimsby Town;2;3;-1
+8;28/09/2024;15:00;Gillingham;Barrow;2;0;2
+8;28/09/2024;15:00;Newport County;Crewe Alexandra;2;1;1
+8;28/09/2024;15:00;Cheltenham;Fleetwood Town;0;2;-2
+8;28/09/2024;15:00;Doncaster;Chesterfield;0;3;-3
+8;28/09/2024;15:00;Morecambe;Notts County;1;1;0
+8;28/09/2024;15:00;Port Vale;Swindon Town;2;1;1
+8;28/09/2024;15:00;Bromley;MK Dons;1;1;0
+9;01/10/2024;19:45;Gillingham;Grimsby Town;0;1;-1
+9;01/10/2024;19:45;Morecambe;Bradford City;1;1;0
+9;01/10/2024;19:45;Tranmere Rovers;Swindon Town;1;1;0
+9;01/10/2024;19:45;Carlisle United;Notts County;0;2;-2
+9;01/10/2024;19:45;Walsall;Fleetwood Town;2;6;-4
+9;01/10/2024;19:45;Bromley;Chesterfield;2;2;0
+9;01/10/2024;19:45;Port Vale;Colchester Utd;1;1;0
+9;01/10/2024;19:45;Cheltenham;Acc'ton Stanley;2;1;1
+9;01/10/2024;19:45;Newport County;Salford City;3;1;2
+9;01/10/2024;19:45;Harrogate;MK Dons;1;5;-4
+9;01/10/2024;19:45;Doncaster;Barrow;1;0;1
+10;05/10/2024;12:30;Grimsby Town;Doncaster;0;3;-3
+10;05/10/2024;12:30;Fleetwood Town;Bromley;0;0;0
+10;05/10/2024;15:00;Acc'ton Stanley;Morecambe;2;1;1
+10;05/10/2024;15:00;Chesterfield;Walsall;2;2;0
+10;05/10/2024;15:00;MK Dons;Tranmere Rovers;1;1;0
+10;05/10/2024;15:00;Notts County;Port Vale;0;1;-1
+10;05/10/2024;15:00;Salford City;AFC Wimbledon;1;0;1
+10;05/10/2024;15:00;Crewe Alexandra;Gillingham;2;0;2
+10;05/10/2024;15:00;Colchester Utd;Carlisle United;0;0;0
+10;05/10/2024;15:00;Barrow;Cheltenham;2;1;1
+10;05/10/2024;15:00;Swindon Town;Harrogate;0;0;0
+10;07/10/2024;20:00;Bradford City;Newport County;3;1;2
+11;12/10/2024;12:30;Chesterfield;Notts County;2;2;0
+11;12/10/2024;15:00;Cheltenham;Swindon Town;2;3;-1
+11;12/10/2024;15:00;Harrogate;Newport County;1;0;1
+11;12/10/2024;15:00;Doncaster;Crewe Alexandra;1;1;0
+11;12/10/2024;15:00;Salford City;Grimsby Town;1;2;-1
+11;12/10/2024;15:00;Tranmere Rovers;Bradford City;0;2;-2
+11;12/10/2024;15:00;Gillingham;Acc'ton Stanley;1;2;-1
+11;12/10/2024;15:00;MK Dons;Port Vale;0;1;-1
+11;12/10/2024;15:00;AFC Wimbledon;Carlisle United;4;0;4
+11;12/10/2024;15:00;Barrow;Morecambe;0;1;-1
+12;18/10/2024;20:00;Newport County;Chesterfield;0;3;-3
+12;19/10/2024;12:30;Acc'ton Stanley;Barrow;1;0;1
+12;19/10/2024;15:00;Bradford City;Gillingham;2;1;1
+12;19/10/2024;15:00;Port Vale;Fleetwood Town;3;1;2
+12;19/10/2024;15:00;Swindon Town;Doncaster;1;2;-1
+12;19/10/2024;15:00;Bromley;Tranmere Rovers;1;2;-1
+12;19/10/2024;15:00;Grimsby Town;Walsall;1;4;-3
+12;19/10/2024;15:00;Colchester Utd;Cheltenham;1;2;-1
+12;19/10/2024;15:00;Carlisle United;Harrogate;1;1;0
+12;19/10/2024;15:00;Crewe Alexandra;Salford City;1;1;0
+12;19/10/2024;15:00;Notts County;AFC Wimbledon;1;0;1
+12;19/10/2024;15:00;Morecambe;MK Dons;1;3;-2
+13;22/10/2024;19:45;Harrogate;Port Vale;0;1;-1
+13;22/10/2024;19:45;Tranmere Rovers;Grimsby Town;0;1;-1
+13;22/10/2024;19:45;Cheltenham;Bradford City;1;1;0
+13;22/10/2024;19:45;MK Dons;Acc'ton Stanley;2;1;1
+13;22/10/2024;19:45;Doncaster;Bromley;0;1;-1
+13;22/10/2024;19:45;Gillingham;Newport County;0;2;-2
+13;22/10/2024;19:45;Salford City;Swindon Town;2;1;1
+13;22/10/2024;19:45;Fleetwood Town;Crewe Alexandra;0;1;-1
+13;22/10/2024;19:45;Barrow;Notts County;1;1;0
+13;22/10/2024;19:45;Walsall;Carlisle United;3;1;2
+13;22/10/2024;19:45;Chesterfield;Colchester Utd;1;1;0
+13;22/10/2024;19:45;AFC Wimbledon;Morecambe;3;0;3
+14;26/10/2024;12:30;Colchester Utd;Salford City;1;2;-1
+14;26/10/2024;12:30;Morecambe;Chesterfield;2;5;-3
+14;26/10/2024;15:00;Port Vale;AFC Wimbledon;3;2;1
+14;26/10/2024;15:00;Carlisle United;Cheltenham;0;1;-1
+14;26/10/2024;15:00;Newport County;Fleetwood Town;0;0;0
+14;26/10/2024;15:00;Grimsby Town;MK Dons;1;3;-2
+14;26/10/2024;15:00;Bromley;Barrow;1;1;0
+14;26/10/2024;15:00;Bradford City;Doncaster;1;2;-1
+14;26/10/2024;15:00;Acc'ton Stanley;Walsall;0;0;0
+14;26/10/2024;15:00;Swindon Town;Gillingham;1;1;0
+14;26/10/2024;15:00;Crewe Alexandra;Tranmere Rovers;3;1;2
+14;26/10/2024;15:00;Notts County;Harrogate;1;0;1
+5;29/10/2024;19:45;Fleetwood Town;Salford City;2;2;0
+15;09/11/2024;12:30;Salford City;Carlisle United;0;1;-1
+15;09/11/2024;12:30;Harrogate;Morecambe;1;2;-1
+15;09/11/2024;15:00;MK Dons;Swindon Town;3;1;2
+15;09/11/2024;15:00;Fleetwood Town;Bradford City;1;0;1
+15;09/11/2024;15:00;AFC Wimbledon;Grimsby Town;0;1;-1
+15;09/11/2024;15:00;Cheltenham;Bromley;1;1;0
+15;09/11/2024;15:00;Tranmere Rovers;Newport County;2;1;1
+15;09/11/2024;15:00;Chesterfield;Acc'ton Stanley;0;3;-3
+15;09/11/2024;15:00;Barrow;Colchester Utd;1;1;0
+15;09/11/2024;15:00;Doncaster;Notts County;1;1;0
+15;09/11/2024;15:00;Gillingham;Port Vale;1;0;1
+15;09/11/2024;15:00;Walsall;Crewe Alexandra;1;1;0
+16;16/11/2024;15:00;Doncaster;Salford City;1;1;0
+16;16/11/2024;15:00;Bromley;Carlisle United;1;1;0
+16;16/11/2024;15:00;Barrow;AFC Wimbledon;1;3;-2
+16;16/11/2024;15:00;Colchester Utd;Bradford City;1;1;0
+16;16/11/2024;15:00;MK Dons;Cheltenham;3;2;1
+16;16/11/2024;15:00;Acc'ton Stanley;Swindon Town;2;2;0
+16;16/11/2024;15:00;Harrogate;Chesterfield;2;1;1
+16;16/11/2024;15:00;Crewe Alexandra;Notts County;2;0;2
+16;16/11/2024;15:00;Morecambe;Port Vale;0;1;-1
+16;16/11/2024;15:00;Newport County;Grimsby Town;0;0;0
+8;19/11/2024;19:45;AFC Wimbledon;Acc'ton Stanley;2;2;0
+17;22/11/2024;19:45;Cheltenham;Tranmere Rovers;1;0;1
+17;23/11/2024;12:30;Notts County;Newport County;0;0;0
+17;23/11/2024;12:30;Grimsby Town;Colchester Utd;0;1;-1
+17;23/11/2024;15:00;Chesterfield;Barrow;1;0;1
+17;23/11/2024;15:00;Swindon Town;Morecambe;2;3;-1
+17;23/11/2024;15:00;AFC Wimbledon;Walsall;0;1;-1
+17;23/11/2024;15:00;Carlisle United;Doncaster;0;0;0
+17;23/11/2024;15:00;Gillingham;Harrogate;1;2;-1
+17;25/11/2024;20:00;Port Vale;Crewe Alexandra;1;1;0
+5;26/11/2024;19:45;Tranmere Rovers;AFC Wimbledon;0;2;-2
+11;26/11/2024;19:45;Walsall;Bromley;2;2;0
+11;30/11/2024;12:30;Fleetwood Town;Colchester Utd;0;0;0
+18;30/11/2024;12:30;Carlisle United;Crewe Alexandra;1;1;0
+18;03/12/2024;19:45;Cheltenham;Port Vale;1;1;0
+18;03/12/2024;19:45;AFC Wimbledon;Newport County;2;2;0
+18;03/12/2024;19:45;Colchester Utd;Swindon Town;4;0;4
+18;03/12/2024;19:45;Grimsby Town;Acc'ton Stanley;5;2;3
+18;03/12/2024;19:45;Tranmere Rovers;Morecambe;2;2;0
+18;03/12/2024;19:45;Walsall;Notts County;3;2;1
+18;03/12/2024;19:45;MK Dons;Chesterfield;3;0;3
+18;03/12/2024;19:45;Bradford City;Barrow;1;1;0
+18;03/12/2024;19:45;Salford City;Harrogate;2;0;2
+18;04/12/2024;19:45;Bromley;Gillingham;2;1;1
+18;04/12/2024;19:45;Fleetwood Town;Doncaster;2;4;-2
+19;07/12/2024;12:30;Crewe Alexandra;Bradford City;1;1;0
+19;07/12/2024;12:30;Port Vale;Walsall;0;1;-1
+19;07/12/2024;15:00;Gillingham;Salford City;1;0;1
+19;07/12/2024;15:00;Acc'ton Stanley;Bromley;1;2;-1
+19;07/12/2024;15:00;Morecambe;Grimsby Town;0;3;-3
+19;07/12/2024;15:00;Doncaster;Cheltenham;2;2;0
+19;07/12/2024;15:00;Harrogate;AFC Wimbledon;0;3;-3
+19;07/12/2024;15:00;Swindon Town;Fleetwood Town;3;1;2
+19;07/12/2024;15:00;Chesterfield;Tranmere Rovers;3;0;3
+20;14/12/2024;12:30;Salford City;Notts County;3;0;3
+20;14/12/2024;12:30;Tranmere Rovers;Harrogate;2;1;1
+20;14/12/2024;15:00;Cheltenham;Morecambe;2;0;2
+20;14/12/2024;15:00;Grimsby Town;Crewe Alexandra;0;2;-2
+20;14/12/2024;15:00;Bromley;Port Vale;0;0;0
+20;14/12/2024;15:00;MK Dons;Gillingham;0;1;-1
+20;14/12/2024;15:00;AFC Wimbledon;Doncaster;1;0;1
+20;14/12/2024;15:00;Walsall;Barrow;1;0;1
+20;14/12/2024;15:00;Colchester Utd;Newport County;0;0;0
+20;14/12/2024;15:00;Carlisle United;Chesterfield;0;2;-2
+20;14/12/2024;15:00;Bradford City;Swindon Town;1;0;1
+20;16/12/2024;20:00;Fleetwood Town;Acc'ton Stanley;1;1;0
+21;20/12/2024;19:45;Gillingham;Cheltenham;2;2;0
+21;20/12/2024;19:45;Crewe Alexandra;Colchester Utd;0;0;0
+21;21/12/2024;12:30;Doncaster;Tranmere Rovers;3;1;2
+21;21/12/2024;12:30;Barrow;Fleetwood Town;2;0;2
+21;21/12/2024;15:00;Chesterfield;AFC Wimbledon;1;0;1
+21;21/12/2024;15:00;Morecambe;Bromley;0;2;-2
+21;21/12/2024;15:00;Notts County;Bradford City;3;0;3
+21;21/12/2024;15:00;Harrogate;Walsall;0;2;-2
+21;21/12/2024;15:00;Swindon Town;Grimsby Town;3;1;2
+21;21/12/2024;15:00;Acc'ton Stanley;Salford City;0;2;-2
+21;21/12/2024;15:00;Newport County;MK Dons;6;3;3
+21;21/12/2024;15:00;Port Vale;Carlisle United;0;0;0
+22;26/12/2024;15:00;Walsall;Doncaster;2;0;2
+22;26/12/2024;15:00;Bromley;Newport County;5;2;3
+22;26/12/2024;15:00;Colchester Utd;Gillingham;2;0;2
+22;26/12/2024;15:00;AFC Wimbledon;Swindon Town;1;1;0
+22;26/12/2024;15:00;Bradford City;Port Vale;2;1;1
+22;26/12/2024;15:00;Grimsby Town;Harrogate;2;1;1
+22;26/12/2024;15:00;MK Dons;Notts County;0;2;-2
+22;26/12/2024;15:00;Fleetwood Town;Chesterfield;2;0;2
+22;26/12/2024;15:00;Salford City;Barrow;3;0;3
+22;26/12/2024;15:00;Carlisle United;Morecambe;0;1;-1
+22;26/12/2024;15:00;Cheltenham;Crewe Alexandra;2;1;1
+23;29/12/2024;12:30;Bromley;Swindon Town;1;1;0
+23;29/12/2024;12:30;Carlisle United;Acc'ton Stanley;2;1;1
+23;29/12/2024;15:00;Walsall;Newport County;2;0;2
+23;29/12/2024;15:00;MK Dons;Crewe Alexandra;1;1;0
+23;29/12/2024;15:00;Bradford City;Chesterfield;2;1;1
+23;29/12/2024;15:00;Colchester Utd;Doncaster;1;1;0
+23;29/12/2024;15:00;Grimsby Town;Port Vale;3;0;3
+23;29/12/2024;15:00;Fleetwood Town;Harrogate;1;1;0
+23;29/12/2024;15:00;Salford City;Morecambe;1;0;1
+23;29/12/2024;15:00;Cheltenham;Notts County;3;5;-2
+23;29/12/2024;15:00;Tranmere Rovers;Barrow;1;1;0
+23;30/12/2024;20:00;AFC Wimbledon;Gillingham;1;0;1
+24;01/01/2025;15:00;Harrogate;Salford City;0;2;-2
+24;01/01/2025;15:00;Notts County;Walsall;1;2;-1
+24;01/01/2025;15:00;Morecambe;Tranmere Rovers;2;0;2
+24;01/01/2025;15:00;Barrow;Bradford City;2;2;0
+24;01/01/2025;15:00;Acc'ton Stanley;Grimsby Town;3;2;1
+24;01/01/2025;15:00;Chesterfield;MK Dons;1;2;-1
+24;01/01/2025;15:00;Doncaster;Fleetwood Town;2;1;1
+24;01/01/2025;15:00;Swindon Town;Colchester Utd;3;2;1
+24;01/01/2025;15:00;Crewe Alexandra;Carlisle United;3;2;1
+24;01/01/2025;15:00;Port Vale;Cheltenham;0;0;0
+24;02/01/2025;19:45;Newport County;AFC Wimbledon;1;2;-1
+24;02/01/2025;19:45;Gillingham;Bromley;0;3;-3
+25;04/01/2025;12:30;Notts County;Swindon Town;2;0;2
+25;04/01/2025;13:00;Bradford City;Grimsby Town;3;1;2
+25;04/01/2025;15:00;Doncaster;Port Vale;1;2;-1
+25;04/01/2025;15:00;Barrow;Harrogate;0;2;-2
+25;04/01/2025;15:00;MK Dons;Salford City;0;1;-1
+25;04/01/2025;15:00;Colchester Utd;Acc'ton Stanley;0;2;-2
+25;04/01/2025;15:00;Tranmere Rovers;Carlisle United;1;0;1
+25;05/01/2025;15:00;Crewe Alexandra;Bromley;4;1;3
+26;11/01/2025;12:30;Walsall;Tranmere Rovers;5;1;4
+26;11/01/2025;15:00;Swindon Town;Crewe Alexandra;0;0;0
+27;17/01/2025;19:45;Harrogate;Cheltenham;2;0;2
+27;18/01/2025;12:30;Carlisle United;Bradford City;0;1;-1
+27;18/01/2025;12:30;Gillingham;Doncaster;0;1;-1
+27;18/01/2025;15:00;Swindon Town;Barrow;2;0;2
+27;18/01/2025;15:00;Acc'ton Stanley;Notts County;0;3;-3
+27;18/01/2025;15:00;Port Vale;Newport County;3;2;1
+27;18/01/2025;15:00;Salford City;Fleetwood Town;0;2;-2
+27;18/01/2025;15:00;AFC Wimbledon;Tranmere Rovers;2;0;2
+27;18/01/2025;15:00;Morecambe;Crewe Alexandra;0;1;-1
+27;18/01/2025;15:00;Grimsby Town;Chesterfield;1;1;0
+27;18/01/2025;15:00;Walsall;MK Dons;4;2;2
+27;18/01/2025;15:00;Bromley;Colchester Utd;0;1;-1
+17;21/01/2025;19:45;Fleetwood Town;MK Dons;2;1;1
+26;21/01/2025;19:45;Harrogate;Colchester Utd;0;0;0
+28;24/01/2025;19:45;Newport County;Swindon Town;1;2;-1
+28;25/01/2025;12:30;Bradford City;Walsall;3;0;3
+28;25/01/2025;12:30;MK Dons;AFC Wimbledon;0;0;0
+28;25/01/2025;15:00;Notts County;Bromley;1;1;0
+28;25/01/2025;15:00;Fleetwood Town;Carlisle United;1;2;-1
+28;25/01/2025;15:00;Cheltenham;Salford City;2;1;1
+28;25/01/2025;15:00;Chesterfield;Port Vale;1;1;0
+28;25/01/2025;15:00;Tranmere Rovers;Gillingham;1;1;0
+28;25/01/2025;15:00;Barrow;Grimsby Town;3;0;3
+28;25/01/2025;15:00;Colchester Utd;Morecambe;1;0;1
+28;25/01/2025;15:00;Crewe Alexandra;Acc'ton Stanley;0;1;-1
+28;25/01/2025;15:00;Doncaster;Harrogate;1;0;1
+29;28/01/2025;19:45;Salford City;Newport County;1;1;0
+29;28/01/2025;19:45;Crewe Alexandra;AFC Wimbledon;1;1;0
+29;28/01/2025;19:45;MK Dons;Harrogate;2;1;1
+29;28/01/2025;19:45;Bradford City;Morecambe;1;0;1
+29;28/01/2025;19:45;Grimsby Town;Gillingham;1;1;0
+29;28/01/2025;19:45;Fleetwood Town;Walsall;2;0;2
+29;28/01/2025;19:45;Swindon Town;Tranmere Rovers;3;1;2
+29;28/01/2025;19:45;Chesterfield;Bromley;3;0;3
+29;28/01/2025;19:45;Acc'ton Stanley;Cheltenham;0;0;0
+29;28/01/2025;19:45;Notts County;Carlisle United;1;0;1
+29;29/01/2025;20:00;Barrow;Doncaster;1;3;-2
+30;01/02/2025;12:30;Cheltenham;Chesterfield;1;0;1
+30;01/02/2025;12:30;Gillingham;Notts County;1;2;-1
+30;01/02/2025;15:00;Harrogate;Crewe Alexandra;1;1;0
+30;01/02/2025;15:00;Bromley;Grimsby Town;0;2;-2
+30;01/02/2025;15:00;AFC Wimbledon;Bradford City;1;0;1
+30;01/02/2025;15:00;Doncaster;MK Dons;2;1;1
+30;01/02/2025;15:00;Walsall;Salford City;2;2;0
+30;01/02/2025;15:00;Morecambe;Fleetwood Town;4;2;2
+30;01/02/2025;15:00;Tranmere Rovers;Colchester Utd;1;3;-2
+30;01/02/2025;15:00;Port Vale;Acc'ton Stanley;2;1;1
+30;01/02/2025;15:00;Newport County;Barrow;1;0;1
+30;01/02/2025;15:00;Carlisle United;Swindon Town;1;5;-4
+17;04/02/2025;19:45;Salford City;Bromley;3;3;0
+25;04/02/2025;19:45;Newport County;Morecambe;2;1;1
+31;06/02/2025;19:45;Chesterfield;Doncaster;5;2;3
+31;08/02/2025;12:30;Swindon Town;Port Vale;3;3;0
+31;08/02/2025;12:30;Bradford City;Harrogate;1;0;1
+31;08/02/2025;15:00;Fleetwood Town;Cheltenham;2;0;2
+31;08/02/2025;15:00;Crewe Alexandra;Newport County;0;3;-3
+31;08/02/2025;15:00;MK Dons;Bromley;0;1;-1
+31;08/02/2025;15:00;Grimsby Town;Carlisle United;2;1;1
+31;08/02/2025;15:00;Salford City;Tranmere Rovers;2;0;2
+31;08/02/2025;15:00;Colchester Utd;Walsall;2;1;1
+31;08/02/2025;15:00;Notts County;Morecambe;2;0;2
+31;08/02/2025;15:00;Barrow;Gillingham;3;0;3
+31;08/02/2025;15:00;Acc'ton Stanley;AFC Wimbledon;0;0;0
+9;11/02/2025;19:45;AFC Wimbledon;Crewe Alexandra;3;0;3
+16;11/02/2025;19:45;Walsall;Gillingham;1;1;0
+16;11/02/2025;19:45;Tranmere Rovers;Fleetwood Town;0;0;0
+17;11/02/2025;19:45;Bradford City;Acc'ton Stanley;1;0;1
+19;11/02/2025;19:45;Barrow;MK Dons;2;1;1
+19;11/02/2025;19:45;Newport County;Carlisle United;1;0;1
+32;13/02/2025;20:00;Port Vale;Notts County;1;0;1
+32;15/02/2025;12:30;AFC Wimbledon;Salford City;1;0;1
+32;15/02/2025;12:30;Doncaster;Grimsby Town;1;2;-1
+32;15/02/2025;15:00;Morecambe;Acc'ton Stanley;2;0;2
+32;15/02/2025;15:00;Cheltenham;Barrow;3;2;1
+32;15/02/2025;15:00;Bromley;Fleetwood Town;1;0;1
+32;15/02/2025;15:00;Gillingham;Crewe Alexandra;0;0;0
+32;15/02/2025;15:00;Harrogate;Swindon Town;1;0;1
+32;15/02/2025;15:00;Carlisle United;Colchester Utd;0;0;0
+32;15/02/2025;15:00;Walsall;Chesterfield;3;1;2
+32;15/02/2025;15:00;Newport County;Bradford City;0;0;0
+32;15/02/2025;15:00;Tranmere Rovers;MK Dons;1;1;0
+19;18/02/2025;19:45;Notts County;Colchester Utd;1;1;0
+25;18/02/2025;19:45;Fleetwood Town;AFC Wimbledon;0;0;0
+26;18/02/2025;19:45;Morecambe;Doncaster;0;1;-1
+33;22/02/2025;12:30;Morecambe;Walsall;0;2;-2
+33;22/02/2025;12:30;Crewe Alexandra;Barrow;3;0;3
+33;22/02/2025;15:00;Swindon Town;Chesterfield;1;0;1
+33;22/02/2025;15:00;Colchester Utd;AFC Wimbledon;1;1;0
+33;22/02/2025;15:00;Bromley;Harrogate;2;0;2
+33;22/02/2025;15:00;Grimsby Town;Fleetwood Town;2;1;1
+33;22/02/2025;15:00;Carlisle United;Gillingham;0;0;0
+33;22/02/2025;15:00;Newport County;Cheltenham;0;3;-3
+33;22/02/2025;15:00;Notts County;Tranmere Rovers;2;1;1
+33;22/02/2025;15:00;Acc'ton Stanley;Doncaster;1;2;-1
+33;22/02/2025;15:00;Bradford City;MK Dons;2;0;2
+33;22/02/2025;15:00;Port Vale;Salford City;2;1;1
+22;25/02/2025;19:45;Tranmere Rovers;Acc'ton Stanley;0;1;-1
+25;25/02/2025;19:45;Cheltenham;Walsall;2;2;0
+26;25/02/2025;19:45;Gillingham;Fleetwood Town;1;2;-1
+26;25/02/2025;19:45;Bromley;Bradford City;0;1;-1
+34;27/02/2025;20:00;Barrow;Carlisle United;0;1;-1
+34;01/03/2025;12:30;Tranmere Rovers;Port Vale;1;1;0
+34;01/03/2025;12:30;Salford City;Bradford City;1;2;-1
+34;01/03/2025;15:00;Chesterfield;Crewe Alexandra;1;3;-2
+34;01/03/2025;15:00;MK Dons;Colchester Utd;0;1;-1
+34;01/03/2025;15:00;AFC Wimbledon;Bromley;0;1;-1
+34;01/03/2025;15:00;Gillingham;Morecambe;1;0;1
+34;01/03/2025;15:00;Walsall;Swindon Town;0;1;-1
+34;01/03/2025;15:00;Harrogate;Acc'ton Stanley;2;1;1
+34;01/03/2025;15:00;Fleetwood Town;Notts County;2;2;0
+34;01/03/2025;15:00;Doncaster;Newport County;3;0;3
+34;01/03/2025;15:00;Cheltenham;Grimsby Town;1;1;0
+35;04/03/2025;19:45;Bromley;Doncaster;1;0;1
+35;04/03/2025;19:45;Swindon Town;Salford City;2;2;0
+35;04/03/2025;19:45;Carlisle United;Walsall;1;1;0
+35;04/03/2025;19:45;Grimsby Town;Tranmere Rovers;1;1;0
+35;04/03/2025;19:45;Morecambe;AFC Wimbledon;1;0;1
+35;04/03/2025;19:45;Port Vale;Harrogate;0;0;0
+35;04/03/2025;19:45;Notts County;Barrow;1;2;-1
+35;04/03/2025;19:45;Colchester Utd;Chesterfield;1;0;1
+35;04/03/2025;19:45;Crewe Alexandra;Fleetwood Town;1;4;-3
+35;04/03/2025;19:45;Acc'ton Stanley;MK Dons;2;0;2
+35;04/03/2025;19:45;Bradford City;Cheltenham;3;0;3
+35;04/03/2025;19:45;Newport County;Gillingham;3;1;2
+36;08/03/2025;12:30;AFC Wimbledon;Notts County;2;0;2
+36;08/03/2025;12:30;Walsall;Grimsby Town;1;3;-2
+36;08/03/2025;15:00;Doncaster;Swindon Town;2;2;0
+36;08/03/2025;15:00;MK Dons;Morecambe;2;1;1
+36;08/03/2025;15:00;Cheltenham;Colchester Utd;0;1;-1
+36;08/03/2025;15:00;Gillingham;Bradford City;1;0;1
+36;08/03/2025;15:00;Fleetwood Town;Port Vale;1;1;0
+36;08/03/2025;15:00;Salford City;Crewe Alexandra;1;1;0
+36;08/03/2025;15:00;Chesterfield;Newport County;2;1;1
+36;08/03/2025;15:00;Barrow;Acc'ton Stanley;2;0;2
+36;08/03/2025;15:00;Harrogate;Carlisle United;1;0;1
+36;08/03/2025;15:00;Tranmere Rovers;Bromley;2;1;1
+26;11/03/2025;19:45;Acc'ton Stanley;Newport County;5;0;5
+26;11/03/2025;19:45;Grimsby Town;Notts County;0;2;-2
+26;11/03/2025;19:45;AFC Wimbledon;Cheltenham;1;2;-1
+26;11/03/2025;19:45;Salford City;Chesterfield;0;4;-4
+29;11/03/2025;19:45;Colchester Utd;Port Vale;2;1;1
+37;13/03/2025;20:00;Bromley;Walsall;2;2;0
+37;15/03/2025;12:30;Crewe Alexandra;Doncaster;1;1;0
+37;15/03/2025;12:30;Swindon Town;Cheltenham;3;3;0
+37;15/03/2025;15:00;Carlisle United;AFC Wimbledon;1;2;-1
+37;15/03/2025;15:00;Colchester Utd;Fleetwood Town;3;0;3
+37;15/03/2025;15:00;Port Vale;MK Dons;3;0;3
+37;15/03/2025;15:00;Notts County;Chesterfield;1;2;-1
+37;15/03/2025;15:00;Grimsby Town;Salford City;0;1;-1
+37;15/03/2025;15:00;Morecambe;Barrow;2;2;0
+37;15/03/2025;15:00;Newport County;Harrogate;3;0;3
+37;15/03/2025;15:00;Bradford City;Tranmere Rovers;0;1;-1
+37;15/03/2025;15:00;Acc'ton Stanley;Gillingham;1;1;0
+38;22/03/2025;12:30;Notts County;Crewe Alexandra;0;0;0
+38;22/03/2025;15:00;AFC Wimbledon;Barrow;2;2;0
+38;22/03/2025;15:00;Gillingham;Walsall;0;0;0
+38;22/03/2025;15:00;Fleetwood Town;Tranmere Rovers;0;0;0
+38;22/03/2025;15:00;Bradford City;Colchester Utd;4;1;3
+38;22/03/2025;15:00;Carlisle United;Bromley;2;1;1
+38;22/03/2025;15:00;Cheltenham;MK Dons;0;1;-1
+38;22/03/2025;15:00;Chesterfield;Harrogate;0;0;0
+38;22/03/2025;15:00;Grimsby Town;Newport County;1;0;1
+38;22/03/2025;15:00;Swindon Town;Acc'ton Stanley;0;0;0
+38;22/03/2025;15:00;Port Vale;Morecambe;1;0;1
+26;25/03/2025;19:30;Port Vale;Barrow;0;1;-1
+26;25/03/2025;19:45;Carlisle United;MK Dons;2;2;0
+39;28/03/2025;19:45;Tranmere Rovers;Cheltenham;2;0;2
+39;28/03/2025;19:45;Colchester Utd;Grimsby Town;1;2;-1
+39;29/03/2025;12:30;Crewe Alexandra;Port Vale;0;1;-1
+39;29/03/2025;12:30;Acc'ton Stanley;Bradford City;0;0;0
+39;29/03/2025;15:00;Barrow;Chesterfield;0;1;-1
+39;29/03/2025;15:00;Bromley;Salford City;2;3;-1
+39;29/03/2025;15:00;Walsall;AFC Wimbledon;1;1;0
+39;29/03/2025;15:00;Newport County;Notts County;0;2;-2
+39;29/03/2025;15:00;Harrogate;Gillingham;1;1;0
+39;29/03/2025;15:00;Morecambe;Swindon Town;1;0;1
+39;29/03/2025;15:00;MK Dons;Fleetwood Town;2;4;-2
+39;29/03/2025;15:00;Doncaster;Carlisle United;3;0;3
+40;01/04/2025;19:45;Morecambe;Cheltenham;2;0;2
+40;01/04/2025;19:45;Acc'ton Stanley;Fleetwood Town;1;4;-3
+40;01/04/2025;19:45;Port Vale;Bradford City;2;0;2
+40;01/04/2025;19:45;Barrow;Salford City;1;1;0
+40;01/04/2025;19:45;Swindon Town;AFC Wimbledon;2;1;1
+40;01/04/2025;19:45;Crewe Alexandra;Grimsby Town;2;0;2
+40;01/04/2025;19:45;Gillingham;Colchester Utd;1;1;0
+40;01/04/2025;19:45;Harrogate;Tranmere Rovers;3;2;1
+40;01/04/2025;19:45;Newport County;Bromley;1;1;0
+40;01/04/2025;19:45;Doncaster;Walsall;2;2;0
+40;01/04/2025;19:45;Chesterfield;Carlisle United;2;1;1
+40;02/04/2025;19:45;Notts County;MK Dons;3;0;3
+41;05/04/2025;12:30;Cheltenham;Doncaster;0;2;-2
+41;05/04/2025;12:30;Walsall;Port Vale;2;3;-1
+41;05/04/2025;12:45;Tranmere Rovers;Chesterfield;4;0;4
+41;05/04/2025;15:00;AFC Wimbledon;Harrogate;1;0;1
+41;05/04/2025;15:00;Fleetwood Town;Swindon Town;0;4;-4
+41;05/04/2025;15:00;Colchester Utd;Notts County;1;0;1
+41;05/04/2025;15:00;Bromley;Acc'ton Stanley;4;0;4
+41;05/04/2025;15:00;MK Dons;Barrow;0;3;-3
+41;05/04/2025;15:00;Bradford City;Crewe Alexandra;2;0;2
+41;05/04/2025;15:00;Grimsby Town;Morecambe;3;1;2
+41;05/04/2025;15:00;Salford City;Gillingham;2;2;0
+41;05/04/2025;15:00;Carlisle United;Newport County;3;2;1
+25;08/04/2025;19:45;Chesterfield;Gillingham;1;1;0
+42;10/04/2025;20:00;Crewe Alexandra;Cheltenham;2;3;-1
+42;11/04/2025;19:45;Notts County;Salford City;1;3;-2
+42;12/04/2025;12:30;Swindon Town;Bradford City;5;4;1
+42;12/04/2025;12:30;Doncaster;AFC Wimbledon;1;1;0
+42;12/04/2025;15:00;Gillingham;MK Dons;1;0;1
+42;12/04/2025;15:00;Newport County;Colchester Utd;0;2;-2
+42;12/04/2025;15:00;Harrogate;Grimsby Town;2;2;0
+42;12/04/2025;15:00;Morecambe;Carlisle United;0;2;-2
+42;12/04/2025;15:00;Barrow;Walsall;2;0;2
+42;12/04/2025;15:00;Acc'ton Stanley;Tranmere Rovers;3;3;0
+42;12/04/2025;15:00;Port Vale;Bromley;5;0;5
+42;12/04/2025;15:00;Chesterfield;Fleetwood Town;3;0;3
+38;15/04/2025;19:45;Salford City;Doncaster;1;1;0
+43;17/04/2025;20:00;Bradford City;Notts County;1;1;0
+43;18/04/2025;15:00;Cheltenham;Gillingham;1;1;0
+43;18/04/2025;15:00;Grimsby Town;Swindon Town;0;4;-4
+43;18/04/2025;15:00;Walsall;Harrogate;2;2;0
+43;18/04/2025;15:00;Colchester Utd;Crewe Alexandra;0;0;0
+43;18/04/2025;15:00;Bromley;Morecambe;1;0;1
+43;18/04/2025;15:00;Fleetwood Town;Barrow;0;0;0
+43;18/04/2025;15:00;MK Dons;Newport County;0;0;0
+43;18/04/2025;15:00;Tranmere Rovers;Doncaster;0;3;-3
+43;18/04/2025;15:00;Salford City;Acc'ton Stanley;1;2;-1
+43;18/04/2025;15:00;Carlisle United;Port Vale;3;2;1
+43;18/04/2025;15:00;AFC Wimbledon;Chesterfield;0;0;0
+44;21/04/2025;12:30;Newport County;Walsall;0;0;0
+44;21/04/2025;15:00;Notts County;Cheltenham;1;2;-1
+44;21/04/2025;15:00;Gillingham;AFC Wimbledon;1;0;1
+44;21/04/2025;15:00;Swindon Town;Bromley;0;1;-1
+44;21/04/2025;15:00;Crewe Alexandra;MK Dons;0;1;-1
+44;21/04/2025;15:00;Harrogate;Fleetwood Town;3;1;2
+44;21/04/2025;15:00;Barrow;Tranmere Rovers;0;0;0
+44;21/04/2025;15:00;Port Vale;Grimsby Town;2;2;0
+44;21/04/2025;15:00;Acc'ton Stanley;Carlisle United;1;1;0
+44;21/04/2025;15:00;Chesterfield;Bradford City;3;3;0
+44;21/04/2025;15:00;Morecambe;Salford City;1;3;-2
+44;21/04/2025;15:00;Doncaster;Colchester Utd;3;0;3
+45;26/04/2025;12:30;Doncaster;Bradford City;2;1;1
+45;26/04/2025;12:30;AFC Wimbledon;Port Vale;0;2;-2
+45;26/04/2025;13:00;Harrogate;Notts County;1;3;-2
+45;26/04/2025;15:00;MK Dons;Grimsby Town;0;0;0
+45;26/04/2025;15:00;Gillingham;Swindon Town;1;1;0
+45;26/04/2025;15:00;Barrow;Bromley;3;3;0
+45;26/04/2025;15:00;Cheltenham;Carlisle United;3;2;1
+45;26/04/2025;15:00;Chesterfield;Morecambe;4;1;3
+45;26/04/2025;15:00;Walsall;Acc'ton Stanley;0;1;-1
+45;26/04/2025;15:00;Tranmere Rovers;Crewe Alexandra;2;0;2
+45;26/04/2025;15:00;Salford City;Colchester Utd;4;1;3
+45;26/04/2025;15:00;Fleetwood Town;Newport County;2;0;2
+46;03/05/2025;15:00;Carlisle United;Salford City;2;2;0
+46;03/05/2025;15:00;Notts County;Doncaster;1;2;-1
+46;03/05/2025;15:00;Acc'ton Stanley;Chesterfield;0;1;-1
+46;03/05/2025;15:00;Crewe Alexandra;Walsall;0;1;-1
+46;03/05/2025;15:00;Bromley;Cheltenham;3;0;3
+46;03/05/2025;15:00;Swindon Town;MK Dons;0;0;0
+46;03/05/2025;15:00;Colchester Utd;Barrow;0;0;0
+46;03/05/2025;15:00;Newport County;Tranmere Rovers;1;4;-3
+46;03/05/2025;15:00;Bradford City;Fleetwood Town;1;0;1
+46;03/05/2025;15:00;Port Vale;Gillingham;0;1;-1
+46;03/05/2025;15:00;Morecambe;Harrogate;1;2;-1
+46;03/05/2025;15:00;Grimsby Town;AFC Wimbledon;0;1;-1

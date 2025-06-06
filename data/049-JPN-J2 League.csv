@@ -1,0 +1,178 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;15/02/2025;14:00;Sagan Tosu;Vegalta Sendai;0;1;-1
+1;15/02/2025;14:00;Júbilo Iwata;Mito HollyHock;3;2;1
+1;15/02/2025;14:00;Omiya Ardija;Montedio;2;1;1
+1;15/02/2025;14:00;Ventforet Kofu;Renofa;1;0;1
+1;15/02/2025;14:00;Iwaki FC;JEF United;0;2;-2
+1;15/02/2025;14:00;Fujieda MYFC;Vortis;0;2;-2
+1;15/02/2025;19:00;V-V Nagasaki;Roasso Kumamoto;3;2;1
+1;16/02/2025;12:50;Ehime FC;Kataller Toyama;0;1;-1
+1;16/02/2025;13:10;FC Imabari;Blaublitz Akita;0;1;-1
+1;16/02/2025;14:00;Oita Trinita;Consa Sapporo;2;0;2
+2;22/02/2025;14:00;Júbilo Iwata;Sagan Tosu;1;0;1
+2;22/02/2025;14:00;JEF United;Kataller Toyama;2;0;2
+2;22/02/2025;14:00;Omiya Ardija;Ventforet Kofu;1;0;1
+2;23/02/2025;13:00;Roasso Kumamoto;Consa Sapporo;3;0;3
+2;23/02/2025;13:00;Renofa;V-V Nagasaki;2;2;0
+2;23/02/2025;14:00;Vortis;Vegalta Sendai;1;0;1
+2;23/02/2025;14:00;Oita Trinita;Iwaki FC;0;0;0
+2;23/02/2025;14:00;FC Imabari;Fujieda MYFC;0;0;0
+2;23/02/2025;14:00;Mito HollyHock;Montedio;1;0;1
+2;23/02/2025;15:00;Ehime FC;Blaublitz Akita;1;2;-1
+3;01/03/2025;13:00;Vegalta Sendai;Oita Trinita;2;0;2
+3;01/03/2025;14:00;V-V Nagasaki;Júbilo Iwata;1;0;1
+3;01/03/2025;14:00;Fujieda MYFC;Blaublitz Akita;2;1;1
+3;01/03/2025;14:00;JEF United;Montedio;3;2;1
+3;01/03/2025;14:00;Sagan Tosu;FC Imabari;1;4;-3
+3;02/03/2025;13:00;Roasso Kumamoto;Omiya Ardija;0;4;-4
+3;02/03/2025;14:00;Mito HollyHock;Ehime FC;1;1;0
+3;02/03/2025;14:00;Renofa;Consa Sapporo;2;0;2
+3;02/03/2025;14:00;Iwaki FC;Vortis;1;1;0
+3;02/03/2025;14:00;Kataller Toyama;Ventforet Kofu;2;0;2
+4;08/03/2025;13:00;Vegalta Sendai;V-V Nagasaki;1;1;0
+4;08/03/2025;14:00;Omiya Ardija;Renofa;2;1;1
+4;08/03/2025;18:10;Ehime FC;FC Imabari;2;3;-1
+4;09/03/2025;13:05;Consa Sapporo;JEF United;1;3;-2
+4;09/03/2025;14:00;Montedio;Blaublitz Akita;4;2;2
+4;09/03/2025;14:00;Vortis;Roasso Kumamoto;0;0;0
+4;09/03/2025;14:00;Oita Trinita;Mito HollyHock;0;0;0
+4;09/03/2025;14:00;Ventforet Kofu;Fujieda MYFC;3;3;0
+4;09/03/2025;14:00;Kataller Toyama;Júbilo Iwata;3;1;2
+4;09/03/2025;14:00;Iwaki FC;Sagan Tosu;1;1;0
+5;15/03/2025;13:00;Blaublitz Akita;Consa Sapporo;1;3;-2
+5;15/03/2025;14:00;Fujieda MYFC;Iwaki FC;2;0;2
+5;15/03/2025;14:00;Sagan Tosu;Omiya Ardija;1;0;1
+5;15/03/2025;14:00;Júbilo Iwata;Ventforet Kofu;2;1;1
+5;15/03/2025;16:00;V-V Nagasaki;Vortis;1;0;1
+5;16/03/2025;13:00;Roasso Kumamoto;Montedio;1;3;-2
+5;16/03/2025;14:00;Mito HollyHock;Vegalta Sendai;2;2;0
+5;16/03/2025;14:00;JEF United;Ehime FC;5;1;4
+5;16/03/2025;14:00;Renofa;Oita Trinita;1;1;0
+5;16/03/2025;14:00;FC Imabari;Kataller Toyama;0;0;0
+6;23/03/2025;13:00;Vegalta Sendai;Júbilo Iwata;2;3;-1
+6;23/03/2025;13:15;Renofa;Roasso Kumamoto;0;1;-1
+6;23/03/2025;14:00;Sagan Tosu;Kataller Toyama;1;0;1
+6;23/03/2025;14:00;Montedio;Vortis;0;0;0
+6;23/03/2025;14:00;Ventforet Kofu;JEF United;1;2;-1
+6;23/03/2025;14:00;Omiya Ardija;Mito HollyHock;2;0;2
+6;23/03/2025;14:00;Iwaki FC;FC Imabari;0;1;-1
+6;23/03/2025;14:00;Ehime FC;Consa Sapporo;1;2;-1
+6;23/03/2025;14:00;V-V Nagasaki;Blaublitz Akita;5;1;4
+6;23/03/2025;14:00;Oita Trinita;Fujieda MYFC;1;1;0
+7;29/03/2025;14:00;Consa Sapporo;Ventforet Kofu;0;1;-1
+7;30/03/2025;13:00;Roasso Kumamoto;Sagan Tosu;3;1;2
+7;30/03/2025;14:00;Kataller Toyama;Vegalta Sendai;0;1;-1
+7;30/03/2025;14:00;Fujieda MYFC;V-V Nagasaki;3;2;1
+7;30/03/2025;14:00;Blaublitz Akita;Renofa;1;0;1
+7;30/03/2025;14:00;Mito HollyHock;Iwaki FC;4;1;3
+7;30/03/2025;14:00;FC Imabari;Montedio;2;2;0
+7;30/03/2025;15:00;Ehime FC;Oita Trinita;0;1;-1
+7;30/03/2025;15:00;Júbilo Iwata;JEF United;1;0;1
+7;30/03/2025;16:00;Vortis;Omiya Ardija;1;0;1
+8;05/04/2025;13:00;Vegalta Sendai;Blaublitz Akita;1;0;1
+8;05/04/2025;13:30;Ventforet Kofu;Iwaki FC;1;0;1
+8;05/04/2025;14:00;Renofa;Ehime FC;1;1;0
+8;05/04/2025;14:00;Omiya Ardija;Oita Trinita;2;2;0
+8;05/04/2025;14:00;Sagan Tosu;Fujieda MYFC;1;0;1
+8;05/04/2025;14:00;Montedio;Júbilo Iwata;0;0;0
+8;05/04/2025;14:00;JEF United;Mito HollyHock;2;1;1
+8;05/04/2025;14:00;Consa Sapporo;Vortis;1;0;1
+8;06/04/2025;13:00;Roasso Kumamoto;Kataller Toyama;0;0;0
+8;06/04/2025;13:30;FC Imabari;V-V Nagasaki;4;1;3
+9;12/04/2025;13:00;Vegalta Sendai;FC Imabari;0;0;0
+9;12/04/2025;14:00;Mito HollyHock;Consa Sapporo;3;1;2
+9;12/04/2025;14:00;Iwaki FC;Montedio;0;1;-1
+9;13/04/2025;14:00;Kataller Toyama;Renofa;2;2;0
+9;13/04/2025;14:00;V-V Nagasaki;Sagan Tosu;0;2;-2
+9;13/04/2025;14:00;Oita Trinita;Vortis;1;1;0
+9;13/04/2025;14:00;Fujieda MYFC;JEF United;2;3;-1
+9;13/04/2025;14:00;Blaublitz Akita;Omiya Ardija;1;2;-1
+9;13/04/2025;15:00;Júbilo Iwata;Roasso Kumamoto;1;1;0
+9;13/04/2025;16:00;Ehime FC;Ventforet Kofu;0;0;0
+10;19/04/2025;14:00;Montedio;Ehime FC;2;3;-1
+10;19/04/2025;14:00;Ventforet Kofu;V-V Nagasaki;1;1;0
+10;19/04/2025;14:00;Sagan Tosu;Renofa;2;2;0
+10;20/04/2025;13:00;Roasso Kumamoto;Vegalta Sendai;0;1;-1
+10;20/04/2025;14:00;Kataller Toyama;Iwaki FC;1;2;-1
+10;20/04/2025;14:00;Vortis;Mito HollyHock;0;1;-1
+10;20/04/2025;14:00;Consa Sapporo;Fujieda MYFC;2;1;1
+10;20/04/2025;14:00;JEF United;Oita Trinita;1;0;1
+10;20/04/2025;14:00;Blaublitz Akita;Júbilo Iwata;2;1;1
+10;20/04/2025;14:00;FC Imabari;Omiya Ardija;0;0;0
+11;25/04/2025;19:00;Omiya Ardija;Consa Sapporo;1;0;1
+11;25/04/2025;19:00;JEF United;Blaublitz Akita;3;1;2
+11;25/04/2025;19:00;Vegalta Sendai;Ehime FC;1;1;0
+11;25/04/2025;19:00;V-V Nagasaki;Iwaki FC;3;4;-1
+11;25/04/2025;19:00;Sagan Tosu;Montedio;2;1;1
+11;25/04/2025;19:00;Mito HollyHock;Ventforet Kofu;0;0;0
+11;25/04/2025;19:00;Fujieda MYFC;Roasso Kumamoto;0;2;-2
+11;25/04/2025;19:00;Júbilo Iwata;Oita Trinita;0;3;-3
+11;26/04/2025;14:00;Renofa;FC Imabari;1;2;-1
+11;26/04/2025;14:00;Vortis;Kataller Toyama;1;0;1
+12;29/04/2025;14:00;Roasso Kumamoto;JEF United;0;0;0
+12;29/04/2025;14:00;Ventforet Kofu;Vegalta Sendai;1;2;-1
+12;29/04/2025;14:00;Oita Trinita;Sagan Tosu;1;0;1
+12;29/04/2025;14:00;Kataller Toyama;Montedio;0;0;0
+12;29/04/2025;14:00;Blaublitz Akita;Vortis;0;2;-2
+12;29/04/2025;14:00;Mito HollyHock;FC Imabari;0;0;0
+12;29/04/2025;14:00;Consa Sapporo;V-V Nagasaki;2;2;0
+12;29/04/2025;14:00;Iwaki FC;Omiya Ardija;2;1;1
+12;29/04/2025;15:00;Júbilo Iwata;Renofa;0;1;-1
+12;29/04/2025;15:00;Ehime FC;Fujieda MYFC;2;4;-2
+13;03/05/2025;13:00;Iwaki FC;Blaublitz Akita;1;1;0
+13;03/05/2025;13:00;Vegalta Sendai;Renofa;3;1;2
+13;03/05/2025;13:30;Ventforet Kofu;Vortis;0;2;-2
+13;03/05/2025;14:00;Fujieda MYFC;Mito HollyHock;0;2;-2
+13;03/05/2025;14:00;Oita Trinita;Roasso Kumamoto;1;0;1
+13;03/05/2025;14:00;Omiya Ardija;Kataller Toyama;2;2;0
+13;03/05/2025;14:00;Montedio;Consa Sapporo;0;1;-1
+13;03/05/2025;14:00;Sagan Tosu;JEF United;1;1;0
+13;03/05/2025;14:00;FC Imabari;Júbilo Iwata;3;3;0
+13;03/05/2025;16:00;V-V Nagasaki;Ehime FC;1;1;0
+14;06/05/2025;13:00;Vegalta Sendai;Fujieda MYFC;2;1;1
+14;06/05/2025;13:55;Kataller Toyama;V-V Nagasaki;1;2;-1
+14;06/05/2025;14:00;Montedio;Oita Trinita;3;0;3
+14;06/05/2025;14:00;Consa Sapporo;Júbilo Iwata;2;4;-2
+14;06/05/2025;14:00;Renofa;Mito HollyHock;1;2;-1
+14;06/05/2025;15:00;Blaublitz Akita;Ventforet Kofu;0;1;-1
+14;06/05/2025;15:00;Ehime FC;Iwaki FC;1;1;0
+14;06/05/2025;15:00;Roasso Kumamoto;FC Imabari;0;1;-1
+14;06/05/2025;15:50;Vortis;Sagan Tosu;0;1;-1
+14;06/05/2025;16:00;JEF United;Omiya Ardija;1;2;-1
+15;10/05/2025;14:00;Omiya Ardija;Vegalta Sendai;3;0;3
+15;11/05/2025;13:00;Iwaki FC;Consa Sapporo;1;1;0
+15;11/05/2025;13:00;Júbilo Iwata;Fujieda MYFC;1;0;1
+15;11/05/2025;14:00;V-V Nagasaki;Montedio;1;1;0
+15;11/05/2025;14:00;Sagan Tosu;Ventforet Kofu;0;0;0
+15;11/05/2025;14:00;Vortis;Renofa;2;0;2
+15;11/05/2025;14:00;FC Imabari;JEF United;0;1;-1
+15;11/05/2025;14:00;Mito HollyHock;Blaublitz Akita;2;1;1
+15;11/05/2025;14:05;Kataller Toyama;Oita Trinita;1;1;0
+15;11/05/2025;15:00;Roasso Kumamoto;Ehime FC;2;2;0
+16;17/05/2025;13:30;Ventforet Kofu;FC Imabari;1;0;1
+16;17/05/2025;14:00;Consa Sapporo;Kataller Toyama;2;1;1
+16;17/05/2025;14:00;Fujieda MYFC;Omiya Ardija;0;1;-1
+16;17/05/2025;14:00;Mito HollyHock;Roasso Kumamoto;2;1;1
+16;17/05/2025;14:00;JEF United;Vegalta Sendai;0;0;0
+16;17/05/2025;14:00;Blaublitz Akita;Sagan Tosu;1;2;-1
+16;17/05/2025;14:00;Júbilo Iwata;Iwaki FC;2;0;2
+16;18/05/2025;14:00;Renofa;Montedio;1;0;1
+16;18/05/2025;14:00;Oita Trinita;V-V Nagasaki;1;2;-1
+16;18/05/2025;18:00;Ehime FC;Vortis;0;2;-2
+17;24/05/2025;13:00;Iwaki FC;Vegalta Sendai;1;2;-1
+17;24/05/2025;14:00;V-V Nagasaki;JEF United;1;0;1
+17;24/05/2025;14:00;Renofa;Fujieda MYFC;0;0;0
+17;24/05/2025;14:00;Vortis;Júbilo Iwata;1;1;0
+17;24/05/2025;14:00;Sagan Tosu;Consa Sapporo;2;1;1
+17;24/05/2025;14:00;Montedio;Ventforet Kofu;0;4;-4
+17;24/05/2025;16:00;Roasso Kumamoto;Blaublitz Akita;1;2;-1
+18;31/05/2025;14:00;JEF United;Renofa;0;0;0
+18;31/05/2025;14:00;Sagan Tosu;Ehime FC;2;2;0
+18;31/05/2025;14:00;Blaublitz Akita;Kataller Toyama;2;2;0
+18;31/05/2025;14:00;Mito HollyHock;V-V Nagasaki;3;0;3
+18;31/05/2025;14:00;Omiya Ardija;Júbilo Iwata;2;2;0
+18;31/05/2025;14:00;Fujieda MYFC;Montedio;2;1;1
+18;31/05/2025;14:00;Vegalta Sendai;Consa Sapporo;1;1;0
+18;31/05/2025;18:05;FC Imabari;Vortis;0;1;-1
+18;31/05/2025;19:00;Oita Trinita;Ventforet Kofu;2;1;1
+18;01/06/2025;14:00;Iwaki FC;Roasso Kumamoto;5;1;4

@@ -1,0 +1,241 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;23/01/2025;19:00;Tigre;Vélez Sarsfield;3;0;3
+1;23/01/2025;19:00;Godoy Cruz;Rosario Central;0;3;-3
+1;24/01/2025;17:00;Barracas Central;Racing Club;1;3;-2
+1;24/01/2025;19:15;Independiente;Sarmiento;2;1;1
+1;23/01/2025;21:30;Defensa y Just;Banfield;0;1;-1
+1;23/01/2025;21:30;Lanús;Deportivo Riestra;0;2;-2
+1;23/01/2025;21:30;Newell's OB;Ind. Rivadavia;0;1;-1
+1;25/01/2025;17:00;San Lorenzo;Talleres;1;0;1
+1;25/01/2025;19:15;Instituto;Gimnasia–LP;3;0;3
+1;25/01/2025;19:15;Estudiantes–LP;Unión;3;1;2
+1;24/01/2025;21:00;Belgrano;Huracán;1;1;0
+1;24/01/2025;21:30;San Martín de San Juan;Atlé Tucumán;0;1;-1
+1;26/01/2025;19:00;Boca Juniors;Arg Juniors;0;0;0
+1;25/01/2025;21:30;Platense;River Plate;1;1;0
+2;27/01/2025;20:00;Banfield;Newell's OB;3;0;3
+1;26/01/2025;21:00;Cen. Córdoba–SdE;Aldosivi;1;0;1
+2;28/01/2025;17:00;Deportivo Riestra;San Martín de San Juan;0;0;0
+2;28/01/2025;19:15;Rosario Central;Lanús;2;1;1
+2;28/01/2025;19:15;Sarmiento;Godoy Cruz;0;0;0
+2;29/01/2025;17:00;Gimnasia–LP;San Lorenzo;0;2;-2
+2;29/01/2025;17:00;Talleres;Independiente;2;3;-1
+2;29/01/2025;19:15;Huracán;Estudiantes–LP;0;0;0
+2;29/01/2025;19:15;Unión;Boca Juniors;1;1;0
+2;28/01/2025;21:30;Vélez Sarsfield;Platense;0;1;-1
+2;28/01/2025;21:30;Ind. Rivadavia;Barracas Central;0;0;0
+2;30/01/2025;17:00;Aldosivi;Defensa y Just;0;5;-5
+2;30/01/2025;19:15;Racing Club;Belgrano;4;0;4
+2;29/01/2025;21:30;River Plate;Instituto;1;0;1
+2;30/01/2025;21:30;Cen. Córdoba–SdE;Atlé Tucumán;2;0;2
+2;30/01/2025;21:30;Arg Juniors;Tigre;1;0;1
+3;01/02/2025;17:00;Barracas Central;Banfield;1;0;1
+3;01/02/2025;19:00;San Martín de San Juan;Rosario Central;0;0;0
+3;02/02/2025;17:00;San Lorenzo;River Plate;0;0;0
+3;02/02/2025;19:15;Boca Juniors;Huracán;2;1;1
+3;02/02/2025;19:15;Newell's OB;Aldosivi;1;0;1
+3;01/02/2025;21:00;Lanús;Sarmiento;2;0;2
+3;03/02/2025;17:00;Defensa y Just;Cen. Córdoba–SdE;2;1;1
+3;03/02/2025;19:15;Tigre;Unión;1;0;1
+3;03/02/2025;19:15;Estudiantes–LP;Racing Club;2;0;2
+3;02/02/2025;21:30;Independiente;Gimnasia–LP;2;0;2
+3;02/02/2025;21:30;Instituto;Vélez Sarsfield;2;0;2
+3;03/02/2025;21:30;Belgrano;Ind. Rivadavia;0;3;-3
+3;03/02/2025;21:30;Arg Juniors;Platense;1;0;1
+3;04/02/2025;21:00;Atlé Tucumán;Deportivo Riestra;0;3;-3
+4;06/02/2025;17:00;Aldosivi;Barracas Central;1;3;-2
+4;06/02/2025;20:00;Sarmiento;San Martín de San Juan;1;1;0
+4;07/02/2025;17:45;Banfield;Belgrano;1;1;0
+4;07/02/2025;20:00;Cen. Córdoba–SdE;Newell's OB;2;0;2
+4;07/02/2025;20:00;Huracán;Tigre;2;0;2
+4;08/02/2025;18:00;Vélez Sarsfield;San Lorenzo;0;0;0
+4;08/02/2025;19:30;Rosario Central;Atlé Tucumán;3;1;2
+4;08/02/2025;20:15;River Plate;Independiente;2;0;2
+4;07/02/2025;22:15;Unión;Arg Juniors;0;1;-1
+4;07/02/2025;22:15;Ind. Rivadavia;Estudiantes–LP;2;2;0
+4;09/02/2025;17:00;Deportivo Riestra;Defensa y Just;1;1;0
+4;09/02/2025;17:00;Platense;Instituto;1;0;1
+4;09/02/2025;19:15;Gimnasia–LP;Godoy Cruz;3;0;3
+4;08/02/2025;22:15;Racing Club;Boca Juniors;2;0;2
+4;09/02/2025;21:30;Talleres;Lanús;0;1;-1
+5;11/02/2025;17:45;Barracas Central;Cen. Córdoba–SdE;3;3;0
+5;11/02/2025;20:00;Estudiantes–LP;Banfield;1;0;1
+5;11/02/2025;20:00;Boca Juniors;Ind. Rivadavia;2;0;2
+5;12/02/2025;17:00;Deportivo Riestra;Rosario Central;0;0;0
+5;12/02/2025;17:45;Newell's OB;Defensa y Just;0;1;-1
+5;12/02/2025;20:00;Arg Juniors;Huracán;1;1;0
+5;12/02/2025;20:00;Independiente;Vélez Sarsfield;3;0;3
+5;11/02/2025;22:15;Belgrano;Aldosivi;2;0;2
+5;11/02/2025;22:15;Tigre;Racing Club;1;0;1
+5;13/02/2025;17:45;Lanús;Gimnasia–LP;0;0;0
+5;13/02/2025;20:00;San Lorenzo;Platense;2;1;1
+5;13/02/2025;20:00;San Martín de San Juan;Talleres;0;1;-1
+5;12/02/2025;22:15;Godoy Cruz;River Plate;0;0;0
+6;14/02/2025;20:00;Banfield;Boca Juniors;0;1;-1
+5;13/02/2025;22:15;Unión;Instituto;0;0;0
+5;13/02/2025;22:15;Atlé Tucumán;Sarmiento;5;0;5
+6;15/02/2025;17:00;Defensa y Just;Barracas Central;1;1;0
+6;15/02/2025;17:00;Aldosivi;Estudiantes–LP;2;2;0
+6;15/02/2025;19:15;Cen. Córdoba–SdE;Belgrano;4;0;4
+6;15/02/2025;19:15;Ind. Rivadavia;Tigre;1;4;-3
+6;16/02/2025;17:00;Newell's OB;Rosario Central;1;2;-1
+6;16/02/2025;19:15;River Plate;Lanús;1;0;1
+6;15/02/2025;21:30;Racing Club;Arg Juniors;2;3;-1
+6;17/02/2025;17:00;Gimnasia–LP;San Martín de San Juan;1;0;1
+6;17/02/2025;17:00;Sarmiento;Deportivo Riestra;2;1;1
+6;17/02/2025;19:15;Platense;Independiente;1;1;0
+6;16/02/2025;21:30;Talleres;Atlé Tucumán;1;1;0
+6;16/02/2025;21:30;Huracán;Unión;1;0;1
+6;17/02/2025;21:30;Instituto;San Lorenzo;0;1;-1
+6;17/02/2025;21:30;Vélez Sarsfield;Godoy Cruz;0;2;-2
+7;21/02/2025;17:00;Deportivo Riestra;Talleres;0;0;0
+7;21/02/2025;19:15;Estudiantes–LP;Cen. Córdoba–SdE;3;2;1
+7;21/02/2025;19:15;Godoy Cruz;Platense;1;1;0
+7;22/02/2025;18:00;Independiente;Instituto;2;0;2
+7;22/02/2025;19:30;Boca Juniors;Aldosivi;2;1;1
+7;21/02/2025;21:30;Lanús;Vélez Sarsfield;0;0;0
+7;23/02/2025;18:00;Huracán;San Lorenzo;2;0;2
+7;22/02/2025;21:30;San Martín de San Juan;River Plate;0;2;-2
+7;22/02/2025;21:45;Rosario Central;Sarmiento;1;0;1
+7;24/02/2025;17:00;Barracas Central;Newell's OB;2;0;2
+7;24/02/2025;19:00;Arg Juniors;Ind. Rivadavia;0;0;0
+7;23/02/2025;21:00;Atlé Tucumán;Gimnasia–LP;0;1;-1
+7;23/02/2025;21:00;Belgrano;Defensa y Just;2;0;2
+7;24/02/2025;21:00;Tigre;Banfield;1;0;1
+8;28/02/2025;20:00;Boca Juniors;Rosario Central;1;0;1
+8;01/03/2025;17:00;Aldosivi;Sarmiento;2;2;0
+8;01/03/2025;19:15;River Plate;Estudiantes–LP;0;2;-2
+8;28/02/2025;22:15;San Martín de San Juan;Belgrano;3;1;2
+8;28/02/2025;22:15;Cen. Córdoba–SdE;Deportivo Riestra;0;0;0
+8;02/03/2025;17:00;Ind. Rivadavia;Lanús;1;1;0
+8;02/03/2025;17:00;Arg Juniors;Instituto;2;0;2
+8;02/03/2025;19:15;Vélez Sarsfield;Huracán;0;2;-2
+8;01/03/2025;21:30;Unión;Gimnasia–LP;1;0;1
+8;01/03/2025;21:30;Talleres;Tigre;1;2;-1
+8;03/03/2025;17:00;Barracas Central;Godoy Cruz;1;2;-1
+8;03/03/2025;19:00;San Lorenzo;Racing Club;3;2;1
+8;04/03/2025;19:30;Banfield;Independiente;0;0;0
+8;04/03/2025;20:00;Platense;Defensa y Just;0;1;-1
+8;03/03/2025;21:00;Atlé Tucumán;Newell's OB;1;2;-1
+9;07/03/2025;19:00;Vélez Sarsfield;San Martín de San Juan;1;0;1
+9;07/03/2025;19:00;Banfield;Arg Juniors;1;2;-1
+9;08/03/2025;17:00;San Lorenzo;Independiente;1;2;-1
+9;08/03/2025;19:15;Racing Club;Huracán;0;1;-1
+9;07/03/2025;21:15;Cen. Córdoba–SdE;Boca Juniors;0;3;-3
+9;09/03/2025;17:00;Defensa y Just;Estudiantes–LP;1;0;1
+9;09/03/2025;17:00;Aldosivi;Tigre;0;2;-2
+9;09/03/2025;19:15;River Plate;Atlé Tucumán;1;0;1
+9;08/03/2025;21:30;Platense;Lanús;0;0;0
+9;08/03/2025;21:30;Sarmiento;Barracas Central;1;1;0
+9;10/03/2025;19:00;Gimnasia–LP;Deportivo Riestra;1;1;0
+9;09/03/2025;21:30;Instituto;Godoy Cruz;1;1;0
+9;09/03/2025;21:30;Newell's OB;Belgrano;0;0;0
+9;10/03/2025;21:15;Ind. Rivadavia;Unión;2;0;2
+9;10/03/2025;21:15;Talleres;Rosario Central;0;0;0
+10;14/03/2025;19:00;Arg Juniors;Aldosivi;0;2;-2
+10;15/03/2025;16:00;Deportivo Riestra;River Plate;0;0;0
+10;15/03/2025;18:30;Estudiantes–LP;Newell's OB;1;1;0
+10;15/03/2025;18:30;Rosario Central;Gimnasia–LP;2;1;1
+10;14/03/2025;21:00;Godoy Cruz;San Lorenzo;0;0;0
+10;16/03/2025;16:00;Independiente;Racing Club;1;1;0
+10;16/03/2025;18:30;Boca Juniors;Defensa y Just;4;0;4
+10;15/03/2025;21:00;Huracán;Ind. Rivadavia;2;0;2
+10;15/03/2025;21:00;Sarmiento;Talleres;0;0;0
+10;17/03/2025;19:00;Tigre;Cen. Córdoba–SdE;1;2;-1
+10;17/03/2025;19:00;Unión;Banfield;3;1;2
+10;16/03/2025;21:00;Lanús;Instituto;4;1;3
+10;16/03/2025;21:00;Belgrano;Barracas Central;1;1;0
+10;17/03/2025;21:15;San Martín de San Juan;Platense;0;2;-2
+10;17/03/2025;21:15;Atlé Tucumán;Vélez Sarsfield;1;2;-1
+7;20/03/2025;21:00;Unión;Racing Club;0;1;-1
+3;22/03/2025;17:00;Godoy Cruz;Talleres;0;0;0
+11;27/03/2025;15:30;Aldosivi;Unión;2;1;1
+11;27/03/2025;18:00;Barracas Central;Estudiantes–LP;2;1;1
+11;28/03/2025;17:00;Defensa y Just;Tigre;1;2;-1
+11;28/03/2025;19:15;Banfield;Huracán;0;0;0
+11;28/03/2025;19:15;San Lorenzo;Lanús;1;1;0
+11;27/03/2025;21:00;Ind. Rivadavia;Racing Club;2;1;1
+11;29/03/2025;16:30;Instituto;San Martín de San Juan;1;0;1
+11;29/03/2025;18:30;Cen. Córdoba–SdE;Arg Juniors;1;1;0
+11;29/03/2025;18:45;Independiente;Godoy Cruz;4;0;4
+11;28/03/2025;21:30;Platense;Atlé Tucumán;2;1;1
+11;28/03/2025;21:30;Vélez Sarsfield;Deportivo Riestra;0;1;-1
+11;30/03/2025;15:00;Belgrano;Talleres;1;1;0
+11;30/03/2025;16:00;Gimnasia–LP;Sarmiento;0;0;0
+11;30/03/2025;19:30;Newell's OB;Boca Juniors;2;0;2
+11;29/03/2025;21:00;River Plate;Rosario Central;2;2;0
+12;04/04/2025;19:00;Estudiantes–LP;Belgrano;0;1;-1
+12;05/04/2025;15:30;Rosario Central;Vélez Sarsfield;2;1;1
+12;05/04/2025;15:30;Godoy Cruz;Ind. Rivadavia;1;1;0
+12;05/04/2025;18:00;Talleres;Gimnasia–LP;2;0;2
+12;05/04/2025;18:00;Huracán;Aldosivi;3;3;0
+12;05/04/2025;20:30;Sarmiento;River Plate;1;1;0
+12;04/04/2025;22:00;San Martín de San Juan;San Lorenzo;0;1;-1
+12;06/04/2025;15:30;Lanús;Independiente;1;1;0
+12;06/04/2025;15:30;Unión;Cen. Córdoba–SdE;1;0;1
+12;06/04/2025;18:00;Boca Juniors;Barracas Central;1;0;1
+12;06/04/2025;20:15;Arg Juniors;Defensa y Just;4;1;3
+12;06/04/2025;20:15;Racing Club;Banfield;4;1;3
+12;07/04/2025;15:30;Deportivo Riestra;Platense;1;0;1
+12;07/04/2025;21:00;Tigre;Newell's OB;0;2;-2
+12;07/04/2025;21:00;Atlé Tucumán;Instituto;3;2;1
+13;11/04/2025;19:00;Banfield;Ind. Rivadavia;1;1;0
+13;12/04/2025;15:30;San Lorenzo;Atlé Tucumán;1;0;1
+13;12/04/2025;18:00;Barracas Central;Tigre;1;0;1
+13;12/04/2025;20:30;Belgrano;Boca Juniors;1;3;-2
+13;11/04/2025;21:00;Newell's OB;Arg Juniors;0;0;0
+13;13/04/2025;15:30;Gimnasia–LP;Estudiantes–LP;1;1;0
+13;13/04/2025;15:30;Instituto;Deportivo Riestra;3;0;3
+13;13/04/2025;18:00;Independiente;San Martín de San Juan;2;0;2
+13;13/04/2025;20:15;River Plate;Talleres;1;1;0
+13;14/04/2025;15:30;Aldosivi;Racing Club;0;2;-2
+13;14/04/2025;18:00;Cen. Córdoba–SdE;Huracán;1;2;-1
+13;14/04/2025;19:00;Defensa y Just;Unión;0;0;0
+13;15/04/2025;20:00;Platense;Rosario Central;0;0;0
+13;14/04/2025;21:15;Vélez Sarsfield;Sarmiento;0;1;-1
+13;14/04/2025;21:15;Godoy Cruz;Lanús;0;0;0
+14;18/04/2025;17:00;Gimnasia–LP;River Plate;0;3;-3
+14;18/04/2025;19:15;Talleres;Vélez Sarsfield;0;1;-1
+14;18/04/2025;19:15;Racing Club;Cen. Córdoba–SdE;1;0;1
+14;19/04/2025;16:15;Lanús;Banfield;1;1;0
+14;19/04/2025;18:15;Huracán;Defensa y Just;1;1;0
+14;19/04/2025;20:30;Boca Juniors;Estudiantes–LP;2;0;2
+14;18/04/2025;21:30;Unión;Newell's OB;1;1;0
+14;20/04/2025;15:30;Deportivo Riestra;San Lorenzo;0;0;0
+14;20/04/2025;16:30;San Martín de San Juan;Godoy Cruz;1;0;1
+14;20/04/2025;18:00;Sarmiento;Platense;0;1;-1
+14;20/04/2025;20:30;Rosario Central;Instituto;3;0;3
+14;22/04/2025;19:00;Arg Juniors;Barracas Central;3;0;3
+14;22/04/2025;19:00;Tigre;Belgrano;0;0;0
+14;22/04/2025;21:15;Ind. Rivadavia;Aldosivi;1;0;1
+15;26/04/2025;15:00;Aldosivi;Banfield;2;1;1
+15;26/04/2025;17:00;San Lorenzo;Rosario Central;0;1;-1
+15;26/04/2025;19:00;Belgrano;Arg Juniors;1;1;0
+15;27/04/2025;15:30;River Plate;Boca Juniors;2;1;1
+15;27/04/2025;19:00;Instituto;Sarmiento;1;1;0
+15;27/04/2025;19:00;Lanús;San Martín de San Juan;1;0;1
+15;28/04/2025;15:00;Barracas Central;Unión;2;1;1
+15;28/04/2025;17:15;Godoy Cruz;Atlé Tucumán;1;0;1
+15;28/04/2025;19:30;Estudiantes–LP;Tigre;0;0;0
+15;28/04/2025;19:30;Defensa y Just;Racing Club;1;2;-1
+15;27/04/2025;21:15;Independiente;Deportivo Riestra;0;0;0
+15;29/04/2025;19:00;Platense;Talleres;2;1;1
+15;29/04/2025;19:00;Newell's OB;Huracán;2;0;2
+15;28/04/2025;21:45;Cen. Córdoba–SdE;Ind. Rivadavia;1;2;-1
+15;28/04/2025;21:45;Vélez Sarsfield;Gimnasia–LP;1;0;1
+14;30/04/2025;21:00;Atlé Tucumán;Independiente;2;0;2
+16;02/05/2025;15:30;Racing Club;Newell's OB;1;0;1
+16;02/05/2025;15:30;Arg Juniors;Estudiantes–LP;4;0;4
+16;02/05/2025;15:30;Ind. Rivadavia;Defensa y Just;3;2;1
+16;02/05/2025;15:30;Banfield;Cen. Córdoba–SdE;3;1;2
+16;02/05/2025;18:00;Unión;Belgrano;1;1;0
+16;03/05/2025;16:00;Talleres;Instituto;1;2;-1
+16;03/05/2025;16:00;Deportivo Riestra;Godoy Cruz;3;0;3
+16;03/05/2025;16:00;Sarmiento;San Lorenzo;1;1;0
+16;03/05/2025;18:30;Rosario Central;Independiente;1;0;1
+16;04/05/2025;15:30;Gimnasia–LP;Platense;1;0;1
+16;04/05/2025;15:30;San Martín de San Juan;Aldosivi;0;3;-3
+16;04/05/2025;18:00;Tigre;Boca Juniors;1;1;0
+16;04/05/2025;20:30;River Plate;Vélez Sarsfield;4;1;3
+16;03/05/2025;21:00;Huracán;Barracas Central;0;1;-1
+16;03/05/2025;21:00;Atlé Tucumán;Lanús;1;0;1

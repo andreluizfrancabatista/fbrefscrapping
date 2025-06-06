@@ -1,0 +1,307 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;19/07/2024;18:00;Jagiellonia;Puszcza Niepołomice;2;0;2
+1;19/07/2024;20:30;Śląsk Wrocław;Lechia Gdańsk;1;1;0
+1;20/07/2024;14:45;Katowice;Radomiak Radom;1;2;-1
+1;20/07/2024;17:30;Pogoń Szczecin;Korona Kielce;3;0;3
+1;20/07/2024;20:15;Legia Warsaw;Zagłębie Lubin;2;0;2
+1;21/07/2024;14:45;Cracovia;Piast Gliwice;1;1;0
+1;21/07/2024;17:30;Lech Poznań;Górnik Zabrze;2;0;2
+1;21/07/2024;20:15;Motor Lublin;RKS Raków;0;2;-2
+1;22/07/2024;19:00;Stal Mielec;Widzew Łódź;1;1;0
+2;26/07/2024;18:00;Puszcza Niepołomice;Górnik Zabrze;2;2;0
+2;26/07/2024;20:30;Lechia Gdańsk;Motor Lublin;0;2;-2
+2;27/07/2024;14:45;Stal Mielec;Katowice;0;1;-1
+2;27/07/2024;17:30;Radomiak Radom;Jagiellonia;2;3;-1
+2;27/07/2024;20:15;Widzew Łódź;Lech Poznań;2;1;1
+2;28/07/2024;14:45;Zagłębie Lubin;Pogoń Szczecin;2;2;0
+2;28/07/2024;17:30;Piast Gliwice;Śląsk Wrocław;2;0;2
+2;28/07/2024;20:15;Korona Kielce;Legia Warsaw;0;1;-1
+2;29/07/2024;19:00;RKS Raków;Cracovia;0;1;-1
+3;02/08/2024;18:00;Zagłębie Lubin;Puszcza Niepołomice;1;0;1
+3;02/08/2024;20:30;Górnik Zabrze;Pogoń Szczecin;1;0;1
+3;03/08/2024;14:45;Katowice;RKS Raków;0;1;-1
+3;03/08/2024;17:30;Jagiellonia;Stal Mielec;2;0;2
+3;03/08/2024;20:15;Lech Poznań;Lechia Gdańsk;3;1;2
+3;04/08/2024;14:45;Motor Lublin;Korona Kielce;1;1;0
+3;04/08/2024;20:15;Legia Warsaw;Piast Gliwice;1;2;-1
+3;05/08/2024;19:00;Cracovia;Widzew Łódź;1;3;-2
+4;09/08/2024;18:00;Radomiak Radom;Górnik Zabrze;1;2;-1
+4;09/08/2024;20:30;RKS Raków;Lech Poznań;0;0;0
+4;10/08/2024;17:30;Korona Kielce;Cracovia;0;2;-2
+4;10/08/2024;20:15;Pogoń Szczecin;Stal Mielec;1;0;1
+4;11/08/2024;14:45;Lechia Gdańsk;Zagłębie Lubin;1;1;0
+4;11/08/2024;17:30;Puszcza Niepołomice;Legia Warsaw;2;2;0
+4;11/08/2024;20:15;Widzew Łódź;Śląsk Wrocław;0;0;0
+4;12/08/2024;19:00;Piast Gliwice;Katowice;2;2;0
+5;16/08/2024;18:00;Puszcza Niepołomice;Lechia Gdańsk;4;1;3
+5;16/08/2024;20:30;Katowice;Motor Lublin;0;0;0
+5;17/08/2024;14:45;Jagiellonia;Cracovia;2;4;-2
+5;17/08/2024;17:30;Zagłębie Lubin;Lech Poznań;0;1;-1
+5;17/08/2024;20:15;Pogoń Szczecin;Widzew Łódź;2;0;2
+5;18/08/2024;14:45;Śląsk Wrocław;Korona Kielce;1;1;0
+5;18/08/2024;17:30;Legia Warsaw;Radomiak Radom;4;1;3
+5;18/08/2024;20:15;Górnik Zabrze;RKS Raków;0;0;0
+5;19/08/2024;19:00;Stal Mielec;Piast Gliwice;2;0;2
+6;23/08/2024;18:00;Widzew Łódź;Radomiak Radom;3;2;1
+6;23/08/2024;20:30;Lechia Gdańsk;RKS Raków;1;2;-1
+6;24/08/2024;14:45;Motor Lublin;Puszcza Niepołomice;0;0;0
+6;24/08/2024;17:30;Cracovia;Górnik Zabrze;3;2;1
+6;24/08/2024;20:15;Piast Gliwice;Zagłębie Lubin;1;0;1
+6;25/08/2024;14:45;Katowice;Jagiellonia;3;1;2
+6;25/08/2024;17:30;Lech Poznań;Pogoń Szczecin;2;0;2
+6;25/08/2024;20:15;Śląsk Wrocław;Legia Warsaw;1;1;0
+6;26/08/2024;19:00;Korona Kielce;Stal Mielec;2;1;1
+7;30/08/2024;18:00;RKS Raków;Piast Gliwice;0;1;-1
+7;30/08/2024;20:30;Stal Mielec;Lech Poznań;0;2;-2
+7;31/08/2024;14:45;Puszcza Niepołomice;Korona Kielce;0;0;0
+7;31/08/2024;17:30;Zagłębie Lubin;Katowice;1;0;1
+7;31/08/2024;20:15;Radomiak Radom;Cracovia;2;1;1
+7;01/09/2024;12:15;Górnik Zabrze;Lechia Gdańsk;2;3;-1
+7;01/09/2024;14:45;Legia Warsaw;Motor Lublin;5;2;3
+7;01/09/2024;17:30;Pogoń Szczecin;Śląsk Wrocław;5;3;2
+7;01/09/2024;20:15;Jagiellonia;Widzew Łódź;1;0;1
+8;13/09/2024;18:00;Motor Lublin;Górnik Zabrze;1;0;1
+8;13/09/2024;20:30;Katowice;Widzew Łódź;2;2;0
+8;14/09/2024;14:45;Lechia Gdańsk;Radomiak Radom;1;0;1
+8;14/09/2024;17:30;Cracovia;Pogoń Szczecin;2;1;1
+8;14/09/2024;20:15;Lech Poznań;Jagiellonia;5;0;5
+8;15/09/2024;12:15;Piast Gliwice;Puszcza Niepołomice;1;1;0
+8;15/09/2024;14:45;Korona Kielce;Zagłębie Lubin;2;0;2
+8;15/09/2024;17:30;Legia Warsaw;RKS Raków;0;1;-1
+9;20/09/2024;18:00;Radomiak Radom;Korona Kielce;4;0;4
+9;20/09/2024;20:30;Pogoń Szczecin;Legia Warsaw;1;0;1
+9;21/09/2024;12:15;Puszcza Niepołomice;Cracovia;1;2;-1
+9;21/09/2024;14:45;Jagiellonia;Lechia Gdańsk;3;2;1
+9;21/09/2024;17:30;Widzew Łódź;Piast Gliwice;1;0;1
+9;21/09/2024;20:15;Górnik Zabrze;Katowice;3;0;3
+9;22/09/2024;12:15;Stal Mielec;Motor Lublin;1;0;1
+9;22/09/2024;14:45;RKS Raków;Zagłębie Lubin;5;1;4
+9;22/09/2024;17:30;Lech Poznań;Śląsk Wrocław;1;0;1
+4;25/09/2024;19:00;Motor Lublin;Jagiellonia;0;2;-2
+10;27/09/2024;18:00;Katowice;Pogoń Szczecin;3;1;2
+10;27/09/2024;20:30;Lechia Gdańsk;Widzew Łódź;1;1;0
+10;28/09/2024;14:45;RKS Raków;Puszcza Niepołomice;2;0;2
+10;28/09/2024;17:30;Motor Lublin;Śląsk Wrocław;2;1;1
+10;28/09/2024;20:15;Legia Warsaw;Górnik Zabrze;1;1;0
+10;29/09/2024;12:15;Zagłębie Lubin;Radomiak Radom;1;0;1
+10;29/09/2024;14:45;Korona Kielce;Lech Poznań;2;3;-1
+10;29/09/2024;17:30;Piast Gliwice;Jagiellonia;0;1;-1
+10;30/09/2024;19:00;Cracovia;Stal Mielec;1;1;0
+11;04/10/2024;18:00;Puszcza Niepołomice;Katowice;0;6;-6
+11;04/10/2024;20:30;Widzew Łódź;Korona Kielce;0;1;-1
+11;05/10/2024;12:15;Stal Mielec;Lechia Gdańsk;2;1;1
+11;05/10/2024;14:45;Radomiak Radom;RKS Raków;0;2;-2
+11;05/10/2024;17:30;Górnik Zabrze;Zagłębie Lubin;0;1;-1
+11;05/10/2024;20:15;Lech Poznań;Motor Lublin;1;2;-1
+11;06/10/2024;14:45;Śląsk Wrocław;Cracovia;2;4;-2
+11;06/10/2024;17:30;Pogoń Szczecin;Piast Gliwice;1;0;1
+11;06/10/2024;20:15;Jagiellonia;Legia Warsaw;1;1;0
+12;18/10/2024;18:00;Korona Kielce;Piast Gliwice;0;2;-2
+12;18/10/2024;20:30;Lechia Gdańsk;Legia Warsaw;0;2;-2
+12;19/10/2024;14:45;Motor Lublin;Widzew Łódź;3;4;-1
+12;19/10/2024;17:30;Zagłębie Lubin;Jagiellonia;1;3;-2
+12;19/10/2024;20:15;Cracovia;Lech Poznań;0;2;-2
+12;20/10/2024;12:15;Katowice;Śląsk Wrocław;0;0;0
+12;20/10/2024;14:45;Górnik Zabrze;Stal Mielec;3;1;2
+12;20/10/2024;17:30;RKS Raków;Pogoń Szczecin;1;0;1
+12;21/10/2024;19:00;Radomiak Radom;Puszcza Niepołomice;2;0;2
+8;23/10/2024;18:30;Śląsk Wrocław;Stal Mielec;2;1;1
+13;25/10/2024;18:00;Piast Gliwice;Lechia Gdańsk;3;3;0
+13;25/10/2024;20:30;Pogoń Szczecin;Puszcza Niepołomice;2;1;1
+13;26/10/2024;14:45;Cracovia;Motor Lublin;6;2;4
+13;26/10/2024;17:30;Śląsk Wrocław;RKS Raków;0;0;0
+13;26/10/2024;20:15;Lech Poznań;Radomiak Radom;2;1;1
+13;27/10/2024;12:15;Stal Mielec;Zagłębie Lubin;2;2;0
+13;27/10/2024;14:45;Jagiellonia;Korona Kielce;3;1;2
+13;27/10/2024;17:30;Widzew Łódź;Górnik Zabrze;0;2;-2
+13;27/10/2024;20:15;Legia Warsaw;Katowice;4;1;3
+14;02/11/2024;14:45;RKS Raków;Stal Mielec;1;0;1
+14;02/11/2024;17:30;Motor Lublin;Pogoń Szczecin;4;2;2
+14;02/11/2024;20:15;Puszcza Niepołomice;Lech Poznań;2;0;2
+14;03/11/2024;12:15;Radomiak Radom;Piast Gliwice;1;1;0
+14;03/11/2024;14:45;Górnik Zabrze;Jagiellonia;0;2;-2
+14;03/11/2024;17:30;Lechia Gdańsk;Cracovia;1;2;-1
+14;03/11/2024;20:15;Legia Warsaw;Widzew Łódź;2;1;1
+14;04/11/2024;18:00;Katowice;Korona Kielce;1;2;-1
+14;04/11/2024;20:30;Zagłębie Lubin;Śląsk Wrocław;3;0;3
+15;08/11/2024;18:00;Piast Gliwice;Motor Lublin;2;3;-1
+15;08/11/2024;20:30;Pogoń Szczecin;Radomiak Radom;0;1;-1
+15;09/11/2024;12:15;Korona Kielce;Lechia Gdańsk;0;0;0
+15;09/11/2024;14:45;Cracovia;Katowice;3;4;-1
+15;09/11/2024;17:30;Widzew Łódź;Zagłębie Lubin;2;0;2
+15;09/11/2024;20:15;Śląsk Wrocław;Górnik Zabrze;0;1;-1
+15;10/11/2024;12:15;Stal Mielec;Puszcza Niepołomice;2;0;2
+15;10/11/2024;14:45;Jagiellonia;RKS Raków;2;2;0
+15;10/11/2024;17:30;Lech Poznań;Legia Warsaw;5;2;3
+16;22/11/2024;18:00;Zagłębie Lubin;Motor Lublin;1;2;-1
+16;22/11/2024;20:30;Jagiellonia;Śląsk Wrocław;2;2;0
+16;23/11/2024;14:45;Lechia Gdańsk;Pogoń Szczecin;0;3;-3
+16;23/11/2024;17:30;Lech Poznań;Katowice;2;0;2
+16;23/11/2024;20:15;Legia Warsaw;Cracovia;3;2;1
+16;24/11/2024;12:15;Radomiak Radom;Stal Mielec;1;2;-1
+16;24/11/2024;14:45;RKS Raków;Korona Kielce;1;1;0
+16;24/11/2024;17:30;Górnik Zabrze;Piast Gliwice;1;0;1
+16;25/11/2024;19:00;Puszcza Niepołomice;Widzew Łódź;2;0;2
+17;29/11/2024;18:00;Cracovia;Zagłębie Lubin;1;1;0
+17;29/11/2024;20:30;Piast Gliwice;Lech Poznań;0;0;0
+17;30/11/2024;14:45;Śląsk Wrocław;Puszcza Niepołomice;0;1;-1
+17;30/11/2024;17:30;Katowice;Lechia Gdańsk;2;0;2
+17;30/11/2024;20:15;Widzew Łódź;RKS Raków;2;3;-1
+17;01/12/2024;12:15;Korona Kielce;Górnik Zabrze;2;4;-2
+17;01/12/2024;14:45;Pogoń Szczecin;Jagiellonia;1;1;0
+17;01/12/2024;17:30;Stal Mielec;Legia Warsaw;2;2;0
+17;02/12/2024;19:00;Motor Lublin;Radomiak Radom;1;0;1
+18;06/12/2024;18:00;Radomiak Radom;Katowice;1;1;0
+18;06/12/2024;20:30;Górnik Zabrze;Lech Poznań;2;1;1
+18;07/12/2024;14:45;Lechia Gdańsk;Śląsk Wrocław;1;0;1
+18;07/12/2024;17:30;Widzew Łódź;Stal Mielec;2;1;1
+18;07/12/2024;20:15;RKS Raków;Motor Lublin;2;2;0
+18;08/12/2024;12:15;Piast Gliwice;Cracovia;0;0;0
+18;08/12/2024;14:45;Puszcza Niepołomice;Jagiellonia;1;1;0
+18;08/12/2024;17:30;Zagłębie Lubin;Legia Warsaw;0;3;-3
+18;09/12/2024;19:00;Korona Kielce;Pogoń Szczecin;0;0;0
+3;14/12/2024;17:30;Śląsk Wrocław;Radomiak Radom;1;2;-1
+19;31/01/2025;18:00;Katowice;Stal Mielec;1;0;1
+19;31/01/2025;20:30;Lech Poznań;Widzew Łódź;4;1;3
+19;01/02/2025;14:45;Motor Lublin;Lechia Gdańsk;1;1;0
+19;01/02/2025;17:30;Cracovia;RKS Raków;0;0;0
+19;01/02/2025;20:15;Pogoń Szczecin;Zagłębie Lubin;1;0;1
+19;02/02/2025;12:15;Górnik Zabrze;Puszcza Niepołomice;1;1;0
+19;02/02/2025;14:45;Jagiellonia;Radomiak Radom;5;0;5
+19;02/02/2025;17:30;Legia Warsaw;Korona Kielce;1;1;0
+19;03/02/2025;19:00;Śląsk Wrocław;Piast Gliwice;1;3;-2
+20;07/02/2025;18:00;Stal Mielec;Jagiellonia;2;1;1
+20;07/02/2025;20:30;Pogoń Szczecin;Górnik Zabrze;3;0;3
+20;08/02/2025;14:45;Radomiak Radom;Śląsk Wrocław;1;1;0
+20;08/02/2025;17:30;RKS Raków;Katowice;1;2;-1
+20;08/02/2025;20:15;Piast Gliwice;Legia Warsaw;1;0;1
+20;09/02/2025;12:15;Korona Kielce;Motor Lublin;1;0;1
+20;09/02/2025;14:45;Widzew Łódź;Cracovia;1;1;0
+20;09/02/2025;17:30;Lechia Gdańsk;Lech Poznań;1;0;1
+20;10/02/2025;19:00;Puszcza Niepołomice;Zagłębie Lubin;1;2;-1
+21;14/02/2025;18:00;Cracovia;Korona Kielce;1;1;0
+21;14/02/2025;20:30;Lech Poznań;RKS Raków;0;1;-1
+21;15/02/2025;14:45;Śląsk Wrocław;Widzew Łódź;3;0;3
+21;15/02/2025;17:30;Górnik Zabrze;Radomiak Radom;3;2;1
+21;15/02/2025;20:15;Legia Warsaw;Puszcza Niepołomice;2;0;2
+21;16/02/2025;12:15;Stal Mielec;Pogoń Szczecin;1;2;-1
+21;16/02/2025;14:45;Katowice;Piast Gliwice;0;0;0
+21;16/02/2025;17:30;Jagiellonia;Motor Lublin;3;0;3
+21;17/02/2025;19:00;Zagłębie Lubin;Lechia Gdańsk;1;3;-2
+22;21/02/2025;18:00;Piast Gliwice;Stal Mielec;2;2;0
+22;21/02/2025;20:30;RKS Raków;Górnik Zabrze;1;0;1
+22;22/02/2025;14:45;Korona Kielce;Śląsk Wrocław;2;0;2
+22;22/02/2025;17:30;Widzew Łódź;Pogoń Szczecin;0;4;-4
+22;22/02/2025;20:15;Radomiak Radom;Legia Warsaw;3;1;2
+22;23/02/2025;12:15;Lechia Gdańsk;Puszcza Niepołomice;0;2;-2
+22;23/02/2025;14:45;Cracovia;Jagiellonia;2;2;0
+22;23/02/2025;17:30;Lech Poznań;Zagłębie Lubin;3;1;2
+22;24/02/2025;19:00;Motor Lublin;Katowice;3;2;1
+23;28/02/2025;18:00;Radomiak Radom;Widzew Łódź;1;1;0
+23;28/02/2025;20:30;Górnik Zabrze;Cracovia;0;1;-1
+23;01/03/2025;14:45;Stal Mielec;Korona Kielce;0;1;-1
+23;01/03/2025;17:30;Pogoń Szczecin;Lech Poznań;0;3;-3
+23;01/03/2025;20:15;Zagłębie Lubin;Piast Gliwice;0;1;-1
+23;02/03/2025;12:15;Puszcza Niepołomice;Motor Lublin;0;1;-1
+23;02/03/2025;14:45;Legia Warsaw;Śląsk Wrocław;3;1;2
+23;02/03/2025;17:30;Jagiellonia;Katowice;1;0;1
+23;03/03/2025;19:00;RKS Raków;Lechia Gdańsk;3;1;2
+24;07/03/2025;18:00;Korona Kielce;Puszcza Niepołomice;2;1;1
+24;07/03/2025;20:30;Śląsk Wrocław;Pogoń Szczecin;1;1;0
+24;08/03/2025;14:45;Cracovia;Radomiak Radom;1;2;-1
+24;08/03/2025;17:30;Piast Gliwice;RKS Raków;0;3;-3
+24;08/03/2025;20:15;Lech Poznań;Stal Mielec;3;1;2
+24;09/03/2025;12:15;Katowice;Zagłębie Lubin;1;0;1
+24;09/03/2025;14:45;Lechia Gdańsk;Górnik Zabrze;1;2;-1
+24;09/03/2025;17:30;Widzew Łódź;Jagiellonia;0;1;-1
+24;10/03/2025;19:00;Motor Lublin;Legia Warsaw;3;3;0
+25;14/03/2025;18:00;Radomiak Radom;Lechia Gdańsk;2;1;1
+25;14/03/2025;20:30;Pogoń Szczecin;Cracovia;5;2;3
+25;15/03/2025;14:45;Stal Mielec;Śląsk Wrocław;1;4;-3
+25;15/03/2025;17:30;Górnik Zabrze;Motor Lublin;4;0;4
+25;15/03/2025;20:15;Widzew Łódź;Katowice;1;0;1
+25;16/03/2025;12:15;Puszcza Niepołomice;Piast Gliwice;2;1;1
+25;16/03/2025;14:45;Zagłębie Lubin;Korona Kielce;1;1;0
+25;16/03/2025;17:30;RKS Raków;Legia Warsaw;3;2;1
+25;16/03/2025;20:15;Jagiellonia;Lech Poznań;2;1;1
+26;28/03/2025;18:00;Piast Gliwice;Widzew Łódź;0;2;-2
+26;28/03/2025;20:30;Legia Warsaw;Pogoń Szczecin;0;0;0
+26;29/03/2025;14:45;Cracovia;Puszcza Niepołomice;3;1;2
+26;29/03/2025;17:30;Lechia Gdańsk;Jagiellonia;1;0;1
+26;29/03/2025;20:15;Śląsk Wrocław;Lech Poznań;3;1;2
+26;30/03/2025;12:15;Korona Kielce;Radomiak Radom;1;3;-2
+26;30/03/2025;14:45;Motor Lublin;Stal Mielec;4;1;3
+26;30/03/2025;17:30;Katowice;Górnik Zabrze;2;1;1
+26;31/03/2025;19:00;Zagłębie Lubin;RKS Raków;0;2;-2
+27;04/04/2025;18:00;Stal Mielec;Cracovia;1;1;0
+27;04/04/2025;20:30;Widzew Łódź;Lechia Gdańsk;2;0;2
+27;05/04/2025;14:45;Radomiak Radom;Zagłębie Lubin;0;1;-1
+27;05/04/2025;17:30;Śląsk Wrocław;Motor Lublin;1;1;0
+27;05/04/2025;20:15;Lech Poznań;Korona Kielce;2;0;2
+27;06/04/2025;12:15;Jagiellonia;Piast Gliwice;1;1;0
+27;06/04/2025;14:45;Górnik Zabrze;Legia Warsaw;1;2;-1
+27;06/04/2025;17:30;Pogoń Szczecin;Katowice;4;0;4
+27;07/04/2025;19:00;Puszcza Niepołomice;RKS Raków;1;1;0
+28;11/04/2025;18:00;Zagłębie Lubin;Górnik Zabrze;2;1;1
+28;11/04/2025;20:30;Korona Kielce;Widzew Łódź;2;1;1
+28;12/04/2025;14:45;Katowice;Puszcza Niepołomice;3;1;2
+28;12/04/2025;17:30;Cracovia;Śląsk Wrocław;2;4;-2
+28;12/04/2025;20:15;RKS Raków;Radomiak Radom;2;1;1
+28;13/04/2025;14:45;Piast Gliwice;Pogoń Szczecin;2;1;1
+28;13/04/2025;17:30;Motor Lublin;Lech Poznań;1;2;-1
+28;13/04/2025;20:15;Legia Warsaw;Jagiellonia;0;1;-1
+28;14/04/2025;19:00;Lechia Gdańsk;Stal Mielec;3;2;1
+29;19/04/2025;12:15;Piast Gliwice;Korona Kielce;1;1;0
+29;19/04/2025;14:45;Śląsk Wrocław;Katowice;0;2;-2
+29;19/04/2025;17:30;Widzew Łódź;Motor Lublin;1;2;-1
+29;19/04/2025;20:15;Pogoń Szczecin;RKS Raków;1;0;1
+29;21/04/2025;12:15;Puszcza Niepołomice;Radomiak Radom;2;2;0
+29;21/04/2025;14:45;Jagiellonia;Zagłębie Lubin;1;3;-2
+29;21/04/2025;17:30;Legia Warsaw;Lechia Gdańsk;2;1;1
+29;21/04/2025;20:15;Lech Poznań;Cracovia;2;1;1
+29;22/04/2025;19:00;Stal Mielec;Górnik Zabrze;0;0;0
+30;25/04/2025;18:00;Puszcza Niepołomice;Pogoń Szczecin;4;5;-1
+30;25/04/2025;20:30;RKS Raków;Śląsk Wrocław;3;0;3
+30;26/04/2025;14:45;Lechia Gdańsk;Piast Gliwice;3;1;2
+30;26/04/2025;17:30;Motor Lublin;Cracovia;0;1;-1
+30;26/04/2025;20:15;Katowice;Legia Warsaw;1;3;-2
+30;27/04/2025;12:15;Korona Kielce;Jagiellonia;3;1;2
+30;27/04/2025;14:45;Górnik Zabrze;Widzew Łódź;0;0;0
+30;27/04/2025;17:30;Radomiak Radom;Lech Poznań;2;2;0
+30;28/04/2025;19:00;Zagłębie Lubin;Stal Mielec;2;2;0
+31;03/05/2025;14:45;Stal Mielec;RKS Raków;0;2;-2
+31;03/05/2025;17:30;Śląsk Wrocław;Zagłębie Lubin;3;1;2
+31;03/05/2025;20:15;Lech Poznań;Puszcza Niepołomice;8;1;7
+31;04/05/2025;12:15;Piast Gliwice;Radomiak Radom;0;0;0
+31;04/05/2025;14:45;Cracovia;Lechia Gdańsk;0;2;-2
+31;04/05/2025;17:30;Jagiellonia;Górnik Zabrze;1;1;0
+31;05/05/2025;19:00;Korona Kielce;Katowice;2;1;1
+32;09/05/2025;18:00;Motor Lublin;Piast Gliwice;1;4;-3
+32;09/05/2025;20:30;Górnik Zabrze;Śląsk Wrocław;2;0;2
+32;10/05/2025;14:45;Radomiak Radom;Pogoń Szczecin;2;0;2
+32;10/05/2025;17:30;Zagłębie Lubin;Widzew Łódź;2;1;1
+32;10/05/2025;20:15;RKS Raków;Jagiellonia;1;2;-1
+32;11/05/2025;12:15;Lechia Gdańsk;Korona Kielce;3;2;1
+32;11/05/2025;14:45;Katowice;Cracovia;2;1;1
+32;11/05/2025;17:30;Legia Warsaw;Lech Poznań;0;1;-1
+32;12/05/2025;19:00;Puszcza Niepołomice;Stal Mielec;2;3;-1
+31;14/05/2025;20:30;Pogoń Szczecin;Motor Lublin;3;0;3
+31;15/05/2025;20:30;Widzew Łódź;Legia Warsaw;0;2;-2
+33;16/05/2025;18:00;Stal Mielec;Radomiak Radom;2;2;0
+33;16/05/2025;20:30;Śląsk Wrocław;Jagiellonia;1;1;0
+33;17/05/2025;14:45;Pogoń Szczecin;Lechia Gdańsk;3;3;0
+33;17/05/2025;17:30;Piast Gliwice;Górnik Zabrze;2;0;2
+33;17/05/2025;20:15;Korona Kielce;RKS Raków;1;1;0
+33;18/05/2025;12:15;Motor Lublin;Zagłębie Lubin;1;0;1
+33;18/05/2025;14:45;Cracovia;Legia Warsaw;3;1;2
+33;18/05/2025;17:30;Katowice;Lech Poznań;2;2;0
+33;19/05/2025;19:00;Widzew Łódź;Puszcza Niepołomice;2;0;2
+34;24/05/2025;17:30;Radomiak Radom;Motor Lublin;2;3;-1
+34;24/05/2025;17:30;RKS Raków;Widzew Łódź;2;1;1
+34;24/05/2025;17:30;Lechia Gdańsk;Katowice;2;3;-1
+34;24/05/2025;17:30;Puszcza Niepołomice;Śląsk Wrocław;1;1;0
+34;24/05/2025;17:30;Legia Warsaw;Stal Mielec;2;2;0
+34;24/05/2025;17:30;Zagłębie Lubin;Cracovia;1;2;-1
+34;24/05/2025;17:30;Jagiellonia;Pogoń Szczecin;1;1;0
+34;24/05/2025;17:30;Lech Poznań;Piast Gliwice;1;0;1
+34;24/05/2025;17:30;Górnik Zabrze;Korona Kielce;1;1;0

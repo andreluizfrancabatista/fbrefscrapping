@@ -1,0 +1,133 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;22/11/2024;16:30;Sreenidi Deccan FC;Gokulam Kerala;2;3;-1
+1;22/11/2024;19:00;Inter Kashi;SC Bengaluru;1;0;1
+1;23/11/2024;14:00;Namdhari FC;Delhi FC;0;0;0
+1;23/11/2024;19:00;Aizawl;Dempo;0;0;0
+1;24/11/2024;14:00;Real Kashmir;Rajasthan United FC;2;0;2
+1;24/11/2024;19:00;Shillong Lajong;Churchill Brothers;2;2;0
+2;29/11/2024;14:00;Real Kashmir;Gokulam Kerala;1;1;0
+2;29/11/2024;19:00;Aizawl;SC Bengaluru;2;0;2
+2;30/11/2024;14:00;Namdhari FC;Rajasthan United FC;1;3;-2
+2;30/11/2024;19:00;Shillong Lajong;Dempo;0;2;-2
+2;01/12/2024;16:30;Sreenidi Deccan FC;Churchill Brothers;2;1;1
+2;01/12/2024;19:00;Inter Kashi;Delhi FC;5;1;4
+3;03/12/2024;14:00;Namdhari FC;Dempo;0;1;-1
+3;03/12/2024;19:00;Gokulam Kerala;Aizawl;1;1;0
+3;04/12/2024;14:00;Real Kashmir;Delhi FC;2;1;1
+3;04/12/2024;15:30;SC Bengaluru;Churchill Brothers;1;3;-2
+3;05/12/2024;16:30;Sreenidi Deccan FC;Rajasthan United FC;2;1;1
+3;05/12/2024;19:00;Shillong Lajong;Inter Kashi;0;0;0
+4;07/12/2024;15:30;SC Bengaluru;Dempo;3;1;2
+4;07/12/2024;19:00;Gokulam Kerala;Churchill Brothers;0;1;-1
+4;08/12/2024;14:00;Namdhari FC;Aizawl;3;1;2
+4;08/12/2024;16:30;Shillong Lajong;Rajasthan United FC;8;0;8
+4;09/12/2024;14:00;Real Kashmir;Inter Kashi;1;1;0
+4;09/12/2024;16:30;Sreenidi Deccan FC;Delhi FC;0;1;-1
+5;13/12/2024;15:30;SC Bengaluru;Delhi FC;2;2;0
+5;13/12/2024;19:00;Sreenidi Deccan FC;Dempo;0;1;-1
+5;14/12/2024;14:00;Aizawl;Rajasthan United FC;1;2;-1
+5;14/12/2024;16:30;Shillong Lajong;Gokulam Kerala;0;0;0
+5;14/12/2024;19:00;Inter Kashi;Churchill Brothers;1;3;-2
+5;15/12/2024;14:00;Namdhari FC;Real Kashmir;1;0;1
+6;18/12/2024;15:30;Churchill Brothers;Dempo;2;0;2
+6;18/12/2024;19:00;Aizawl;Real Kashmir;1;1;0
+6;19/12/2024;14:00;Delhi FC;Shillong Lajong;3;1;2
+18;19/12/2024;19:00;Gokulam Kerala;Rajasthan United FC;0;0;0
+6;20/12/2024;15:30;SC Bengaluru;Namdhari FC;0;0;0
+6;20/12/2024;19:00;Inter Kashi;Sreenidi Deccan FC;3;1;2
+7;08/01/2025;14:00;Delhi FC;Gokulam Kerala;0;5;-5
+7;08/01/2025;15:30;Churchill Brothers;Namdhari FC;0;1;-1
+7;09/01/2025;15:30;Rajasthan United FC;SC Bengaluru;2;1;1
+7;09/01/2025;19:00;Aizawl;Sreenidi Deccan FC;3;4;-1
+7;10/01/2025;15:30;Dempo;Inter Kashi;0;1;-1
+7;10/01/2025;19:00;Shillong Lajong;Real Kashmir;1;0;1
+8;12/01/2025;14:00;Delhi FC;Rajasthan United FC;1;1;0
+8;12/01/2025;15:30;Churchill Brothers;Aizawl;6;0;6
+8;13/01/2025;14:00;Namdhari FC;Inter Kashi;2;0;2
+8;13/01/2025;16:30;Shillong Lajong;SC Bengaluru;5;0;5
+8;14/01/2025;14:00;Real Kashmir;Sreenidi Deccan FC;2;2;0
+8;14/01/2025;15:30;Dempo;Gokulam Kerala;0;1;-1
+9;17/01/2025;14:00;Delhi FC;Churchill Brothers;1;2;-1
+9;17/01/2025;19:00;Gokulam Kerala;Namdhari FC;0;2;-2
+9;18/01/2025;16:30;Sreenidi Deccan FC;Shillong Lajong;5;5;0
+9;18/01/2025;19:00;Inter Kashi;Aizawl;4;3;1
+9;19/01/2025;13:30;Real Kashmir;SC Bengaluru;3;1;2
+12;19/01/2025;15:30;Rajasthan United FC;Dempo;1;1;0
+10;22/01/2025;19:00;Aizawl;Delhi FC;4;2;2
+10;24/01/2025;15:30;SC Bengaluru;Sreenidi Deccan FC;1;0;1
+10;24/01/2025;19:00;Gokulam Kerala;Inter Kashi;6;2;4
+10;25/01/2025;13:00;Namdhari FC;Shillong Lajong;5;2;3
+10;25/01/2025;15:30;Rajasthan United FC;Churchill Brothers;1;0;1
+10;26/01/2025;14:00;Real Kashmir;Dempo;2;0;2
+11;28/01/2025;13:00;Namdhari FC;Sreenidi Deccan FC;1;1;0
+11;28/01/2025;15:30;Rajasthan United FC;Inter Kashi;1;1;0
+11;29/01/2025;15:30;Dempo;Delhi FC;1;0;1
+11;29/01/2025;19:00;Gokulam Kerala;SC Bengaluru;2;0;2
+11;30/01/2025;15:30;Churchill Brothers;Real Kashmir;3;1;2
+11;30/01/2025;19:00;Aizawl;Shillong Lajong;1;3;-2
+9;01/02/2025;15:30;Dempo;Rajasthan United FC;0;4;-4
+12;01/02/2025;19:00;Inter Kashi;Gokulam Kerala;3;2;1
+12;02/02/2025;14:00;Real Kashmir;Shillong Lajong;2;0;2
+12;02/02/2025;14:00;Delhi FC;Namdhari FC;0;2;-2
+12;03/02/2025;15:30;Churchill Brothers;SC Bengaluru;1;1;0
+12;03/02/2025;19:00;Sreenidi Deccan FC;Aizawl;3;0;3
+13;06/02/2025;15:30;Rajasthan United FC;Aizawl;0;0;0
+13;06/02/2025;19:00;Sreenidi Deccan FC;Real Kashmir;1;1;0
+13;07/02/2025;15:30;Churchill Brothers;Gokulam Kerala;2;1;1
+13;07/02/2025;19:00;Inter Kashi;Dempo;0;2;-2
+13;08/02/2025;14:00;Delhi FC;SC Bengaluru;0;1;-1
+13;08/02/2025;19:00;Shillong Lajong;Namdhari FC;3;2;1
+14;11/02/2025;15:30;Churchill Brothers;Delhi FC;2;2;0
+14;11/02/2025;19:00;Aizawl;Inter Kashi;0;3;-3
+14;12/02/2025;19:00;Gokulam Kerala;Real Kashmir;0;1;-1
+14;13/02/2025;14:00;SC Bengaluru;Rajasthan United FC;2;2;0
+14;13/02/2025;16:30;Dempo;Namdhari FC;2;2;0
+14;14/02/2025;19:00;Shillong Lajong;Sreenidi Deccan FC;4;0;4
+15;17/02/2025;16:30;Aizawl;Churchill Brothers;3;0;3
+15;17/02/2025;19:00;Gokulam Kerala;Delhi FC;6;3;3
+15;18/02/2025;14:00;Real Kashmir;Namdhari FC;1;0;1
+15;18/02/2025;16:00;SC Bengaluru;Inter Kashi;0;0;0
+15;19/02/2025;14:00;Rajasthan United FC;Sreenidi Deccan FC;1;2;-1
+15;19/02/2025;16:30;Dempo;Shillong Lajong;2;2;0
+16;24/02/2025;13:30;Namdhari FC;Churchill Brothers;1;1;0
+16;24/02/2025;16:00;Rajasthan United FC;Real Kashmir;4;0;4
+16;25/02/2025;16:30;Dempo;Sreenidi Deccan FC;2;3;-1
+16;25/02/2025;19:00;Aizawl;Gokulam Kerala;1;2;-1
+16;26/02/2025;14:00;Delhi FC;Inter Kashi;0;1;-1
+16;26/02/2025;16:00;SC Bengaluru;Shillong Lajong;2;0;2
+17;01/03/2025;16:30;Churchill Brothers;Rajasthan United FC;3;1;2
+17;02/03/2025;14:00;Delhi FC;Dempo;2;1;1
+17;02/03/2025;16:30;Sreenidi Deccan FC;Namdhari FC;0;1;-1
+17;02/03/2025;19:00;Inter Kashi;Real Kashmir;1;3;-2
+17;03/03/2025;16:00;SC Bengaluru;Aizawl;1;2;-1
+17;03/03/2025;19:00;Gokulam Kerala;Shillong Lajong;3;4;-1
+18;06/03/2025;19:00;Inter Kashi;Namdhari FC;3;2;1
+18;07/03/2025;16:30;Churchill Brothers;Shillong Lajong;6;1;5
+18;08/03/2025;14:00;Delhi FC;Sreenidi Deccan FC;0;1;-1
+18;08/03/2025;16:30;Dempo;SC Bengaluru;8;1;7
+18;09/03/2025;14:00;Real Kashmir;Aizawl;2;1;1
+6;09/03/2025;16:30;Rajasthan United FC;Gokulam Kerala;0;3;-3
+19;16/03/2025;14:00;Delhi FC;Aizawl;0;2;-2
+19;16/03/2025;16:30;Rajasthan United FC;Shillong Lajong;4;0;4
+19;17/03/2025;14:00;Namdhari FC;Gokulam Kerala;1;3;-2
+19;18/03/2025;16:00;SC Bengaluru;Real Kashmir;3;2;1
+19;19/03/2025;16:30;Dempo;Churchill Brothers;1;3;-2
+19;19/03/2025;19:00;Sreenidi Deccan FC;Inter Kashi;2;2;0
+20;22/03/2025;14:00;Delhi FC;Real Kashmir;1;2;-1
+20;22/03/2025;16:00;SC Bengaluru;Gokulam Kerala;1;2;-1
+20;23/03/2025;16:30;Rajasthan United FC;Namdhari FC;2;1;1
+20;23/03/2025;16:30;Churchill Brothers;Sreenidi Deccan FC;1;1;0
+20;24/03/2025;16:30;Dempo;Aizawl;5;2;3
+20;24/03/2025;19:00;Inter Kashi;Shillong Lajong;2;1;1
+21;28/03/2025;16:30;Rajasthan United FC;Delhi FC;3;1;2
+21;29/03/2025;16:30;Dempo;Real Kashmir;1;1;0
+21;29/03/2025;19:00;Shillong Lajong;Aizawl;4;4;0
+21;30/03/2025;14:00;Namdhari FC;SC Bengaluru;2;1;1
+21;30/03/2025;16:30;Churchill Brothers;Inter Kashi;2;2;0
+21;30/03/2025;19:00;Gokulam Kerala;Sreenidi Deccan FC;1;0;1
+22;05/04/2025;16:00;Shillong Lajong;Delhi FC;0;0;0
+22;05/04/2025;19:00;Sreenidi Deccan FC;SC Bengaluru;2;2;0
+22;05/04/2025;19:00;Aizawl;Namdhari FC;3;0;3
+22;06/04/2025;16:00;Gokulam Kerala;Dempo;3;4;-1
+22;06/04/2025;16:00;Real Kashmir;Churchill Brothers;1;1;0
+22;06/04/2025;16:00;Inter Kashi;Rajasthan United FC;3;1;2

@@ -1,0 +1,190 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;14/02/2025;19:00;Gamba Osaka;Cerezo Osaka;2;5;-3
+1;15/02/2025;14:00;Fagi Okayama;Kyoto Sanga;2;0;2
+1;15/02/2025;14:00;Marinos;Albirex Niigata;1;1;0
+1;15/02/2025;14:00;Avispa Fukuoka;Kashiwa Reysol;0;1;-1
+1;15/02/2025;14:00;Yokohama FC;FC Tokyo;0;1;-1
+1;15/02/2025;14:00;Vissel Kobe;Urawa Reds;0;0;0
+1;15/02/2025;15:00;Kawa Frontale;Grampus;4;0;4
+1;15/02/2025;15:00;Shonan Bellmare;Kashima Antlers;1;0;1
+1;16/02/2025;14:00;Machida Zelvia;Sanfrecce;1;2;-1
+1;16/02/2025;14:00;Tokyo Verdy;S-Pulse;0;1;-1
+2;22/02/2025;14:00;S-Pulse;Albirex Niigata;2;0;2
+2;22/02/2025;14:00;Kyoto Sanga;Urawa Reds;1;1;0
+2;22/02/2025;14:00;Kashiwa Reysol;Kawa Frontale;1;1;0
+2;22/02/2025;14:00;Grampus;Vissel Kobe;2;2;0
+2;22/02/2025;14:00;Yokohama FC;Fagi Okayama;1;0;1
+2;22/02/2025;15:00;Kashima Antlers;Tokyo Verdy;4;0;4
+2;22/02/2025;15:00;FC Tokyo;Machida Zelvia;0;1;-1
+2;22/02/2025;15:00;Gamba Osaka;Avispa Fukuoka;2;1;1
+2;22/02/2025;15:00;Cerezo Osaka;Shonan Bellmare;1;2;-1
+2;23/02/2025;00:00;Sanfrecce;Marinos;1;0;1
+3;26/02/2025;19:00;Fagi Okayama;Gamba Osaka;2;0;2
+3;26/02/2025;19:00;Kashima Antlers;Albirex Niigata;2;1;1
+3;26/02/2025;19:00;Kashiwa Reysol;Cerezo Osaka;2;1;1
+3;26/02/2025;19:00;Machida Zelvia;Tokyo Verdy;0;1;-1
+3;26/02/2025;19:00;FC Tokyo;Grampus;3;1;2
+3;26/02/2025;19:00;Avispa Fukuoka;Kawa Frontale;1;2;-1
+3;26/02/2025;19:00;Shonan Bellmare;Urawa Reds;2;1;1
+3;26/02/2025;19:00;Vissel Kobe;Kyoto Sanga;1;1;0
+3;26/02/2025;19:00;S-Pulse;Sanfrecce;1;1;0
+3;26/02/2025;19:00;Marinos;Yokohama FC;0;0;0
+4;01/03/2025;13:00;Marinos;Shonan Bellmare;1;1;0
+4;01/03/2025;14:00;Kashima Antlers;FC Tokyo;2;0;2
+4;01/03/2025;15:00;Vissel Kobe;Avispa Fukuoka;0;1;-1
+4;01/03/2025;15:00;Kawa Frontale;Kyoto Sanga;0;1;-1
+4;02/03/2025;14:00;Grampus;Machida Zelvia;1;2;-1
+4;02/03/2025;14:00;Albirex Niigata;Cerezo Osaka;2;2;0
+4;02/03/2025;14:00;Tokyo Verdy;Gamba Osaka;0;1;-1
+4;02/03/2025;14:00;Fagi Okayama;S-Pulse;1;1;0
+4;02/03/2025;14:30;Sanfrecce;Yokohama FC;1;0;1
+4;02/03/2025;15:00;Urawa Reds;Kashiwa Reysol;0;2;-2
+5;08/03/2025;14:00;Urawa Reds;Fagi Okayama;1;0;1
+5;08/03/2025;14:05;Albirex Niigata;Tokyo Verdy;2;2;0
+5;08/03/2025;15:00;Gamba Osaka;S-Pulse;1;0;1
+5;08/03/2025;16:00;Yokohama FC;Machida Zelvia;0;2;-2
+5;08/03/2025;16:00;FC Tokyo;Shonan Bellmare;0;0;0
+5;08/03/2025;16:00;Kashiwa Reysol;Kashima Antlers;1;3;-2
+5;08/03/2025;16:00;Cerezo Osaka;Grampus;1;1;0
+5;09/03/2025;14:00;Kyoto Sanga;Avispa Fukuoka;0;1;-1
+6;15/03/2025;14:00;Avispa Fukuoka;FC Tokyo;1;0;1
+6;15/03/2025;14:00;Yokohama FC;Cerezo Osaka;2;0;2
+6;15/03/2025;14:00;Machida Zelvia;Albirex Niigata;1;0;1
+6;15/03/2025;14:00;Tokyo Verdy;Grampus;2;1;1
+6;16/03/2025;13:00;S-Pulse;Kyoto Sanga;1;2;-1
+6;16/03/2025;14:00;Fagi Okayama;Kawa Frontale;0;0;0
+6;16/03/2025;14:00;Marinos;Gamba Osaka;2;0;2
+6;16/03/2025;14:00;Kashima Antlers;Urawa Reds;1;1;0
+6;16/03/2025;14:00;Sanfrecce;Kashiwa Reysol;1;1;0
+6;16/03/2025;15:00;Shonan Bellmare;Vissel Kobe;1;2;-1
+7;28/03/2025;19:00;Cerezo Osaka;Urawa Reds;1;1;0
+7;29/03/2025;12:55;Fagi Okayama;Marinos;1;0;1
+7;29/03/2025;13:00;S-Pulse;Shonan Bellmare;3;0;3
+7;29/03/2025;14:00;Grampus;Yokohama FC;2;1;1
+7;29/03/2025;14:00;Kashiwa Reysol;Tokyo Verdy;0;0;0
+7;29/03/2025;14:00;Kyoto Sanga;Sanfrecce;1;0;1
+7;29/03/2025;14:00;Albirex Niigata;Gamba Osaka;3;3;0
+7;29/03/2025;15:00;Avispa Fukuoka;Machida Zelvia;2;2;0
+7;29/03/2025;15:00;Kashima Antlers;Vissel Kobe;1;0;1
+7;29/03/2025;17:00;FC Tokyo;Kawa Frontale;0;3;-3
+8;02/04/2025;05:00;Sanfrecce;Kashima Antlers;1;0;1
+8;02/04/2025;19:00;Kawa Frontale;Shonan Bellmare;2;0;2
+8;02/04/2025;19:00;Tokyo Verdy;FC Tokyo;2;2;0
+8;02/04/2025;19:00;Gamba Osaka;Machida Zelvia;0;1;-1
+8;02/04/2025;19:00;Cerezo Osaka;Fagi Okayama;2;1;1
+8;02/04/2025;19:00;Kyoto Sanga;Kashiwa Reysol;1;1;0
+8;02/04/2025;19:00;Albirex Niigata;Avispa Fukuoka;0;1;-1
+8;02/04/2025;19:00;Yokohama FC;Vissel Kobe;0;1;-1
+8;02/04/2025;19:00;Grampus;Marinos;2;0;2
+8;02/04/2025;19:30;Urawa Reds;S-Pulse;2;1;1
+9;05/04/2025;14:00;Marinos;Tokyo Verdy;0;0;0
+9;06/04/2025;01:00;Sanfrecce;Cerezo Osaka;2;1;1
+9;06/04/2025;13:00;Fagi Okayama;FC Tokyo;1;0;1
+9;06/04/2025;14:00;Vissel Kobe;Albirex Niigata;0;1;-1
+9;06/04/2025;14:00;Yokohama FC;S-Pulse;2;0;2
+9;06/04/2025;14:00;Machida Zelvia;Kawa Frontale;2;2;0
+9;06/04/2025;14:00;Avispa Fukuoka;Urawa Reds;1;0;1
+9;06/04/2025;15:00;Shonan Bellmare;Grampus;2;1;1
+9;06/04/2025;15:00;Kashiwa Reysol;Gamba Osaka;1;0;1
+9;06/04/2025;15:00;Kashima Antlers;Kyoto Sanga;3;4;-1
+5;09/04/2025;19:00;Kawa Frontale;Marinos;3;3;0
+10;11/04/2025;19:00;FC Tokyo;Kashiwa Reysol;1;1;0
+10;12/04/2025;00:00;Sanfrecce;Fagi Okayama;0;1;-1
+10;12/04/2025;14:00;Avispa Fukuoka;Marinos;2;1;1
+10;12/04/2025;14:00;S-Pulse;Kawa Frontale;1;1;0
+10;12/04/2025;14:00;Gamba Osaka;Grampus;2;0;2
+10;12/04/2025;15:00;Cerezo Osaka;Kashima Antlers;1;0;1
+10;12/04/2025;15:00;Tokyo Verdy;Vissel Kobe;0;1;-1
+10;12/04/2025;16:00;Kyoto Sanga;Shonan Bellmare;2;0;2
+10;13/04/2025;14:00;Machida Zelvia;Urawa Reds;0;2;-2
+10;13/04/2025;14:00;Albirex Niigata;Yokohama FC;0;0;0
+12;16/04/2025;19:00;Vissel Kobe;Kawa Frontale;2;1;1
+12;16/04/2025;19:00;Marinos;S-Pulse;2;3;-1
+20;16/04/2025;19:30;Urawa Reds;Kyoto Sanga;2;1;1
+11;19/04/2025;14:00;Albirex Niigata;Kyoto Sanga;1;2;-1
+11;20/04/2025;14:00;Grampus;Sanfrecce;2;1;1
+11;20/04/2025;14:00;Vissel Kobe;Machida Zelvia;1;0;1
+11;20/04/2025;14:00;Fagi Okayama;Kashima Antlers;1;2;-1
+11;20/04/2025;14:00;Yokohama FC;Gamba Osaka;1;1;0
+11;20/04/2025;14:00;S-Pulse;Avispa Fukuoka;3;1;2
+11;20/04/2025;15:00;Shonan Bellmare;Kashiwa Reysol;0;1;-1
+11;20/04/2025;15:00;Cerezo Osaka;FC Tokyo;1;1;0
+11;20/04/2025;15:00;Kawa Frontale;Tokyo Verdy;0;0;0
+11;20/04/2025;16:00;Urawa Reds;Marinos;3;1;2
+12;25/04/2025;19:00;Kyoto Sanga;Yokohama FC;2;1;1
+12;25/04/2025;19:00;Machida Zelvia;Shonan Bellmare;0;1;-1
+12;25/04/2025;19:00;Tokyo Verdy;Cerezo Osaka;1;0;1
+12;25/04/2025;19:00;Kashima Antlers;Grampus;1;0;1
+12;25/04/2025;19:00;Avispa Fukuoka;Fagi Okayama;1;1;0
+12;25/04/2025;19:30;Urawa Reds;Sanfrecce;1;0;1
+12;25/04/2025;19:30;FC Tokyo;Gamba Osaka;3;0;3
+12;26/04/2025;14:00;Kashiwa Reysol;Albirex Niigata;1;1;0
+13;29/04/2025;13:05;FC Tokyo;S-Pulse;0;2;-2
+13;29/04/2025;14:00;Sanfrecce;Albirex Niigata;0;1;-1
+13;29/04/2025;14:00;Fagi Okayama;Tokyo Verdy;0;1;-1
+13;29/04/2025;14:00;Grampus;Kashiwa Reysol;1;2;-1
+13;29/04/2025;14:00;Yokohama FC;Kashima Antlers;0;3;-3
+13;29/04/2025;15:00;Gamba Osaka;Kyoto Sanga;2;1;1
+13;29/04/2025;15:00;Shonan Bellmare;Avispa Fukuoka;0;0;0
+13;29/04/2025;15:00;Cerezo Osaka;Machida Zelvia;1;2;-1
+14;03/05/2025;13:00;Sanfrecce;Avispa Fukuoka;2;1;1
+14;03/05/2025;14:00;S-Pulse;Grampus;0;3;-3
+14;03/05/2025;14:00;Albirex Niigata;FC Tokyo;2;3;-1
+14;03/05/2025;15:00;Gamba Osaka;Shonan Bellmare;4;0;4
+14;03/05/2025;15:00;Kashima Antlers;Machida Zelvia;1;0;1
+14;03/05/2025;15:00;Urawa Reds;Tokyo Verdy;2;0;2
+14;03/05/2025;15:00;Vissel Kobe;Fagi Okayama;2;0;2
+14;03/05/2025;19:00;Kyoto Sanga;Cerezo Osaka;2;3;-1
+15;06/05/2025;14:00;Vissel Kobe;Cerezo Osaka;1;3;-2
+15;06/05/2025;14:00;Urawa Reds;Gamba Osaka;0;1;-1
+15;06/05/2025;14:00;Avispa Fukuoka;Kashima Antlers;0;1;-1
+15;06/05/2025;14:00;Grampus;Fagi Okayama;0;0;0
+15;06/05/2025;16:00;Kashiwa Reysol;S-Pulse;1;0;1
+15;06/05/2025;16:00;Tokyo Verdy;Yokohama FC;2;0;2
+15;07/05/2025;19:00;Shonan Bellmare;Sanfrecce;0;1;-1
+15;07/05/2025;19:00;Machida Zelvia;Kyoto Sanga;1;2;-1
+16;10/05/2025;14:00;Yokohama FC;Avispa Fukuoka;1;0;1
+16;10/05/2025;15:00;FC Tokyo;Vissel Kobe;1;0;1
+16;10/05/2025;16:00;Kashiwa Reysol;Fagi Okayama;2;0;2
+16;11/05/2025;13:05;S-Pulse;Machida Zelvia;2;2;0
+16;11/05/2025;13:05;Kashima Antlers;Kawa Frontale;2;1;1
+16;11/05/2025;14:00;Kyoto Sanga;Grampus;1;1;0
+16;11/05/2025;14:05;Albirex Niigata;Urawa Reds;1;1;0
+16;11/05/2025;15:00;Tokyo Verdy;Shonan Bellmare;0;2;-2
+16;11/05/2025;15:00;Cerezo Osaka;Marinos;1;0;1
+16;11/05/2025;15:00;Gamba Osaka;Sanfrecce;0;1;-1
+14;14/05/2025;19:00;Marinos;Kashiwa Reysol;0;2;-2
+14;14/05/2025;19:00;Kawa Frontale;Yokohama FC;2;1;1
+17;17/05/2025;14:00;Sanfrecce;Tokyo Verdy;2;1;1
+17;17/05/2025;14:00;Vissel Kobe;Gamba Osaka;3;2;1
+17;17/05/2025;14:00;Machida Zelvia;Kashiwa Reysol;3;0;3
+17;17/05/2025;14:00;Marinos;Kyoto Sanga;0;3;-3
+17;17/05/2025;14:30;Avispa Fukuoka;Grampus;1;1;0
+17;17/05/2025;15:00;Kashima Antlers;S-Pulse;1;0;1
+17;17/05/2025;15:00;Shonan Bellmare;Yokohama FC;0;1;-1
+17;17/05/2025;16:00;Urawa Reds;FC Tokyo;3;2;1
+17;18/05/2025;15:00;Fagi Okayama;Albirex Niigata;2;1;1
+17;18/05/2025;15:00;Kawa Frontale;Cerezo Osaka;2;0;2
+13;21/05/2025;19:00;Kawa Frontale;Urawa Reds;2;2;0
+13;21/05/2025;19:00;Marinos;Vissel Kobe;1;2;-1
+18;24/05/2025;15:00;Cerezo Osaka;Avispa Fukuoka;2;0;2
+18;24/05/2025;17:30;Grampus;Urawa Reds;2;1;1
+18;25/05/2025;13:00;Fagi Okayama;Machida Zelvia;2;2;0
+18;25/05/2025;14:00;Marinos;Kashima Antlers;3;1;2
+18;25/05/2025;14:00;Albirex Niigata;Shonan Bellmare;2;1;1
+18;25/05/2025;14:00;S-Pulse;Vissel Kobe;3;2;1
+18;25/05/2025;14:00;Yokohama FC;Kashiwa Reysol;1;1;0
+18;25/05/2025;15:00;Tokyo Verdy;Kyoto Sanga;1;0;1
+18;25/05/2025;15:00;FC Tokyo;Sanfrecce;0;3;-3
+18;25/05/2025;16:00;Kawa Frontale;Gamba Osaka;2;2;0
+22;28/05/2025;19:30;Urawa Reds;Cerezo Osaka;0;0;0
+19;31/05/2025;14:00;Avispa Fukuoka;Tokyo Verdy;0;0;0
+19;31/05/2025;14:00;Grampus;Albirex Niigata;3;0;3
+19;31/05/2025;14:00;Machida Zelvia;Marinos;0;3;-3
+19;31/05/2025;16:00;Kashiwa Reysol;Vissel Kobe;1;3;-2
+19;31/05/2025;17:30;Sanfrecce;Kawa Frontale;1;2;-1
+19;31/05/2025;18:00;Gamba Osaka;Kashima Antlers;0;1;-1
+19;31/05/2025;19:00;Kyoto Sanga;FC Tokyo;3;0;3
+19;01/06/2025;15:00;Shonan Bellmare;Fagi Okayama;1;1;0
+19;01/06/2025;15:00;Cerezo Osaka;S-Pulse;4;2;2
+19;01/06/2025;16:00;Urawa Reds;Yokohama FC;2;1;1

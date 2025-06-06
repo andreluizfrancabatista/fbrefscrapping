@@ -1,0 +1,343 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;21:00;Galatasaray;Hatayspor;2;1;1
+1;10/08/2024;19:15;Kasımpaşa;Konyaspor;2;3;-1
+1;10/08/2024;21:45;Antalyaspor;Göztepe;0;0;0
+1;10/08/2024;21:45;Fenerbahçe;Adana Demirspor;1;0;1
+1;11/08/2024;19:15;Sivasspor;Trabzonspor;0;0;0
+1;11/08/2024;21:45;Samsunspor;Beşiktaş;0;2;-2
+1;11/08/2024;21:45;Alanyaspor;Eyüpspor;1;1;0
+1;12/08/2024;21:00;Rizespor;Başakşehir;1;1;0
+1;12/08/2024;21:00;BB Bodrumspor;Gaziantep FK;0;1;-1
+2;16/08/2024;21:00;Konyaspor;Galatasaray;1;2;-1
+2;17/08/2024;19:15;Kayserispor;Sivasspor;1;2;-1
+2;17/08/2024;21:45;Adana Demirspor;Rizespor;1;2;-1
+2;17/08/2024;21:45;Göztepe;Fenerbahçe;2;2;0
+2;18/08/2024;19:15;Başakşehir;Alanyaspor;4;2;2
+2;18/08/2024;21:45;Gaziantep FK;Samsunspor;0;1;-1
+2;18/08/2024;21:45;Beşiktaş;Antalyaspor;4;2;2
+2;19/08/2024;21:00;Hatayspor;Kasımpaşa;1;1;0
+2;19/08/2024;21:00;Eyüpspor;BB Bodrumspor;4;1;3
+3;23/08/2024;21:00;Alanyaspor;Göztepe;1;1;0
+3;24/08/2024;19:15;Sivasspor;Eyüpspor;0;1;-1
+3;24/08/2024;21:45;BB Bodrumspor;Konyaspor;3;1;2
+3;25/08/2024;19:15;Kasımpaşa;Adana Demirspor;2;2;0
+3;25/08/2024;21:45;Rizespor;Fenerbahçe;0;5;-5
+3;25/08/2024;21:45;Antalyaspor;Hatayspor;3;2;1
+4;30/08/2024;21:00;Fenerbahçe;Alanyaspor;3;0;3
+4;31/08/2024;19:15;Rizespor;Kasımpaşa;0;1;-1
+4;31/08/2024;19:15;Konyaspor;Kayserispor;0;0;0
+4;31/08/2024;21:45;Adana Demirspor;Galatasaray;1;5;-4
+4;31/08/2024;21:45;Göztepe;BB Bodrumspor;2;0;2
+4;01/09/2024;19:15;Eyüpspor;Trabzonspor;0;0;0
+4;01/09/2024;19:15;Başakşehir;Antalyaspor;5;2;3
+4;01/09/2024;21:45;Hatayspor;Samsunspor;0;3;-3
+4;01/09/2024;21:45;Beşiktaş;Sivasspor;2;0;2
+5;14/09/2024;17:00;Samsunspor;Konyaspor;0;1;-1
+5;14/09/2024;17:00;Sivasspor;Gaziantep FK;3;2;1
+5;14/09/2024;20:00;Galatasaray;Rizespor;5;0;5
+5;14/09/2024;20:00;BB Bodrumspor;Başakşehir;0;1;-1
+5;15/09/2024;17:00;Kasımpaşa;Fenerbahçe;0;2;-2
+5;15/09/2024;17:00;Kayserispor;Eyüpspor;2;2;0
+5;15/09/2024;20:00;Trabzonspor;Beşiktaş;1;1;0
+5;15/09/2024;20:00;Alanyaspor;Hatayspor;0;0;0
+5;16/09/2024;20:00;Antalyaspor;Adana Demirspor;2;1;1
+3;17/09/2024;20:00;Galatasaray;Gaziantep FK;3;1;2
+3;18/09/2024;20:00;Samsunspor;Başakşehir;2;0;2
+3;19/09/2024;20:00;Trabzonspor;Kayserispor;2;2;0
+6;20/09/2024;20:00;Hatayspor;BB Bodrumspor;0;1;-1
+6;21/09/2024;17:00;Konyaspor;Sivasspor;0;0;0
+6;21/09/2024;20:00;Fenerbahçe;Galatasaray;1;3;-2
+6;22/09/2024;17:00;Rizespor;Samsunspor;0;1;-1
+6;22/09/2024;17:00;Kasımpaşa;Antalyaspor;0;0;0
+6;22/09/2024;20:00;Beşiktaş;Eyüpspor;2;1;1
+6;22/09/2024;20:00;Adana Demirspor;Alanyaspor;0;2;-2
+6;23/09/2024;20:00;Gaziantep FK;Trabzonspor;0;0;0
+6;23/09/2024;20:00;Göztepe;Kayserispor;3;0;3
+7;27/09/2024;20:00;Sivasspor;Başakşehir;1;2;-1
+7;28/09/2024;16:00;Samsunspor;Göztepe;4;3;1
+7;28/09/2024;19:00;Alanyaspor;Rizespor;1;0;1
+7;28/09/2024;19:00;Galatasaray;Kasımpaşa;3;3;0
+7;29/09/2024;16:00;Eyüpspor;Gaziantep FK;3;2;1
+7;29/09/2024;16:00;Trabzonspor;Konyaspor;3;2;1
+7;29/09/2024;19:00;Antalyaspor;Fenerbahçe;0;2;-2
+7;29/09/2024;19:00;BB Bodrumspor;Adana Demirspor;3;1;2
+7;30/09/2024;20:00;Kayserispor;Beşiktaş;0;3;-3
+8;04/10/2024;20:00;Rizespor;Antalyaspor;2;1;1
+8;05/10/2024;13:30;Kasımpaşa;BB Bodrumspor;0;0;0
+8;05/10/2024;16:00;Göztepe;Sivasspor;3;2;1
+8;05/10/2024;19:00;Başakşehir;Kayserispor;1;1;0
+8;05/10/2024;19:00;Hatayspor;Trabzonspor;1;1;0
+8;06/10/2024;13:30;Konyaspor;Eyüpspor;2;1;1
+8;06/10/2024;16:00;Adana Demirspor;Samsunspor;1;3;-2
+8;06/10/2024;19:00;Galatasaray;Alanyaspor;1;0;1
+8;06/10/2024;19:00;Gaziantep FK;Beşiktaş;1;1;0
+9;19/10/2024;13:30;Kayserispor;Gaziantep FK;2;2;0
+9;19/10/2024;16:00;Trabzonspor;Başakşehir;1;0;1
+9;19/10/2024;19:00;Antalyaspor;Galatasaray;0;3;-3
+9;19/10/2024;19:00;Eyüpspor;Göztepe;1;0;1
+9;20/10/2024;13:30;Sivasspor;Hatayspor;3;2;1
+9;20/10/2024;16:00;Beşiktaş;Konyaspor;2;0;2
+9;20/10/2024;19:00;Samsunspor;Fenerbahçe;2;2;0
+9;20/10/2024;19:00;Alanyaspor;Kasımpaşa;1;2;-1
+9;21/10/2024;20:00;BB Bodrumspor;Rizespor;0;1;-1
+10;25/10/2024;20:00;Adana Demirspor;Sivasspor;2;4;-2
+10;26/10/2024;13:30;Hatayspor;Kayserispor;0;1;-1
+10;26/10/2024;16:00;Kasımpaşa;Samsunspor;1;4;-3
+10;26/10/2024;19:00;Göztepe;Trabzonspor;2;1;1
+10;27/10/2024;13:30;Gaziantep FK;Konyaspor;3;1;2
+10;27/10/2024;16:00;Alanyaspor;Antalyaspor;1;2;-1
+10;27/10/2024;19:00;Fenerbahçe;BB Bodrumspor;2;0;2
+10;28/10/2024;17:00;Başakşehir;Eyüpspor;1;1;0
+10;28/10/2024;20:00;Galatasaray;Beşiktaş;2;1;1
+11;01/11/2024;20:00;Gaziantep FK;Göztepe;2;1;1
+11;02/11/2024;13:30;Sivasspor;Rizespor;2;1;1
+11;02/11/2024;16:00;Kayserispor;Adana Demirspor;0;0;0
+11;02/11/2024;19:00;Beşiktaş;Kasımpaşa;1;3;-2
+11;03/11/2024;13:30;Konyaspor;Başakşehir;3;2;1
+11;03/11/2024;16:00;Eyüpspor;Hatayspor;2;0;2
+11;03/11/2024;16:00;BB Bodrumspor;Alanyaspor;0;0;0
+11;03/11/2024;19:00;Trabzonspor;Fenerbahçe;2;3;-1
+11;04/11/2024;20:00;Samsunspor;Antalyaspor;2;0;2
+12;08/11/2024;20:00;Kasımpaşa;Kayserispor;1;2;-1
+12;09/11/2024;13:30;Antalyaspor;BB Bodrumspor;3;2;1
+12;09/11/2024;16:00;Hatayspor;Gaziantep FK;3;1;2
+12;09/11/2024;19:00;Adana Demirspor;Eyüpspor;0;1;-1
+12;09/11/2024;19:00;Rizespor;Trabzonspor;3;1;2
+12;10/11/2024;13:30;Göztepe;Konyaspor;2;0;2
+12;10/11/2024;16:00;Galatasaray;Samsunspor;3;2;1
+12;10/11/2024;19:00;Başakşehir;Beşiktaş;0;0;0
+12;10/11/2024;19:00;Fenerbahçe;Sivasspor;4;0;4
+13;23/11/2024;13:30;Eyüpspor;Rizespor;1;2;-1
+13;23/11/2024;16:00;Kayserispor;Fenerbahçe;2;6;-4
+13;23/11/2024;16:00;Gaziantep FK;Başakşehir;3;0;3
+13;23/11/2024;19:00;BB Bodrumspor;Galatasaray;0;1;-1
+13;24/11/2024;13:30;Sivasspor;Kasımpaşa;0;0;0
+13;24/11/2024;16:00;Konyaspor;Hatayspor;1;1;0
+13;24/11/2024;16:00;Samsunspor;Alanyaspor;1;1;0
+13;24/11/2024;19:00;Beşiktaş;Göztepe;2;4;-2
+13;25/11/2024;20:00;Trabzonspor;Adana Demirspor;5;0;5
+14;29/11/2024;20:00;Antalyaspor;Sivasspor;2;1;1
+14;30/11/2024;13:30;Samsunspor;BB Bodrumspor;4;0;4
+14;30/11/2024;16:00;Adana Demirspor;Konyaspor;0;1;-1
+14;30/11/2024;19:00;Başakşehir;Göztepe;4;1;3
+14;30/11/2024;19:00;Alanyaspor;Trabzonspor;2;1;1
+14;01/12/2024;16:00;Rizespor;Kayserispor;3;0;3
+14;01/12/2024;19:00;Galatasaray;Eyüpspor;2;2;0
+14;02/12/2024;20:00;Hatayspor;Beşiktaş;1;1;0
+14;02/12/2024;20:00;Fenerbahçe;Gaziantep FK;3;1;2
+15;06/12/2024;20:00;Trabzonspor;Kasımpaşa;2;2;0
+15;07/12/2024;13:30;Konyaspor;Antalyaspor;1;1;0
+15;07/12/2024;16:00;Göztepe;Adana Demirspor;3;1;2
+15;07/12/2024;19:00;Beşiktaş;Fenerbahçe;1;0;1
+15;08/12/2024;13:30;Eyüpspor;Samsunspor;3;0;3
+15;08/12/2024;16:00;Kayserispor;Alanyaspor;2;0;2
+15;08/12/2024;16:00;Sivasspor;Galatasaray;2;3;-1
+15;08/12/2024;19:00;Başakşehir;Hatayspor;3;0;3
+15;09/12/2024;20:00;Gaziantep FK;Rizespor;1;0;1
+16;13/12/2024;20:00;BB Bodrumspor;Sivasspor;2;0;2
+16;13/12/2024;20:00;Kasımpaşa;Eyüpspor;2;0;2
+16;14/12/2024;16:00;Rizespor;Konyaspor;1;1;0
+16;14/12/2024;19:00;Alanyaspor;Gaziantep FK;3;0;3
+16;15/12/2024;13:30;Hatayspor;Göztepe;1;1;0
+16;15/12/2024;16:00;Antalyaspor;Kayserispor;2;0;2
+16;15/12/2024;19:00;Fenerbahçe;Başakşehir;3;1;2
+16;16/12/2024;19:00;Adana Demirspor;Beşiktaş;2;1;1
+16;16/12/2024;21:00;Galatasaray;Trabzonspor;4;3;1
+17;20/12/2024;20:00;Eyüpspor;Fenerbahçe;1;1;0
+17;21/12/2024;16:00;Sivasspor;Samsunspor;0;0;0
+17;21/12/2024;19:00;Beşiktaş;Alanyaspor;1;1;0
+17;22/12/2024;13:30;Gaziantep FK;Antalyaspor;2;0;2
+17;22/12/2024;16:00;Kayserispor;Galatasaray;1;5;-4
+17;22/12/2024;16:00;Göztepe;Rizespor;3;0;3
+17;22/12/2024;19:00;Trabzonspor;BB Bodrumspor;1;0;1
+17;23/12/2024;20:00;Hatayspor;Adana Demirspor;1;3;-2
+17;23/12/2024;20:00;Başakşehir;Kasımpaşa;2;2;0
+18;03/01/2025;20:00;Alanyaspor;Konyaspor;2;1;1
+18;03/01/2025;20:00;Rizespor;Beşiktaş;1;1;0
+18;04/01/2025;13:30;Adana Demirspor;Başakşehir;0;1;-1
+18;04/01/2025;16:00;Antalyaspor;Eyüpspor;1;4;-3
+18;04/01/2025;19:00;Galatasaray;Göztepe;2;1;1
+18;04/01/2025;20:00;Samsunspor;Trabzonspor;2;1;1
+18;05/01/2025;13:30;Kasımpaşa;Gaziantep FK;2;2;0
+18;05/01/2025;16:00;BB Bodrumspor;Kayserispor;1;1;0
+18;05/01/2025;19:00;Fenerbahçe;Hatayspor;2;1;1
+19;11/01/2025;13:30;Kayserispor;Samsunspor;0;1;-1
+19;11/01/2025;16:00;Hatayspor;Rizespor;1;2;-1
+19;11/01/2025;19:00;Beşiktaş;BB Bodrumspor;2;1;1
+19;12/01/2025;13:30;Sivasspor;Alanyaspor;1;1;0
+19;12/01/2025;16:00;Trabzonspor;Antalyaspor;5;0;5
+19;12/01/2025;19:00;Gaziantep FK;Adana Demirspor;1;0;1
+19;12/01/2025;19:00;Başakşehir;Galatasaray;1;2;-1
+19;13/01/2025;20:00;Konyaspor;Fenerbahçe;2;3;-1
+19;13/01/2025;20:00;Göztepe;Kasımpaşa;5;0;5
+20;17/01/2025;20:00;Hatayspor;Galatasaray;1;1;0
+20;18/01/2025;13:30;Başakşehir;Rizespor;2;0;2
+20;18/01/2025;16:00;Gaziantep FK;BB Bodrumspor;0;0;0
+20;18/01/2025;19:00;Beşiktaş;Samsunspor;0;0;0
+20;19/01/2025;13:30;Göztepe;Antalyaspor;1;0;1
+20;19/01/2025;16:00;Konyaspor;Kasımpaşa;3;3;0
+20;19/01/2025;19:00;Adana Demirspor;Fenerbahçe;0;4;-4
+20;19/01/2025;19:00;Eyüpspor;Alanyaspor;3;0;3
+20;20/01/2025;20:00;Trabzonspor;Sivasspor;4;0;4
+21;24/01/2025;20:00;Samsunspor;Gaziantep FK;2;1;1
+21;25/01/2025;13:30;Sivasspor;Kayserispor;5;2;3
+21;25/01/2025;16:00;Alanyaspor;Başakşehir;5;4;1
+21;25/01/2025;19:00;Galatasaray;Konyaspor;1;0;1
+21;26/01/2025;13:30;Rizespor;Adana Demirspor;3;2;1
+21;26/01/2025;16:00;Antalyaspor;Beşiktaş;1;1;0
+21;26/01/2025;16:00;BB Bodrumspor;Eyüpspor;0;1;-1
+21;26/01/2025;19:00;Fenerbahçe;Göztepe;3;2;1
+21;27/01/2025;20:00;Kasımpaşa;Hatayspor;5;4;1
+22;31/01/2025;20:00;Konyaspor;BB Bodrumspor;3;1;2
+22;31/01/2025;20:00;Eyüpspor;Sivasspor;1;0;1
+22;01/02/2025;13:30;Hatayspor;Antalyaspor;2;3;-1
+22;01/02/2025;16:00;Kayserispor;Trabzonspor;0;0;0
+22;01/02/2025;19:00;Başakşehir;Samsunspor;4;0;4
+22;02/02/2025;13:30;Adana Demirspor;Kasımpaşa;3;5;-2
+22;02/02/2025;16:00;Göztepe;Alanyaspor;0;1;-1
+22;02/02/2025;19:00;Fenerbahçe;Rizespor;3;2;1
+22;03/02/2025;20:00;Gaziantep FK;Galatasaray;0;1;-1
+23;07/02/2025;20:00;Samsunspor;Hatayspor;2;0;2
+23;08/02/2025;16:00;Kayserispor;Konyaspor;3;2;1
+23;08/02/2025;19:00;Sivasspor;Beşiktaş;0;2;-2
+23;09/02/2025;13:30;Kasımpaşa;Rizespor;3;2;1
+23;09/02/2025;16:00;Alanyaspor;Fenerbahçe;0;2;-2
+23;09/02/2025;19:00;Antalyaspor;Başakşehir;0;0;0
+23;09/02/2025;19:00;Galatasaray;Adana Demirspor;3;0;3
+23;10/02/2025;20:00;Trabzonspor;Eyüpspor;1;0;1
+23;10/02/2025;20:00;BB Bodrumspor;Göztepe;0;0;0
+24;14/02/2025;20:00;Adana Demirspor;Antalyaspor;1;1;0
+24;15/02/2025;13:30;Gaziantep FK;Sivasspor;2;1;1
+24;15/02/2025;16:00;Başakşehir;BB Bodrumspor;0;1;-1
+24;15/02/2025;19:00;Beşiktaş;Trabzonspor;2;1;1
+24;16/02/2025;13:30;Hatayspor;Alanyaspor;1;0;1
+24;16/02/2025;16:00;Konyaspor;Samsunspor;0;1;-1
+24;16/02/2025;16:00;Eyüpspor;Kayserispor;1;1;0
+24;16/02/2025;19:00;Fenerbahçe;Kasımpaşa;3;1;2
+24;17/02/2025;20:00;Rizespor;Galatasaray;1;2;-1
+25;21/02/2025;20:00;Eyüpspor;Beşiktaş;1;3;-2
+25;21/02/2025;20:00;BB Bodrumspor;Hatayspor;1;0;1
+25;22/02/2025;13:30;Sivasspor;Konyaspor;1;1;0
+25;22/02/2025;16:00;Antalyaspor;Kasımpaşa;2;1;1
+25;22/02/2025;19:00;Samsunspor;Rizespor;2;3;-1
+25;23/02/2025;13:30;Kayserispor;Göztepe;1;0;1
+25;23/02/2025;16:00;Alanyaspor;Adana Demirspor;3;2;1
+25;23/02/2025;19:00;Trabzonspor;Gaziantep FK;3;2;1
+25;24/02/2025;20:00;Galatasaray;Fenerbahçe;0;0;0
+26;01/03/2025;16:00;Adana Demirspor;BB Bodrumspor;0;0;0
+26;01/03/2025;20:30;Beşiktaş;Kayserispor;2;0;2
+26;02/03/2025;13:30;Rizespor;Alanyaspor;3;1;2
+26;02/03/2025;16:00;Kasımpaşa;Galatasaray;3;3;0
+26;02/03/2025;20:30;Fenerbahçe;Antalyaspor;3;0;3
+26;03/03/2025;16:00;Konyaspor;Trabzonspor;1;0;1
+26;03/03/2025;16:00;Gaziantep FK;Eyüpspor;3;1;2
+26;03/03/2025;20:30;Göztepe;Samsunspor;2;2;0
+26;03/03/2025;20:30;Başakşehir;Sivasspor;1;0;1
+27;07/03/2025;20:30;BB Bodrumspor;Kasımpaşa;1;0;1
+27;08/03/2025;13:30;Kayserispor;Başakşehir;3;1;2
+27;08/03/2025;16:00;Antalyaspor;Rizespor;2;1;1
+27;08/03/2025;20:30;Trabzonspor;Hatayspor;1;2;-1
+27;09/03/2025;13:30;Sivasspor;Göztepe;3;1;2
+27;09/03/2025;16:00;Samsunspor;Adana Demirspor;3;2;1
+27;09/03/2025;16:00;Eyüpspor;Konyaspor;2;1;1
+27;09/03/2025;20:30;Alanyaspor;Galatasaray;1;2;-1
+27;10/03/2025;20:30;Beşiktaş;Gaziantep FK;1;2;-1
+28;14/03/2025;20:30;Galatasaray;Antalyaspor;4;0;4
+28;15/03/2025;13:30;Gaziantep FK;Kayserispor;1;0;1
+28;15/03/2025;16:00;Kasımpaşa;Alanyaspor;2;1;1
+28;15/03/2025;20:30;Başakşehir;Trabzonspor;0;3;-3
+28;15/03/2025;20:30;Konyaspor;Beşiktaş;1;0;1
+28;16/03/2025;13:30;Rizespor;BB Bodrumspor;0;2;-2
+28;16/03/2025;16:00;Göztepe;Eyüpspor;1;1;0
+28;16/03/2025;16:00;Hatayspor;Sivasspor;3;2;1
+28;16/03/2025;20:30;Fenerbahçe;Samsunspor;0;0;0
+29;28/03/2025;16:00;Antalyaspor;Alanyaspor;2;1;1
+29;28/03/2025;16:00;Kayserispor;Hatayspor;5;0;5
+29;28/03/2025;20:30;Konyaspor;Gaziantep FK;1;0;1
+29;28/03/2025;20:30;BB Bodrumspor;Fenerbahçe;2;4;-2
+29;29/03/2025;13:30;Sivasspor;Adana Demirspor;5;1;4
+29;29/03/2025;16:00;Samsunspor;Kasımpaşa;0;2;-2
+29;29/03/2025;16:00;Trabzonspor;Göztepe;1;1;0
+29;29/03/2025;20:30;Beşiktaş;Galatasaray;2;1;1
+29;31/03/2025;20:00;Eyüpspor;Başakşehir;1;3;-2
+30;04/04/2025;20:00;Adana Demirspor;Kayserispor;0;2;-2
+30;05/04/2025;13:30;Rizespor;Sivasspor;1;1;0
+30;05/04/2025;16:00;Başakşehir;Konyaspor;1;0;1
+30;05/04/2025;19:00;Antalyaspor;Samsunspor;2;1;1
+30;06/04/2025;13:30;Alanyaspor;BB Bodrumspor;0;1;-1
+30;06/04/2025;16:00;Hatayspor;Eyüpspor;0;1;-1
+30;06/04/2025;19:00;Fenerbahçe;Trabzonspor;4;1;3
+30;07/04/2025;20:00;Göztepe;Gaziantep FK;1;1;0
+30;07/04/2025;20:00;Kasımpaşa;Beşiktaş;1;1;0
+31;11/04/2025;20:00;Samsunspor;Galatasaray;0;2;-2
+31;12/04/2025;16:00;Konyaspor;Göztepe;1;0;1
+31;12/04/2025;19:00;BB Bodrumspor;Antalyaspor;0;0;0
+31;12/04/2025;19:00;Beşiktaş;Başakşehir;0;2;-2
+31;13/04/2025;16:00;Gaziantep FK;Hatayspor;2;1;1
+31;13/04/2025;16:00;Kayserispor;Kasımpaşa;1;0;1
+31;13/04/2025;19:00;Trabzonspor;Rizespor;2;0;2
+31;13/04/2025;19:00;Sivasspor;Fenerbahçe;1;3;-2
+31;14/04/2025;20:00;Eyüpspor;Adana Demirspor;6;0;6
+32;18/04/2025;20:00;Hatayspor;Konyaspor;2;3;-1
+32;18/04/2025;20:00;Galatasaray;BB Bodrumspor;2;0;2
+32;19/04/2025;13:30;Kasımpaşa;Sivasspor;3;1;2
+32;19/04/2025;16:00;Adana Demirspor;Trabzonspor;0;1;-1
+32;19/04/2025;19:00;Göztepe;Beşiktaş;1;1;0
+32;20/04/2025;13:30;Başakşehir;Gaziantep FK;2;1;1
+32;20/04/2025;16:00;Rizespor;Eyüpspor;1;0;1
+32;20/04/2025;19:00;Fenerbahçe;Kayserispor;3;3;0
+32;21/04/2025;20:00;Alanyaspor;Samsunspor;1;0;1
+33;25/04/2025;20:00;Beşiktaş;Hatayspor;5;1;4
+33;26/04/2025;16:00;Sivasspor;Antalyaspor;2;0;2
+33;26/04/2025;19:00;BB Bodrumspor;Samsunspor;1;2;-1
+33;26/04/2025;19:00;Gaziantep FK;Fenerbahçe;1;3;-2
+33;27/04/2025;16:00;Konyaspor;Adana Demirspor;3;1;2
+33;27/04/2025;16:00;Trabzonspor;Alanyaspor;4;3;1
+33;27/04/2025;19:00;Eyüpspor;Galatasaray;1;5;-4
+33;27/04/2025;19:00;Kayserispor;Rizespor;1;0;1
+33;28/04/2025;20:00;Göztepe;Başakşehir;4;1;3
+34;02/05/2025;20:00;Antalyaspor;Konyaspor;1;0;1
+34;03/05/2025;16:00;Alanyaspor;Kayserispor;1;1;0
+34;03/05/2025;16:00;Rizespor;Gaziantep FK;2;0;2
+34;03/05/2025;19:00;Galatasaray;Sivasspor;4;1;3
+34;03/05/2025;19:00;Hatayspor;Başakşehir;2;4;-2
+34;04/05/2025;16:00;Samsunspor;Eyüpspor;3;0;3
+34;04/05/2025;19:00;Adana Demirspor;Göztepe;1;2;-1
+34;04/05/2025;19:00;Fenerbahçe;Beşiktaş;0;1;-1
+34;05/05/2025;20:00;Kasımpaşa;Trabzonspor;1;1;0
+35;09/05/2025;20:00;Başakşehir;Fenerbahçe;1;4;-3
+35;09/05/2025;20:00;Gaziantep FK;Alanyaspor;0;1;-1
+35;10/05/2025;16:00;Eyüpspor;Kasımpaşa;0;3;-3
+35;10/05/2025;16:00;Konyaspor;Rizespor;2;1;1
+35;10/05/2025;19:00;Trabzonspor;Galatasaray;0;2;-2
+35;11/05/2025;16:00;Sivasspor;BB Bodrumspor;0;0;0
+35;11/05/2025;19:00;Göztepe;Hatayspor;1;1;0
+35;11/05/2025;19:00;Beşiktaş;Adana Demirspor;4;1;3
+35;12/05/2025;20:00;Kayserispor;Antalyaspor;3;1;2
+36;17/05/2025;19:00;Adana Demirspor;Hatayspor;0;5;-5
+36;18/05/2025;19:00;Samsunspor;Sivasspor;1;0;1
+36;18/05/2025;19:00;Rizespor;Göztepe;6;3;3
+36;18/05/2025;19:00;Fenerbahçe;Eyüpspor;2;1;1
+36;18/05/2025;19:00;Alanyaspor;Beşiktaş;1;1;0
+36;18/05/2025;19:00;Antalyaspor;Gaziantep FK;0;0;0
+36;18/05/2025;19:00;Kasımpaşa;Başakşehir;2;3;-1
+36;18/05/2025;19:00;Galatasaray;Kayserispor;3;0;3
+36;18/05/2025;19:00;BB Bodrumspor;Trabzonspor;1;1;0
+37;24/05/2025;16:00;Eyüpspor;Antalyaspor;2;1;1
+37;24/05/2025;19:00;Göztepe;Galatasaray;0;2;-2
+37;24/05/2025;19:00;Gaziantep FK;Kasımpaşa;2;2;0
+37;25/05/2025;19:00;Konyaspor;Alanyaspor;1;2;-1
+37;25/05/2025;19:00;Kayserispor;BB Bodrumspor;1;1;0
+37;25/05/2025;19:00;Beşiktaş;Rizespor;1;2;-1
+37;25/05/2025;19:00;Trabzonspor;Samsunspor;2;2;0
+37;25/05/2025;19:00;Başakşehir;Adana Demirspor;2;3;-1
+37;26/05/2025;20:00;Hatayspor;Fenerbahçe;4;2;2
+38;30/05/2025;20:00;Galatasaray;Başakşehir;2;0;2
+38;30/05/2025;20:00;Kasımpaşa;Göztepe;1;2;-1
+38;30/05/2025;20:00;Antalyaspor;Trabzonspor;0;2;-2
+38;31/05/2025;16:00;Rizespor;Hatayspor;5;2;3
+38;31/05/2025;16:00;Fenerbahçe;Konyaspor;2;1;1
+38;31/05/2025;19:00;Alanyaspor;Sivasspor;2;0;2
+38;31/05/2025;19:00;Adana Demirspor;Gaziantep FK;2;2;0
+38;01/06/2025;19:00;BB Bodrumspor;Beşiktaş;0;4;-4
+38;01/06/2025;19:00;Samsunspor;Kayserispor;2;1;1

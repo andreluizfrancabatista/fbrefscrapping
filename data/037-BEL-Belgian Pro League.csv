@@ -1,0 +1,313 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;26/07/2024;20:45;Club Brugge;Mechelen;1;1;0
+1;27/07/2024;16:00;Dender;Union SG;0;0;0
+1;27/07/2024;18:15;Beerschot;OH Leuven;0;0;0
+1;27/07/2024;20:45;Anderlecht;Sint-Truiden;1;0;1
+1;28/07/2024;13:30;Genk;Standard Liège;0;0;0
+1;28/07/2024;16:00;Kortrijk;Gent;0;1;-1
+1;28/07/2024;18:30;Charleroi;Antwerp;0;1;-1
+1;28/07/2024;19:15;Westerlo;Cercle Brugge;3;0;3
+2;02/08/2024;20:45;Union SG;Beerschot;3;1;2
+2;03/08/2024;16:00;Mechelen;Westerlo;2;4;-2
+2;03/08/2024;18:15;OH Leuven;Genk;3;1;2
+2;03/08/2024;20:45;Sint-Truiden;Charleroi;1;4;-3
+2;04/08/2024;13:30;Antwerp;Anderlecht;1;2;-1
+2;04/08/2024;16:00;Cercle Brugge;Kortrijk;1;2;-1
+2;04/08/2024;18:30;Standard Liège;Club Brugge;1;0;1
+2;04/08/2024;19:15;Gent;Dender;1;2;-1
+3;09/08/2024;20:45;Standard Liège;Mechelen;0;0;0
+3;10/08/2024;16:00;Dender;Kortrijk;4;1;3
+3;10/08/2024;18:15;Westerlo;Union SG;4;3;1
+3;10/08/2024;20:45;Anderlecht;OH Leuven;1;1;0
+3;11/08/2024;13:30;Genk;Club Brugge;3;2;1
+3;11/08/2024;16:00;Antwerp;Sint-Truiden;6;1;5
+3;11/08/2024;18:30;Charleroi;Gent;1;0;1
+3;11/08/2024;19:15;Cercle Brugge;Beerschot;4;1;3
+4;16/08/2024;20:45;Union SG;Charleroi;1;0;1
+4;17/08/2024;16:00;Beerschot;Genk;3;4;-1
+4;17/08/2024;18:15;Sint-Truiden;Dender;3;3;0
+4;17/08/2024;20:45;Mechelen;Anderlecht;1;3;-2
+4;18/08/2024;13:30;Club Brugge;Antwerp;1;0;1
+4;18/08/2024;16:00;OH Leuven;Cercle Brugge;1;1;0
+4;18/08/2024;18:30;Kortrijk;Standard Liège;1;0;1
+4;18/08/2024;19:15;Gent;Westerlo;4;1;3
+5;24/08/2024;18:15;Westerlo;OH Leuven;1;1;0
+5;24/08/2024;20:45;Antwerp;Mechelen;0;1;-1
+5;25/08/2024;13:30;Dender;Club Brugge;1;2;-1
+5;25/08/2024;16:00;Sint-Truiden;Union SG;0;0;0
+5;25/08/2024;18:30;Standard Liège;Beerschot;1;0;1
+5;25/08/2024;19:15;Charleroi;Kortrijk;1;0;1
+6;30/08/2024;20:45;Genk;Westerlo;1;0;1
+6;31/08/2024;16:00;Mechelen;Charleroi;5;2;3
+6;31/08/2024;18:15;Beerschot;Dender;1;2;-1
+6;31/08/2024;20:45;OH Leuven;Standard Liège;2;0;2
+6;01/09/2024;13:30;Club Brugge;Cercle Brugge;3;0;3
+6;01/09/2024;16:00;Gent;Antwerp;1;1;0
+6;01/09/2024;18:30;Union SG;Anderlecht;0;0;0
+6;01/09/2024;19:15;Kortrijk;Sint-Truiden;1;1;0
+7;13/09/2024;20:45;Dender;Standard Liège;0;2;-2
+7;14/09/2024;16:00;Cercle Brugge;Genk;2;3;-1
+7;14/09/2024;18:15;Kortrijk;Club Brugge;0;3;-3
+7;14/09/2024;20:45;Anderlecht;Westerlo;2;2;0
+7;15/09/2024;13:30;Antwerp;Union SG;2;0;2
+7;15/09/2024;16:00;Sint-Truiden;OH Leuven;2;1;1
+7;15/09/2024;18:30;Charleroi;Beerschot;3;0;3
+7;15/09/2024;19:15;Gent;Mechelen;2;0;2
+5;17/09/2024;20:00;Anderlecht;Genk;0;2;-2
+8;20/09/2024;20:45;Standard Liège;Union SG;0;0;0
+8;21/09/2024;16:00;Beerschot;Sint-Truiden;0;3;-3
+8;21/09/2024;18:15;Westerlo;Antwerp;1;2;-1
+8;21/09/2024;20:45;Anderlecht;Charleroi;0;0;0
+8;22/09/2024;13:30;Club Brugge;Gent;2;4;-2
+8;22/09/2024;16:00;Mechelen;Cercle Brugge;2;0;2
+8;22/09/2024;18:30;Genk;Dender;4;0;4
+8;22/09/2024;19:15;OH Leuven;Kortrijk;1;1;0
+5;26/09/2024;20:45;Cercle Brugge;Gent;2;1;1
+9;27/09/2024;20:45;Charleroi;Club Brugge;1;1;0
+9;28/09/2024;16:00;Genk;Mechelen;2;1;1
+9;28/09/2024;18:15;Standard Liège;Westerlo;1;2;-1
+9;28/09/2024;20:45;Dender;Anderlecht;1;1;0
+9;29/09/2024;13:30;Antwerp;Beerschot;5;0;5
+9;29/09/2024;16:00;Union SG;Kortrijk;3;0;3
+9;29/09/2024;18:30;Gent;OH Leuven;3;0;3
+9;29/09/2024;19:15;Cercle Brugge;Sint-Truiden;1;1;0
+10;04/10/2024;20:45;Westerlo;Beerschot;2;2;0
+10;05/10/2024;16:00;Mechelen;OH Leuven;5;0;5
+10;05/10/2024;18:15;Kortrijk;Genk;2;1;1
+10;05/10/2024;20:45;Dender;Charleroi;1;0;1
+10;06/10/2024;13:30;Anderlecht;Standard Liège;3;0;3
+10;06/10/2024;16:00;Antwerp;Cercle Brugge;3;0;3
+10;06/10/2024;18:30;Club Brugge;Union SG;1;1;0
+10;06/10/2024;19:15;Sint-Truiden;Gent;1;1;0
+11;18/10/2024;20:45;Beerschot;Anderlecht;2;1;1
+11;19/10/2024;16:00;Westerlo;Club Brugge;1;2;-1
+11;19/10/2024;18:15;Cercle Brugge;Dender;0;0;0
+11;19/10/2024;20:45;Union SG;Gent;0;0;0
+11;20/10/2024;13:30;Genk;Sint-Truiden;3;2;1
+11;20/10/2024;16:00;OH Leuven;Antwerp;1;1;0
+11;20/10/2024;18:30;Standard Liège;Charleroi;2;1;1
+11;20/10/2024;19:15;Mechelen;Kortrijk;3;0;3
+12;25/10/2024;20:45;Kortrijk;Beerschot;1;0;1
+12;26/10/2024;16:00;Charleroi;OH Leuven;0;2;-2
+12;26/10/2024;18:15;Dender;Mechelen;2;5;-3
+12;26/10/2024;20:45;Sint-Truiden;Westerlo;2;0;2
+12;27/10/2024;13:30;Club Brugge;Anderlecht;2;1;1
+12;27/10/2024;16:00;Antwerp;Standard Liège;3;0;3
+12;27/10/2024;18:30;Gent;Genk;0;2;-2
+12;27/10/2024;19:15;Union SG;Cercle Brugge;1;3;-2
+13;01/11/2024;20:45;Westerlo;Dender;2;0;2
+13;02/11/2024;16:00;Standard Liège;Sint-Truiden;2;1;1
+13;02/11/2024;18:15;OH Leuven;Club Brugge;0;1;-1
+13;02/11/2024;20:45;Mechelen;Union SG;1;1;0
+13;03/11/2024;13:30;Genk;Antwerp;2;0;2
+13;03/11/2024;16:00;Cercle Brugge;Charleroi;2;0;2
+13;03/11/2024;18:30;Anderlecht;Kortrijk;4;0;4
+13;03/11/2024;19:15;Beerschot;Gent;0;0;0
+14;08/11/2024;20:45;Sint-Truiden;Mechelen;2;1;1
+14;09/11/2024;16:00;Kortrijk;Antwerp;1;2;-1
+14;09/11/2024;18:15;Dender;OH Leuven;1;1;0
+14;09/11/2024;20:45;Charleroi;Westerlo;1;0;1
+14;10/11/2024;13:30;Cercle Brugge;Anderlecht;0;5;-5
+14;10/11/2024;16:00;Gent;Standard Liège;5;0;5
+14;10/11/2024;18:30;Union SG;Genk;4;0;4
+14;10/11/2024;19:15;Beerschot;Club Brugge;2;2;0
+15;22/11/2024;20:45;Antwerp;Dender;1;1;0
+15;23/11/2024;16:00;Club Brugge;Sint-Truiden;7;0;7
+15;23/11/2024;18:15;Standard Liège;Cercle Brugge;1;0;1
+15;23/11/2024;20:45;Genk;Charleroi;3;0;3
+15;24/11/2024;13:30;Mechelen;Beerschot;3;0;3
+15;24/11/2024;16:00;OH Leuven;Union SG;1;1;0
+15;24/11/2024;18:30;Anderlecht;Gent;6;0;6
+15;24/11/2024;19:15;Westerlo;Kortrijk;4;0;4
+16;29/11/2024;20:45;Kortrijk;Mechelen;3;1;2
+16;30/11/2024;18:15;Club Brugge;Dender;4;1;3
+16;30/11/2024;20:45;Charleroi;Standard Liège;1;1;0
+16;01/12/2024;13:30;Sint-Truiden;Genk;2;2;0
+16;01/12/2024;16:00;Beerschot;Cercle Brugge;3;2;1
+16;01/12/2024;16:00;OH Leuven;Anderlecht;0;0;0
+16;01/12/2024;18:30;Union SG;Antwerp;2;1;1
+16;01/12/2024;19:15;Westerlo;Gent;2;2;0
+17;07/12/2024;16:00;Genk;Kortrijk;3;2;1
+17;07/12/2024;18:15;Mechelen;Club Brugge;1;2;-1
+17;07/12/2024;18:15;Standard Liège;OH Leuven;1;1;0
+17;07/12/2024;20:45;Gent;Sint-Truiden;2;0;2
+17;08/12/2024;13:30;Antwerp;Charleroi;1;3;-2
+17;08/12/2024;16:00;Cercle Brugge;Union SG;0;0;0
+17;08/12/2024;18:30;Anderlecht;Beerschot;2;1;1
+17;08/12/2024;19:15;Dender;Westerlo;1;0;1
+18;13/12/2024;20:45;Mechelen;Antwerp;1;1;0
+18;14/12/2024;16:00;Beerschot;Standard Liège;0;0;0
+18;14/12/2024;18:15;OH Leuven;Charleroi;1;0;1
+18;14/12/2024;20:45;Kortrijk;Dender;0;3;-3
+18;15/12/2024;13:30;Club Brugge;Genk;2;0;2
+18;15/12/2024;16:00;Union SG;Westerlo;3;1;2
+18;15/12/2024;18:30;Sint-Truiden;Anderlecht;0;2;-2
+18;15/12/2024;19:15;Gent;Cercle Brugge;1;1;0
+19;20/12/2024;20:45;Westerlo;Mechelen;1;1;0
+19;21/12/2024;16:00;Charleroi;Sint-Truiden;2;1;1
+19;21/12/2024;18:15;Dender;Antwerp;1;3;-2
+19;21/12/2024;20:45;Beerschot;Kortrijk;2;2;0
+19;22/12/2024;13:30;Genk;Anderlecht;2;0;2
+19;22/12/2024;16:00;Standard Liège;Gent;0;1;-1
+19;22/12/2024;18:30;Union SG;Club Brugge;2;2;0
+19;22/12/2024;19:15;Cercle Brugge;OH Leuven;1;0;1
+20;26/12/2024;13:30;Antwerp;Genk;2;2;0
+20;26/12/2024;16:00;Club Brugge;Westerlo;4;3;1
+20;26/12/2024;16:00;Kortrijk;Charleroi;0;1;-1
+20;26/12/2024;18:30;Mechelen;Standard Liège;0;0;0
+20;26/12/2024;20:45;Gent;Union SG;1;3;-2
+20;27/12/2024;18:30;OH Leuven;Beerschot;2;0;2
+20;27/12/2024;20:45;Anderlecht;Dender;2;3;-1
+20;27/12/2024;20:45;Sint-Truiden;Cercle Brugge;1;1;0
+21;10/01/2025;20:45;Standard Liège;Kortrijk;1;0;1
+21;11/01/2025;16:00;Westerlo;Sint-Truiden;1;2;-1
+21;11/01/2025;18:15;Genk;OH Leuven;2;0;2
+21;11/01/2025;20:45;Charleroi;Union SG;1;2;-1
+21;12/01/2025;13:30;Beerschot;Antwerp;1;1;0
+21;12/01/2025;16:00;Dender;Gent;0;0;0
+21;12/01/2025;18:30;Anderlecht;Club Brugge;0;3;-3
+21;12/01/2025;19:15;Cercle Brugge;Mechelen;1;0;1
+22;17/01/2025;20:45;Gent;Charleroi;1;1;0
+22;18/01/2025;16:00;Dender;Cercle Brugge;0;1;-1
+22;18/01/2025;18:15;Mechelen;Genk;1;2;-1
+22;18/01/2025;20:45;Club Brugge;Beerschot;4;2;2
+22;19/01/2025;13:30;Kortrijk;Anderlecht;0;2;-2
+22;19/01/2025;16:00;Union SG;OH Leuven;1;0;1
+22;19/01/2025;18:30;Sint-Truiden;Standard Liège;1;2;-1
+22;19/01/2025;19:15;Antwerp;Westerlo;3;2;1
+23;24/01/2025;20:45;Sint-Truiden;Antwerp;1;1;0
+23;25/01/2025;16:00;Westerlo;Genk;1;2;-1
+23;25/01/2025;18:15;Charleroi;Cercle Brugge;1;1;0
+23;25/01/2025;20:45;Club Brugge;Kortrijk;1;1;0
+23;26/01/2025;13:30;Standard Liège;Dender;1;0;1
+23;26/01/2025;16:00;Beerschot;Union SG;0;4;-4
+23;26/01/2025;18:30;Anderlecht;Mechelen;4;1;3
+23;26/01/2025;19:15;OH Leuven;Gent;0;0;0
+24;31/01/2025;20:45;OH Leuven;Mechelen;1;0;1
+24;01/02/2025;16:00;Charleroi;Dender;5;0;5
+24;01/02/2025;18:15;Cercle Brugge;Standard Liège;1;1;0
+24;01/02/2025;20:45;Genk;Beerschot;1;0;1
+24;02/02/2025;13:30;Antwerp;Club Brugge;2;1;1
+24;02/02/2025;16:00;Union SG;Sint-Truiden;2;1;1
+24;02/02/2025;18:30;Gent;Anderlecht;1;0;1
+24;02/02/2025;19:15;Kortrijk;Westerlo;1;2;-1
+25;07/02/2025;20:45;Mechelen;Gent;3;3;0
+25;08/02/2025;16:00;Club Brugge;OH Leuven;1;0;1
+25;08/02/2025;18:15;Dender;Sint-Truiden;2;1;1
+25;08/02/2025;20:45;Genk;Cercle Brugge;2;1;1
+25;09/02/2025;13:30;Anderlecht;Antwerp;2;0;2
+25;09/02/2025;16:00;Kortrijk;Union SG;1;2;-1
+25;09/02/2025;18:30;Westerlo;Standard Liège;4;2;2
+25;09/02/2025;19:15;Beerschot;Charleroi;1;1;0
+26;14/02/2025;20:45;Standard Liège;Genk;1;2;-1
+26;15/02/2025;16:00;OH Leuven;Dender;3;2;1
+26;15/02/2025;18:15;Antwerp;Kortrijk;2;1;1
+26;15/02/2025;20:45;Sint-Truiden;Club Brugge;2;2;0
+26;16/02/2025;13:30;Gent;Beerschot;3;2;1
+26;16/02/2025;16:00;Union SG;Mechelen;0;1;-1
+26;16/02/2025;18:30;Charleroi;Anderlecht;0;1;-1
+26;16/02/2025;19:15;Cercle Brugge;Westerlo;1;1;0
+27;21/02/2025;20:45;Mechelen;Sint-Truiden;1;1;0
+27;22/02/2025;16:00;Dender;Beerschot;0;0;0
+27;22/02/2025;18:15;Westerlo;Charleroi;1;3;-2
+27;22/02/2025;20:45;Antwerp;OH Leuven;2;2;0
+27;23/02/2025;13:30;Club Brugge;Standard Liège;1;2;-1
+27;23/02/2025;16:00;Genk;Gent;0;0;0
+27;23/02/2025;18:30;Anderlecht;Union SG;0;2;-2
+27;23/02/2025;19:15;Kortrijk;Cercle Brugge;1;1;0
+28;28/02/2025;20:45;Charleroi;Genk;1;1;0
+28;01/03/2025;16:00;Gent;Club Brugge;1;1;0
+28;01/03/2025;16:00;Cercle Brugge;Antwerp;0;0;0
+28;01/03/2025;18:15;Sint-Truiden;Kortrijk;4;2;2
+28;01/03/2025;20:45;Union SG;Dender;4;1;3
+28;02/03/2025;16:00;Beerschot;Mechelen;1;0;1
+28;02/03/2025;18:30;Standard Liège;Anderlecht;0;2;-2
+28;02/03/2025;19:15;OH Leuven;Westerlo;0;0;0
+29;07/03/2025;20:45;Sint-Truiden;Beerschot;2;0;2
+29;08/03/2025;16:00;Kortrijk;OH Leuven;2;0;2
+29;08/03/2025;18:15;Charleroi;Mechelen;0;1;-1
+29;08/03/2025;20:45;Dender;Genk;0;1;-1
+29;09/03/2025;13:30;Cercle Brugge;Club Brugge;1;3;-2
+29;09/03/2025;16:00;Westerlo;Anderlecht;2;0;2
+29;09/03/2025;18:30;Antwerp;Gent;0;1;-1
+29;09/03/2025;19:15;Union SG;Standard Liège;3;0;3
+30;15/03/2025;20:45;Genk;Union SG;2;1;1
+30;16/03/2025;13:30;Standard Liège;Antwerp;0;0;0
+30;16/03/2025;18:30;Beerschot;Westerlo;1;2;-1
+30;16/03/2025;18:30;OH Leuven;Sint-Truiden;3;2;1
+30;16/03/2025;18:30;Anderlecht;Cercle Brugge;3;0;3
+30;16/03/2025;18:30;Club Brugge;Charleroi;4;2;2
+30;16/03/2025;18:30;Mechelen;Dender;2;1;1
+30;16/03/2025;18:30;Gent;Kortrijk;1;2;-1
+1;28/03/2025;20:45;OH Leuven;Charleroi;0;0;0
+1;29/03/2025;16:00;Beerschot;Sint-Truiden;0;1;-1
+1;29/03/2025;18:15;Standard Liège;Mechelen;2;2;0
+1;29/03/2025;20:45;Union SG;Antwerp;5;1;4
+1;30/03/2025;13:30;Club Brugge;Anderlecht;2;0;2
+1;30/03/2025;16:00;Kortrijk;Cercle Brugge;2;2;0
+1;30/03/2025;18:30;Genk;Gent;4;0;4
+1;30/03/2025;19:15;Dender;Westerlo;1;0;1
+2;04/04/2025;20:45;Mechelen;Dender;5;2;3
+2;05/04/2025;16:00;Cercle Brugge;Beerschot;2;1;1
+2;05/04/2025;18:15;Westerlo;OH Leuven;2;2;0
+2;05/04/2025;20:45;Gent;Union SG;0;3;-3
+2;06/04/2025;13:30;Antwerp;Club Brugge;2;3;-1
+2;06/04/2025;16:00;Sint-Truiden;Kortrijk;0;3;-3
+2;06/04/2025;18:30;Anderlecht;Genk;1;2;-1
+2;06/04/2025;19:15;Charleroi;Standard Liège;1;0;1
+3;11/04/2025;20:45;Westerlo;Charleroi;2;2;0
+3;12/04/2025;16:00;Kortrijk;Beerschot;3;2;1
+3;12/04/2025;18:15;Sint-Truiden;Cercle Brugge;3;1;2
+3;12/04/2025;20:45;Union SG;Anderlecht;2;0;2
+3;13/04/2025;13:30;Antwerp;Gent;0;1;-1
+3;13/04/2025;16:00;Mechelen;OH Leuven;1;1;0
+3;13/04/2025;18:30;Club Brugge;Genk;1;0;1
+3;13/04/2025;19:15;Dender;Standard Liège;1;1;0
+4;19/04/2025;16:00;OH Leuven;Dender;4;4;0
+4;19/04/2025;18:15;Charleroi;Mechelen;3;0;3
+4;19/04/2025;20:45;Standard Liège;Westerlo;1;1;0
+4;20/04/2025;13:30;Anderlecht;Antwerp;0;0;0
+4;20/04/2025;16:00;Genk;Union SG;1;2;-1
+4;20/04/2025;18:30;Gent;Club Brugge;0;5;-5
+5;22/04/2025;20:30;Standard Liège;OH Leuven;0;1;-1
+5;22/04/2025;20:30;Dender;Charleroi;2;1;1
+5;22/04/2025;20:30;Mechelen;Westerlo;2;3;-1
+5;23/04/2025;20:30;Antwerp;Genk;1;1;0
+5;23/04/2025;20:30;Anderlecht;Gent;5;0;5
+5;24/04/2025;20:30;Club Brugge;Union SG;0;1;-1
+4;25/04/2025;20:45;Beerschot;Kortrijk;2;0;2
+6;26/04/2025;16:00;OH Leuven;Standard Liège;1;1;0
+6;26/04/2025;18:15;Westerlo;Mechelen;2;2;0
+4;26/04/2025;20:45;Cercle Brugge;Sint-Truiden;3;1;2
+6;26/04/2025;20:45;Charleroi;Dender;4;1;3
+6;27/04/2025;13:30;Gent;Anderlecht;0;1;-1
+6;27/04/2025;16:00;Genk;Antwerp;0;1;-1
+6;27/04/2025;18:30;Union SG;Club Brugge;0;0;0
+7;01/05/2025;13:30;Antwerp;Anderlecht;1;3;-2
+7;01/05/2025;16:15;Club Brugge;Gent;4;1;3
+7;02/05/2025;20:45;Westerlo;Dender;4;2;2
+5;03/05/2025;16:00;Cercle Brugge;Kortrijk;0;2;-2
+7;03/05/2025;18:15;OH Leuven;Mechelen;1;2;-1
+7;03/05/2025;20:45;Union SG;Genk;1;0;1
+7;04/05/2025;13:30;Standard Liège;Charleroi;0;1;-1
+5;04/05/2025;16:00;Sint-Truiden;Beerschot;2;1;1
+8;09/05/2025;20:45;Charleroi;Westerlo;4;3;1
+6;10/05/2025;16:00;Kortrijk;Sint-Truiden;2;2;0
+6;10/05/2025;16:00;Beerschot;Cercle Brugge;4;2;2
+8;10/05/2025;18:15;Mechelen;Standard Liège;0;0;0
+8;10/05/2025;20:45;Anderlecht;Union SG;0;1;-1
+8;11/05/2025;13:30;Gent;Antwerp;0;3;-3
+8;11/05/2025;18:30;Genk;Club Brugge;0;2;-2
+8;11/05/2025;19:15;Dender;OH Leuven;5;0;5
+9;16/05/2025;20:45;OH Leuven;Westerlo;0;2;-2
+9;17/05/2025;18:15;Standard Liège;Dender;0;0;0
+9;17/05/2025;20:45;Antwerp;Union SG;0;4;-4
+9;18/05/2025;13:30;Anderlecht;Club Brugge;1;3;-2
+9;18/05/2025;16:00;Mechelen;Charleroi;1;1;0
+9;18/05/2025;18:30;Gent;Genk;1;4;-3
+10;24/05/2025;20:00;Dender;Mechelen;2;2;0
+10;24/05/2025;20:00;Westerlo;Standard Liège;0;0;0
+10;24/05/2025;20:00;Charleroi;OH Leuven;2;1;1
+10;25/05/2025;18:30;Union SG;Gent;3;1;2
+10;25/05/2025;18:30;Genk;Anderlecht;2;1;1
+10;25/05/2025;18:30;Club Brugge;Antwerp;1;1;0

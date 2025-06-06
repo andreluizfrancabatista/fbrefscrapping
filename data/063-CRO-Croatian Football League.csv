@@ -1,0 +1,181 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;02/08/2024;21:00;Dinamo Zagreb;Istra 1961;5;0;5
+1;03/08/2024;21:00;Gorica;Varaždin;0;0;0
+1;04/08/2024;18:50;Rijeka;Lokomotiva;4;0;4
+1;04/08/2024;21:00;Osijek;Šibenik;1;2;-1
+1;04/08/2024;21:00;Hajduk Split;Slaven Belupo;2;1;1
+2;09/08/2024;18:30;Šibenik;Slaven Belupo;2;0;2
+2;10/08/2024;21:00;Istra 1961;Gorica;2;1;1
+2;11/08/2024;18:30;Lokomotiva;Hajduk Split;1;1;0
+2;11/08/2024;21:00;Varaždin;Rijeka;0;0;0
+2;11/08/2024;21:00;Osijek;Dinamo Zagreb;1;2;-1
+3;16/08/2024;21:00;Dinamo Zagreb;Šibenik;3;0;3
+3;17/08/2024;21:00;Slaven Belupo;Lokomotiva;2;2;0
+3;18/08/2024;18:50;Hajduk Split;Varaždin;2;1;1
+3;18/08/2024;21:00;Rijeka;Istra 1961;4;0;4
+3;18/08/2024;21:00;Gorica;Osijek;2;2;0
+4;23/08/2024;20:00;Lokomotiva;Šibenik;0;1;-1
+4;24/08/2024;18:15;Varaždin;Slaven Belupo;2;0;2
+4;24/08/2024;20:30;Dinamo Zagreb;Gorica;2;1;1
+4;25/08/2024;18:15;Istra 1961;Hajduk Split;1;1;0
+4;25/08/2024;20:45;Osijek;Rijeka;0;2;-2
+5;30/08/2024;20:00;Gorica;Šibenik;2;1;1
+5;31/08/2024;18:15;Slaven Belupo;Istra 1961;0;1;-1
+5;31/08/2024;20:45;Hajduk Split;Osijek;1;0;1
+5;01/09/2024;18:15;Lokomotiva;Varaždin;0;1;-1
+5;01/09/2024;20:45;Rijeka;Dinamo Zagreb;1;1;0
+6;13/09/2024;20:00;Dinamo Zagreb;Hajduk Split;0;1;-1
+6;14/09/2024;17:30;Istra 1961;Lokomotiva;0;2;-2
+6;14/09/2024;20:00;Gorica;Rijeka;0;1;-1
+6;15/09/2024;17:30;Osijek;Slaven Belupo;1;0;1
+6;15/09/2024;20:00;Šibenik;Varaždin;0;0;0
+7;20/09/2024;18:00;Varaždin;Istra 1961;1;0;1
+7;21/09/2024;17:30;Slaven Belupo;Dinamo Zagreb;4;1;3
+7;21/09/2024;20:00;Hajduk Split;Gorica;4;1;3
+7;22/09/2024;17:30;Lokomotiva;Osijek;0;1;-1
+7;22/09/2024;20:00;Rijeka;Šibenik;3;0;3
+8;27/09/2024;18:00;Šibenik;Istra 1961;0;0;0
+8;28/09/2024;20:00;Dinamo Zagreb;Lokomotiva;5;1;4
+8;29/09/2024;17:30;Osijek;Varaždin;2;1;1
+8;29/09/2024;20:00;Rijeka;Hajduk Split;0;0;0
+8;30/09/2024;16:00;Gorica;Slaven Belupo;2;1;1
+9;04/10/2024;18:00;Istra 1961;Osijek;2;1;1
+9;05/10/2024;16:00;Lokomotiva;Gorica;2;0;2
+9;05/10/2024;18:30;Slaven Belupo;Rijeka;0;0;0
+9;06/10/2024;16:00;Varaždin;Dinamo Zagreb;0;1;-1
+9;06/10/2024;18:30;Hajduk Split;Šibenik;4;0;4
+10;18/10/2024;18:00;Lokomotiva;Rijeka;2;2;0
+10;19/10/2024;16:00;Šibenik;Osijek;1;3;-2
+10;19/10/2024;18:30;Istra 1961;Dinamo Zagreb;2;2;0
+10;20/10/2024;16:00;Slaven Belupo;Hajduk Split;0;2;-2
+10;20/10/2024;18:30;Varaždin;Gorica;2;1;1
+11;25/10/2024;18:00;Slaven Belupo;Šibenik;2;2;0
+11;26/10/2024;16:00;Hajduk Split;Lokomotiva;2;1;1
+11;26/10/2024;18:30;Rijeka;Varaždin;1;1;0
+11;27/10/2024;16:00;Dinamo Zagreb;Osijek;2;4;-2
+11;27/10/2024;18:30;Gorica;Istra 1961;1;0;1
+12;01/11/2024;18:00;Šibenik;Dinamo Zagreb;0;4;-4
+12;02/11/2024;15:00;Lokomotiva;Slaven Belupo;0;1;-1
+12;02/11/2024;17:30;Osijek;Gorica;2;0;2
+12;03/11/2024;15:00;Istra 1961;Rijeka;0;1;-1
+12;03/11/2024;17:30;Varaždin;Hajduk Split;1;0;1
+13;08/11/2024;18:00;Šibenik;Lokomotiva;0;3;-3
+13;09/11/2024;15:00;Gorica;Dinamo Zagreb;2;2;0
+13;09/11/2024;17:30;Hajduk Split;Istra 1961;1;1;0
+13;10/11/2024;15:00;Slaven Belupo;Varaždin;1;1;0
+13;10/11/2024;17:45;Rijeka;Osijek;1;1;0
+14;22/11/2024;18:00;Istra 1961;Slaven Belupo;2;3;-1
+14;23/11/2024;15:00;Varaždin;Lokomotiva;1;1;0
+14;23/11/2024;17:45;Dinamo Zagreb;Rijeka;0;0;0
+14;24/11/2024;15:00;Osijek;Hajduk Split;2;2;0
+14;24/11/2024;17:45;Šibenik;Gorica;1;0;1
+15;29/11/2024;18:00;Varaždin;Šibenik;2;1;1
+15;30/11/2024;15:00;Slaven Belupo;Osijek;3;2;1
+15;30/11/2024;17:30;Rijeka;Gorica;1;0;1
+15;01/12/2024;15:00;Lokomotiva;Istra 1961;1;2;-1
+15;01/12/2024;17:45;Hajduk Split;Dinamo Zagreb;1;0;1
+16;06/12/2024;18:00;Dinamo Zagreb;Slaven Belupo;1;1;0
+16;07/12/2024;15:00;Istra 1961;Varaždin;0;0;0
+16;07/12/2024;17:30;Gorica;Hajduk Split;1;0;1
+16;08/12/2024;15:00;Šibenik;Rijeka;0;1;-1
+16;08/12/2024;17:30;Osijek;Lokomotiva;3;0;3
+17;13/12/2024;18:00;Slaven Belupo;Gorica;2;1;1
+17;14/12/2024;15:00;Lokomotiva;Dinamo Zagreb;3;1;2
+17;14/12/2024;17:30;Istra 1961;Šibenik;3;3;0
+17;15/12/2024;15:00;Varaždin;Osijek;0;0;0
+17;15/12/2024;17:45;Hajduk Split;Rijeka;2;2;0
+18;20/12/2024;18:00;Osijek;Istra 1961;2;2;0
+18;21/12/2024;15:00;Gorica;Lokomotiva;1;4;-3
+18;22/12/2024;13:00;Dinamo Zagreb;Varaždin;3;2;1
+18;22/12/2024;15:00;Rijeka;Slaven Belupo;2;0;2
+18;22/12/2024;17:30;Šibenik;Hajduk Split;1;2;-1
+19;24/01/2025;18:00;Osijek;Šibenik;2;2;0
+19;25/01/2025;15:00;Gorica;Varaždin;1;1;0
+19;25/01/2025;17:30;Dinamo Zagreb;Istra 1961;3;1;2
+19;26/01/2025;15:00;Rijeka;Lokomotiva;4;1;3
+19;26/01/2025;17:30;Hajduk Split;Slaven Belupo;0;0;0
+20;31/01/2025;17:00;Istra 1961;Gorica;0;0;0
+20;01/02/2025;15:00;Šibenik;Slaven Belupo;1;1;0
+20;01/02/2025;17:30;Varaždin;Rijeka;1;0;1
+20;02/02/2025;12:50;Lokomotiva;Hajduk Split;3;2;1
+20;02/02/2025;15:00;Osijek;Dinamo Zagreb;2;1;1
+21;07/02/2025;18:00;Dinamo Zagreb;Šibenik;3;0;3
+21;08/02/2025;15:00;Gorica;Osijek;1;0;1
+21;08/02/2025;17:30;Hajduk Split;Varaždin;1;0;1
+21;09/02/2025;15:00;Rijeka;Istra 1961;0;1;-1
+21;09/02/2025;17:45;Slaven Belupo;Lokomotiva;2;1;1
+22;14/02/2025;18:00;Šibenik;Lokomotiva;1;2;-1
+22;15/02/2025;15:00;Istra 1961;Hajduk Split;1;1;0
+22;15/02/2025;17:30;Dinamo Zagreb;Gorica;3;1;2
+22;16/02/2025;15:00;Varaždin;Slaven Belupo;0;1;-1
+22;16/02/2025;17:45;Osijek;Rijeka;0;2;-2
+23;21/02/2025;18:00;Lokomotiva;Varaždin;1;0;1
+23;22/02/2025;15:00;Hajduk Split;Osijek;4;0;4
+23;22/02/2025;17:45;Rijeka;Dinamo Zagreb;4;0;4
+23;23/02/2025;15:00;Gorica;Šibenik;1;0;1
+23;23/02/2025;17:30;Slaven Belupo;Istra 1961;0;0;0
+24;28/02/2025;18:00;Istra 1961;Lokomotiva;3;2;1
+24;01/03/2025;15:00;Gorica;Rijeka;0;0;0
+24;01/03/2025;17:30;Osijek;Slaven Belupo;1;2;-1
+24;02/03/2025;15:00;Dinamo Zagreb;Hajduk Split;2;2;0
+24;02/03/2025;17:45;Šibenik;Varaždin;0;2;-2
+25;07/03/2025;18:00;Rijeka;Šibenik;1;1;0
+25;08/03/2025;15:00;Varaždin;Istra 1961;0;0;0
+25;08/03/2025;17:30;Lokomotiva;Osijek;3;0;3
+25;09/03/2025;15:00;Hajduk Split;Gorica;2;1;1
+25;09/03/2025;17:30;Slaven Belupo;Dinamo Zagreb;0;1;-1
+26;14/03/2025;18:00;Gorica;Slaven Belupo;0;3;-3
+26;15/03/2025;15:00;Šibenik;Istra 1961;1;0;1
+26;15/03/2025;17:30;Dinamo Zagreb;Lokomotiva;3;0;3
+26;16/03/2025;15:00;Osijek;Varaždin;0;0;0
+26;16/03/2025;17:45;Rijeka;Hajduk Split;3;0;3
+27;28/03/2025;18:00;Lokomotiva;Gorica;1;1;0
+27;29/03/2025;16:00;Istra 1961;Osijek;2;1;1
+27;29/03/2025;18:45;Slaven Belupo;Rijeka;2;1;1
+27;30/03/2025;16:00;Hajduk Split;Šibenik;1;0;1
+27;30/03/2025;18:45;Varaždin;Dinamo Zagreb;1;1;0
+28;04/04/2025;18:00;Varaždin;Gorica;0;0;0
+28;05/04/2025;16:00;Slaven Belupo;Hajduk Split;0;1;-1
+28;05/04/2025;18:45;Istra 1961;Dinamo Zagreb;3;0;3
+28;06/04/2025;16:00;Lokomotiva;Rijeka;0;1;-1
+28;06/04/2025;18:45;Šibenik;Osijek;4;1;3
+29;11/04/2025;18:00;Slaven Belupo;Šibenik;2;0;2
+29;12/04/2025;16:00;Gorica;Istra 1961;3;2;1
+29;12/04/2025;18:45;Dinamo Zagreb;Osijek;2;0;2
+29;13/04/2025;16:00;Rijeka;Varaždin;1;0;1
+29;13/04/2025;18:45;Hajduk Split;Lokomotiva;1;1;0
+30;17/04/2025;18:00;Šibenik;Dinamo Zagreb;0;4;-4
+30;18/04/2025;16:00;Lokomotiva;Slaven Belupo;0;2;-2
+30;18/04/2025;18:45;Varaždin;Hajduk Split;1;1;0
+30;19/04/2025;16:00;Osijek;Gorica;0;1;-1
+30;19/04/2025;18:45;Istra 1961;Rijeka;2;0;2
+31;22/04/2025;17:00;Slaven Belupo;Varaždin;0;1;-1
+31;22/04/2025;19:15;Lokomotiva;Šibenik;1;2;-1
+31;23/04/2025;15:00;Gorica;Dinamo Zagreb;1;0;1
+31;23/04/2025;17:30;Hajduk Split;Istra 1961;0;1;-1
+31;23/04/2025;20:00;Rijeka;Osijek;0;2;-2
+32;26/04/2025;18:00;Varaždin;Lokomotiva;2;1;1
+32;27/04/2025;16:00;Osijek;Hajduk Split;2;0;2
+32;27/04/2025;18:45;Dinamo Zagreb;Rijeka;1;0;1
+32;28/04/2025;17:00;Istra 1961;Slaven Belupo;1;1;0
+32;28/04/2025;19:15;Šibenik;Gorica;0;0;0
+33;02/05/2025;18:00;Varaždin;Šibenik;1;1;0
+33;03/05/2025;16:00;Hajduk Split;Dinamo Zagreb;1;3;-2
+33;03/05/2025;18:45;Lokomotiva;Istra 1961;0;0;0
+33;04/05/2025;16:00;Slaven Belupo;Osijek;1;4;-3
+33;04/05/2025;18:15;Rijeka;Gorica;2;1;1
+34;09/05/2025;18:00;Osijek;Lokomotiva;1;1;0
+34;10/05/2025;17:00;Šibenik;Rijeka;0;1;-1
+34;10/05/2025;19:45;Dinamo Zagreb;Slaven Belupo;5;0;5
+34;11/05/2025;16:00;Gorica;Hajduk Split;1;1;0
+34;11/05/2025;18:15;Istra 1961;Varaždin;0;0;0
+35;16/05/2025;18:00;Istra 1961;Šibenik;3;0;3
+35;17/05/2025;17:00;Varaždin;Osijek;2;1;1
+35;17/05/2025;19:15;Lokomotiva;Dinamo Zagreb;1;1;0
+35;18/05/2025;16:00;Slaven Belupo;Gorica;4;0;4
+35;18/05/2025;18:45;Hajduk Split;Rijeka;2;1;1
+36;24/05/2025;19:15;Gorica;Lokomotiva;0;3;-3
+36;25/05/2025;17:00;Rijeka;Slaven Belupo;2;0;2
+36;25/05/2025;17:00;Šibenik;Hajduk Split;0;1;-1
+36;25/05/2025;17:00;Dinamo Zagreb;Varaždin;1;0;1
+36;25/05/2025;17:00;Osijek;Istra 1961;1;1;0

@@ -1,0 +1,241 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;15/08/2024;20:30;Persepolis;Zob Ahan;1;1;0
+1;15/08/2024;20:45;Malavan;Gol Gohar;1;0;1
+1;15/08/2024;21:30;Esteghlal Khuz;Aluminium Arak;0;0;0
+1;16/08/2024;20:15;Mes Rafsanjan;Tractor Sazi;0;2;-2
+1;16/08/2024;20:15;Sepahan;Chadormalu SC;3;1;2
+1;16/08/2024;20:30;Shams Azar;Esteghlal;1;2;-1
+1;16/08/2024;20:30;SorkhPooshan FC;Kheybar;0;1;-1
+1;16/08/2024;20:30;Nassaji;Foolad;0;1;-1
+2;22/08/2024;20:30;Gol Gohar;Esteghlal Khuz;2;0;2
+2;22/08/2024;20:30;Aluminium Arak;Nassaji;1;1;0
+2;22/08/2024;20:45;Tractor Sazi;Persepolis;1;1;0
+2;22/08/2024;21:30;Foolad;Mes Rafsanjan;0;0;0
+2;23/08/2024;20:15;Zob Ahan;SorkhPooshan FC;0;0;0
+2;23/08/2024;20:30;Kheybar;Sepahan;1;2;-1
+2;23/08/2024;20:30;Chadormalu SC;Shams Azar;1;1;0
+2;23/08/2024;20:30;Esteghlal;Malavan;2;2;0
+3;29/08/2024;20:15;Mes Rafsanjan;Aluminium Arak;3;1;2
+3;29/08/2024;20:15;SorkhPooshan FC;Tractor Sazi;0;4;-4
+3;29/08/2024;20:30;Kheybar;Zob Ahan;1;1;0
+3;29/08/2024;21:30;Esteghlal Khuz;Esteghlal;1;0;1
+3;30/08/2024;20:15;Nassaji;Gol Gohar;0;1;-1
+3;30/08/2024;20:15;Sepahan;Shams Azar;1;0;1
+3;30/08/2024;20:30;Persepolis;Foolad;2;0;2
+3;30/08/2024;20:30;Malavan;Chadormalu SC;3;1;2
+4;13/09/2024;19:45;Shams Azar;Esteghlal Khuz;2;2;0
+4;13/09/2024;19:45;Sepahan;Malavan;1;0;1
+4;13/09/2024;20:30;Tractor Sazi;Zob Ahan;0;1;-1
+4;14/09/2024;20:00;Chadormalu SC;Nassaji;1;0;1
+4;14/09/2024;20:00;Aluminium Arak;SorkhPooshan FC;0;0;0
+4;14/09/2024;20:30;Foolad;Kheybar;1;1;0
+5;20/09/2024;18:15;Nassaji;Esteghlal;2;2;0
+5;20/09/2024;19:30;Mes Rafsanjan;Gol Gohar;0;0;0
+5;20/09/2024;20:00;Malavan;Shams Azar;2;0;2
+5;20/09/2024;21:00;Persepolis;Aluminium Arak;2;0;2
+5;21/09/2024;18:45;SorkhPooshan FC;Foolad;0;1;-1
+5;21/09/2024;19:30;Esteghlal Khuz;Chadormalu SC;1;1;0
+5;22/09/2024;19:00;Zob Ahan;Sepahan;1;1;0
+5;22/09/2024;19:00;Kheybar;Tractor Sazi;1;2;-1
+6;25/09/2024;19:00;Esteghlal;Persepolis;0;1;-1
+6;26/09/2024;18:30;Shams Azar;Nassaji;0;0;0
+6;27/09/2024;18:15;Gol Gohar;SorkhPooshan FC;0;0;0
+6;27/09/2024;18:30;Sepahan;Tractor Sazi;0;1;-1
+6;27/09/2024;18:30;Aluminium Arak;Kheybar;1;0;1
+6;27/09/2024;18:30;Malavan;Esteghlal Khuz;1;0;1
+6;27/09/2024;18:30;Chadormalu SC;Mes Rafsanjan;1;0;1
+6;28/09/2024;19:00;Foolad;Zob Ahan;1;0;1
+7;04/10/2024;18:00;Mes Rafsanjan;Shams Azar;0;1;-1
+7;04/10/2024;18:15;Nassaji;Malavan;1;1;0
+7;04/10/2024;18:30;Zob Ahan;Aluminium Arak;0;4;-4
+7;04/10/2024;18:30;Kheybar;Gol Gohar;0;0;0
+7;05/10/2024;17:00;Persepolis;Chadormalu SC;1;0;1
+7;05/10/2024;19:00;Esteghlal Khuz;Sepahan;0;1;-1
+7;05/10/2024;20:00;SorkhPooshan FC;Esteghlal;1;2;-1
+7;06/10/2024;17:30;Tractor Sazi;Foolad;1;2;-1
+8;17/10/2024;18:00;Chadormalu SC;Kheybar;1;0;1
+8;17/10/2024;18:00;Shams Azar;SorkhPooshan FC;1;1;0
+8;17/10/2024;18:30;Esteghlal Khuz;Mes Rafsanjan;3;2;1
+8;18/10/2024;18:30;Esteghlal;Zob Ahan;0;3;-3
+8;20/10/2024;18:15;Aluminium Arak;Foolad;4;2;2
+9;25/10/2024;17:45;Zob Ahan;Gol Gohar;0;2;-2
+9;25/10/2024;17:45;Nassaji;Esteghlal Khuz;0;0;0
+9;25/10/2024;18:00;SorkhPooshan FC;Chadormalu SC;0;1;-1
+9;25/10/2024;18:00;Mes Rafsanjan;Malavan;1;1;0
+9;26/10/2024;17:00;Kheybar;Esteghlal;3;1;2
+9;26/10/2024;19:15;Persepolis;Shams Azar;2;0;2
+9;27/10/2024;17:00;Tractor Sazi;Aluminium Arak;2;0;2
+9;27/10/2024;18:15;Foolad;Sepahan;2;2;0
+10;30/10/2024;18:00;Esteghlal Khuz;Persepolis;1;0;1
+10;31/10/2024;17:45;Esteghlal;Tractor Sazi;0;2;-2
+10;01/11/2024;17:30;Chadormalu SC;Zob Ahan;1;0;1
+10;01/11/2024;17:30;Gol Gohar;Foolad;0;1;-1
+10;01/11/2024;17:45;Shams Azar;Kheybar;2;0;2
+10;01/11/2024;17:45;Sepahan;Aluminium Arak;1;0;1
+10;01/11/2024;17:45;Nassaji;Mes Rafsanjan;0;1;-1
+10;01/11/2024;17:45;Malavan;SorkhPooshan FC;0;2;-2
+4;09/11/2024;16:15;Gol Gohar;Persepolis;0;1;-1
+8;09/11/2024;18:00;Sepahan;Nassaji;1;1;0
+4;09/11/2024;18:30;Esteghlal;Mes Rafsanjan;1;0;1
+11;01/12/2024;15:45;Zob Ahan;Shams Azar;3;0;3
+11;02/12/2024;15:30;Kheybar;Malavan;1;3;-2
+11;02/12/2024;15:30;Aluminium Arak;Gol Gohar;0;0;0
+11;02/12/2024;15:30;SorkhPooshan FC;Esteghlal Khuz;0;1;-1
+11;03/12/2024;16:30;Tractor Sazi;Chadormalu SC;1;0;1
+11;07/12/2024;16:15;Persepolis;Nassaji;0;1;-1
+11;07/12/2024;19:00;Foolad;Esteghlal;0;2;-2
+11;08/12/2024;17:30;Mes Rafsanjan;Sepahan;0;3;-3
+8;09/12/2024;17:30;Gol Gohar;Tractor Sazi;0;2;-2
+12;10/12/2024;17:30;Chadormalu SC;Aluminium Arak;1;1;0
+12;10/12/2024;18:00;Esteghlal Khuz;Zob Ahan;0;0;0
+8;11/12/2024;16:15;Malavan;Persepolis;1;2;-1
+12;13/12/2024;15:30;Shams Azar;Foolad;0;3;-3
+12;13/12/2024;16:15;Mes Rafsanjan;SorkhPooshan FC;1;1;0
+12;13/12/2024;17:15;Nassaji;Kheybar;0;0;0
+12;16/12/2024;15:15;Sepahan;Persepolis;2;1;1
+12;16/12/2024;16:15;Malavan;Tractor Sazi;0;2;-2
+12;16/12/2024;17:30;Esteghlal;Gol Gohar;0;0;0
+13;19/12/2024;16:30;Kheybar;Esteghlal Khuz;1;0;1
+13;19/12/2024;16:45;Foolad;Chadormalu SC;2;1;1
+13;20/12/2024;16:30;Aluminium Arak;Esteghlal;1;1;0
+13;20/12/2024;16:30;SorkhPooshan FC;Nassaji;0;1;-1
+13;21/12/2024;15:30;Tractor Sazi;Shams Azar;0;1;-1
+13;21/12/2024;16:15;Gol Gohar;Sepahan;1;1;0
+13;21/12/2024;17:30;Zob Ahan;Malavan;1;0;1
+13;21/12/2024;17:30;Persepolis;Mes Rafsanjan;1;3;-2
+14;26/12/2024;15:30;Esteghlal Khuz;Foolad;0;0;0
+14;26/12/2024;17:30;Chadormalu SC;Esteghlal;0;0;0
+14;27/12/2024;16:30;Shams Azar;Gol Gohar;0;1;-1
+14;27/12/2024;16:30;Mes Rafsanjan;Zob Ahan;1;2;-1
+14;27/12/2024;17:30;Nassaji;Tractor Sazi;1;1;0
+14;27/12/2024;17:30;Malavan;Aluminium Arak;1;1;0
+14;27/12/2024;17:30;Persepolis;Kheybar;2;1;1
+14;27/12/2024;18:00;Sepahan;SorkhPooshan FC;5;0;5
+15;01/01/2025;15:00;Gol Gohar;Chadormalu SC;2;0;2
+15;01/01/2025;17:30;SorkhPooshan FC;Persepolis;0;5;-5
+15;02/01/2025;15:00;Aluminium Arak;Shams Azar;3;0;3
+15;02/01/2025;15:00;Kheybar;Mes Rafsanjan;1;2;-1
+15;02/01/2025;15:00;Zob Ahan;Nassaji;0;0;0
+15;02/01/2025;15:30;Foolad;Malavan;2;1;1
+15;02/01/2025;15:45;Tractor Sazi;Esteghlal Khuz;3;0;3
+15;02/01/2025;18:00;Esteghlal;Sepahan;1;1;0
+16;20/01/2025;15:00;Kheybar;SorkhPooshan FC;2;0;2
+16;20/01/2025;15:00;Aluminium Arak;Esteghlal Khuz;1;1;0
+16;20/01/2025;15:30;Esteghlal;Shams Azar;0;1;-1
+16;20/01/2025;15:30;Gol Gohar;Malavan;1;0;1
+16;21/01/2025;15:00;Chadormalu SC;Sepahan;1;2;-1
+16;21/01/2025;15:00;Tractor Sazi;Mes Rafsanjan;5;1;4
+16;21/01/2025;16:45;Zob Ahan;Persepolis;0;0;0
+16;21/01/2025;17:00;Foolad;Nassaji;1;0;1
+17;25/01/2025;15:00;Esteghlal Khuz;Gol Gohar;1;1;0
+17;25/01/2025;15:45;Malavan;Esteghlal;0;0;0
+17;26/01/2025;15:00;Persepolis;Tractor Sazi;2;0;2
+17;26/01/2025;17:45;Mes Rafsanjan;Foolad;2;3;-1
+17;26/01/2025;18:00;Sepahan;Kheybar;2;0;2
+17;27/01/2025;15:00;Nassaji;Aluminium Arak;1;2;-1
+17;27/01/2025;15:30;Shams Azar;Chadormalu SC;1;1;0
+17;27/01/2025;16:00;SorkhPooshan FC;Zob Ahan;0;0;0
+18;30/01/2025;17:00;Esteghlal;Esteghlal Khuz;2;0;2
+18;31/01/2025;16:00;Foolad;Persepolis;1;1;0
+18;01/02/2025;15:30;Tractor Sazi;SorkhPooshan FC;4;0;4
+18;01/02/2025;15:45;Gol Gohar;Nassaji;2;1;1
+18;01/02/2025;15:45;Shams Azar;Sepahan;1;1;0
+18;01/02/2025;16:00;Zob Ahan;Kheybar;2;2;0
+18;01/02/2025;16:45;Chadormalu SC;Malavan;1;0;1
+18;02/02/2025;16:00;Aluminium Arak;Mes Rafsanjan;0;0;0
+19;06/02/2025;15:30;Esteghlal Khuz;Shams Azar;1;0;1
+19;06/02/2025;16:00;Zob Ahan;Tractor Sazi;0;1;-1
+19;07/02/2025;15:00;Kheybar;Foolad;2;0;2
+19;07/02/2025;16:00;Nassaji;Chadormalu SC;0;0;0
+19;07/02/2025;16:00;Malavan;Sepahan;1;1;0
+19;07/02/2025;16:45;Mes Rafsanjan;Esteghlal;0;0;0
+19;08/02/2025;15:30;SorkhPooshan FC;Aluminium Arak;2;1;1
+19;08/02/2025;17:00;Persepolis;Gol Gohar;1;0;1
+20;20/02/2025;15:30;Gol Gohar;Mes Rafsanjan;0;0;0
+20;20/02/2025;16:00;Chadormalu SC;Esteghlal Khuz;3;0;3
+20;21/02/2025;15:00;Sepahan;Zob Ahan;4;1;3
+20;21/02/2025;15:00;Shams Azar;Malavan;0;1;-1
+20;21/02/2025;16:00;Foolad;SorkhPooshan FC;3;0;3
+20;22/02/2025;16:00;Tractor Sazi;Kheybar;1;0;1
+20;22/02/2025;16:15;Aluminium Arak;Persepolis;1;1;0
+20;22/02/2025;18:30;Esteghlal;Nassaji;1;0;1
+21;27/02/2025;14:30;Tractor Sazi;Sepahan;0;0;0
+21;27/02/2025;15:00;Esteghlal Khuz;Malavan;1;2;-1
+21;27/02/2025;15:00;Mes Rafsanjan;Chadormalu SC;1;0;1
+21;27/02/2025;17:15;Persepolis;Esteghlal;2;1;1
+21;28/02/2025;15:00;Kheybar;Aluminium Arak;1;0;1
+21;28/02/2025;15:00;Zob Ahan;Foolad;3;0;3
+21;28/02/2025;16:00;SorkhPooshan FC;Gol Gohar;0;1;-1
+21;28/02/2025;16:00;Nassaji;Shams Azar;1;0;1
+22;06/03/2025;18:45;Gol Gohar;Kheybar;2;0;2
+22;06/03/2025;19:00;Sepahan;Esteghlal Khuz;1;1;0
+22;07/03/2025;19:00;Aluminium Arak;Zob Ahan;2;0;2
+22;07/03/2025;19:00;Malavan;Nassaji;1;0;1
+22;07/03/2025;19:00;Shams Azar;Mes Rafsanjan;3;1;2
+22;07/03/2025;19:00;Chadormalu SC;Persepolis;0;1;-1
+23;13/03/2025;19:00;SorkhPooshan FC;Shams Azar;2;3;-1
+23;13/03/2025;19:00;Nassaji;Sepahan;1;1;0
+23;13/03/2025;19:15;Kheybar;Chadormalu SC;2;0;2
+23;14/03/2025;18:45;Mes Rafsanjan;Esteghlal Khuz;0;0;0
+23;14/03/2025;19:00;Persepolis;Malavan;2;0;2
+23;14/03/2025;19:15;Foolad;Aluminium Arak;2;0;2
+23;16/03/2025;19:00;Zob Ahan;Esteghlal;1;1;0
+23;16/03/2025;19:30;Tractor Sazi;Gol Gohar;2;1;1
+24;29/03/2025;18:45;Gol Gohar;Zob Ahan;0;2;-2
+24;29/03/2025;19:15;Esteghlal;Kheybar;1;1;0
+24;29/03/2025;19:15;Esteghlal Khuz;Nassaji;2;0;2
+24;29/03/2025;19:15;Aluminium Arak;Tractor Sazi;0;1;-1
+24;30/03/2025;19:00;Chadormalu SC;SorkhPooshan FC;1;2;-1
+24;30/03/2025;19:15;Malavan;Mes Rafsanjan;3;0;3
+24;30/03/2025;19:15;Shams Azar;Persepolis;3;2;1
+24;30/03/2025;19:15;Sepahan;Foolad;2;0;2
+25;04/04/2025;16:00;Zob Ahan;Chadormalu SC;0;1;-1
+25;04/04/2025;18:00;Foolad;Gol Gohar;1;1;0
+25;04/04/2025;18:15;Tractor Sazi;Esteghlal;2;1;1
+25;05/04/2025;16:00;SorkhPooshan FC;Malavan;2;0;2
+25;05/04/2025;17:00;Mes Rafsanjan;Nassaji;0;0;0
+25;05/04/2025;18:00;Persepolis;Esteghlal Khuz;0;0;0
+25;05/04/2025;18:00;Aluminium Arak;Sepahan;1;1;0
+25;06/04/2025;17:00;Kheybar;Shams Azar;0;0;0
+26;10/04/2025;18:00;Esteghlal;Foolad;0;1;-1
+26;11/04/2025;17:00;Gol Gohar;Aluminium Arak;0;0;0
+26;11/04/2025;17:00;Malavan;Kheybar;3;0;3
+26;11/04/2025;17:00;Shams Azar;Zob Ahan;1;1;0
+26;11/04/2025;17:45;Sepahan;Mes Rafsanjan;1;0;1
+26;11/04/2025;17:45;Chadormalu SC;Tractor Sazi;2;2;0
+26;11/04/2025;17:45;Esteghlal Khuz;SorkhPooshan FC;1;1;0
+26;11/04/2025;18:00;Nassaji;Persepolis;0;1;-1
+27;16/04/2025;17:00;SorkhPooshan FC;Mes Rafsanjan;0;4;-4
+27;16/04/2025;18:00;Gol Gohar;Esteghlal;1;1;0
+27;17/04/2025;17:00;Aluminium Arak;Chadormalu SC;0;0;0
+27;17/04/2025;17:00;Kheybar;Nassaji;1;0;1
+27;17/04/2025;17:00;Zob Ahan;Esteghlal Khuz;1;0;1
+27;18/04/2025;17:00;Tractor Sazi;Malavan;3;0;3
+27;18/04/2025;18:00;Persepolis;Sepahan;0;2;-2
+27;18/04/2025;19:30;Foolad;Shams Azar;1;0;1
+22;21/04/2025;18:00;Esteghlal;SorkhPooshan FC;2;2;0
+22;25/04/2025;19:30;Foolad;Tractor Sazi;1;2;-1
+28;01/05/2025;19:15;Nassaji;SorkhPooshan FC;0;0;0
+28;01/05/2025;19:15;Chadormalu SC;Foolad;1;1;0
+28;01/05/2025;19:15;Mes Rafsanjan;Persepolis;0;3;-3
+28;01/05/2025;19:30;Esteghlal Khuz;Kheybar;0;0;0
+28;02/05/2025;18:15;Esteghlal;Aluminium Arak;5;1;4
+28;02/05/2025;18:30;Malavan;Zob Ahan;3;3;0
+28;02/05/2025;19:30;Sepahan;Gol Gohar;1;2;-1
+28;02/05/2025;19:30;Shams Azar;Tractor Sazi;0;4;-4
+29;08/05/2025;19:30;Tractor Sazi;Nassaji;3;3;0
+29;08/05/2025;19:30;SorkhPooshan FC;Sepahan;1;1;0
+29;08/05/2025;19:30;Zob Ahan;Mes Rafsanjan;2;1;1
+29;08/05/2025;19:30;Foolad;Esteghlal Khuz;2;1;1
+29;08/05/2025;19:30;Esteghlal;Chadormalu SC;0;0;0
+29;08/05/2025;19:30;Kheybar;Persepolis;1;2;-1
+29;08/05/2025;19:30;Aluminium Arak;Malavan;1;1;0
+29;08/05/2025;19:30;Gol Gohar;Shams Azar;1;0;1
+30;15/05/2025;18:00;Persepolis;SorkhPooshan FC;2;0;2
+30;15/05/2025;18:00;Sepahan;Esteghlal;3;1;2
+30;15/05/2025;18:00;Nassaji;Zob Ahan;0;3;-3
+30;15/05/2025;18:00;Shams Azar;Aluminium Arak;1;3;-2
+30;15/05/2025;18:00;Malavan;Foolad;1;1;0
+30;15/05/2025;19:00;Chadormalu SC;Gol Gohar;0;1;-1
+30;15/05/2025;19:00;Mes Rafsanjan;Kheybar;0;0;0
+30;15/05/2025;20:00;Esteghlal Khuz;Tractor Sazi;1;3;-2

@@ -1,0 +1,89 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;29/03/2025;15:00;Sundsvall;Helsingborg;2;0;2
+1;29/03/2025;15:00;Sandvikens IF;Kalmar;0;0;0
+1;29/03/2025;15:00;Örgryte;Utsikten;2;1;1
+1;29/03/2025;17:00;Falkenberg;Varberg;2;2;0
+1;30/03/2025;13:00;Landskrona;Brage;2;2;0
+1;30/03/2025;15:00;Trelleborg;Östersund;0;1;-1
+1;31/03/2025;19:00;Oddevold;Umeå FC;1;0;1
+1;01/04/2025;19:00;Örebro;Västerås;0;2;-2
+2;05/04/2025;13:00;Utsikten;Oddevold;0;2;-2
+2;05/04/2025;15:00;Östersund;Landskrona;3;3;0
+2;05/04/2025;15:00;Helsingborg;Sandvikens IF;1;2;-1
+2;05/04/2025;15:00;Kalmar;Sundsvall;1;0;1
+2;06/04/2025;13:00;Umeå FC;Trelleborg;0;1;-1
+2;07/04/2025;19:00;Brage;Falkenberg;0;2;-2
+2;07/04/2025;19:00;Varberg;Örebro;2;1;1
+2;08/04/2025;19:00;Västerås;Örgryte;1;1;0
+3;11/04/2025;19:00;Oddevold;Kalmar;1;3;-2
+3;12/04/2025;13:00;Sandvikens IF;Trelleborg;2;0;2
+3;12/04/2025;15:00;Örgryte;Sundsvall;0;0;0
+3;12/04/2025;15:00;Landskrona;Utsikten;2;1;1
+3;12/04/2025;17:00;Umeå FC;Östersund;2;2;0
+3;13/04/2025;15:00;Brage;Varberg;1;1;0
+3;14/04/2025;19:00;Västerås;Falkenberg;1;0;1
+3;15/04/2025;19:00;Örebro;Helsingborg;0;2;-2
+4;19/04/2025;15:00;Falkenberg;Oddevold;2;2;0
+4;19/04/2025;15:00;Örgryte;Örebro;3;0;3
+4;20/04/2025;13:00;Utsikten;Sandvikens IF;4;1;3
+4;20/04/2025;15:00;Sundsvall;Landskrona;1;2;-1
+4;20/04/2025;15:00;Trelleborg;Brage;0;1;-1
+4;20/04/2025;17:00;Kalmar;Östersund;2;0;2
+4;21/04/2025;13:00;Varberg;Umeå FC;4;0;4
+4;22/04/2025;19:00;Helsingborg;Västerås;2;0;2
+5;26/04/2025;15:00;Östersund;Örgryte;2;1;1
+5;26/04/2025;15:00;Landskrona;Sandvikens IF;1;0;1
+5;26/04/2025;15:00;Oddevold;Sundsvall;1;2;-1
+5;27/04/2025;13:00;Umeå FC;Brage;0;1;-1
+5;27/04/2025;13:00;Trelleborg;Varberg;0;4;-4
+5;27/04/2025;13:00;Helsingborg;Kalmar;1;5;-4
+5;28/04/2025;19:00;Utsikten;Västerås;2;2;0
+5;29/04/2025;19:00;Falkenberg;Örebro;2;1;1
+6;03/05/2025;13:00;Sandvikens IF;Oddevold;0;2;-2
+6;03/05/2025;13:00;Sundsvall;Utsikten;2;2;0
+6;03/05/2025;15:00;Varberg;Helsingborg;1;0;1
+6;03/05/2025;15:00;Umeå FC;Landskrona;0;2;-2
+6;04/05/2025;15:00;Örgryte;Falkenberg;4;2;2
+6;05/05/2025;19:00;Örebro;Trelleborg;0;0;0
+6;05/05/2025;19:00;Brage;Östersund;0;2;-2
+6;06/05/2025;19:00;Västerås;Kalmar;2;2;0
+7;10/05/2025;13:00;Sandvikens IF;Umeå FC;2;1;1
+7;10/05/2025;15:00;Utsikten;Falkenberg;2;2;0
+7;10/05/2025;15:00;Oddevold;Örebro;2;1;1
+7;10/05/2025;15:00;Sundsvall;Västerås;1;2;-1
+7;11/05/2025;13:00;Östersund;Varberg;0;1;-1
+7;11/05/2025;15:00;Kalmar;Trelleborg;2;0;2
+7;12/05/2025;19:00;Landskrona;Örgryte;1;1;0
+7;13/05/2025;19:00;Helsingborg;Brage;1;0;1
+8;16/05/2025;19:00;Falkenberg;Kalmar;0;0;0
+8;16/05/2025;19:00;Örgryte;Varberg;5;1;4
+8;17/05/2025;13:00;Trelleborg;Västerås;5;0;5
+8;17/05/2025;15:00;Östersund;Sandvikens IF;2;2;0
+8;17/05/2025;15:00;Örebro;Sundsvall;1;2;-1
+8;17/05/2025;15:00;Umeå FC;Utsikten;1;3;-2
+8;18/05/2025;15:00;Brage;Oddevold;1;2;-1
+8;19/05/2025;19:00;Landskrona;Helsingborg;3;3;0
+9;21/05/2025;19:00;Örgryte;Sandvikens IF;4;0;4
+9;21/05/2025;19:00;Falkenberg;Trelleborg;4;0;4
+9;21/05/2025;19:00;Västerås;Östersund;1;0;1
+9;21/05/2025;19:00;Utsikten;Örebro;4;4;0
+9;22/05/2025;19:00;Varberg;Landskrona;4;2;2
+9;22/05/2025;19:00;Kalmar;Umeå FC;2;0;2
+9;22/05/2025;19:00;Sundsvall;Brage;0;2;-2
+9;22/05/2025;19:00;Helsingborg;Oddevold;0;2;-2
+10;24/05/2025;15:00;Östersund;Örebro;3;1;2
+10;25/05/2025;15:00;Varberg;Kalmar;0;0;0
+10;26/05/2025;19:00;Umeå FC;Örgryte;3;3;0
+10;26/05/2025;19:00;Landskrona;Falkenberg;0;3;-3
+10;26/05/2025;19:00;Oddevold;Västerås;1;5;-4
+10;26/05/2025;19:00;Brage;Utsikten;2;2;0
+10;27/05/2025;19:00;Trelleborg;Helsingborg;0;0;0
+10;27/05/2025;19:00;Sandvikens IF;Sundsvall;0;1;-1
+11;30/05/2025;19:00;Örebro;Brage;3;3;0
+11;31/05/2025;13:00;Västerås;Umeå FC;2;2;0
+11;31/05/2025;13:00;Utsikten;Kalmar;1;1;0
+11;31/05/2025;15:00;Örgryte;Trelleborg;2;0;2
+11;31/05/2025;15:00;Sandvikens IF;Varberg;2;1;1
+11;01/06/2025;15:00;Sundsvall;Falkenberg;0;0;0
+11;01/06/2025;15:00;Helsingborg;Östersund;0;0;0
+11;01/06/2025;17:00;Oddevold;Landskrona;1;2;-1

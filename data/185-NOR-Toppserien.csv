@@ -1,0 +1,55 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;21/03/2025;18:00;FK Bodø/Glimt;Røa;1;0;1
+1;23/03/2025;14:00;Hønefoss;Stabæk;0;1;-1
+1;23/03/2025;14:00;LSK Kvinner;Lyn;2;0;2
+1;23/03/2025;16:00;Vålerenga;Kolbotn;6;0;6
+1;23/03/2025;18:00;Brann;Rosenborg;3;0;3
+2;28/03/2025;18:00;Stabæk;Brann;0;1;-1
+2;29/03/2025;14:00;Lyn;Hønefoss;1;1;0
+2;29/03/2025;14:00;Røa;Vålerenga;0;1;-1
+2;29/03/2025;14:00;Rosenborg;FK Bodø/Glimt;2;1;1
+2;29/03/2025;14:00;Kolbotn;LSK Kvinner;0;2;-2
+3;12/04/2025;14:00;Stabæk;Kolbotn;1;0;1
+3;12/04/2025;14:00;Hønefoss;Rosenborg;2;3;-1
+3;12/04/2025;14:00;LSK Kvinner;Røa;1;2;-1
+3;12/04/2025;16:00;Vålerenga;Lyn;3;2;1
+3;12/04/2025;18:00;Brann;FK Bodø/Glimt;4;0;4
+4;16/04/2025;18:00;FK Bodø/Glimt;LSK Kvinner;0;4;-4
+4;16/04/2025;18:00;Rosenborg;Vålerenga;2;0;2
+4;16/04/2025;18:00;Kolbotn;Hønefoss;3;1;2
+4;16/04/2025;18:00;Røa;Brann;2;5;-3
+4;16/04/2025;18:00;Lyn;Stabæk;6;0;6
+5;22/04/2025;18:00;LSK Kvinner;Vålerenga;0;2;-2
+5;22/04/2025;18:00;Rosenborg;Lyn;3;0;3
+5;22/04/2025;18:00;Brann;Kolbotn;7;0;7
+5;22/04/2025;18:00;Hønefoss;Røa;2;1;1
+5;22/04/2025;18:00;Stabæk;FK Bodø/Glimt;2;0;2
+6;25/04/2025;18:00;FK Bodø/Glimt;Hønefoss;1;2;-1
+6;26/04/2025;12:00;Kolbotn;Lyn;1;0;1
+6;26/04/2025;14:00;Vålerenga;Brann;0;3;-3
+6;26/04/2025;16:00;Røa;Rosenborg;1;1;0
+6;26/04/2025;18:00;LSK Kvinner;Stabæk;1;1;0
+7;29/04/2025;18:00;Brann;LSK Kvinner;1;1;0
+7;29/04/2025;18:00;Stabæk;Røa;2;1;1
+7;29/04/2025;18:00;Hønefoss;Vålerenga;0;4;-4
+7;29/04/2025;18:00;Rosenborg;Kolbotn;1;0;1
+7;29/04/2025;18:00;Lyn;FK Bodø/Glimt;0;0;0
+8;02/05/2025;18:00;Brann;Hønefoss;2;0;2
+8;02/05/2025;18:00;FK Bodø/Glimt;Kolbotn;3;1;2
+8;03/05/2025;14:00;Røa;Lyn;2;1;1
+8;03/05/2025;14:00;LSK Kvinner;Rosenborg;1;2;-1
+8;03/05/2025;14:00;Stabæk;Vålerenga;0;2;-2
+9;10/05/2025;14:00;Hønefoss;LSK Kvinner;2;1;1
+9;10/05/2025;14:00;Vålerenga;FK Bodø/Glimt;4;0;4
+9;10/05/2025;14:00;Rosenborg;Stabæk;3;0;3
+9;10/05/2025;14:00;Lyn;Brann;0;0;0
+10;15/05/2025;18:00;FK Bodø/Glimt;Lyn;2;1;1
+10;15/05/2025;18:00;Røa;Hønefoss;0;0;0
+10;15/05/2025;18:00;LSK Kvinner;Kolbotn;1;1;0
+10;15/05/2025;18:00;Vålerenga;Rosenborg;2;0;2
+10;15/05/2025;18:00;Brann;Stabæk;3;0;3
+11;24/05/2025;14:00;Lyn;Røa;1;0;1
+11;24/05/2025;14:00;Rosenborg;Brann;0;2;-2
+11;24/05/2025;14:00;Hønefoss;FK Bodø/Glimt;0;1;-1
+11;24/05/2025;14:00;Kolbotn;Vålerenga;1;6;-5
+11;25/05/2025;14:30;Stabæk;LSK Kvinner;2;3;-1

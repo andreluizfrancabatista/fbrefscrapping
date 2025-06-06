@@ -1,0 +1,199 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;26/07/2024;18:00;Zalaegerszeg;MTK Budapest;0;1;-1
+1;26/07/2024;20:15;Nyíregyháza;Győr;2;1;1
+1;28/07/2024;18:50;Kecskemét;Vidi;0;0;0
+1;28/07/2024;18:50;Újpest;Puskás;1;2;-1
+1;28/07/2024;18:50;Diósgyőr;Paks;2;2;0
+2;02/08/2024;18:50;Győr;Debrecen;0;3;-3
+2;03/08/2024;16:00;Vidi;Diósgyőr;3;1;2
+2;03/08/2024;19:45;Ferencváros;Kecskemét;1;0;1
+2;03/08/2024;19:45;MTK Budapest;Nyíregyháza;3;0;3
+2;04/08/2024;18:50;Paks;Újpest;2;1;1
+2;04/08/2024;18:50;Puskás;Zalaegerszeg;2;1;1
+3;09/08/2024;18:50;Kecskemét;Debrecen;1;1;0
+3;10/08/2024;16:00;Diósgyőr;Ferencváros;0;2;-2
+3;10/08/2024;19:45;Zalaegerszeg;Paks;3;1;2
+3;11/08/2024;15:45;Győr;MTK Budapest;1;2;-1
+3;11/08/2024;18:00;Újpest;Vidi;4;1;3
+3;11/08/2024;20:15;Puskás;Nyíregyháza;3;1;2
+4;16/08/2024;20:00;Kecskemét;Győr;2;1;1
+4;17/08/2024;17:00;Debrecen;Diósgyőr;0;1;-1
+4;17/08/2024;19:30;Ferencváros;Újpest;1;0;1
+4;18/08/2024;15:30;Vidi;Zalaegerszeg;1;1;0
+4;18/08/2024;17:45;Paks;Nyíregyháza;2;1;1
+4;18/08/2024;20:00;Puskás;MTK Budapest;1;0;1
+5;23/08/2024;20:00;Újpest;Debrecen;3;0;3
+5;24/08/2024;16:45;Diósgyőr;Kecskemét;1;0;1
+5;25/08/2024;17:45;Nyíregyháza;Vidi;3;3;0
+6;30/08/2024;20:00;Vidi;MTK Budapest;1;0;1
+6;31/08/2024;17:45;Debrecen;Zalaegerszeg;3;1;2
+6;31/08/2024;20:00;Diósgyőr;Győr;0;0;0
+6;01/09/2024;15:00;Kecskemét;Újpest;1;3;-2
+6;01/09/2024;17:30;Paks;Puskás;2;1;1
+6;01/09/2024;19:45;Ferencváros;Nyíregyháza;2;1;1
+7;20/09/2024;20:00;MTK Budapest;Ferencváros;1;3;-2
+7;21/09/2024;14:30;Zalaegerszeg;Kecskemét;2;1;1
+7;21/09/2024;17:00;Újpest;Diósgyőr;0;0;0
+7;21/09/2024;19:30;Nyíregyháza;Debrecen;3;2;1
+7;22/09/2024;16:30;Puskás;Vidi;3;0;3
+7;22/09/2024;19:00;Győr;Paks;2;1;1
+8;27/09/2024;20:00;Újpest;Győr;0;0;0
+8;28/09/2024;15:00;Diósgyőr;Zalaegerszeg;2;1;1
+8;28/09/2024;17:00;Kecskemét;Nyíregyháza;0;2;-2
+8;28/09/2024;19:30;Debrecen;MTK Budapest;2;3;-1
+8;29/09/2024;15:30;Vidi;Paks;1;2;-1
+8;29/09/2024;18:00;Ferencváros;Puskás;3;0;3
+9;04/10/2024;20:00;Puskás;Debrecen;1;0;1
+9;05/10/2024;14:30;Győr;Vidi;3;1;2
+9;05/10/2024;17:00;MTK Budapest;Kecskemét;3;1;2
+9;05/10/2024;19:30;Nyíregyháza;Diósgyőr;0;2;-2
+9;06/10/2024;15:30;Zalaegerszeg;Újpest;0;2;-2
+9;06/10/2024;18:00;Paks;Ferencváros;3;1;2
+10;19/10/2024;15:00;Debrecen;Paks;0;5;-5
+10;19/10/2024;17:30;Diósgyőr;MTK Budapest;0;2;-2
+10;19/10/2024;19:30;Újpest;Nyíregyháza;1;0;1
+10;20/10/2024;13:00;Kecskemét;Puskás;0;3;-3
+10;20/10/2024;15:15;Zalaegerszeg;Győr;1;2;-1
+10;20/10/2024;17:45;Ferencváros;Vidi;2;0;2
+11;26/10/2024;14:45;Puskás;Diósgyőr;1;1;0
+11;26/10/2024;17:15;Vidi;Debrecen;2;0;2
+11;26/10/2024;20:45;MTK Budapest;Újpest;4;1;3
+11;27/10/2024;13:00;Nyíregyháza;Zalaegerszeg;1;1;0
+11;27/10/2024;15:15;Paks;Kecskemét;1;0;1
+11;27/10/2024;17:45;Győr;Ferencváros;1;1;0
+12;02/11/2024;12:30;MTK Budapest;Zalaegerszeg;1;1;0
+12;02/11/2024;16:30;Puskás;Újpest;1;1;0
+12;02/11/2024;19:00;Győr;Nyíregyháza;1;1;0
+12;03/11/2024;12:30;Paks;Diósgyőr;3;4;-1
+12;03/11/2024;14:45;Ferencváros;Debrecen;2;2;0
+12;03/11/2024;17:00;Vidi;Kecskemét;6;1;5
+13;08/11/2024;20:00;Nyíregyháza;MTK Budapest;2;0;2
+13;09/11/2024;13:30;Zalaegerszeg;Puskás;4;2;2
+13;09/11/2024;16:00;Debrecen;Győr;2;2;0
+13;09/11/2024;18:30;Újpest;Paks;0;0;0
+13;10/11/2024;15:30;Diósgyőr;Vidi;1;0;1
+13;10/11/2024;18:00;Kecskemét;Ferencváros;0;1;-1
+14;23/11/2024;13:30;Nyíregyháza;Puskás;0;3;-3
+14;23/11/2024;16:00;MTK Budapest;Győr;2;2;0
+14;23/11/2024;18:30;Vidi;Újpest;0;1;-1
+14;24/11/2024;13:00;Paks;Zalaegerszeg;2;2;0
+14;24/11/2024;15:30;Ferencváros;Diósgyőr;3;3;0
+14;24/11/2024;17:45;Debrecen;Kecskemét;2;2;0
+15;29/11/2024;20:00;Nyíregyháza;Paks;4;2;2
+15;30/11/2024;12:30;MTK Budapest;Puskás;0;1;-1
+15;30/11/2024;14:30;Győr;Kecskemét;1;2;-1
+15;30/11/2024;16:30;Diósgyőr;Debrecen;3;1;2
+15;01/12/2024;17:00;Zalaegerszeg;Vidi;0;1;-1
+15;01/12/2024;19:30;Újpest;Ferencváros;0;0;0
+5;03/12/2024;19:00;MTK Budapest;Paks;3;1;2
+5;04/12/2024;19:00;Győr;Puskás;0;2;-2
+1;05/12/2024;20:00;Debrecen;Ferencváros;5;4;1
+16;07/12/2024;13:30;Kecskemét;Diósgyőr;0;0;0
+16;07/12/2024;16:45;Puskás;Győr;0;3;-3
+16;07/12/2024;19:15;Paks;MTK Budapest;4;2;2
+16;08/12/2024;14:45;Vidi;Nyíregyháza;2;0;2
+16;08/12/2024;17:00;Debrecen;Újpest;1;2;-1
+16;08/12/2024;20:00;Ferencváros;Zalaegerszeg;1;0;1
+17;14/12/2024;12:00;MTK Budapest;Vidi;3;2;1
+17;14/12/2024;14:30;Zalaegerszeg;Debrecen;2;1;1
+17;14/12/2024;17:00;Győr;Diósgyőr;3;4;-1
+17;14/12/2024;19:30;Puskás;Paks;3;1;2
+17;15/12/2024;13:00;Újpest;Kecskemét;1;1;0
+17;15/12/2024;15:30;Nyíregyháza;Ferencváros;0;1;-1
+18;01/02/2025;14:30;Paks;Győr;1;1;0
+18;01/02/2025;17:00;Vidi;Puskás;1;0;1
+18;01/02/2025;19:30;Diósgyőr;Újpest;1;1;0
+18;02/02/2025;12:45;Debrecen;Nyíregyháza;3;1;2
+18;02/02/2025;17:30;Kecskemét;Zalaegerszeg;1;0;1
+18;02/02/2025;20:15;Ferencváros;MTK Budapest;0;0;0
+5;05/02/2025;19:30;Zalaegerszeg;Ferencváros;2;2;0
+19;07/02/2025;20:00;MTK Budapest;Debrecen;0;2;-2
+19;08/02/2025;14:30;Nyíregyháza;Kecskemét;0;0;0
+19;08/02/2025;17:00;Paks;Vidi;2;0;2
+19;08/02/2025;19:30;Győr;Újpest;3;0;3
+19;09/02/2025;15:30;Zalaegerszeg;Diósgyőr;2;1;1
+19;09/02/2025;18:00;Puskás;Ferencváros;1;0;1
+20;14/02/2025;20:00;Vidi;Győr;0;1;-1
+20;15/02/2025;14:30;Kecskemét;MTK Budapest;5;0;5
+20;15/02/2025;17:00;Diósgyőr;Nyíregyháza;1;2;-1
+20;15/02/2025;19:30;Debrecen;Puskás;1;2;-1
+20;16/02/2025;15:30;Újpest;Zalaegerszeg;1;2;-1
+20;16/02/2025;18:00;Ferencváros;Paks;0;2;-2
+21;21/02/2025;20:00;MTK Budapest;Diósgyőr;4;0;4
+21;22/02/2025;14:30;Puskás;Kecskemét;4;2;2
+21;22/02/2025;17:00;Paks;Debrecen;4;3;1
+21;22/02/2025;19:30;Nyíregyháza;Újpest;0;0;0
+21;23/02/2025;15:30;Győr;Zalaegerszeg;2;0;2
+21;23/02/2025;18:00;Vidi;Ferencváros;1;3;-2
+22;01/03/2025;14:30;Zalaegerszeg;Nyíregyháza;0;0;0
+22;01/03/2025;17:00;Diósgyőr;Puskás;2;1;1
+22;01/03/2025;19:30;Újpest;MTK Budapest;1;5;-4
+22;02/03/2025;14:00;Debrecen;Vidi;1;2;-1
+22;02/03/2025;16:30;Kecskemét;Paks;2;2;0
+22;02/03/2025;18:00;Ferencváros;Győr;2;2;0
+23;07/03/2025;20:00;Kecskemét;Vidi;2;2;0
+23;08/03/2025;14:30;Nyíregyháza;Győr;0;1;-1
+23;08/03/2025;17:00;Zalaegerszeg;MTK Budapest;1;1;0
+23;08/03/2025;19:30;Diósgyőr;Paks;0;2;-2
+23;09/03/2025;15:30;Újpest;Puskás;1;1;0
+23;09/03/2025;18:00;Debrecen;Ferencváros;0;1;-1
+24;14/03/2025;18:00;Győr;Debrecen;0;0;0
+24;14/03/2025;20:30;Paks;Újpest;6;1;5
+24;16/03/2025;12:30;Vidi;Diósgyőr;0;0;0
+24;16/03/2025;15:00;Ferencváros;Kecskemét;4;0;4
+24;16/03/2025;17:15;MTK Budapest;Nyíregyháza;3;0;3
+24;16/03/2025;19:30;Puskás;Zalaegerszeg;2;1;1
+25;28/03/2025;20:00;Kecskemét;Debrecen;1;3;-2
+25;29/03/2025;14:30;Győr;MTK Budapest;2;1;1
+25;29/03/2025;17:00;Zalaegerszeg;Paks;1;1;0
+25;29/03/2025;19:30;Nyíregyháza;Puskás;0;2;-2
+25;30/03/2025;14:30;Újpest;Vidi;2;2;0
+25;30/03/2025;17:00;Diósgyőr;Ferencváros;1;1;0
+26;05/04/2025;14:30;Kecskemét;Győr;1;1;0
+26;05/04/2025;17:00;Paks;Nyíregyháza;2;0;2
+26;05/04/2025;19:30;Debrecen;Diósgyőr;4;1;3
+26;06/04/2025;14:00;Vidi;Zalaegerszeg;0;2;-2
+26;06/04/2025;16:30;Puskás;MTK Budapest;1;1;0
+26;06/04/2025;19:00;Ferencváros;Újpest;2;0;2
+27;11/04/2025;18:00;Diósgyőr;Kecskemét;2;1;1
+27;11/04/2025;20:30;MTK Budapest;Paks;1;2;-1
+27;12/04/2025;14:15;Győr;Puskás;2;0;2
+27;12/04/2025;19:45;Zalaegerszeg;Ferencváros;0;2;-2
+27;13/04/2025;14:00;Újpest;Debrecen;2;1;1
+27;13/04/2025;19:00;Nyíregyháza;Vidi;1;0;1
+28;19/04/2025;13:15;Debrecen;Zalaegerszeg;4;3;1
+28;19/04/2025;16:15;Diósgyőr;Győr;2;4;-2
+28;19/04/2025;20:30;Paks;Puskás;2;2;0
+28;20/04/2025;13:15;Vidi;MTK Budapest;1;1;0
+28;20/04/2025;15:45;Ferencváros;Nyíregyháza;7;0;7
+28;21/04/2025;18:30;Kecskemét;Újpest;0;0;0
+29;25/04/2025;20:00;Nyíregyháza;Debrecen;1;0;1
+29;26/04/2025;15:15;Puskás;Vidi;3;1;2
+29;26/04/2025;17:30;Győr;Paks;2;0;2
+29;26/04/2025;20:00;Újpest;Diósgyőr;1;1;0
+29;27/04/2025;15:30;MTK Budapest;Ferencváros;2;3;-1
+29;27/04/2025;18:00;Zalaegerszeg;Kecskemét;0;0;0
+30;03/05/2025;13:00;Újpest;Győr;2;3;-1
+30;03/05/2025;15:30;Debrecen;MTK Budapest;0;0;0
+30;03/05/2025;19:30;Ferencváros;Puskás;1;1;0
+30;04/05/2025;13:30;Diósgyőr;Zalaegerszeg;1;1;0
+30;04/05/2025;16:00;Kecskemét;Nyíregyháza;2;2;0
+30;04/05/2025;18:30;Vidi;Paks;0;2;-2
+31;09/05/2025;20:00;Győr;Vidi;1;0;1
+31;10/05/2025;14:30;Puskás;Debrecen;4;2;2
+31;10/05/2025;17:45;MTK Budapest;Kecskemét;2;1;1
+31;10/05/2025;19:30;Paks;Ferencváros;2;3;-1
+31;11/05/2025;13:00;Zalaegerszeg;Újpest;0;0;0
+31;11/05/2025;15:30;Nyíregyháza;Diósgyőr;1;0;1
+32;16/05/2025;18:15;Kecskemét;Puskás;0;1;-1
+32;16/05/2025;20:30;Újpest;Nyíregyháza;2;2;0
+32;17/05/2025;13:45;Zalaegerszeg;Győr;0;0;0
+32;17/05/2025;20:00;Diósgyőr;MTK Budapest;2;1;1
+32;18/05/2025;16:45;Debrecen;Paks;0;0;0
+32;18/05/2025;19:30;Ferencváros;Vidi;3;0;3
+33;23/05/2025;20:15;Paks;Kecskemét;1;1;0
+33;24/05/2025;15:00;MTK Budapest;Újpest;1;3;-2
+33;24/05/2025;17:30;Vidi;Debrecen;0;3;-3
+33;24/05/2025;20:00;Győr;Ferencváros;1;2;-1
+33;24/05/2025;20:00;Puskás;Diósgyőr;4;3;1
+33;25/05/2025;14:15;Nyíregyháza;Zalaegerszeg;0;0;0

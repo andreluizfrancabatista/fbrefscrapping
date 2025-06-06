@@ -1,0 +1,133 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;28/09/2024;14:00;PSV;Telstar 1963;4;0;4
+1;28/09/2024;14:00;FC Utrecht;Excelsior;2;0;2
+1;28/09/2024;16:30;Heerenveen;ADO Den Haag;1;3;-2
+1;29/09/2024;12:15;Feyenoord Vrouwen;VV Alkmaar;1;1;0
+1;29/09/2024;12:15;Ajax;Zwolle;5;1;4
+1;29/09/2024;16:45;Fortuna Sittard;Twente;1;3;-2
+2;05/10/2024;14:00;Zwolle;FC Utrecht;0;4;-4
+2;05/10/2024;16:30;Telstar 1963;Fortuna Sittard;1;4;-3
+2;05/10/2024;16:30;Twente;PSV;0;0;0
+2;06/10/2024;12:15;VV Alkmaar;Ajax;1;2;-1
+2;06/10/2024;12:15;Excelsior;Heerenveen;1;1;0
+2;06/10/2024;16:45;ADO Den Haag;Feyenoord Vrouwen;1;3;-2
+3;12/10/2024;14:00;Twente;Excelsior;1;1;0
+3;12/10/2024;16:30;Ajax;Fortuna Sittard;5;1;4
+3;12/10/2024;16:30;ADO Den Haag;VV Alkmaar;1;4;-3
+3;13/10/2024;12:15;Heerenveen;PSV;0;1;-1
+3;13/10/2024;12:15;Feyenoord Vrouwen;FC Utrecht;0;3;-3
+3;13/10/2024;16:45;Zwolle;Telstar 1963;0;0;0
+4;19/10/2024;14:00;PSV;Zwolle;4;0;4
+4;19/10/2024;16:30;Fortuna Sittard;Heerenveen;1;1;0
+4;19/10/2024;16:30;VV Alkmaar;Excelsior;4;0;4
+4;20/10/2024;12:15;FC Utrecht;ADO Den Haag;4;3;1
+4;20/10/2024;12:15;Feyenoord Vrouwen;Ajax;0;0;0
+4;20/10/2024;16:45;Telstar 1963;Twente;1;2;-1
+5;02/11/2024;14:00;Excelsior;PSV;0;4;-4
+5;02/11/2024;16:30;Heerenveen;Feyenoord Vrouwen;0;3;-3
+5;02/11/2024;16:30;Zwolle;Fortuna Sittard;0;1;-1
+5;03/11/2024;12:15;ADO Den Haag;Ajax;0;2;-2
+5;03/11/2024;16:45;Twente;FC Utrecht;3;1;2
+5;03/11/2024;16:45;VV Alkmaar;Telstar 1963;0;1;-1
+6;09/11/2024;14:00;Ajax;Twente;2;0;2
+6;09/11/2024;16:30;Telstar 1963;Excelsior;1;1;0
+6;09/11/2024;16:30;Feyenoord Vrouwen;Zwolle;2;0;2
+6;10/11/2024;12:15;PSV;ADO Den Haag;2;0;2
+6;10/11/2024;12:15;FC Utrecht;Heerenveen;2;1;1
+6;10/11/2024;16:45;Fortuna Sittard;VV Alkmaar;1;3;-2
+7;16/11/2024;14:00;Excelsior;Zwolle;0;3;-3
+7;16/11/2024;16:30;Ajax;FC Utrecht;1;0;1
+7;16/11/2024;18:45;Fortuna Sittard;Feyenoord Vrouwen;0;6;-6
+7;17/11/2024;12:15;Heerenveen;Telstar 1963;3;1;2
+7;17/11/2024;16:45;PSV;VV Alkmaar;4;1;3
+8;23/11/2024;14:00;FC Utrecht;PSV;3;2;1
+8;23/11/2024;16:30;Zwolle;ADO Den Haag;1;1;0
+8;23/11/2024;16:30;Excelsior;Fortuna Sittard;1;1;0
+8;24/11/2024;12:15;Twente;Feyenoord Vrouwen;3;2;1
+8;24/11/2024;12:15;VV Alkmaar;Heerenveen;1;0;1
+8;24/11/2024;16:45;Telstar 1963;Ajax;1;4;-3
+9;07/12/2024;14:00;Heerenveen;Twente;0;4;-4
+9;07/12/2024;16:30;Feyenoord Vrouwen;Telstar 1963;8;1;7
+9;07/12/2024;16:30;Ajax;PSV;0;2;-2
+9;08/12/2024;12:15;ADO Den Haag;Excelsior;4;0;4
+9;08/12/2024;12:15;Fortuna Sittard;FC Utrecht;0;4;-4
+9;08/12/2024;16:45;Zwolle;VV Alkmaar;1;2;-1
+10;14/12/2024;14:00;Twente;Zwolle;2;1;1
+10;14/12/2024;16:30;PSV;Fortuna Sittard;3;0;3
+10;14/12/2024;16:30;VV Alkmaar;FC Utrecht;1;1;0
+10;15/12/2024;12:15;Heerenveen;Ajax;1;4;-3
+10;15/12/2024;12:15;Telstar 1963;ADO Den Haag;1;1;0
+10;15/12/2024;16:45;Excelsior;Feyenoord Vrouwen;3;5;-2
+11;21/12/2024;14:00;Zwolle;Heerenveen;2;2;0
+11;21/12/2024;16:30;FC Utrecht;Telstar 1963;4;1;3
+11;21/12/2024;16:30;Feyenoord Vrouwen;PSV;1;4;-3
+11;22/12/2024;12:15;Fortuna Sittard;ADO Den Haag;0;0;0
+11;22/12/2024;12:15;VV Alkmaar;Twente;0;1;-1
+11;22/12/2024;16:45;Ajax;Excelsior;3;1;2
+12;18/01/2025;14:00;Telstar 1963;Zwolle;0;2;-2
+12;18/01/2025;16:30;PSV;Excelsior;4;0;4
+12;18/01/2025;16:30;Twente;Fortuna Sittard;4;1;3
+12;19/01/2025;12:15;ADO Den Haag;FC Utrecht;0;2;-2
+12;19/01/2025;12:15;Ajax;VV Alkmaar;4;2;2
+12;19/01/2025;16:45;Feyenoord Vrouwen;Heerenveen;1;0;1
+13;25/01/2025;14:00;VV Alkmaar;Feyenoord Vrouwen;0;1;-1
+13;25/01/2025;16:30;Excelsior;Telstar 1963;1;1;0
+13;25/01/2025;16:30;ADO Den Haag;PSV;1;1;0
+13;26/01/2025;12:15;Heerenveen;Fortuna Sittard;1;0;1
+13;26/01/2025;12:15;FC Utrecht;Twente;1;2;-1
+13;26/01/2025;16:45;Zwolle;Ajax;0;4;-4
+14;01/02/2025;14:00;Heerenveen;Excelsior;5;1;4
+14;01/02/2025;16:30;PSV;Twente;2;2;0
+14;02/02/2025;12:15;Fortuna Sittard;Zwolle;1;0;1
+14;02/02/2025;16:45;Feyenoord Vrouwen;ADO Den Haag;3;0;3
+15;08/02/2025;14:00;ADO Den Haag;Heerenveen;0;1;-1
+15;08/02/2025;16:30;Zwolle;PSV;0;1;-1
+15;08/02/2025;16:30;Ajax;Feyenoord Vrouwen;2;0;2
+15;09/02/2025;12:15;Twente;Telstar 1963;3;1;2
+15;09/02/2025;14:30;Excelsior;FC Utrecht;1;0;1
+15;09/02/2025;16:45;VV Alkmaar;Fortuna Sittard;2;0;2
+7;12/02/2025;18:45;ADO Den Haag;Twente;0;4;-4
+16;01/03/2025;14:00;Fortuna Sittard;Ajax;0;1;-1
+16;01/03/2025;16:30;Zwolle;Excelsior;2;2;0
+16;01/03/2025;16:30;Telstar 1963;Feyenoord Vrouwen;1;2;-1
+16;02/03/2025;12:15;PSV;FC Utrecht;1;0;1
+16;02/03/2025;16:45;Twente;ADO Den Haag;7;0;7
+17;08/03/2025;14:00;Feyenoord Vrouwen;Twente;1;4;-3
+17;08/03/2025;16:30;FC Utrecht;Fortuna Sittard;1;1;0
+17;08/03/2025;16:30;VV Alkmaar;Zwolle;2;0;2
+17;09/03/2025;12:15;Telstar 1963;PSV;1;4;-3
+17;09/03/2025;12:15;Ajax;Heerenveen;5;1;4
+17;09/03/2025;16:45;Excelsior;ADO Den Haag;0;4;-4
+14;12/03/2025;18:45;Telstar 1963;VV Alkmaar;4;5;-1
+14;16/03/2025;14:30;FC Utrecht;Ajax;1;1;0
+18;22/03/2025;14:00;ADO Den Haag;Telstar 1963;2;2;0
+18;22/03/2025;16:30;PSV;Ajax;3;1;2
+18;22/03/2025;16:30;FC Utrecht;VV Alkmaar;1;2;-1
+18;23/03/2025;12:15;Twente;Heerenveen;3;0;3
+18;23/03/2025;14:30;Zwolle;Feyenoord Vrouwen;0;6;-6
+18;23/03/2025;16:45;Fortuna Sittard;Excelsior;0;0;0
+16;26/03/2025;19:00;Heerenveen;VV Alkmaar;2;3;-1
+19;29/03/2025;14:00;VV Alkmaar;PSV;0;1;-1
+19;29/03/2025;16:30;Excelsior;Twente;1;10;-9
+19;29/03/2025;16:30;Feyenoord Vrouwen;Fortuna Sittard;1;2;-1
+19;30/03/2025;12:15;Ajax;ADO Den Haag;4;0;4
+19;30/03/2025;12:15;Telstar 1963;FC Utrecht;0;1;-1
+19;30/03/2025;16:45;Heerenveen;Zwolle;1;2;-1
+20;19/04/2025;14:00;Fortuna Sittard;Telstar 1963;5;0;5
+20;19/04/2025;16:30;Excelsior;VV Alkmaar;1;3;-2
+20;19/04/2025;16:30;ADO Den Haag;Zwolle;1;0;1
+20;20/04/2025;16:45;PSV;Heerenveen;5;1;4
+20;21/04/2025;12:15;Twente;Ajax;5;1;4
+20;21/04/2025;14:30;FC Utrecht;Feyenoord Vrouwen;1;0;1
+21;03/05/2025;14:00;VV Alkmaar;ADO Den Haag;1;1;0
+21;03/05/2025;14:00;Feyenoord Vrouwen;Excelsior;7;0;7
+21;03/05/2025;14:00;Heerenveen;FC Utrecht;2;3;-1
+21;03/05/2025;14:00;Fortuna Sittard;PSV;0;3;-3
+21;03/05/2025;14:00;Ajax;Telstar 1963;3;1;2
+21;03/05/2025;14:00;Zwolle;Twente;0;3;-3
+22;16/05/2025;18:45;ADO Den Haag;Fortuna Sittard;2;0;2
+22;17/05/2025;14:00;PSV;Feyenoord Vrouwen;3;2;1
+22;17/05/2025;14:00;Twente;VV Alkmaar;3;2;1
+22;17/05/2025;14:00;FC Utrecht;Zwolle;0;0;0
+22;17/05/2025;14:00;Excelsior;Ajax;1;3;-2
+22;17/05/2025;14:00;Telstar 1963;Heerenveen;2;0;2

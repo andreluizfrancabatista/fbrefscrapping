@@ -1,0 +1,553 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;09/08/2024;20:00;Barnsley;Mansfield Town;1;2;-1
+1;10/08/2024;17:30;Wigan Athletic;Charlton Ath;0;1;-1
+1;10/08/2024;17:30;Bristol Rovers;Northampton;1;0;1
+1;10/08/2024;17:30;Stevenage;Shrewsbury;1;0;1
+1;10/08/2024;17:30;Stockport;Cambridge Utd;2;0;2
+1;10/08/2024;17:30;Crawley Town;Blackpool;2;1;1
+1;10/08/2024;17:30;Birmingham City;Reading;1;1;0
+1;10/08/2024;17:30;Burton Albion;Lincoln City;2;3;-1
+1;10/08/2024;17:30;Leyton Orient;Bolton;1;2;-1
+1;10/08/2024;17:30;Exeter City;Rotherham Utd;1;0;1
+1;10/08/2024;17:30;P'borough Utd;Huddersfield;0;2;-2
+1;10/08/2024;17:30;Wrexham;Wycombe;3;2;1
+2;17/08/2024;12:30;Charlton Ath;Leyton Orient;1;0;1
+2;17/08/2024;12:30;Shrewsbury;P'borough Utd;1;4;-3
+2;17/08/2024;15:00;Mansfield Town;Burton Albion;3;3;0
+2;17/08/2024;15:00;Northampton;Exeter City;2;1;1
+2;17/08/2024;15:00;Reading;Wigan Athletic;2;0;2
+2;17/08/2024;15:00;Lincoln City;Barnsley;1;2;-1
+2;17/08/2024;15:00;Wycombe;Birmingham City;2;3;-1
+2;17/08/2024;15:00;Rotherham Utd;Bristol Rovers;0;0;0
+2;17/08/2024;15:00;Huddersfield;Stevenage;2;1;1
+2;17/08/2024;15:00;Cambridge Utd;Crawley Town;0;1;-1
+2;17/08/2024;15:00;Blackpool;Stockport;0;3;-3
+2;18/08/2024;15:00;Bolton;Wrexham;0;0;0
+3;24/08/2024;12:30;Stockport;Bristol Rovers;2;0;2
+3;24/08/2024;12:30;Burton Albion;Stevenage;0;0;0
+3;24/08/2024;15:00;Wrexham;Reading;3;0;3
+3;24/08/2024;15:00;Lincoln City;Mansfield Town;4;1;3
+3;24/08/2024;15:00;Exeter City;P'borough Utd;1;2;-1
+3;24/08/2024;15:00;Charlton Ath;Bolton;2;0;2
+3;24/08/2024;15:00;Leyton Orient;Birmingham City;1;2;-1
+3;24/08/2024;15:00;Wycombe;Rotherham Utd;2;0;2
+3;24/08/2024;15:00;Barnsley;Northampton;2;2;0
+3;24/08/2024;15:00;Cambridge Utd;Blackpool;4;4;0
+3;24/08/2024;15:00;Wigan Athletic;Crawley Town;1;0;1
+3;24/08/2024;15:00;Huddersfield;Shrewsbury;1;0;1
+4;31/08/2024;12:30;Rotherham Utd;Huddersfield;2;1;1
+4;31/08/2024;12:30;Blackpool;Wycombe;2;2;0
+4;31/08/2024;15:00;Northampton;Burton Albion;0;0;0
+4;31/08/2024;15:00;P'borough Utd;Wrexham;0;2;-2
+4;31/08/2024;15:00;Stevenage;Lincoln City;0;1;-1
+4;31/08/2024;15:00;Bolton;Exeter City;0;2;-2
+4;31/08/2024;15:00;Reading;Charlton Ath;2;0;2
+4;31/08/2024;15:00;Crawley Town;Barnsley;0;3;-3
+4;31/08/2024;15:00;Shrewsbury;Leyton Orient;3;0;3
+4;31/08/2024;15:00;Birmingham City;Wigan Athletic;2;1;1
+4;31/08/2024;15:00;Bristol Rovers;Cambridge Utd;2;0;2
+4;31/08/2024;15:00;Mansfield Town;Stockport;1;1;0
+5;07/09/2024;15:00;Charlton Ath;Rotherham Utd;1;1;0
+5;07/09/2024;15:00;Wrexham;Shrewsbury;3;0;3
+5;07/09/2024;15:00;Barnsley;Bristol Rovers;2;1;1
+6;14/09/2024;12:30;Northampton;Wycombe;1;2;-1
+6;14/09/2024;12:30;Mansfield Town;Cambridge Utd;2;1;1
+6;14/09/2024;15:00;Crawley Town;Stockport;1;1;0
+6;14/09/2024;15:00;Bristol Rovers;Wigan Athletic;0;4;-4
+6;14/09/2024;15:00;Bolton;Huddersfield;0;4;-4
+6;14/09/2024;15:00;Reading;Leyton Orient;0;1;-1
+6;14/09/2024;15:00;Rotherham Utd;Burton Albion;2;2;0
+6;14/09/2024;15:00;Stevenage;Barnsley;3;0;3
+6;14/09/2024;15:00;P'borough Utd;Lincoln City;1;1;0
+6;14/09/2024;15:00;Blackpool;Exeter City;2;1;1
+6;14/09/2024;15:00;Shrewsbury;Charlton Ath;0;1;-1
+6;16/09/2024;20:00;Birmingham City;Wrexham;3;1;2
+7;21/09/2024;12:30;Exeter City;Stevenage;2;0;2
+7;21/09/2024;12:30;Lincoln City;Wigan Athletic;0;0;0
+7;21/09/2024;15:00;Rotherham Utd;Birmingham City;0;2;-2
+7;21/09/2024;15:00;Wrexham;Crawley Town;2;1;1
+7;21/09/2024;15:00;Bolton;Reading;5;2;3
+7;21/09/2024;15:00;Stockport;Leyton Orient;1;4;-3
+7;21/09/2024;15:00;Burton Albion;Barnsley;1;2;-1
+7;21/09/2024;15:00;Wycombe;Cambridge Utd;2;1;1
+7;21/09/2024;15:00;Charlton Ath;Blackpool;1;2;-1
+7;21/09/2024;15:00;P'borough Utd;Bristol Rovers;3;2;1
+7;21/09/2024;15:00;Mansfield Town;Shrewsbury;2;1;1
+7;21/09/2024;15:00;Huddersfield;Northampton;1;3;-2
+5;24/09/2024;19:45;Huddersfield;Blackpool;0;2;-2
+5;24/09/2024;19:45;Wigan Athletic;Stevenage;0;0;0
+5;24/09/2024;19:45;Leyton Orient;P'borough Utd;2;2;0
+8;28/09/2024;12:30;Reading;Huddersfield;2;1;1
+8;28/09/2024;12:30;Crawley Town;Bolton;0;2;-2
+8;28/09/2024;15:00;Cambridge Utd;Lincoln City;0;2;-2
+8;28/09/2024;15:00;Stevenage;Charlton Ath;1;0;1
+8;28/09/2024;15:00;Blackpool;Burton Albion;3;0;3
+8;28/09/2024;15:00;Birmingham City;P'borough Utd;3;2;1
+8;28/09/2024;15:00;Shrewsbury;Rotherham Utd;1;1;0
+8;28/09/2024;15:00;Leyton Orient;Wrexham;0;0;0
+8;28/09/2024;15:00;Bristol Rovers;Wycombe;1;2;-1
+8;28/09/2024;15:00;Northampton;Mansfield Town;0;2;-2
+8;28/09/2024;15:00;Wigan Athletic;Exeter City;0;0;0
+8;28/09/2024;19:45;Barnsley;Stockport;1;1;0
+9;01/10/2024;19:45;Birmingham City;Huddersfield;1;0;1
+9;01/10/2024;19:45;Leyton Orient;Exeter City;0;1;-1
+9;01/10/2024;19:45;Wigan Athletic;P'borough Utd;3;0;3
+9;01/10/2024;19:45;Blackpool;Lincoln City;1;1;0
+9;01/10/2024;19:45;Cambridge Utd;Rotherham Utd;0;1;-1
+9;01/10/2024;19:45;Crawley Town;Mansfield Town;0;2;-2
+9;01/10/2024;19:45;Stevenage;Wrexham;1;0;1
+9;01/10/2024;19:45;Barnsley;Wycombe;2;2;0
+9;01/10/2024;19:45;Shrewsbury;Stockport;0;2;-2
+9;01/10/2024;19:45;Northampton;Bolton;2;4;-2
+9;01/10/2024;19:45;Bristol Rovers;Charlton Ath;3;2;1
+9;01/10/2024;20:00;Reading;Burton Albion;3;1;2
+10;05/10/2024;12:30;P'borough Utd;Stevenage;2;1;1
+10;05/10/2024;12:30;Huddersfield;Barnsley;2;0;2
+10;05/10/2024;15:00;Rotherham Utd;Reading;2;1;1
+10;05/10/2024;15:00;Burton Albion;Bristol Rovers;1;3;-2
+10;05/10/2024;15:00;Bolton;Shrewsbury;2;2;0
+10;05/10/2024;15:00;Wycombe;Crawley Town;1;0;1
+10;05/10/2024;15:00;Exeter City;Cambridge Utd;1;0;1
+10;05/10/2024;15:00;Wrexham;Northampton;4;1;3
+10;05/10/2024;15:00;Charlton Ath;Birmingham City;1;0;1
+10;05/10/2024;15:00;Lincoln City;Leyton Orient;2;1;1
+10;05/10/2024;15:00;Stockport;Wigan Athletic;0;0;0
+10;05/10/2024;15:00;Mansfield Town;Blackpool;2;0;2
+11;12/10/2024;15:00;P'borough Utd;Rotherham Utd;3;3;0
+11;12/10/2024;15:00;Crawley Town;Shrewsbury;3;5;-2
+12;17/10/2024;20:00;Shrewsbury;Exeter City;0;2;-2
+12;19/10/2024;12:30;Wycombe;P'borough Utd;3;1;2
+12;19/10/2024;12:30;Reading;Crawley Town;4;1;3
+12;19/10/2024;15:00;Charlton Ath;Stockport;1;1;0
+12;19/10/2024;15:00;Cambridge Utd;Wigan Athletic;2;0;2
+12;19/10/2024;15:00;Rotherham Utd;Wrexham;0;1;-1
+12;19/10/2024;15:00;Mansfield Town;Stevenage;0;1;-1
+12;19/10/2024;15:00;Huddersfield;Bristol Rovers;3;1;2
+12;19/10/2024;15:00;Bolton;Burton Albion;2;1;1
+12;19/10/2024;15:00;Blackpool;Barnsley;1;2;-1
+12;19/10/2024;15:00;Lincoln City;Birmingham City;1;3;-2
+12;19/10/2024;15:00;Northampton;Leyton Orient;1;0;1
+13;22/10/2024;19:45;Burton Albion;Wycombe;2;3;-1
+13;22/10/2024;19:45;Stockport;Northampton;1;1;0
+13;22/10/2024;19:45;Bristol Rovers;Shrewsbury;1;0;1
+13;22/10/2024;19:45;Wrexham;Huddersfield;0;0;0
+13;22/10/2024;19:45;P'borough Utd;Blackpool;5;1;4
+13;22/10/2024;19:45;Stevenage;Cambridge Utd;0;2;-2
+13;22/10/2024;19:45;Wigan Athletic;Mansfield Town;1;2;-1
+13;22/10/2024;19:45;Barnsley;Charlton Ath;2;2;0
+13;22/10/2024;19:45;Birmingham City;Bolton;2;0;2
+13;22/10/2024;19:45;Leyton Orient;Rotherham Utd;1;0;1
+13;22/10/2024;19:45;Crawley Town;Lincoln City;3;0;3
+13;22/10/2024;19:45;Exeter City;Reading;1;2;-1
+14;26/10/2024;12:30;Reading;Bristol Rovers;1;0;1
+14;26/10/2024;12:30;Mansfield Town;Birmingham City;1;1;0
+14;26/10/2024;15:00;Northampton;Crawley Town;3;0;3
+14;26/10/2024;15:00;Charlton Ath;Wrexham;2;2;0
+14;26/10/2024;15:00;Huddersfield;Exeter City;2;0;2
+14;26/10/2024;15:00;Wycombe;Leyton Orient;3;0;3
+14;26/10/2024;15:00;Shrewsbury;Barnsley;0;2;-2
+14;26/10/2024;15:00;Bolton;P'borough Utd;1;0;1
+14;26/10/2024;15:00;Cambridge Utd;Burton Albion;1;0;1
+14;26/10/2024;15:00;Rotherham Utd;Stevenage;2;0;2
+14;26/10/2024;15:00;Lincoln City;Stockport;2;1;1
+14;28/10/2024;20:00;Blackpool;Wigan Athletic;2;2;0
+5;29/10/2024;19:45;Lincoln City;Northampton;2;1;1
+5;29/10/2024;19:45;Stockport;Reading;4;1;3
+11;29/10/2024;19:45;Stevenage;Bolton;1;4;-3
+5;05/11/2024;19:45;Burton Albion;Crawley Town;0;0;0
+11;05/11/2024;19:45;Stockport;Wycombe;0;5;-5
+15;08/11/2024;19:15;Barnsley;Rotherham Utd;2;0;2
+15;09/11/2024;12:30;Wrexham;Mansfield Town;1;0;1
+15;09/11/2024;12:30;Burton Albion;Shrewsbury;2;0;2
+15;09/11/2024;15:00;Leyton Orient;Blackpool;3;0;3
+15;09/11/2024;15:00;P'borough Utd;Cambridge Utd;6;1;5
+15;09/11/2024;15:00;Stevenage;Reading;1;1;0
+15;09/11/2024;15:00;Wigan Athletic;Wycombe;0;1;-1
+15;09/11/2024;15:00;Birmingham City;Northampton;1;1;0
+15;09/11/2024;15:00;Exeter City;Charlton Ath;1;0;1
+15;09/11/2024;15:00;Bristol Rovers;Lincoln City;1;1;0
+15;09/11/2024;15:00;Stockport;Bolton;5;0;5
+15;09/11/2024;15:00;Crawley Town;Huddersfield;2;2;0
+16;16/11/2024;12:30;Exeter City;Lincoln City;0;0;0
+16;16/11/2024;15:00;Bristol Rovers;Crawley Town;0;0;0
+16;16/11/2024;15:00;Blackpool;Northampton;0;0;0
+16;16/11/2024;15:00;Cambridge Utd;Barnsley;1;1;0
+16;16/11/2024;15:00;Stockport;Wrexham;1;0;1
+17;23/11/2024;12:30;Bolton;Blackpool;2;1;1
+17;23/11/2024;12:30;Stevenage;Leyton Orient;0;0;0
+17;23/11/2024;12:30;Shrewsbury;Birmingham City;3;2;1
+17;23/11/2024;15:00;P'borough Utd;Reading;1;2;-1
+17;23/11/2024;15:00;Lincoln City;Wycombe;2;3;-1
+17;23/11/2024;15:00;Northampton;Cambridge Utd;0;0;0
+17;23/11/2024;15:00;Wrexham;Exeter City;3;0;3
+17;23/11/2024;15:00;Huddersfield;Charlton Ath;2;1;1
+17;23/11/2024;15:00;Crawley Town;Rotherham Utd;1;0;1
+17;23/11/2024;15:00;Mansfield Town;Bristol Rovers;0;1;-1
+17;23/11/2024;15:00;Burton Albion;Stockport;0;3;-3
+17;23/11/2024;15:00;Barnsley;Wigan Athletic;0;1;-1
+5;26/11/2024;19:45;Wycombe;Mansfield Town;1;0;1
+5;26/11/2024;19:45;Exeter City;Birmingham City;0;2;-2
+5;26/11/2024;19:45;Cambridge Utd;Bolton;1;1;0
+11;26/11/2024;19:45;Burton Albion;Charlton Ath;0;1;-1
+11;26/11/2024;19:45;Barnsley;Reading;2;2;0
+11;26/11/2024;19:45;Leyton Orient;Huddersfield;0;2;-2
+11;26/11/2024;19:45;Wigan Athletic;Northampton;2;1;1
+11;26/11/2024;19:45;Wrexham;Lincoln City;1;0;1
+11;26/11/2024;19:45;Bristol Rovers;Blackpool;0;2;-2
+18;03/12/2024;19:45;Leyton Orient;Bristol Rovers;3;0;3
+18;03/12/2024;19:45;Exeter City;Wycombe;2;2;0
+18;03/12/2024;19:45;Charlton Ath;Crawley Town;1;2;-1
+18;03/12/2024;19:45;Stevenage;Northampton;2;0;2
+18;03/12/2024;19:45;Wrexham;Barnsley;1;0;1
+18;03/12/2024;19:45;Rotherham Utd;Lincoln City;2;1;1
+18;03/12/2024;19:45;Bolton;Mansfield Town;3;1;2
+18;03/12/2024;20:00;Huddersfield;Wigan Athletic;1;0;1
+18;03/12/2024;20:00;Reading;Cambridge Utd;3;0;3
+18;04/12/2024;19:45;Shrewsbury;Blackpool;1;2;-1
+18;04/12/2024;19:45;Birmingham City;Stockport;2;0;2
+18;04/12/2024;19:45;P'borough Utd;Burton Albion;0;1;-1
+19;07/12/2024;12:30;Wigan Athletic;Leyton Orient;0;2;-2
+19;07/12/2024;12:30;Lincoln City;Charlton Ath;0;0;0
+19;07/12/2024;15:00;Wycombe;Reading;1;1;0
+19;07/12/2024;15:00;Barnsley;Birmingham City;1;2;-1
+19;07/12/2024;15:00;Burton Albion;Wrexham;0;1;-1
+19;07/12/2024;15:00;Cambridge Utd;Shrewsbury;4;1;3
+19;07/12/2024;15:00;Mansfield Town;Huddersfield;1;2;-1
+19;07/12/2024;15:00;Stockport;Exeter City;2;0;2
+19;09/12/2024;20:00;Northampton;P'borough Utd;2;1;1
+20;14/12/2024;12:30;Leyton Orient;Burton Albion;0;0;0
+20;14/12/2024;12:30;Bolton;Wigan Athletic;0;2;-2
+20;14/12/2024;15:00;Rotherham Utd;Northampton;3;0;3
+20;14/12/2024;15:00;Exeter City;Barnsley;1;2;-1
+20;14/12/2024;15:00;P'borough Utd;Crawley Town;4;3;1
+20;14/12/2024;15:00;Charlton Ath;Mansfield Town;0;0;0
+20;14/12/2024;15:00;Huddersfield;Lincoln City;2;2;0
+20;14/12/2024;15:00;Birmingham City;Bristol Rovers;2;0;2
+20;14/12/2024;15:00;Wrexham;Cambridge Utd;2;2;0
+20;14/12/2024;15:00;Reading;Blackpool;0;3;-3
+20;14/12/2024;15:00;Shrewsbury;Wycombe;1;4;-3
+20;14/12/2024;15:00;Stevenage;Stockport;2;1;1
+21;20/12/2024;19:45;Stockport;P'borough Utd;2;1;1
+21;20/12/2024;19:45;Wycombe;Bolton;0;0;0
+21;20/12/2024;19:45;Cambridge Utd;Huddersfield;0;4;-4
+21;21/12/2024;12:30;Bristol Rovers;Wrexham;1;1;0
+21;21/12/2024;12:30;Lincoln City;Reading;2;0;2
+21;21/12/2024;15:00;Mansfield Town;Rotherham Utd;1;0;1
+21;21/12/2024;15:00;Wigan Athletic;Shrewsbury;2;2;0
+21;21/12/2024;15:00;Northampton;Charlton Ath;0;5;-5
+21;21/12/2024;15:00;Barnsley;Leyton Orient;0;4;-4
+21;21/12/2024;15:00;Blackpool;Stevenage;0;0;0
+21;21/12/2024;15:00;Burton Albion;Exeter City;1;2;-1
+21;23/12/2024;20:00;Crawley Town;Birmingham City;0;1;-1
+22;26/12/2024;13:00;Leyton Orient;Crawley Town;3;0;3
+22;26/12/2024;15:00;Reading;Northampton;4;1;3
+22;26/12/2024;15:00;Rotherham Utd;Wigan Athletic;0;1;-1
+22;26/12/2024;15:00;Charlton Ath;Cambridge Utd;2;1;1
+22;26/12/2024;15:00;P'borough Utd;Mansfield Town;0;3;-3
+22;26/12/2024;15:00;Stevenage;Wycombe;0;3;-3
+22;26/12/2024;15:00;Shrewsbury;Lincoln City;1;0;1
+22;26/12/2024;15:00;Birmingham City;Burton Albion;2;0;2
+22;26/12/2024;15:00;Wrexham;Blackpool;2;1;1
+22;26/12/2024;15:00;Bolton;Barnsley;1;2;-1
+22;26/12/2024;15:00;Huddersfield;Stockport;1;0;1
+22;26/12/2024;15:00;Exeter City;Bristol Rovers;3;1;2
+23;29/12/2024;12:30;Charlton Ath;Wycombe;2;1;1
+23;29/12/2024;12:30;Rotherham Utd;Stockport;1;1;0
+23;29/12/2024;15:00;Shrewsbury;Northampton;1;1;0
+23;29/12/2024;15:00;Birmingham City;Blackpool;0;0;0
+23;29/12/2024;15:00;Exeter City;Crawley Town;4;4;0
+23;29/12/2024;15:00;Stevenage;Bristol Rovers;3;0;3
+23;29/12/2024;15:00;Wrexham;Wigan Athletic;2;1;1
+23;29/12/2024;15:00;Reading;Mansfield Town;2;1;1
+23;29/12/2024;15:00;Leyton Orient;Cambridge Utd;2;0;2
+23;29/12/2024;15:00;Huddersfield;Burton Albion;1;1;0
+23;29/12/2024;15:00;Bolton;Lincoln City;3;0;3
+23;29/12/2024;15:00;P'borough Utd;Barnsley;1;3;-2
+24;01/01/2025;15:00;Burton Albion;P'borough Utd;2;2;0
+24;01/01/2025;15:00;Wycombe;Exeter City;2;1;1
+24;01/01/2025;15:00;Blackpool;Shrewsbury;1;1;0
+24;01/01/2025;15:00;Northampton;Stevenage;0;0;0
+24;01/01/2025;15:00;Mansfield Town;Bolton;2;1;1
+24;01/01/2025;15:00;Stockport;Birmingham City;1;1;0
+24;01/01/2025;15:00;Cambridge Utd;Reading;1;3;-2
+24;01/01/2025;15:00;Lincoln City;Rotherham Utd;0;1;-1
+24;01/01/2025;15:00;Barnsley;Wrexham;2;1;1
+24;01/01/2025;15:00;Bristol Rovers;Leyton Orient;2;3;-1
+25;04/01/2025;12:30;Cambridge Utd;Bristol Rovers;0;1;-1
+25;04/01/2025;12:30;Burton Albion;Northampton;0;1;-1
+25;04/01/2025;15:00;Huddersfield;Rotherham Utd;0;0;0
+25;04/01/2025;15:00;Lincoln City;Stevenage;0;0;0
+25;04/01/2025;15:00;Barnsley;Crawley Town;3;0;3
+25;04/01/2025;15:00;Stockport;Mansfield Town;1;2;-1
+25;04/01/2025;15:00;Charlton Ath;Reading;0;0;0
+25;04/01/2025;15:00;Exeter City;Bolton;1;2;-1
+25;04/01/2025;15:00;Wycombe;Blackpool;1;1;0
+25;04/01/2025;15:00;Leyton Orient;Shrewsbury;1;0;1
+25;04/01/2025;15:00;Wigan Athletic;Birmingham City;0;3;-3
+25;04/01/2025;15:00;Wrexham;P'borough Utd;1;0;1
+16;07/01/2025;19:45;Wycombe;Huddersfield;0;1;-1
+16;11/01/2025;12:30;Rotherham Utd;Bolton;3;1;2
+27;16/01/2025;20:00;Shrewsbury;Wrexham;2;1;1
+27;18/01/2025;12:30;Blackpool;Huddersfield;2;2;0
+27;18/01/2025;12:30;P'borough Utd;Leyton Orient;0;0;0
+27;18/01/2025;14:00;Northampton;Lincoln City;0;1;-1
+27;18/01/2025;15:00;Birmingham City;Exeter City;1;0;1
+27;18/01/2025;15:00;Bristol Rovers;Barnsley;3;1;2
+27;18/01/2025;15:00;Reading;Stockport;1;3;-2
+27;18/01/2025;15:00;Rotherham Utd;Charlton Ath;4;2;2
+27;18/01/2025;15:00;Crawley Town;Burton Albion;1;1;0
+27;18/01/2025;15:00;Stevenage;Wigan Athletic;1;2;-1
+27;18/01/2025;15:00;Bolton;Cambridge Utd;2;2;0
+27;18/01/2025;15:00;Mansfield Town;Wycombe;1;2;-1
+16;21/01/2025;19:45;Wigan Athletic;Burton Albion;1;2;-1
+26;21/01/2025;19:45;Bolton;Charlton Ath;1;2;-1
+26;21/01/2025;19:45;P'borough Utd;Exeter City;1;1;0
+28;23/01/2025;20:00;Wrexham;Birmingham City;1;1;0
+28;25/01/2025;12:30;Cambridge Utd;Mansfield Town;3;2;1
+28;25/01/2025;12:30;Huddersfield;Bolton;0;1;-1
+28;25/01/2025;15:00;Wigan Athletic;Bristol Rovers;2;0;2
+28;25/01/2025;15:00;Leyton Orient;Reading;2;0;2
+28;25/01/2025;15:00;Burton Albion;Rotherham Utd;4;2;2
+28;25/01/2025;15:00;Wycombe;Northampton;0;0;0
+28;25/01/2025;15:00;Exeter City;Blackpool;1;3;-2
+28;25/01/2025;15:00;Stockport;Crawley Town;2;0;2
+28;25/01/2025;15:00;Barnsley;Stevenage;0;1;-1
+28;25/01/2025;15:00;Lincoln City;P'borough Utd;5;1;4
+28;25/01/2025;15:00;Charlton Ath;Shrewsbury;1;0;1
+29;28/01/2025;19:45;Exeter City;Leyton Orient;2;6;-4
+29;28/01/2025;19:45;Mansfield Town;Crawley Town;0;1;-1
+29;28/01/2025;19:45;Stockport;Shrewsbury;1;0;1
+29;28/01/2025;19:45;Wrexham;Stevenage;2;3;-1
+29;28/01/2025;19:45;Wycombe;Barnsley;2;1;1
+29;28/01/2025;19:45;Burton Albion;Reading;3;2;1
+29;28/01/2025;19:45;Lincoln City;Blackpool;0;2;-2
+29;28/01/2025;19:45;P'borough Utd;Wigan Athletic;1;0;1
+29;28/01/2025;19:45;Rotherham Utd;Cambridge Utd;2;1;1
+29;28/01/2025;19:45;Charlton Ath;Bristol Rovers;2;0;2
+29;28/01/2025;19:45;Bolton;Northampton;3;1;2
+29;28/01/2025;20:00;Huddersfield;Birmingham City;0;1;-1
+30;01/02/2025;12:30;Stevenage;Exeter City;4;1;3
+30;01/02/2025;12:30;Barnsley;Burton Albion;0;0;0
+30;01/02/2025;15:00;Leyton Orient;Stockport;0;1;-1
+30;01/02/2025;15:00;Cambridge Utd;Wycombe;1;1;0
+30;01/02/2025;15:00;Shrewsbury;Mansfield Town;2;1;1
+30;01/02/2025;15:00;Northampton;Huddersfield;3;2;1
+30;01/02/2025;15:00;Crawley Town;Wrexham;1;2;-1
+30;01/02/2025;15:00;Reading;Bolton;1;0;1
+30;01/02/2025;15:00;Wigan Athletic;Lincoln City;1;1;0
+30;01/02/2025;15:00;Birmingham City;Rotherham Utd;2;1;1
+30;01/02/2025;15:00;Blackpool;Charlton Ath;2;2;0
+30;02/02/2025;15:00;Bristol Rovers;P'borough Utd;3;1;2
+31;07/02/2025;19:45;Mansfield Town;Northampton;0;1;-1
+31;08/02/2025;12:30;Charlton Ath;Stevenage;2;0;2
+31;08/02/2025;12:30;Stockport;Barnsley;2;1;1
+31;08/02/2025;15:00;Bolton;Crawley Town;4;3;1
+31;08/02/2025;15:00;Rotherham Utd;Shrewsbury;1;2;-1
+31;08/02/2025;15:00;Huddersfield;Reading;0;0;0
+31;08/02/2025;15:00;Burton Albion;Blackpool;1;1;0
+31;08/02/2025;15:00;Lincoln City;Cambridge Utd;1;1;0
+11;11/02/2025;19:45;Birmingham City;Cambridge Utd;4;0;4
+16;11/02/2025;19:45;Charlton Ath;P'borough Utd;2;1;1
+16;11/02/2025;19:45;Leyton Orient;Mansfield Town;3;0;3
+19;11/02/2025;19:45;Blackpool;Rotherham Utd;0;0;0
+19;11/02/2025;19:45;Crawley Town;Stevenage;3;1;2
+26;11/02/2025;19:45;Bristol Rovers;Stockport;1;1;0
+16;11/02/2025;20:00;Reading;Shrewsbury;1;1;0
+32;15/02/2025;12:30;Cambridge Utd;Exeter City;0;1;-1
+32;15/02/2025;12:30;Northampton;Wrexham;0;2;-2
+32;15/02/2025;15:00;Leyton Orient;Lincoln City;3;2;1
+32;15/02/2025;15:00;Birmingham City;Charlton Ath;1;0;1
+32;15/02/2025;15:00;Bristol Rovers;Burton Albion;3;1;2
+32;15/02/2025;15:00;Reading;Rotherham Utd;2;1;1
+32;15/02/2025;15:00;Shrewsbury;Bolton;2;3;-1
+32;15/02/2025;15:00;Blackpool;Mansfield Town;3;3;0
+32;15/02/2025;15:00;Barnsley;Huddersfield;1;2;-1
+32;15/02/2025;15:00;Stevenage;P'borough Utd;1;1;0
+32;15/02/2025;15:00;Wigan Athletic;Stockport;0;2;-2
+32;15/02/2025;15:00;Crawley Town;Wycombe;1;1;0
+26;18/02/2025;19:45;Stevenage;Burton Albion;0;1;-1
+26;18/02/2025;19:45;Shrewsbury;Huddersfield;0;1;-1
+26;18/02/2025;19:45;Crawley Town;Wigan Athletic;1;1;0
+26;18/02/2025;19:45;Mansfield Town;Lincoln City;0;3;-3
+31;18/02/2025;19:45;Wycombe;Bristol Rovers;2;0;2
+31;18/02/2025;19:45;Wrexham;Leyton Orient;1;2;-1
+33;22/02/2025;12:30;Reading;Birmingham City;0;0;0
+33;22/02/2025;12:30;Rotherham Utd;Barnsley;0;1;-1
+33;22/02/2025;15:00;Northampton;Bristol Rovers;2;1;1
+33;22/02/2025;15:00;Blackpool;Crawley Town;3;1;2
+33;22/02/2025;15:00;Wycombe;Wigan Athletic;0;0;0
+33;22/02/2025;15:00;Lincoln City;Burton Albion;0;1;-1
+33;22/02/2025;15:00;Charlton Ath;Exeter City;3;0;3
+33;22/02/2025;15:00;Shrewsbury;Stevenage;0;1;-1
+33;22/02/2025;15:00;Bolton;Leyton Orient;2;1;1
+33;22/02/2025;15:00;Cambridge Utd;Stockport;2;0;2
+33;22/02/2025;15:00;Huddersfield;P'borough Utd;0;1;-1
+33;23/02/2025;15:00;Mansfield Town;Wrexham;1;2;-1
+24;25/02/2025;19:45;Wigan Athletic;Huddersfield;2;1;1
+26;25/02/2025;19:45;Northampton;Barnsley;1;2;-1
+26;25/02/2025;19:45;Birmingham City;Leyton Orient;2;0;2
+34;01/03/2025;12:30;Birmingham City;Wycombe;1;0;1
+34;01/03/2025;12:30;Wrexham;Bolton;0;0;0
+34;01/03/2025;15:00;Crawley Town;Cambridge Utd;0;2;-2
+34;01/03/2025;15:00;Burton Albion;Mansfield Town;1;1;0
+34;01/03/2025;15:00;Stockport;Blackpool;2;1;1
+34;01/03/2025;15:00;Stevenage;Huddersfield;1;2;-1
+34;01/03/2025;15:00;Wigan Athletic;Reading;1;2;-1
+34;01/03/2025;15:00;Barnsley;Lincoln City;4;3;1
+34;01/03/2025;15:00;Exeter City;Northampton;1;1;0
+34;01/03/2025;15:00;Bristol Rovers;Rotherham Utd;2;3;-1
+34;01/03/2025;15:00;Leyton Orient;Charlton Ath;1;2;-1
+34;01/03/2025;15:00;P'borough Utd;Shrewsbury;3;1;2
+35;04/03/2025;19:45;Rotherham Utd;Leyton Orient;1;0;1
+35;04/03/2025;19:45;Cambridge Utd;Stevenage;0;1;-1
+35;04/03/2025;19:45;Mansfield Town;Wigan Athletic;0;0;0
+35;04/03/2025;19:45;Charlton Ath;Barnsley;1;0;1
+35;04/03/2025;19:45;Shrewsbury;Bristol Rovers;0;0;0
+35;04/03/2025;19:45;Bolton;Birmingham City;3;1;2
+35;04/03/2025;19:45;Huddersfield;Wrexham;0;1;-1
+35;04/03/2025;19:45;Blackpool;P'borough Utd;0;0;0
+35;04/03/2025;19:45;Lincoln City;Crawley Town;4;1;3
+35;04/03/2025;19:45;Northampton;Stockport;1;1;0
+35;04/03/2025;20:00;Wycombe;Burton Albion;2;0;2
+35;04/03/2025;20:00;Reading;Exeter City;0;0;0
+36;08/03/2025;12:30;Crawley Town;Reading;1;1;0
+36;08/03/2025;12:30;Stockport;Charlton Ath;0;0;0
+36;08/03/2025;15:00;Wigan Athletic;Cambridge Utd;1;0;1
+36;08/03/2025;15:00;Exeter City;Shrewsbury;2;0;2
+36;08/03/2025;15:00;P'borough Utd;Wycombe;1;1;0
+36;08/03/2025;15:00;Wrexham;Rotherham Utd;1;0;1
+36;08/03/2025;15:00;Stevenage;Mansfield Town;1;1;0
+36;08/03/2025;15:00;Leyton Orient;Northampton;1;2;-1
+36;08/03/2025;15:00;Birmingham City;Lincoln City;1;0;1
+36;08/03/2025;15:00;Burton Albion;Bolton;1;2;-1
+36;08/03/2025;15:00;Barnsley;Blackpool;0;3;-3
+36;08/03/2025;15:00;Bristol Rovers;Huddersfield;1;0;1
+11;11/03/2025;19:45;Exeter City;Mansfield Town;2;0;2
+16;11/03/2025;19:45;Birmingham City;Stevenage;2;1;1
+19;11/03/2025;19:45;Bristol Rovers;Bolton;3;2;1
+24;11/03/2025;19:45;Crawley Town;Charlton Ath;0;1;-1
+26;11/03/2025;19:45;Blackpool;Cambridge Utd;2;1;1
+26;11/03/2025;20:00;Reading;Wrexham;2;0;2
+37;15/03/2025;12:30;Cambridge Utd;P'borough Utd;0;1;-1
+37;15/03/2025;12:30;Bolton;Stockport;0;1;-1
+37;15/03/2025;15:00;Wycombe;Wrexham;0;1;-1
+37;15/03/2025;15:00;Reading;Stevenage;1;1;0
+37;15/03/2025;15:00;Lincoln City;Bristol Rovers;5;0;5
+37;15/03/2025;15:00;Rotherham Utd;Exeter City;1;1;0
+37;15/03/2025;15:00;Charlton Ath;Wigan Athletic;2;1;1
+37;15/03/2025;15:00;Huddersfield;Crawley Town;5;1;4
+37;15/03/2025;15:00;Blackpool;Leyton Orient;1;2;-1
+37;15/03/2025;15:00;Shrewsbury;Burton Albion;0;2;-2
+37;15/03/2025;15:00;Northampton;Birmingham City;1;1;0
+37;15/03/2025;15:00;Mansfield Town;Barnsley;2;1;1
+26;18/03/2025;19:45;Rotherham Utd;Wycombe;2;3;-1
+38;22/03/2025;15:00;P'borough Utd;Charlton Ath;3;0;3
+38;22/03/2025;15:00;Barnsley;Cambridge Utd;1;1;0
+38;22/03/2025;15:00;Lincoln City;Exeter City;0;0;0
+38;22/03/2025;15:00;Northampton;Blackpool;0;2;-2
+38;22/03/2025;15:00;Wrexham;Stockport;1;0;1
+38;22/03/2025;15:00;Crawley Town;Bristol Rovers;1;0;1
+39;27/03/2025;20:00;Leyton Orient;Stevenage;1;0;1
+39;29/03/2025;12:30;Charlton Ath;Huddersfield;4;0;4
+39;29/03/2025;12:30;Stockport;Burton Albion;2;1;1
+39;29/03/2025;15:00;Birmingham City;Shrewsbury;4;1;3
+39;29/03/2025;15:00;Reading;P'borough Utd;3;1;2
+39;29/03/2025;15:00;Wycombe;Lincoln City;1;0;1
+39;29/03/2025;15:00;Blackpool;Bolton;2;1;1
+39;29/03/2025;15:00;Bristol Rovers;Mansfield Town;1;2;-1
+39;29/03/2025;15:00;Wigan Athletic;Barnsley;1;1;0
+39;29/03/2025;15:00;Rotherham Utd;Crawley Town;0;4;-4
+39;29/03/2025;15:00;Exeter City;Wrexham;0;2;-2
+39;29/03/2025;15:00;Cambridge Utd;Northampton;1;1;0
+40;01/04/2025;19:45;Mansfield Town;Charlton Ath;1;2;-1
+40;01/04/2025;19:45;Blackpool;Reading;3;0;3
+40;01/04/2025;19:45;Crawley Town;P'borough Utd;3;4;-1
+40;01/04/2025;19:45;Wycombe;Shrewsbury;0;0;0
+40;01/04/2025;19:45;Lincoln City;Huddersfield;1;0;1
+40;01/04/2025;19:45;Cambridge Utd;Wrexham;2;2;0
+40;01/04/2025;19:45;Burton Albion;Leyton Orient;2;1;1
+40;01/04/2025;19:45;Northampton;Rotherham Utd;0;2;-2
+40;01/04/2025;19:45;Barnsley;Exeter City;1;2;-1
+40;01/04/2025;19:45;Stockport;Stevenage;3;0;3
+40;01/04/2025;19:45;Wigan Athletic;Bolton;0;1;-1
+40;01/04/2025;20:00;Bristol Rovers;Birmingham City;1;2;-1
+41;05/04/2025;12:30;Wrexham;Burton Albion;3;0;3
+41;05/04/2025;12:30;Reading;Wycombe;1;0;1
+41;05/04/2025;15:00;Charlton Ath;Lincoln City;2;2;0
+41;05/04/2025;15:00;Leyton Orient;Wigan Athletic;0;0;0
+41;05/04/2025;15:00;Exeter City;Stockport;0;2;-2
+41;05/04/2025;15:00;Birmingham City;Barnsley;6;2;4
+41;05/04/2025;15:00;Stevenage;Crawley Town;3;1;2
+41;05/04/2025;15:00;Bolton;Bristol Rovers;1;0;1
+41;05/04/2025;15:00;Rotherham Utd;Blackpool;2;1;1
+41;05/04/2025;15:00;Huddersfield;Mansfield Town;2;1;1
+41;05/04/2025;15:00;P'borough Utd;Northampton;0;4;-4
+41;05/04/2025;15:00;Shrewsbury;Cambridge Utd;0;1;-1
+31;08/04/2025;19:45;P'borough Utd;Birmingham City;1;2;-1
+31;08/04/2025;19:45;Exeter City;Wigan Athletic;1;1;0
+38;08/04/2025;19:45;Mansfield Town;Leyton Orient;2;3;-1
+38;08/04/2025;19:45;Bolton;Rotherham Utd;0;1;-1
+38;08/04/2025;19:45;Shrewsbury;Reading;1;3;-2
+38;08/04/2025;19:45;Huddersfield;Wycombe;0;1;-1
+42;12/04/2025;12:30;Wigan Athletic;Wrexham;0;0;0
+42;12/04/2025;12:30;Wycombe;Stevenage;1;0;1
+42;12/04/2025;15:00;Northampton;Reading;0;0;0
+42;12/04/2025;15:00;Barnsley;Bolton;4;1;3
+42;12/04/2025;15:00;Lincoln City;Shrewsbury;1;1;0
+42;12/04/2025;15:00;Bristol Rovers;Exeter City;1;2;-1
+42;12/04/2025;15:00;Cambridge Utd;Charlton Ath;0;1;-1
+42;12/04/2025;15:00;Burton Albion;Huddersfield;3;0;3
+42;12/04/2025;15:00;Crawley Town;Leyton Orient;1;3;-2
+42;12/04/2025;15:00;Stockport;Rotherham Utd;3;1;2
+43;18/04/2025;13:00;Exeter City;Burton Albion;0;0;0
+43;18/04/2025;15:00;Stevenage;Blackpool;1;3;-2
+43;18/04/2025;15:00;Reading;Lincoln City;0;1;-1
+43;18/04/2025;15:00;Birmingham City;Crawley Town;0;0;0
+43;18/04/2025;15:00;Wrexham;Bristol Rovers;1;1;0
+43;18/04/2025;15:00;Shrewsbury;Wigan Athletic;0;1;-1
+43;18/04/2025;15:00;Rotherham Utd;Mansfield Town;3;3;0
+43;18/04/2025;15:00;Leyton Orient;Barnsley;4;3;1
+43;18/04/2025;15:00;Charlton Ath;Northampton;2;1;1
+43;18/04/2025;15:00;Huddersfield;Cambridge Utd;1;2;-1
+43;18/04/2025;15:00;Bolton;Wycombe;0;2;-2
+43;18/04/2025;15:00;P'borough Utd;Stockport;1;1;0
+44;21/04/2025;15:00;Northampton;Shrewsbury;4;1;3
+44;21/04/2025;15:00;Burton Albion;Birmingham City;1;2;-1
+44;21/04/2025;15:00;Stockport;Huddersfield;2;1;1
+44;21/04/2025;15:00;Lincoln City;Bolton;4;2;2
+44;21/04/2025;15:00;Cambridge Utd;Leyton Orient;1;2;-1
+44;21/04/2025;15:00;Blackpool;Wrexham;1;2;-1
+44;21/04/2025;15:00;Mansfield Town;Reading;1;5;-4
+44;21/04/2025;15:00;Wigan Athletic;Rotherham Utd;1;0;1
+44;21/04/2025;15:00;Bristol Rovers;Stevenage;0;1;-1
+44;21/04/2025;15:00;Barnsley;P'borough Utd;1;1;0
+44;21/04/2025;15:00;Wycombe;Charlton Ath;0;4;-4
+44;21/04/2025;15:00;Crawley Town;Exeter City;3;1;2
+38;24/04/2025;19:45;Stevenage;Birmingham City;0;1;-1
+45;26/04/2025;12:30;Bristol Rovers;Reading;0;2;-2
+45;26/04/2025;12:30;Leyton Orient;Wycombe;1;0;1
+45;26/04/2025;15:00;Crawley Town;Northampton;3;0;3
+45;26/04/2025;15:00;P'borough Utd;Bolton;1;1;0
+45;26/04/2025;15:00;Wigan Athletic;Blackpool;1;1;0
+45;26/04/2025;15:00;Exeter City;Huddersfield;3;1;2
+45;26/04/2025;15:00;Burton Albion;Cambridge Utd;2;1;1
+45;26/04/2025;15:00;Stockport;Lincoln City;3;2;1
+45;26/04/2025;15:00;Barnsley;Shrewsbury;1;2;-1
+45;26/04/2025;17:30;Wrexham;Charlton Ath;3;0;3
+45;27/04/2025;14:00;Stevenage;Rotherham Utd;1;1;0
+45;27/04/2025;15:00;Birmingham City;Mansfield Town;4;0;4
+38;29/04/2025;19:45;Burton Albion;Wigan Athletic;1;1;0
+42;30/04/2025;19:45;Mansfield Town;P'borough Utd;4;2;2
+42;30/04/2025;19:45;Blackpool;Birmingham City;0;2;-2
+46;03/05/2025;15:00;Mansfield Town;Exeter City;3;0;3
+46;03/05/2025;15:00;Lincoln City;Wrexham;0;2;-2
+46;03/05/2025;15:00;Northampton;Wigan Athletic;1;1;0
+46;03/05/2025;15:00;Charlton Ath;Burton Albion;3;1;2
+46;03/05/2025;15:00;Huddersfield;Leyton Orient;1;4;-3
+46;03/05/2025;15:00;Shrewsbury;Crawley Town;1;2;-1
+46;03/05/2025;15:00;Rotherham Utd;P'borough Utd;2;1;1
+46;03/05/2025;15:00;Blackpool;Bristol Rovers;4;1;3
+46;03/05/2025;15:00;Cambridge Utd;Birmingham City;1;2;-1
+46;03/05/2025;15:00;Reading;Barnsley;2;4;-2
+46;03/05/2025;15:00;Bolton;Stevenage;1;1;0
+46;03/05/2025;15:00;Wycombe;Stockport;1;3;-2

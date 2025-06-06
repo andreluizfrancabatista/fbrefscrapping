@@ -1,0 +1,120 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;15/02/2025;14:00;SD Aucas;Técnico Univ.;4;1;3
+1;15/02/2025;16:30;Libertad;Independiente;2;0;2
+1;14/02/2025;19:00;Manta Fútbol Club;Barcelona;2;3;-1
+1;16/02/2025;12:45;LDU de Quito;Vinotinto;0;0;0
+1;16/02/2025;15:15;El Nacional;Deportivo Cuenca;0;1;-1
+1;16/02/2025;18:00;CS Emelec;Univ Católica;0;4;-4
+1;15/02/2025;19:00;Macará;Orense;1;0;1
+1;17/02/2025;19:00;Mushuc Runa;Delfín;2;0;2
+2;22/02/2025;14:00;Vinotinto;Macará;1;2;-1
+2;22/02/2025;16:30;Delfín;CS Emelec;2;0;2
+2;21/02/2025;19:00;Deportivo Cuenca;SD Aucas;2;0;2
+2;23/02/2025;12:45;Univ Católica;El Nacional;1;1;0
+2;23/02/2025;15:15;Orense;Manta Fútbol Club;2;1;1
+2;23/02/2025;18:00;Barcelona;Mushuc Runa;1;0;1
+2;22/02/2025;19:00;Independiente;LDU de Quito;1;1;0
+2;24/02/2025;19:00;Técnico Univ.;Libertad;2;2;0
+3;01/03/2025;14:00;Mushuc Runa;Deportivo Cuenca;3;1;2
+3;01/03/2025;16:30;LDU de Quito;Orense;4;0;4
+3;28/02/2025;19:00;CS Emelec;Macará;0;0;0
+3;02/03/2025;13:00;Independiente;Univ Católica;1;1;0
+3;02/03/2025;15:30;SD Aucas;Vinotinto;2;2;0
+3;02/03/2025;18:00;El Nacional;Técnico Univ.;0;0;0
+3;01/03/2025;19:00;Libertad;Barcelona;1;4;-3
+3;03/03/2025;19:00;Manta Fútbol Club;Delfín;2;2;0
+4;08/03/2025;14:00;LDU de Quito;Delfín;3;0;3
+4;08/03/2025;16:30;Manta Fútbol Club;El Nacional;4;3;1
+4;07/03/2025;19:00;Deportivo Cuenca;Libertad;0;1;-1
+4;09/03/2025;13:00;Univ Católica;Mushuc Runa;1;1;0
+4;09/03/2025;15:30;Macará;SD Aucas;1;1;0
+4;09/03/2025;18:00;Vinotinto;CS Emelec;2;1;1
+4;08/03/2025;19:00;Barcelona;Independiente;0;4;-4
+4;10/03/2025;19:00;Orense;Técnico Univ.;2;1;1
+5;15/03/2025;14:00;Libertad;Orense;4;1;3
+5;15/03/2025;16:30;Univ Católica;Manta Fútbol Club;3;0;3
+5;14/03/2025;19:00;Mushuc Runa;Vinotinto;1;2;-1
+5;16/03/2025;13:00;Independiente;Macará;1;1;0
+5;16/03/2025;15:30;El Nacional;SD Aucas;0;1;-1
+5;16/03/2025;18:00;CS Emelec;LDU de Quito;1;0;1
+5;15/03/2025;19:00;Delfín;Deportivo Cuenca;0;0;0
+5;17/03/2025;19:00;Técnico Univ.;Barcelona;0;1;-1
+6;28/03/2025;16:30;SD Aucas;Independiente;1;2;-1
+6;29/03/2025;14:00;Vinotinto;Univ Católica;3;2;1
+6;29/03/2025;16:30;Deportivo Cuenca;LDU de Quito;1;2;-1
+6;28/03/2025;19:00;Barcelona;Delfín;2;0;2
+6;30/03/2025;13:00;Macará;Técnico Univ.;0;1;-1
+6;30/03/2025;15:30;Manta Fútbol Club;Libertad;1;1;0
+6;30/03/2025;18:00;El Nacional;Orense;0;1;-1
+6;29/03/2025;19:00;Mushuc Runa;CS Emelec;1;1;0
+7;05/04/2025;14:00;Delfín;SD Aucas;1;1;0
+7;05/04/2025;16:30;Orense;Vinotinto;0;0;0
+7;04/04/2025;19:00;Libertad;El Nacional;1;3;-2
+7;06/04/2025;13:00;Técnico Univ.;Mushuc Runa;1;1;0
+7;06/04/2025;15:30;Univ Católica;Macará;1;0;1
+7;06/04/2025;18:00;CS Emelec;Manta Fútbol Club;1;1;0
+7;05/04/2025;19:00;Independiente;Deportivo Cuenca;4;0;4
+8;10/04/2025;16:30;Macará;Deportivo Cuenca;0;1;-1
+8;09/04/2025;19:00;Vinotinto;Delfín;5;0;5
+8;10/04/2025;19:00;Manta Fútbol Club;Técnico Univ.;2;1;1
+8;11/04/2025;19:00;CS Emelec;Libertad;1;1;0
+8;14/04/2025;14:00;Mushuc Runa;LDU de Quito;1;0;1
+8;14/04/2025;16:30;El Nacional;Independiente;1;3;-2
+8;14/04/2025;19:00;Orense;Barcelona;3;1;2
+8;15/04/2025;19:00;SD Aucas;Univ Católica;2;1;1
+9;18/04/2025;16:30;LDU de Quito;SD Aucas;3;1;2
+9;19/04/2025;14:00;Libertad;Mushuc Runa;2;1;1
+9;19/04/2025;16:30;Deportivo Cuenca;CS Emelec;0;1;-1
+9;18/04/2025;19:00;Barcelona;El Nacional;1;0;1
+9;20/04/2025;13:00;Técnico Univ.;Vinotinto;1;3;-2
+9;20/04/2025;15:30;Univ Católica;Orense;2;0;2
+9;20/04/2025;18:00;Delfín;Macará;0;0;0
+9;19/04/2025;19:00;Independiente;Manta Fútbol Club;2;0;2
+10;26/04/2025;14:00;Vinotinto;Deportivo Cuenca;0;1;-1
+10;26/04/2025;16:30;Manta Fútbol Club;LDU de Quito;1;1;0
+10;25/04/2025;19:00;El Nacional;Delfín;3;2;1
+10;27/04/2025;13:00;SD Aucas;Mushuc Runa;2;0;2
+10;27/04/2025;15:30;Orense;Independiente;1;2;-1
+10;27/04/2025;18:00;CS Emelec;Técnico Univ.;0;1;-1
+10;26/04/2025;19:00;Macará;Barcelona;0;1;-1
+10;28/04/2025;19:00;Libertad;Univ Católica;3;1;2
+11;03/05/2025;14:00;LDU de Quito;El Nacional;2;2;0
+11;03/05/2025;16:30;Técnico Univ.;Univ Católica;1;1;0
+11;02/05/2025;19:00;Deportivo Cuenca;Manta Fútbol Club;2;0;2
+11;04/05/2025;13:00;Delfín;Orense;0;0;0
+11;04/05/2025;16:30;Barcelona;Vinotinto;2;1;1
+11;04/05/2025;18:00;Independiente;CS Emelec;1;2;-1
+11;03/05/2025;19:00;Mushuc Runa;Macará;4;3;1
+11;05/05/2025;19:00;SD Aucas;Libertad;2;0;2
+12;10/05/2025;13:00;Manta Fútbol Club;Mushuc Runa;2;1;1
+12;10/05/2025;15:30;Macará;LDU de Quito;0;1;-1
+12;09/05/2025;19:00;Orense;Deportivo Cuenca;1;0;1
+12;11/05/2025;13:00;Técnico Univ.;Independiente;1;2;-1
+12;11/05/2025;15:30;Univ Católica;Barcelona;2;2;0
+12;11/05/2025;18:00;CS Emelec;SD Aucas;0;1;-1
+12;10/05/2025;19:00;Libertad;Delfín;0;1;-1
+12;12/05/2025;19:00;El Nacional;Vinotinto;2;1;1
+13;17/05/2025;14:00;SD Aucas;Manta Fútbol Club;1;1;0
+13;17/05/2025;16:30;Mushuc Runa;Orense;2;5;-3
+13;16/05/2025;19:00;Deportivo Cuenca;Técnico Univ.;2;0;2
+13;18/05/2025;13:00;Vinotinto;Independiente;1;3;-2
+13;18/05/2025;15:30;Delfín;Univ Católica;1;0;1
+13;18/05/2025;17:00;Barcelona;CS Emelec;2;0;2
+13;17/05/2025;19:00;Macará;El Nacional;1;1;0
+13;19/05/2025;19:00;LDU de Quito;Libertad;1;1;0
+14;23/05/2025;16:30;Independiente;Mushuc Runa;2;1;1
+14;24/05/2025;14:00;Manta Fútbol Club;Vinotinto;2;2;0
+14;24/05/2025;16:30;Univ Católica;LDU de Quito;3;1;2
+14;23/05/2025;19:00;Barcelona;Deportivo Cuenca;0;0;0
+14;25/05/2025;13:00;Libertad;Macará;0;1;-1
+14;25/05/2025;15:30;Técnico Univ.;Delfín;1;2;-1
+14;25/05/2025;18:00;El Nacional;CS Emelec;2;0;2
+14;24/05/2025;19:00;Orense;SD Aucas;2;1;1
+15;31/05/2025;11:30;LDU de Quito;Técnico Univ.;3;2;1
+15;31/05/2025;16:30;Delfín;Independiente;1;1;0
+15;30/05/2025;19:00;Macará;Manta Fútbol Club;2;2;0
+15;01/06/2025;13:00;Mushuc Runa;El Nacional;2;3;-1
+15;01/06/2025;15:30;Deportivo Cuenca;Univ Católica;3;1;2
+15;01/06/2025;18:00;SD Aucas;Barcelona;2;0;2
+15;31/05/2025;19:00;CS Emelec;Orense;1;0;1
+15;02/06/2025;19:00;Vinotinto;Libertad;1;0;1

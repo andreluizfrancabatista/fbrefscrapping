@@ -1,0 +1,307 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;05/07/2024;16:45;Puebla;Santos;1;0;1
+1;06/07/2024;17:00;Atlético;América;2;1;1
+1;05/07/2024;19:00;Querétaro;Tijuana;1;2;-1
+1;05/07/2024;21:10;FC Juárez;Atlas;2;2;0
+1;07/07/2024;13:00;UNAM;León;4;1;3
+1;06/07/2024;19:00;Guadalajara;Toluca;0;0;0
+1;06/07/2024;19:00;UANL;Necaxa;1;0;1
+1;06/07/2024;21:00;Cruz Azul;Mazatlán;1;0;1
+1;07/07/2024;19:06;Pachuca;Monterrey;0;1;-1
+2;13/07/2024;17:00;León;Pachuca;0;0;0
+2;13/07/2024;17:00;Necaxa;Puebla;4;1;3
+2;12/07/2024;19:00;América;Querétaro;3;1;2
+2;12/07/2024;20:00;Tijuana;Guadalajara;4;2;2
+2;12/07/2024;20:00;Mazatlán;Atlético;2;2;0
+2;12/07/2024;21:05;Atlas;UANL;1;1;0
+2;13/07/2024;19:10;Toluca;FC Juárez;3;2;1
+2;13/07/2024;19:25;Santos;UNAM;1;1;0
+2;13/07/2024;21:10;Monterrey;Cruz Azul;0;4;-4
+3;16/07/2024;19:00;Atlas;Santos;1;0;1
+3;16/07/2024;19:00;Querétaro;Guadalajara;0;2;-2
+3;16/07/2024;19:00;Pachuca;Atlético;2;0;2
+3;16/07/2024;21:00;Puebla;León;2;2;0
+3;16/07/2024;21:05;Cruz Azul;Tijuana;3;0;3
+3;17/07/2024;19:00;Necaxa;Monterrey;0;1;-1
+3;17/07/2024;19:06;FC Juárez;UNAM;1;2;-1
+3;17/07/2024;21:00;Toluca;Mazatlán;3;0;3
+3;17/07/2024;21:00;UANL;América;1;0;1
+4;20/07/2024;17:05;Guadalajara;Mazatlán;2;0;2
+4;19/07/2024;19:00;Atlético;Tijuana;1;1;0
+4;19/07/2024;21:05;Puebla;Atlas;1;2;-1
+4;21/07/2024;17:00;UNAM;Pachuca;2;0;2
+4;20/07/2024;19:00;Monterrey;Querétaro;2;1;1
+4;20/07/2024;19:00;Santos;UANL;0;3;-3
+4;20/07/2024;21:05;Cruz Azul;Toluca;1;1;0
+4;20/07/2024;21:10;FC Juárez;América;1;2;-1
+4;21/07/2024;19:05;León;Necaxa;1;1;0
+16;16/08/2024;19:00;Puebla;Monterrey;1;2;-1
+8;18/08/2024;17:05;Tijuana;Santos;3;1;2
+13;18/08/2024;20:00;Atlético;Querétaro;4;0;4
+5;24/08/2024;17:00;Necaxa;FC Juárez;3;0;3
+5;23/08/2024;19:00;Mazatlán;Pachuca;3;0;3
+5;23/08/2024;19:00;Querétaro;Cruz Azul;0;2;-2
+5;23/08/2024;20:05;Tijuana;Monterrey;2;2;0
+5;25/08/2024;13:00;Toluca;Atlético;2;1;1
+5;24/08/2024;19:00;León;Santos;1;1;0
+5;24/08/2024;19:00;UANL;Guadalajara;1;1;0
+5;24/08/2024;19:00;Atlas;UNAM;2;1;1
+5;24/08/2024;21:05;América;Puebla;0;1;-1
+6;31/08/2024;17:00;Pachuca;Querétaro;1;1;0
+6;31/08/2024;17:05;Guadalajara;FC Juárez;5;0;5
+6;30/08/2024;19:00;Mazatlán;Puebla;1;1;0
+6;30/08/2024;19:00;Atlético;Atlas;2;1;1
+6;30/08/2024;20:05;Tijuana;León;2;1;1
+6;01/09/2024;17:00;UNAM;UANL;1;3;-2
+6;31/08/2024;19:00;Monterrey;Toluca;1;2;-1
+6;31/08/2024;21:10;Cruz Azul;América;4;1;3
+6;01/09/2024;19:05;Santos;Necaxa;3;2;1
+7;14/09/2024;16:45;Toluca;Tijuana;4;0;4
+7;13/09/2024;18:00;Puebla;Querétaro;2;1;1
+7;13/09/2024;19:00;Atlas;Pachuca;2;0;2
+7;13/09/2024;20:10;UANL;Atlético;1;0;1
+7;13/09/2024;20:10;FC Juárez;Mazatlán;1;0;1
+7;13/09/2024;21:00;Necaxa;UNAM;2;0;2
+7;14/09/2024;18:50;América;Guadalajara;1;0;1
+7;14/09/2024;20:35;León;Cruz Azul;1;2;-1
+7;14/09/2024;21:00;Santos;Monterrey;0;2;-2
+8;17/09/2024;19:00;Atlético;Cruz Azul;3;1;2
+8;17/09/2024;19:00;Pachuca;Toluca;2;2;0
+8;17/09/2024;19:00;América;Atlas;3;0;3
+8;17/09/2024;21:00;Querétaro;UANL;1;0;1
+8;17/09/2024;21:05;UNAM;Puebla;1;0;1
+8;18/09/2024;19:00;Mazatlán;Necaxa;0;0;0
+8;18/09/2024;19:05;Guadalajara;León;2;0;2
+8;18/09/2024;21:00;Monterrey;FC Juárez;3;2;1
+9;21/09/2024;17:00;León;Atlético;1;0;1
+9;20/09/2024;19:00;Atlas;Querétaro;0;1;-1
+9;20/09/2024;19:00;Puebla;Pachuca;2;3;-1
+9;22/09/2024;17:00;UNAM;Tijuana;1;0;1
+9;21/09/2024;19:00;Monterrey;Mazatlán;0;0;0
+9;21/09/2024;19:00;Necaxa;América;1;1;0
+9;21/09/2024;21:05;Cruz Azul;Guadalajara;1;0;1
+9;22/09/2024;19:05;Santos;Toluca;2;0;2
+9;22/09/2024;19:10;FC Juárez;UANL;0;1;-1
+10;28/09/2024;17:00;Toluca;Atlas;4;1;3
+10;27/09/2024;18:00;Puebla;FC Juárez;2;3;-1
+10;27/09/2024;19:00;Querétaro;Necaxa;0;0;0
+10;27/09/2024;20:00;UANL;León;2;2;0
+10;27/09/2024;20:05;Tijuana;Mazatlán;1;0;1
+10;28/09/2024;19:05;Pachuca;Cruz Azul;2;4;-2
+10;28/09/2024;21:05;Guadalajara;Monterrey;1;1;0
+10;28/09/2024;21:10;Atlético;Santos;3;1;2
+10;29/09/2024;18:00;América;UNAM;0;1;-1
+11;05/10/2024;17:00;UANL;Puebla;1;0;1
+11;05/10/2024;17:00;Cruz Azul;Necaxa;3;0;3
+11;05/10/2024;17:00;Atlético;Monterrey;1;0;1
+11;04/10/2024;19:00;Mazatlán;Querétaro;2;2;0
+11;04/10/2024;20:00;Tijuana;Pachuca;2;1;1
+11;05/10/2024;19:00;Toluca;UNAM;1;1;0
+11;05/10/2024;19:05;Guadalajara;Atlas;2;3;-1
+11;05/10/2024;21:00;León;América;1;1;0
+11;06/10/2024;20:05;Santos;FC Juárez;0;2;-2
+12;19/10/2024;17:00;Pachuca;Guadalajara;0;2;-2
+12;18/10/2024;19:00;Querétaro;Toluca;0;1;-1
+12;18/10/2024;19:00;Atlas;Mazatlán;0;0;0
+12;18/10/2024;21:00;Necaxa;Tijuana;1;2;-1
+12;18/10/2024;21:05;Puebla;Cruz Azul;1;2;-1
+12;20/10/2024;13:00;UNAM;Atlético;3;0;3
+12;19/10/2024;19:05;América;Santos;3;0;3
+12;19/10/2024;19:06;FC Juárez;León;2;3;-1
+12;19/10/2024;21:10;Monterrey;UANL;4;2;2
+13;22/10/2024;19:00;Santos;Pachuca;1;1;0
+13;22/10/2024;19:05;Guadalajara;Necaxa;3;2;1
+13;22/10/2024;20:06;Mazatlán;UANL;2;0;2
+13;22/10/2024;21:05;Toluca;Puebla;5;0;5
+13;23/10/2024;19:00;Cruz Azul;FC Juárez;4;0;4
+13;23/10/2024;19:00;Monterrey;UNAM;0;0;0
+13;23/10/2024;20:05;Tijuana;América;2;2;0
+13;23/10/2024;21:00;León;Atlas;0;0;0
+14;26/10/2024;17:00;León;Querétaro;4;0;4
+14;25/10/2024;19:00;Santos;Mazatlán;0;0;0
+14;25/10/2024;21:00;Puebla;Guadalajara;1;0;1
+14;26/10/2024;19:00;UNAM;Cruz Azul;0;2;-2
+14;26/10/2024;21:00;UANL;Pachuca;2;1;1
+14;26/10/2024;21:05;Atlas;Tijuana;0;0;0
+14;27/10/2024;18:00;Necaxa;Toluca;1;3;-2
+14;27/10/2024;18:06;FC Juárez;Atlético;2;4;-2
+14;27/10/2024;20:05;América;Monterrey;2;1;1
+15;02/11/2024;17:00;Atlético;Puebla;2;0;2
+15;02/11/2024;17:00;Toluca;León;2;2;0
+15;01/11/2024;19:00;Querétaro;FC Juárez;1;2;-1
+15;01/11/2024;20:00;Mazatlán;América;0;5;-5
+15;01/11/2024;20:05;Tijuana;UANL;0;3;-3
+15;02/11/2024;19:05;Monterrey;Atlas;4;0;4
+15;02/11/2024;19:05;Guadalajara;UNAM;0;0;0
+15;02/11/2024;21:06;Pachuca;Necaxa;6;2;4
+15;02/11/2024;21:10;Cruz Azul;Santos;2;0;2
+16;05/11/2024;19:00;Santos;Guadalajara;0;2;-2
+16;05/11/2024;19:00;León;Mazatlán;0;0;0
+16;05/11/2024;21:05;UNAM;Querétaro;2;0;2
+16;06/11/2024;19:00;América;Pachuca;2;1;1
+16;06/11/2024;19:00;Necaxa;Atlético;1;1;0
+16;06/11/2024;19:00;UANL;Toluca;2;1;1
+16;06/11/2024;20:06;FC Juárez;Tijuana;1;1;0
+16;06/11/2024;21:05;Atlas;Cruz Azul;2;2;0
+17;09/11/2024;17:05;Guadalajara;Atlético;0;1;-1
+17;08/11/2024;19:00;Querétaro;Santos;3;2;1
+17;08/11/2024;20:00;Mazatlán;UNAM;0;1;-1
+17;10/11/2024;17:00;Necaxa;Atlas;0;0;0
+17;09/11/2024;19:00;Toluca;América;4;0;4
+17;09/11/2024;19:00;Pachuca;FC Juárez;0;1;-1
+17;09/11/2024;21:05;Cruz Azul;UANL;1;1;0
+17;10/11/2024;19:05;Monterrey;León;2;1;1
+17;10/11/2024;19:10;Tijuana;Puebla;2;1;1
+1;11/01/2025;17:00;Atlético;UANL;1;3;-2
+1;10/01/2025;19:00;Querétaro;América;0;1;-1
+1;10/01/2025;19:05;Tijuana;Toluca;2;4;-2
+1;10/01/2025;20:00;Mazatlán;FC Juárez;1;1;0
+1;12/01/2025;12:00;UNAM;Necaxa;2;1;1
+1;11/01/2025;19:05;Guadalajara;Santos;1;0;1
+1;11/01/2025;21:05;Cruz Azul;Atlas;1;1;0
+1;12/01/2025;19:00;Monterrey;Puebla;1;1;0
+2;16/01/2025;20:10;América;Tijuana;1;1;0
+2;18/01/2025;16:00;FC Juárez;Cruz Azul;1;0;1
+2;17/01/2025;19:00;Puebla;Atlético;1;2;-1
+2;17/01/2025;19:00;UANL;Mazatlán;2;1;1
+2;17/01/2025;21:05;Necaxa;Guadalajara;3;2;1
+2;19/01/2025;17:00;Querétaro;UNAM;3;2;1
+2;18/01/2025;19:00;Toluca;Monterrey;1;1;0
+2;18/01/2025;21:00;Atlas;León;1;2;-1
+2;20/01/2025;19:00;Pachuca;Santos;2;1;1
+3;25/01/2025;17:00;León;FC Juárez;1;0;1
+3;25/01/2025;17:00;Cruz Azul;Puebla;1;1;0
+3;24/01/2025;19:00;Tijuana;Querétaro;2;1;1
+3;24/01/2025;19:00;Atlético;Necaxa;0;3;-3
+3;24/01/2025;20:00;Mazatlán;Toluca;2;1;1
+3;26/01/2025;12:00;UNAM;Atlas;0;0;0
+3;25/01/2025;19:05;Santos;América;1;4;-3
+3;25/01/2025;19:05;Guadalajara;UANL;1;1;0
+3;25/01/2025;21:10;Monterrey;Pachuca;2;3;-1
+4;28/01/2025;19:00;Puebla;Mazatlán;0;1;-1
+4;28/01/2025;19:00;América;Atlético;3;0;3
+4;28/01/2025;21:00;León;Guadalajara;2;1;1
+4;28/01/2025;21:00;UANL;Tijuana;4;0;4
+4;28/01/2025;21:05;Necaxa;Cruz Azul;1;3;-2
+4;29/01/2025;19:00;Atlas;Monterrey;3;3;0
+4;29/01/2025;19:00;Querétaro;Pachuca;0;1;-1
+4;29/01/2025;20:00;FC Juárez;Santos;1;0;1
+4;29/01/2025;21:05;UNAM;Toluca;1;1;0
+5;01/02/2025;17:00;América;FC Juárez;4;0;4
+5;01/02/2025;17:05;Guadalajara;Querétaro;1;1;0
+5;31/01/2025;18:00;Mazatlán;León;1;2;-1
+5;31/01/2025;19:05;Tijuana;Cruz Azul;2;3;-1
+5;02/02/2025;17:00;Santos;Puebla;0;2;-2
+5;01/02/2025;19:00;Pachuca;Atlas;0;0;0
+5;01/02/2025;19:05;Monterrey;Necaxa;1;0;1
+5;01/02/2025;21:15;Toluca;UANL;1;0;1
+5;02/02/2025;19:00;Atlético;UNAM;2;3;-1
+1;05/02/2025;21:10;Pachuca;León;1;2;-1
+6;07/02/2025;19:00;Necaxa;Santos;3;2;1
+6;07/02/2025;19:00;Querétaro;Atlético;1;0;1
+6;07/02/2025;21:00;Puebla;América;1;2;-1
+6;08/02/2025;19:00;León;Toluca;3;3;0
+6;08/02/2025;19:00;UANL;Atlas;2;1;1
+6;08/02/2025;20:00;FC Juárez;Monterrey;2;1;1
+6;08/02/2025;21:05;Cruz Azul;Pachuca;2;1;1
+6;09/02/2025;18:00;UNAM;Mazatlán;1;0;1
+6;09/02/2025;21:05;Guadalajara;Tijuana;2;1;1
+7;15/02/2025;17:00;Atlas;Puebla;3;2;1
+7;14/02/2025;19:00;Tijuana;FC Juárez;1;2;-1
+7;14/02/2025;20:00;Mazatlán;Santos;1;1;0
+7;14/02/2025;21:00;América;Necaxa;2;3;-1
+7;16/02/2025;17:00;Querétaro;Monterrey;2;4;-2
+7;15/02/2025;19:00;UANL;Cruz Azul;2;1;1
+7;15/02/2025;21:10;Toluca;Guadalajara;2;1;1
+7;16/02/2025;19:00;Atlético;León;1;2;-1
+7;16/02/2025;19:05;Pachuca;UNAM;2;1;1
+9;18/02/2025;21:10;Atlas;Necaxa;0;4;-4
+9;19/02/2025;19:00;América;León;1;1;0
+9;19/02/2025;21:05;Santos;Cruz Azul;0;1;-1
+8;22/02/2025;16:00;FC Juárez;Toluca;0;4;-4
+8;21/02/2025;19:00;Necaxa;Mazatlán;3;1;2
+8;21/02/2025;21:00;Puebla;Tijuana;2;0;2
+8;23/02/2025;17:00;Santos;Atlas;2;0;2
+8;22/02/2025;19:00;Monterrey;Atlético;3;1;2
+8;22/02/2025;19:00;León;UANL;1;0;1
+8;22/02/2025;19:05;Guadalajara;Pachuca;2;1;1
+8;22/02/2025;21:05;UNAM;América;0;2;-2
+8;23/02/2025;19:05;Cruz Azul;Querétaro;1;0;1
+9;25/02/2025;19:00;UANL;FC Juárez;0;1;-1
+9;25/02/2025;19:10;Tijuana;UNAM;4;2;2
+9;25/02/2025;20:00;Mazatlán;Monterrey;1;0;1
+9;26/02/2025;19:00;Pachuca;Puebla;2;1;1
+9;26/02/2025;21:00;Toluca;Querétaro;5;0;5
+9;26/02/2025;21:05;Atlético;Guadalajara;3;1;2
+10;01/03/2025;16:00;FC Juárez;Pachuca;2;2;0
+10;01/03/2025;17:00;América;Toluca;3;0;3
+10;28/02/2025;20:00;Mazatlán;Cruz Azul;1;1;0
+10;02/03/2025;16:00;Querétaro;Puebla;2;0;2
+10;01/03/2025;19:00;León;Tijuana;2;1;1
+10;01/03/2025;19:05;Necaxa;UANL;1;2;-1
+10;01/03/2025;21:10;UNAM;Guadalajara;0;1;-1
+10;02/03/2025;18:00;Atlas;Atlético;3;1;2
+10;02/03/2025;20:05;Monterrey;Santos;4;2;2
+11;08/03/2025;17:00;Toluca;Necaxa;5;2;3
+11;07/03/2025;19:00;Atlético;FC Juárez;1;0;1
+11;07/03/2025;19:00;UANL;Querétaro;1;0;1
+11;07/03/2025;21:00;Puebla;UNAM;1;3;-2
+11;09/03/2025;17:00;Santos;León;2;1;1
+11;08/03/2025;19:00;Pachuca;Mazatlán;1;1;0
+11;08/03/2025;19:05;Cruz Azul;Monterrey;1;1;0
+11;08/03/2025;21:05;Guadalajara;América;0;0;0
+11;09/03/2025;20:00;Tijuana;Atlas;3;4;-1
+12;15/03/2025;17:00;UANL;Santos;3;0;3
+12;14/03/2025;19:00;Necaxa;León;2;1;1
+12;14/03/2025;19:00;Querétaro;Mazatlán;1;0;1
+12;14/03/2025;21:05;Puebla;Toluca;0;3;-3
+12;15/03/2025;19:00;Cruz Azul;Atlético;3;0;3
+12;15/03/2025;19:10;FC Juárez;Guadalajara;1;1;0
+12;15/03/2025;21:05;Atlas;América;1;3;-2
+12;16/03/2025;18:00;UNAM;Monterrey;1;3;-2
+12;16/03/2025;20:00;Pachuca;Tijuana;4;1;3
+13;29/03/2025;17:00;FC Juárez;Puebla;2;0;2
+13;29/03/2025;17:00;Toluca;Pachuca;3;2;1
+13;28/03/2025;19:00;Necaxa;Querétaro;2;0;2
+13;28/03/2025;20:00;Mazatlán;Atlas;3;2;1
+13;30/03/2025;17:00;Santos;Atlético;2;3;-1
+13;29/03/2025;19:05;América;UANL;3;0;3
+13;29/03/2025;21:05;Guadalajara;Cruz Azul;0;1;-1
+13;29/03/2025;21:10;Monterrey;Tijuana;1;2;-1
+13;30/03/2025;19:05;León;UNAM;1;2;-1
+14;05/04/2025;17:00;Pachuca;América;1;0;1
+14;05/04/2025;17:00;Atlas;FC Juárez;1;1;0
+14;04/04/2025;19:00;Querétaro;León;1;1;0
+14;04/04/2025;20:00;Tijuana;Necaxa;1;2;-1
+14;04/04/2025;21:05;Puebla;UANL;0;0;0
+14;05/04/2025;19:00;Atlético;Mazatlán;2;1;1
+14;05/04/2025;19:05;Monterrey;Guadalajara;3;1;2
+14;05/04/2025;21:10;Cruz Azul;UNAM;3;2;1
+14;06/04/2025;18:00;Toluca;Santos;2;1;1
+15;10/04/2025;19:05;Tijuana;Atlético;2;1;1
+15;12/04/2025;17:00;UNAM;FC Juárez;0;0;0
+15;12/04/2025;17:00;León;Puebla;1;0;1
+15;11/04/2025;19:00;Necaxa;Pachuca;3;5;-2
+15;11/04/2025;20:05;Mazatlán;Guadalajara;1;1;0
+15;13/04/2025;17:00;Santos;Querétaro;1;2;-1
+15;12/04/2025;19:00;UANL;Monterrey;2;1;1
+15;12/04/2025;19:00;Atlas;Toluca;2;3;-1
+15;12/04/2025;21:15;América;Cruz Azul;0;0;0
+16;15/04/2025;19:00;Pachuca;UANL;0;0;0
+16;15/04/2025;19:05;Guadalajara;Puebla;1;0;1
+16;15/04/2025;21:00;FC Juárez;Necaxa;2;2;0
+16;15/04/2025;21:05;Cruz Azul;León;2;1;1
+16;16/04/2025;19:00;Monterrey;América;1;0;1
+16;16/04/2025;19:00;Querétaro;Atlas;1;2;-1
+16;16/04/2025;20:00;Atlético;Toluca;0;1;-1
+16;16/04/2025;20:00;Mazatlán;Tijuana;0;2;-2
+16;16/04/2025;21:05;UNAM;Santos;2;0;2
+17;19/04/2025;17:00;América;Mazatlán;5;0;5
+17;18/04/2025;19:00;Puebla;Necaxa;0;1;-1
+17;20/04/2025;17:00;Santos;Tijuana;0;4;-4
+17;19/04/2025;19:05;Toluca;Cruz Azul;2;2;0
+17;19/04/2025;21:00;UANL;UNAM;2;1;1
+17;19/04/2025;21:15;Atlas;Guadalajara;1;1;0
+17;20/04/2025;19:00;Atlético;Pachuca;2;1;1
+17;20/04/2025;19:05;León;Monterrey;0;2;-2
+17;20/04/2025;21:00;FC Juárez;Querétaro;0;2;-2

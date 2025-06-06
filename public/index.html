@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soccer Analytics - Análise e Previsão de Jogos</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Adicionar no <head> do index.html -->
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-futbol"></i>
+                <h1>Soccer Analytics</h1>
+            </div>
+            <nav class="nav">
+                <button class="nav-btn" data-section="home">
+                    <i class="fas fa-home"></i>
+                    Início
+                </button>
+                <button class="nav-btn" data-section="weekly">
+                    <i class="fas fa-calendar-week"></i>
+                    Jogos da Semana
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            
+            <!-- Home Section -->
+            <section id="home" class="section active">
+                <div class="hero">
+                    <h2>Análise Inteligente de Futebol</h2>
+                    <p>Selecione uma liga para ver análises detalhadas, ranking de força dos times e previsões para próximos jogos.</p>
+                </div>
+
+                <div class="league-selector">
+                    <div class="selector-header">
+                        <i class="fas fa-trophy"></i>
+                        <h3>Selecionar Liga</h3>
+                    </div>
+                    
+                    <div class="countries-grid" id="countriesGrid">
+                        <!-- Países serão inseridos dinamicamente aqui -->
+                    </div>
+                    
+                    <div class="selected-league" id="selectedLeague" style="display: none;">
+                        <div class="selected-info">
+                            <img id="selectedFlag" class="selected-flag" src="" alt="">
+                            <span class="selected-text" id="selectedText">Nenhuma liga selecionada</span>
+                            <button class="clear-selection" id="clearSelection">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                        
+                        <button id="analyzeBtn" class="analyze-btn">
+                            <i class="fas fa-chart-line"></i>
+                            Analisar Liga
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Weekly Games Section -->
+            <section id="weekly" class="section">
+                <div class="hero">
+                    <h2>Jogos Destacados da Semana</h2>
+                    <p>Veja todos os jogos com maior probabilidade de resultados previsíveis de todas as ligas.</p>
+                </div>
+
+                <div class="weekly-controls">
+                    <div class="threshold-control">
+                        <label for="thresholdSlider">
+                            <i class="fas fa-sliders-h"></i>
+                            Limiar de Diferença: <span id="thresholdValue">1.5</span>
+                        </label>
+                        <input type="range" id="thresholdSlider" min="0.5" max="3.0" step="0.1" value="1.5">
+                    </div>
+                    
+                    <button id="loadWeeklyBtn" class="weekly-btn">
+                        <i class="fas fa-sync-alt"></i>
+                        Carregar Jogos
+                    </button>
+                </div>
+
+                <div id="weeklyResults" class="weekly-results"></div>
+            </section>
+
+            <!-- Results Section -->
+            <section id="results" class="section">
+                <div class="results-header">
+                    <button id="backBtn" class="back-btn">
+                        <i class="fas fa-arrow-left"></i>
+                        Voltar
+                    </button>
+                    <h2 id="resultsTitle">Resultados da Análise</h2>
+                </div>
+
+                <div class="results-content">
+                    <!-- Rankings -->
+                    <div class="card">
+                        <div class="card-header">
+                            <i class="fas fa-medal"></i>
+                            <h3>Ranking de Força dos Times</h3>
+                        </div>
+                        <div id="rankingsTable" class="table-container"></div>
+                    </div>
+
+                    <!-- Next Games -->
+                    <div class="card">
+                        <div class="card-header">
+                            <i class="fas fa-calendar-alt"></i>
+                            <h3>Próximos Jogos com Previsões</h3>
+                        </div>
+                        <div id="nextGamesTable" class="table-container"></div>
+                    </div>
+
+                    <!-- Highlighted Games -->
+                    <div class="card">
+                        <div class="card-header">
+                            <i class="fas fa-star"></i>
+                            <h3>Jogos Destacados</h3>
+                            <div class="threshold-control">
+                                <label for="resultsThresholdSlider">
+                                    Limiar: <span id="resultsThresholdValue">1.5</span>
+                                </label>
+                                <input type="range" id="resultsThresholdSlider" min="0.5" max="3.0" step="0.1" value="1.5">
+                            </div>
+                        </div>
+                        <div id="highlightedGamesTable" class="table-container"></div>
+                    </div>
+
+                    <!-- Campaign Ended Warning -->
+                    <div id="campaignEndedWarning" class="warning-card" style="display: none;">
+                        <div class="warning-content">
+                            <i class="fas fa-info-circle"></i>
+                            <div>
+                                <h4>Campeonato Finalizado</h4>
+                                <p>Este campeonato já foi concluído e não há próximos jogos agendados.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay">
+        <div class="loading-content">
+            <div class="loading-spinner">
+                <i class="fas fa-futbol fa-spin"></i>
+            </div>
+            <p id="loadingText">Carregando...</p>
+        </div>
+    </div>
+
+    <!-- Error Modal -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header error">
+                <i class="fas fa-exclamation-triangle"></i>
+                <h3>Erro</h3>
+                <button class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="errorMessage">Ocorreu um erro inesperado.</p>
+            </div>
+            <div class="modal-footer">
+                <button id="errorOkBtn" class="btn-primary">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

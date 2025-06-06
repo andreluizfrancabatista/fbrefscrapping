@@ -1,0 +1,307 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;16/08/2024;20:00;Ajaccio;Rodez Aveyron;1;0;1
+1;16/08/2024;20:00;Dunkerque;Annecy;0;2;-2
+1;16/08/2024;20:00;Clermont Foot;Pau FC;2;2;0
+1;16/08/2024;20:00;Guingamp;Troyes;4;0;4
+1;16/08/2024;20:00;Amiens;Red Star;3;0;3
+1;16/08/2024;20:00;Grenoble;Stade Laval;2;1;1
+1;17/08/2024;14:30;Caen;Paris FC;0;2;-2
+1;19/08/2024;20:45;Metz;Bastia;1;1;0
+1;19/08/2024;20:45;Martigues;Lorient;0;1;-1
+2;23/08/2024;20:00;Stade Laval;Guingamp;0;1;-1
+2;23/08/2024;20:00;Pau FC;Caen;1;0;1
+2;23/08/2024;20:00;Annecy;Martigues;2;4;-2
+2;23/08/2024;20:00;Bastia;Amiens;1;0;1
+2;23/08/2024;20:00;Rodez Aveyron;Metz;1;3;-2
+2;23/08/2024;20:00;Paris FC;Dunkerque;3;2;1
+2;23/08/2024;20:00;Troyes;Clermont Foot;0;1;-1
+2;24/08/2024;14:30;Lorient;Grenoble;2;0;2
+2;26/08/2024;20:45;Red Star;Ajaccio;1;0;1
+3;30/08/2024;20:00;Clermont Foot;Paris FC;0;1;-1
+3;30/08/2024;20:00;Grenoble;Pau FC;1;1;0
+3;30/08/2024;20:00;Guingamp;Red Star;3;4;-1
+3;30/08/2024;20:00;Ajaccio;Troyes;2;1;1
+3;30/08/2024;20:00;Martigues;Bastia;0;1;-1
+3;30/08/2024;20:00;Dunkerque;Rodez Aveyron;1;0;1
+3;30/08/2024;20:00;Caen;Annecy;1;1;0
+3;31/08/2024;14:30;Amiens;Lorient;1;0;1
+3;31/08/2024;14:30;Metz;Stade Laval;1;1;0
+4;13/09/2024;20:00;Annecy;Amiens;3;0;3
+4;13/09/2024;20:00;Rodez Aveyron;Guingamp;1;2;-1
+4;13/09/2024;20:00;Bastia;Troyes;0;0;0
+4;13/09/2024;20:00;Lorient;Red Star;2;1;1
+4;13/09/2024;20:00;Clermont Foot;Dunkerque;0;1;-1
+4;13/09/2024;20:00;Pau FC;Martigues;3;0;3
+4;13/09/2024;20:00;Stade Laval;Ajaccio;1;1;0
+4;14/09/2024;14:30;Paris FC;Metz;1;2;-1
+4;16/09/2024;20:45;Grenoble;Caen;3;1;2
+5;20/09/2024;20:00;Martigues;Grenoble;0;4;-4
+5;20/09/2024;20:00;Dunkerque;Pau FC;3;2;1
+5;20/09/2024;20:00;Troyes;Rodez Aveyron;0;3;-3
+5;20/09/2024;20:00;Caen;Ajaccio;1;0;1
+5;20/09/2024;20:00;Amiens;Clermont Foot;1;0;1
+5;20/09/2024;20:00;Guingamp;Annecy;2;2;0
+5;20/09/2024;20:00;Red Star;Stade Laval;0;3;-3
+5;20/09/2024;20:00;Bastia;Paris FC;2;1;1
+5;21/09/2024;14:30;Metz;Lorient;1;1;0
+6;24/09/2024;20:30;Dunkerque;Bastia;2;1;1
+6;24/09/2024;20:30;Annecy;Troyes;1;0;1
+6;24/09/2024;20:30;Ajaccio;Grenoble;2;0;2
+6;24/09/2024;20:30;Caen;Amiens;2;1;1
+6;24/09/2024;20:30;Clermont Foot;Red Star;1;1;0
+6;24/09/2024;20:30;Paris FC;Guingamp;2;0;2
+6;24/09/2024;20:30;Metz;Martigues;6;0;6
+6;24/09/2024;20:30;Rodez Aveyron;Stade Laval;1;3;-2
+6;24/09/2024;20:30;Pau FC;Lorient;1;0;1
+7;27/09/2024;20:00;Amiens;Rodez Aveyron;2;1;1
+7;27/09/2024;20:00;Grenoble;Clermont Foot;3;0;3
+7;27/09/2024;20:00;Lorient;Ajaccio;3;0;3
+7;27/09/2024;20:00;Stade Laval;Pau FC;3;1;2
+7;27/09/2024;20:00;Bastia;Annecy;2;2;0
+7;27/09/2024;20:00;Martigues;Dunkerque;1;1;0
+7;28/09/2024;14:00;Red Star;Paris FC;1;3;-2
+7;28/09/2024;20:00;Troyes;Metz;2;1;1
+7;30/09/2024;20:45;Guingamp;Caen;3;1;2
+8;04/10/2024;20:00;Dunkerque;Troyes;2;1;1
+8;04/10/2024;20:00;Paris FC;Stade Laval;1;0;1
+8;04/10/2024;20:00;Rodez Aveyron;Grenoble;2;1;1
+8;04/10/2024;20:00;Annecy;Red Star;1;0;1
+8;05/10/2024;14:00;Clermont Foot;Guingamp;4;1;3
+8;05/10/2024;14:00;Caen;Lorient;1;2;-1
+8;05/10/2024;14:00;Ajaccio;Martigues;1;1;0
+8;05/10/2024;20:00;Metz;Amiens;3;2;1
+9;18/10/2024;20:00;Guingamp;Pau FC;0;1;-1
+9;18/10/2024;20:00;Red Star;Caen;2;2;0
+9;18/10/2024;20:00;Bastia;Clermont Foot;0;0;0
+9;18/10/2024;20:00;Stade Laval;Dunkerque;3;2;1
+9;18/10/2024;20:00;Martigues;Rodez Aveyron;0;2;-2
+9;18/10/2024;20:00;Grenoble;Metz;2;0;2
+9;19/10/2024;14:00;Amiens;Ajaccio;3;1;2
+9;19/10/2024;20:00;Lorient;Annecy;4;2;2
+9;21/10/2024;20:45;Troyes;Paris FC;0;3;-3
+8;22/10/2024;19:30;Pau FC;Bastia;1;1;0
+10;25/10/2024;20:00;Dunkerque;Red Star;2;0;2
+10;25/10/2024;20:00;Annecy;Stade Laval;2;0;2
+10;25/10/2024;20:00;Metz;Guingamp;1;0;1
+10;25/10/2024;20:00;Clermont Foot;Martigues;0;1;-1
+10;25/10/2024;20:00;Pau FC;Amiens;0;2;-2
+10;25/10/2024;20:00;Rodez Aveyron;Lorient;3;3;0
+10;26/10/2024;14:00;Caen;Troyes;0;1;-1
+10;26/10/2024;14:00;Paris FC;Grenoble;2;1;1
+11;29/10/2024;20:30;Red Star;Metz;1;0;1
+11;29/10/2024;20:30;Amiens;Paris FC;0;0;0
+11;29/10/2024;20:30;Stade Laval;Clermont Foot;1;2;-1
+11;29/10/2024;20:30;Martigues;Caen;0;3;-3
+11;29/10/2024;20:30;Lorient;Dunkerque;4;2;2
+11;29/10/2024;20:30;Guingamp;Ajaccio;1;0;1
+11;29/10/2024;20:30;Grenoble;Annecy;0;0;0
+11;29/10/2024;20:30;Troyes;Pau FC;3;0;3
+11;29/10/2024;20:30;Bastia;Rodez Aveyron;2;2;0
+12;01/11/2024;20:00;Dunkerque;Amiens;3;1;2
+12;01/11/2024;20:00;Clermont Foot;Lorient;2;1;1
+12;01/11/2024;20:00;Paris FC;Rodez Aveyron;3;3;0
+12;01/11/2024;20:00;Annecy;Pau FC;2;0;2
+12;01/11/2024;20:00;Martigues;Red Star;0;1;-1
+12;01/11/2024;20:00;Troyes;Stade Laval;0;0;0
+12;02/11/2024;14:00;Caen;Bastia;2;0;2
+12;02/11/2024;20:00;Guingamp;Grenoble;3;0;3
+12;04/11/2024;20:45;Ajaccio;Metz;0;1;-1
+13;08/11/2024;20:00;Amiens;Martigues;1;1;0
+13;08/11/2024;20:00;Red Star;Troyes;0;3;-3
+13;08/11/2024;20:00;Rodez Aveyron;Annecy;5;1;4
+13;08/11/2024;20:00;Stade Laval;Bastia;2;2;0
+13;08/11/2024;20:00;Ajaccio;Clermont Foot;2;0;2
+13;08/11/2024;20:00;Grenoble;Dunkerque;0;1;-1
+13;09/11/2024;14:00;Pau FC;Paris FC;0;0;0
+13;09/11/2024;14:00;Lorient;Guingamp;3;1;2
+13;09/11/2024;20:00;Metz;Caen;1;0;1
+14;22/11/2024;20:00;Clermont Foot;Metz;1;1;0
+14;22/11/2024;20:00;Guingamp;Amiens;3;0;3
+14;22/11/2024;20:00;Pau FC;Red Star;4;1;3
+14;22/11/2024;20:00;Martigues;Stade Laval;0;3;-3
+14;22/11/2024;20:00;Caen;Rodez Aveyron;3;3;0
+14;22/11/2024;20:00;Troyes;Grenoble;0;0;0
+14;23/11/2024;14:00;Paris FC;Annecy;0;0;0
+14;23/11/2024;20:00;Bastia;Lorient;0;0;0
+14;25/11/2024;20:45;Dunkerque;Ajaccio;1;0;1
+10;03/12/2024;19:30;Ajaccio;Bastia;0;0;0
+15;06/12/2024;20:00;Red Star;Bastia;0;0;0
+15;06/12/2024;20:00;Martigues;Guingamp;0;1;-1
+15;06/12/2024;20:00;Lorient;Troyes;2;0;2
+15;06/12/2024;20:00;Stade Laval;Caen;1;0;1
+15;06/12/2024;20:00;Annecy;Clermont Foot;2;0;2
+15;06/12/2024;20:00;Rodez Aveyron;Pau FC;1;0;1
+15;07/12/2024;14:00;Grenoble;Amiens;0;2;-2
+15;07/12/2024;20:00;Ajaccio;Paris FC;0;2;-2
+15;09/12/2024;20:45;Metz;Dunkerque;2;0;2
+16;13/12/2024;20:00;Pau FC;Ajaccio;1;0;1
+16;13/12/2024;20:00;Bastia;Guingamp;3;1;2
+16;13/12/2024;20:00;Clermont Foot;Rodez Aveyron;1;1;0
+16;13/12/2024;20:00;Amiens;Stade Laval;1;3;-2
+16;13/12/2024;20:00;Troyes;Martigues;4;0;4
+16;14/12/2024;14:00;Red Star;Grenoble;3;1;2
+16;14/12/2024;14:00;Lorient;Paris FC;2;0;2
+16;14/12/2024;20:00;Annecy;Metz;0;0;0
+16;16/12/2024;20:45;Dunkerque;Caen;3;1;2
+17;03/01/2025;20:00;Ajaccio;Annecy;1;2;-1
+17;03/01/2025;20:00;Caen;Clermont Foot;0;1;-1
+17;03/01/2025;20:00;Amiens;Troyes;0;3;-3
+17;03/01/2025;20:00;Rodez Aveyron;Red Star;0;2;-2
+17;03/01/2025;20:00;Grenoble;Bastia;3;2;1
+17;03/01/2025;20:00;Paris FC;Martigues;1;2;-1
+17;04/01/2025;14:00;Guingamp;Dunkerque;1;1;0
+17;04/01/2025;14:00;Metz;Pau FC;0;0;0
+17;04/01/2025;20:00;Stade Laval;Lorient;2;0;2
+18;10/01/2025;20:00;Martigues;Clermont Foot;0;1;-1
+18;10/01/2025;20:00;Rodez Aveyron;Troyes;2;1;1
+18;10/01/2025;20:00;Pau FC;Dunkerque;1;1;0
+18;10/01/2025;20:00;Annecy;Guingamp;1;4;-3
+18;10/01/2025;20:00;Stade Laval;Red Star;1;1;0
+18;11/01/2025;14:00;Paris FC;Amiens;1;0;1
+18;11/01/2025;14:00;Caen;Grenoble;0;1;-1
+18;11/01/2025;14:00;Bastia;Ajaccio;4;0;4
+18;11/01/2025;20:00;Lorient;Metz;0;0;0
+19;17/01/2025;20:00;Guingamp;Rodez Aveyron;3;0;3
+19;17/01/2025;20:00;Grenoble;Martigues;1;0;1
+19;17/01/2025;20:00;Amiens;Bastia;1;0;1
+19;17/01/2025;20:00;Red Star;Pau FC;1;3;-2
+19;17/01/2025;20:00;Ajaccio;Caen;2;1;1
+19;18/01/2025;14:00;Metz;Paris FC;3;1;2
+19;18/01/2025;14:00;Clermont Foot;Stade Laval;1;1;0
+19;18/01/2025;20:00;Dunkerque;Lorient;0;1;-1
+19;20/01/2025;20:45;Troyes;Annecy;0;1;-1
+20;24/01/2025;20:00;Metz;Grenoble;3;0;3
+20;24/01/2025;20:00;Caen;Guingamp;0;1;-1
+20;24/01/2025;20:00;Rodez Aveyron;Ajaccio;1;2;-1
+20;24/01/2025;20:00;Stade Laval;Troyes;1;0;1
+20;24/01/2025;20:00;Bastia;Pau FC;1;1;0
+20;24/01/2025;20:00;Martigues;Amiens;3;0;3
+20;25/01/2025;14:00;Paris FC;Red Star;4;1;3
+20;25/01/2025;20:00;Lorient;Clermont Foot;3;2;1
+20;27/01/2025;20:45;Annecy;Dunkerque;0;2;-2
+21;31/01/2025;20:00;Bastia;Metz;1;1;0
+21;31/01/2025;20:00;Clermont Foot;Ajaccio;0;1;-1
+21;31/01/2025;20:00;Amiens;Annecy;1;0;1
+21;31/01/2025;20:00;Grenoble;Rodez Aveyron;2;1;1
+21;31/01/2025;20:00;Dunkerque;Martigues;0;1;-1
+21;31/01/2025;20:00;Pau FC;Stade Laval;1;1;0
+21;01/02/2025;14:00;Red Star;Lorient;1;2;-1
+21;01/02/2025;14:00;Troyes;Caen;3;0;3
+21;01/02/2025;20:00;Guingamp;Paris FC;0;1;-1
+22;07/02/2025;20:00;Grenoble;Red Star;0;0;0
+22;07/02/2025;20:00;Rodez Aveyron;Bastia;0;2;-2
+22;07/02/2025;20:00;Martigues;Troyes;1;2;-1
+22;07/02/2025;20:00;Paris FC;Pau FC;3;1;2
+22;07/02/2025;20:00;Stade Laval;Annecy;0;1;-1
+22;08/02/2025;14:00;Ajaccio;Guingamp;0;3;-3
+22;08/02/2025;14:00;Lorient;Amiens;3;1;2
+22;08/02/2025;20:00;Metz;Clermont Foot;3;1;2
+22;10/02/2025;20:45;Caen;Dunkerque;0;2;-2
+23;14/02/2025;20:00;Red Star;Martigues;1;0;1
+23;14/02/2025;20:00;Pau FC;Rodez Aveyron;0;5;-5
+23;14/02/2025;20:00;Clermont Foot;Bastia;1;1;0
+23;14/02/2025;20:00;Ajaccio;Stade Laval;3;0;3
+23;14/02/2025;20:00;Amiens;Grenoble;1;4;-3
+23;14/02/2025;20:00;Troyes;Lorient;0;1;-1
+23;15/02/2025;14:00;Dunkerque;Paris FC;1;0;1
+23;15/02/2025;20:00;Guingamp;Metz;0;3;-3
+23;17/02/2025;20:45;Annecy;Caen;1;0;1
+24;21/02/2025;20:00;Martigues;Annecy;2;0;2
+24;21/02/2025;20:00;Rodez Aveyron;Amiens;1;1;0
+24;21/02/2025;20:00;Dunkerque;Clermont Foot;3;0;3
+24;21/02/2025;20:00;Grenoble;Guingamp;1;1;0
+24;21/02/2025;20:00;Paris FC;Troyes;1;0;1
+24;21/02/2025;20:00;Bastia;Red Star;1;0;1
+24;22/02/2025;14:00;Lorient;Stade Laval;0;1;-1
+24;22/02/2025;14:00;Caen;Pau FC;2;2;0
+24;22/02/2025;20:00;Metz;Ajaccio;0;1;-1
+25;28/02/2025;20:00;Troyes;Bastia;2;0;2
+25;28/02/2025;20:00;Pau FC;Grenoble;1;0;1
+25;28/02/2025;20:00;Annecy;Paris FC;2;3;-1
+25;28/02/2025;20:00;Stade Laval;Martigues;0;1;-1
+25;28/02/2025;20:00;Clermont Foot;Caen;0;1;-1
+25;01/03/2025;14:00;Red Star;Guingamp;3;1;2
+25;01/03/2025;14:00;Amiens;Metz;1;2;-1
+25;01/03/2025;20:00;Lorient;Rodez Aveyron;3;1;2
+25;03/03/2025;20:45;Ajaccio;Dunkerque;1;2;-1
+26;07/03/2025;20:00;Red Star;Amiens;2;0;2
+26;07/03/2025;20:00;Caen;Stade Laval;0;1;-1
+26;07/03/2025;20:00;Bastia;Martigues;1;0;1
+26;07/03/2025;20:00;Pau FC;Troyes;0;2;-2
+26;07/03/2025;20:00;Grenoble;Ajaccio;2;2;0
+26;07/03/2025;20:00;Guingamp;Clermont Foot;3;1;2
+26;08/03/2025;14:00;Paris FC;Lorient;3;2;1
+26;08/03/2025;20:00;Metz;Annecy;5;1;4
+26;10/03/2025;20:45;Rodez Aveyron;Dunkerque;5;1;4
+27;14/03/2025;20:00;Annecy;Rodez Aveyron;1;1;0
+27;14/03/2025;20:00;Ajaccio;Red Star;2;1;1
+27;14/03/2025;20:00;Troyes;Guingamp;0;1;-1
+27;14/03/2025;20:00;Amiens;Caen;2;1;1
+27;14/03/2025;20:00;Clermont Foot;Grenoble;0;0;0
+27;14/03/2025;20:00;Martigues;Pau FC;2;2;0
+27;15/03/2025;14:00;Dunkerque;Metz;2;3;-1
+27;15/03/2025;14:00;Stade Laval;Paris FC;3;0;3
+27;15/03/2025;20:00;Lorient;Bastia;4;0;4
+28;28/03/2025;20:00;Clermont Foot;Amiens;1;1;0
+28;28/03/2025;20:00;Red Star;Rodez Aveyron;1;1;0
+28;28/03/2025;20:00;Martigues;Ajaccio;2;0;2
+28;28/03/2025;20:00;Metz;Troyes;2;1;1
+28;28/03/2025;20:00;Pau FC;Annecy;1;0;1
+28;28/03/2025;20:00;Bastia;Dunkerque;2;0;2
+28;29/03/2025;14:00;Grenoble;Lorient;1;2;-1
+28;29/03/2025;20:00;Guingamp;Stade Laval;2;0;2
+28;31/03/2025;20:45;Paris FC;Caen;4;2;2
+29;04/04/2025;20:00;Ajaccio;Amiens;2;1;1
+29;04/04/2025;20:00;Stade Laval;Grenoble;1;2;-1
+29;04/04/2025;20:00;Annecy;Bastia;1;1;0
+29;04/04/2025;20:00;Rodez Aveyron;Martigues;1;0;1
+29;04/04/2025;20:00;Paris FC;Clermont Foot;2;0;2
+29;05/04/2025;14:00;Caen;Metz;2;2;0
+29;05/04/2025;20:00;Lorient;Pau FC;5;0;5
+29;05/04/2025;20:00;Troyes;Red Star;2;2;0
+29;07/04/2025;20:45;Dunkerque;Guingamp;3;1;2
+30;11/04/2025;20:00;Troyes;Ajaccio;0;0;0
+30;11/04/2025;20:00;Rodez Aveyron;Caen;2;2;0
+30;11/04/2025;20:00;Martigues;Metz;1;4;-3
+30;11/04/2025;20:00;Amiens;Dunkerque;1;0;1
+30;11/04/2025;20:00;Red Star;Annecy;0;1;-1
+30;11/04/2025;20:00;Pau FC;Clermont Foot;2;2;0
+30;12/04/2025;14:00;Guingamp;Lorient;1;2;-1
+30;12/04/2025;20:00;Grenoble;Paris FC;1;2;-1
+30;14/04/2025;20:45;Bastia;Stade Laval;5;2;3
+31;18/04/2025;20:00;Stade Laval;Rodez Aveyron;2;1;1
+31;18/04/2025;20:00;Dunkerque;Grenoble;2;0;2
+31;18/04/2025;20:00;Clermont Foot;Troyes;0;2;-2
+31;18/04/2025;20:00;Caen;Martigues;0;3;-3
+31;18/04/2025;20:00;Ajaccio;Pau FC;1;1;0
+31;18/04/2025;20:00;Amiens;Guingamp;3;2;1
+31;19/04/2025;14:00;Paris FC;Bastia;1;0;1
+31;19/04/2025;20:00;Metz;Red Star;2;2;0
+31;21/04/2025;20:45;Annecy;Lorient;0;0;0
+32;25/04/2025;20:00;Stade Laval;Amiens;1;0;1
+32;25/04/2025;20:00;Bastia;Grenoble;2;3;-1
+32;25/04/2025;20:00;Red Star;Clermont Foot;1;1;0
+32;25/04/2025;20:00;Annecy;Ajaccio;2;0;2
+32;25/04/2025;20:00;Troyes;Dunkerque;1;0;1
+32;25/04/2025;20:00;Guingamp;Martigues;2;1;1
+32;26/04/2025;14:00;Rodez Aveyron;Paris FC;1;1;0
+32;26/04/2025;20:00;Lorient;Caen;4;0;4
+32;26/04/2025;20:00;Pau FC;Metz;2;1;1
+33;02/05/2025;20:00;Caen;Red Star;1;1;0
+33;02/05/2025;20:00;Grenoble;Troyes;3;1;2
+33;02/05/2025;20:00;Martigues;Paris FC;1;1;0
+33;02/05/2025;20:00;Metz;Rodez Aveyron;3;3;0
+33;02/05/2025;20:00;Dunkerque;Stade Laval;0;0;0
+33;02/05/2025;20:00;Ajaccio;Lorient;2;1;1
+33;02/05/2025;20:00;Guingamp;Bastia;2;2;0
+33;02/05/2025;20:00;Clermont Foot;Annecy;3;2;1
+33;02/05/2025;20:00;Amiens;Pau FC;4;2;2
+34;10/05/2025;17:00;Paris FC;Ajaccio;2;0;2
+34;10/05/2025;17:00;Annecy;Grenoble;3;1;2
+34;10/05/2025;17:00;Rodez Aveyron;Clermont Foot;1;1;0
+34;10/05/2025;17:00;Pau FC;Guingamp;1;3;-2
+34;10/05/2025;17:00;Lorient;Martigues;5;1;4
+34;10/05/2025;17:00;Bastia;Caen;2;1;1
+34;10/05/2025;17:00;Stade Laval;Metz;2;3;-1
+34;10/05/2025;17:00;Troyes;Amiens;1;0;1
+34;10/05/2025;17:00;Red Star;Dunkerque;1;1;0

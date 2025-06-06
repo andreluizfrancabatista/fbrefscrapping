@@ -1,0 +1,157 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;13/09/2024;19:30;Mohun Bagan;Mumbai City;2;2;0
+1;14/09/2024;17:00;Odisha;Chennaiyin;2;3;-1
+1;14/09/2024;19:30;Bengaluru;East Bengal;1;0;1
+1;15/09/2024;19:30;Kerala Blasters;Punjab;1;2;-1
+1;16/09/2024;19:30;Mohammedan;NorthEast Utd;0;1;-1
+1;17/09/2024;19:30;Goa;Jamshedpur;1;2;-1
+2;19/09/2024;19:30;Bengaluru;Hyderabad FC;3;0;3
+2;20/09/2024;19:30;Punjab;Odisha;2;1;1
+2;21/09/2024;17:00;Jamshedpur;Mumbai City;3;2;1
+2;21/09/2024;19:30;Mohammedan;Goa;1;1;0
+2;22/09/2024;19:30;Kerala Blasters;East Bengal;2;1;1
+2;23/09/2024;19:30;Mohun Bagan;NorthEast Utd;3;2;1
+3;25/09/2024;19:30;Punjab;Hyderabad FC;2;0;2
+3;26/09/2024;19:30;Chennaiyin;Mohammedan;0;1;-1
+3;27/09/2024;19:30;East Bengal;Goa;2;3;-1
+3;28/09/2024;17:00;Odisha;Jamshedpur;2;1;1
+3;28/09/2024;19:30;Bengaluru;Mohun Bagan;3;0;3
+3;29/09/2024;19:30;NorthEast Utd;Kerala Blasters;1;1;0
+4;01/10/2024;19:30;Hyderabad FC;Chennaiyin;0;0;0
+4;02/10/2024;19:30;Mumbai City;Bengaluru;0;0;0
+4;03/10/2024;19:30;Odisha;Kerala Blasters;2;2;0
+4;04/10/2024;19:30;Goa;NorthEast Utd;3;3;0
+4;05/10/2024;17:00;Jamshedpur;East Bengal;2;0;2
+4;05/10/2024;19:30;Mohun Bagan;Mohammedan;3;0;3
+5;17/10/2024;19:30;NorthEast Utd;Chennaiyin;2;3;-1
+5;18/10/2024;19:30;Bengaluru;Punjab;1;0;1
+5;19/10/2024;17:00;Goa;Mumbai City;1;2;-1
+5;19/10/2024;19:30;East Bengal;Mohun Bagan;0;2;-2
+5;20/10/2024;19:30;Mohammedan;Kerala Blasters;1;2;-1
+5;21/10/2024;19:30;Jamshedpur;Hyderabad FC;2;1;1
+6;22/10/2024;19:30;Odisha;East Bengal;2;1;1
+6;24/10/2024;19:30;Chennaiyin;Goa;2;2;0
+6;25/10/2024;19:30;Kerala Blasters;Bengaluru;1;3;-2
+6;26/10/2024;17:00;NorthEast Utd;Jamshedpur;5;0;5
+6;26/10/2024;19:30;Mohammedan;Hyderabad FC;0;4;-4
+6;27/10/2024;19:30;Mumbai City;Odisha;1;1;0
+7;30/10/2024;19:30;Hyderabad FC;Mohun Bagan;0;2;-2
+7;31/10/2024;19:30;Punjab;Chennaiyin;3;2;1
+7;02/11/2024;19:30;Goa;Bengaluru;3;0;3
+7;03/11/2024;17:00;NorthEast Utd;Odisha;3;2;1
+7;03/11/2024;19:30;Mumbai City;Kerala Blasters;4;2;2
+7;04/11/2024;19:30;Jamshedpur;Chennaiyin;1;5;-4
+8;06/11/2024;19:30;Goa;Punjab;2;1;1
+8;07/11/2024;19:30;Kerala Blasters;Hyderabad FC;1;2;-1
+8;08/11/2024;19:30;Bengaluru;NorthEast Utd;2;2;0
+8;09/11/2024;17:00;Chennaiyin;Mumbai City;1;1;0
+8;09/11/2024;19:30;East Bengal;Mohammedan;0;0;0
+8;10/11/2024;19:30;Odisha;Mohun Bagan;1;1;0
+9;23/11/2024;17:00;Punjab;NorthEast Utd;1;2;-1
+9;23/11/2024;19:30;Mohun Bagan;Jamshedpur;3;0;3
+9;24/11/2024;19:30;Kerala Blasters;Chennaiyin;3;0;3
+9;25/11/2024;19:30;Hyderabad FC;Odisha;0;6;-6
+9;26/11/2024;19:30;Mumbai City;Punjab;0;3;-3
+9;27/11/2024;19:30;Mohammedan;Bengaluru;1;2;-1
+10;28/11/2024;19:30;Kerala Blasters;Goa;0;1;-1
+10;29/11/2024;19:30;East Bengal;NorthEast Utd;1;0;1
+10;30/11/2024;17:00;Mumbai City;Hyderabad FC;1;0;1
+10;30/11/2024;19:30;Mohun Bagan;Chennaiyin;1;0;1
+10;01/12/2024;19:30;Odisha;Bengaluru;4;2;2
+10;02/12/2024;19:30;Jamshedpur;Mohammedan;3;1;2
+11;04/12/2024;19:30;Hyderabad FC;Goa;0;2;-2
+11;05/12/2024;19:30;Odisha;Mumbai City;0;0;0
+11;06/12/2024;19:30;Punjab;Mohammedan;2;0;2
+11;07/12/2024;17:00;Chennaiyin;East Bengal;0;2;-2
+11;07/12/2024;19:30;Bengaluru;Kerala Blasters;4;2;2
+11;08/12/2024;19:30;NorthEast Utd;Mohun Bagan;0;2;-2
+12;11/12/2024;19:30;Chennaiyin;Hyderabad FC;1;0;1
+12;12/12/2024;19:30;East Bengal;Odisha;1;2;-1
+12;13/12/2024;19:30;Jamshedpur;Punjab;2;1;1
+12;14/12/2024;17:00;Bengaluru;Goa;2;2;0
+12;14/12/2024;19:30;Mohun Bagan;Kerala Blasters;3;2;1
+12;15/12/2024;19:30;Mohammedan;Mumbai City;0;1;-1
+13;17/12/2024;19:30;East Bengal;Punjab;4;2;2
+13;20/12/2024;19:30;Goa;Mohun Bagan;2;1;1
+13;21/12/2024;17:00;Mumbai City;Chennaiyin;1;0;1
+13;21/12/2024;19:30;East Bengal;Jamshedpur;1;0;1
+13;22/12/2024;19:30;Kerala Blasters;Mohammedan;3;0;3
+13;23/12/2024;19:30;Hyderabad FC;NorthEast Utd;2;5;-3
+14;26/12/2024;19:30;Punjab;Mohun Bagan;1;3;-2
+14;27/12/2024;19:30;Mohammedan;Odisha;0;0;0
+14;28/12/2024;17:00;Hyderabad FC;East Bengal;1;1;0
+14;28/12/2024;19:30;Chennaiyin;Bengaluru;2;4;-2
+14;29/12/2024;19:30;Jamshedpur;Kerala Blasters;1;0;1
+14;30/12/2024;19:30;Mumbai City;NorthEast Utd;0;3;-3
+15;02/01/2025;19:30;Mohun Bagan;Hyderabad FC;3;0;3
+15;03/01/2025;19:30;NorthEast Utd;Mohammedan;0;0;0
+15;04/01/2025;17:00;Odisha;Goa;2;4;-2
+15;04/01/2025;19:30;Jamshedpur;Bengaluru;2;1;1
+15;05/01/2025;19:30;Punjab;Kerala Blasters;0;1;-1
+15;06/01/2025;19:30;East Bengal;Mumbai City;2;3;-1
+16;08/01/2025;19:30;Goa;Hyderabad FC;1;1;0
+16;09/01/2025;19:30;Chennaiyin;Odisha;2;2;0
+16;10/01/2025;19:30;NorthEast Utd;Punjab;1;1;0
+16;11/01/2025;17:00;Bengaluru;Mohammedan;0;1;-1
+16;11/01/2025;19:30;Mohun Bagan;East Bengal;1;0;1
+16;12/01/2025;19:30;Mumbai City;Jamshedpur;0;3;-3
+17;13/01/2025;19:30;Kerala Blasters;Odisha;3;2;1
+17;14/01/2025;19:30;NorthEast Utd;Goa;1;1;0
+17;15/01/2025;19:30;Mohammedan;Chennaiyin;2;2;0
+17;16/01/2025;19:30;Punjab;Mumbai City;1;1;0
+17;17/01/2025;19:30;Jamshedpur;Mohun Bagan;1;1;0
+17;18/01/2025;17:00;Hyderabad FC;Bengaluru;1;1;0
+17;18/01/2025;19:30;Kerala Blasters;NorthEast Utd;0;0;0
+17;19/01/2025;19:30;Goa;East Bengal;1;0;1
+18;21/01/2025;19:30;Chennaiyin;Mohun Bagan;0;0;0
+18;22/01/2025;19:30;Bengaluru;Odisha;2;3;-1
+18;23/01/2025;19:30;Hyderabad FC;Jamshedpur;3;2;1
+18;24/01/2025;19:30;East Bengal;Kerala Blasters;2;1;1
+18;25/01/2025;19:30;Goa;Chennaiyin;2;0;2
+18;26/01/2025;19:30;Mumbai City;Mohammedan;3;0;3
+19;27/01/2025;19:30;Mohun Bagan;Bengaluru;1;0;1
+19;28/01/2025;19:30;Punjab;Jamshedpur;1;2;-1
+19;29/01/2025;19:30;NorthEast Utd;Hyderabad FC;4;1;3
+19;30/01/2025;19:30;Chennaiyin;Kerala Blasters;1;3;-2
+19;31/01/2025;19:30;Mumbai City;East Bengal;0;0;0
+20;01/02/2025;17:00;Punjab;Bengaluru;3;2;1
+20;01/02/2025;19:30;Mohammedan;Mohun Bagan;0;4;-4
+20;02/02/2025;19:30;Jamshedpur;Goa;3;1;2
+20;03/02/2025;19:30;Odisha;NorthEast Utd;2;2;0
+21;05/02/2025;19:30;Mohun Bagan;Punjab;3;0;3
+21;06/02/2025;19:30;Goa;Odisha;2;1;1
+21;07/02/2025;19:30;NorthEast Utd;Mumbai City;0;2;-2
+21;08/02/2025;17:00;Hyderabad FC;Mohammedan;3;1;2
+21;08/02/2025;19:30;East Bengal;Chennaiyin;0;3;-3
+21;09/02/2025;19:30;Bengaluru;Jamshedpur;3;0;3
+21;10/02/2025;19:30;Odisha;Punjab;1;1;0
+22;12/02/2025;19:30;Mumbai City;Goa;1;3;-2
+22;13/02/2025;19:30;Jamshedpur;NorthEast Utd;0;2;-2
+22;14/02/2025;19:30;Odisha;Hyderabad FC;3;1;2
+22;15/02/2025;17:00;Chennaiyin;Punjab;2;1;1
+22;15/02/2025;19:30;Kerala Blasters;Mohun Bagan;0;3;-3
+22;16/02/2025;19:30;Mohammedan;East Bengal;1;3;-2
+23;19/02/2025;19:30;Hyderabad FC;Mumbai City;0;0;0
+23;20/02/2025;19:30;Mohammedan;Jamshedpur;0;2;-2
+23;21/02/2025;19:30;NorthEast Utd;Bengaluru;0;2;-2
+23;22/02/2025;17:00;Punjab;East Bengal;1;3;-2
+23;22/02/2025;19:30;Goa;Kerala Blasters;2;0;2
+23;23/02/2025;19:30;Mohun Bagan;Odisha;1;0;1
+24;25/02/2025;19:30;Bengaluru;Chennaiyin;1;0;1
+24;26/02/2025;19:30;East Bengal;Hyderabad FC;2;0;2
+24;27/02/2025;19:30;Punjab;Goa;0;1;-1
+24;28/02/2025;19:30;Odisha;Mohammedan;0;0;0
+24;01/03/2025;17:00;Mumbai City;Mohun Bagan;2;2;0
+24;01/03/2025;19:30;Kerala Blasters;Jamshedpur;1;1;0
+25;02/03/2025;19:30;East Bengal;Bengaluru;1;1;0
+25;03/03/2025;19:30;Chennaiyin;NorthEast Utd;0;3;-3
+25;04/03/2025;19:30;Goa;Mohammedan;2;0;2
+25;05/03/2025;19:30;Jamshedpur;Odisha;2;3;-1
+25;06/03/2025;19:30;Hyderabad FC;Punjab;1;3;-2
+25;07/03/2025;19:30;Kerala Blasters;Mumbai City;1;0;1
+26;08/03/2025;17:00;NorthEast Utd;East Bengal;4;0;4
+26;08/03/2025;19:30;Mohun Bagan;Goa;2;0;2
+26;09/03/2025;19:30;Chennaiyin;Jamshedpur;5;2;3
+26;10/03/2025;19:30;Mohammedan;Punjab;2;2;0
+26;11/03/2025;19:30;Bengaluru;Mumbai City;0;2;-2
+26;12/03/2025;19:30;Hyderabad FC;Kerala Blasters;1;1;0

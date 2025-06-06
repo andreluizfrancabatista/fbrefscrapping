@@ -1,0 +1,316 @@
+WEEK;DATE;TIME;HOME;AWAY;FTHG;FTAG;DIFF
+1;12/07/2024;18:30;Farul Constanța;Unirea Slobozia;0;1;-1
+1;12/07/2024;21:30;Hermannstadt;CS U Craiova;0;0;0
+1;13/07/2024;17:00;Sepsi;Poli Iași;1;0;1
+1;13/07/2024;19:15;UTA Arad;Rapid București;1;1;0
+1;13/07/2024;22:00;FCSB;Universitatea Cluj;1;1;0
+1;14/07/2024;19:00;CFR Cluj;Dinamo;3;2;1
+1;15/07/2024;18:30;Botoșani;Oțelul Galați;2;3;-1
+1;15/07/2024;21:30;Petrolul Ploiești;SCM Gloria Buzău;0;0;0
+2;19/07/2024;19:00;Poli Iași;Botoșani;1;0;1
+2;19/07/2024;22:00;Unirea Slobozia;FCSB;2;2;0
+2;20/07/2024;19:00;CS U Craiova;UTA Arad;4;2;2
+2;20/07/2024;22:00;Rapid București;CFR Cluj;2;2;0
+2;21/07/2024;19:00;Universitatea Cluj;Hermannstadt;3;1;2
+2;21/07/2024;22:00;Dinamo;Petrolul Ploiești;4;1;3
+2;22/07/2024;19:00;SCM Gloria Buzău;Sepsi;1;2;-1
+2;22/07/2024;22:00;Oțelul Galați;Farul Constanța;0;0;0
+3;26/07/2024;19:00;Hermannstadt;Unirea Slobozia;1;1;0
+3;26/07/2024;22:00;FCSB;Oțelul Galați;0;2;-2
+3;27/07/2024;19:00;Poli Iași;SCM Gloria Buzău;1;2;-1
+3;27/07/2024;22:00;Sepsi;Dinamo;1;1;0
+3;28/07/2024;19:00;Farul Constanța;Botoșani;0;1;-1
+3;28/07/2024;22:00;CFR Cluj;CS U Craiova;0;2;-2
+3;29/07/2024;19:00;UTA Arad;Universitatea Cluj;0;0;0
+3;29/07/2024;22:00;Petrolul Ploiești;Rapid București;1;0;1
+4;02/08/2024;19:00;Oțelul Galați;Hermannstadt;1;0;1
+4;02/08/2024;22:00;Dinamo;SCM Gloria Buzău;4;1;3
+4;03/08/2024;21:00;Farul Constanța;Poli Iași;2;0;2
+4;04/08/2024;19:00;CS U Craiova;Petrolul Ploiești;0;0;0
+4;04/08/2024;22:00;CFR Cluj;Universitatea Cluj;2;3;-1
+4;05/08/2024;19:00;Unirea Slobozia;UTA Arad;0;1;-1
+4;05/08/2024;22:00;Rapid București;Sepsi;2;2;0
+5;09/08/2024;21:00;FCSB;Farul Constanța;3;2;1
+5;10/08/2024;17:00;Hermannstadt;Botoșani;2;1;1
+5;10/08/2024;19:00;UTA Arad;Oțelul Galați;1;1;0
+5;10/08/2024;22:00;SCM Gloria Buzău;Rapid București;1;1;0
+5;11/08/2024;19:00;Sepsi;CS U Craiova;1;2;-1
+5;11/08/2024;22:00;CFR Cluj;Unirea Slobozia;3;0;3
+5;12/08/2024;19:00;Petrolul Ploiești;Universitatea Cluj;0;0;0
+5;12/08/2024;22:00;Poli Iași;Dinamo;2;2;0
+6;16/08/2024;19:00;Unirea Slobozia;Petrolul Ploiești;1;2;-1
+6;16/08/2024;22:00;CS U Craiova;SCM Gloria Buzău;5;1;4
+6;17/08/2024;19:00;Botoșani;UTA Arad;1;0;1
+6;17/08/2024;22:00;FCSB;Poli Iași;0;1;-1
+6;18/08/2024;21:30;Rapid București;Dinamo;1;1;0
+6;19/08/2024;19:00;Universitatea Cluj;Sepsi;3;0;3
+6;19/08/2024;22:00;Farul Constanța;Hermannstadt;3;2;1
+7;23/08/2024;19:00;Petrolul Ploiești;Oțelul Galați;0;0;0
+7;23/08/2024;22:00;Poli Iași;Rapid București;1;2;-1
+7;24/08/2024;19:00;Sepsi;Unirea Slobozia;0;1;-1
+7;24/08/2024;22:00;Dinamo;CS U Craiova;2;1;1
+7;25/08/2024;19:00;CFR Cluj;Botoșani;3;0;3
+7;25/08/2024;22:00;Hermannstadt;FCSB;2;0;2
+7;26/08/2024;19:00;SCM Gloria Buzău;Universitatea Cluj;0;2;-2
+7;26/08/2024;22:00;UTA Arad;Farul Constanța;1;1;0
+8;30/08/2024;21:00;Oțelul Galați;Sepsi;2;0;2
+8;31/08/2024;18:30;Hermannstadt;Poli Iași;6;2;4
+8;31/08/2024;21:30;CS U Craiova;Rapid București;1;1;0
+8;01/09/2024;16:30;Botoșani;Petrolul Ploiești;0;2;-2
+8;01/09/2024;18:45;Farul Constanța;CFR Cluj;0;3;-3
+8;01/09/2024;21:30;FCSB;UTA Arad;2;0;2
+8;02/09/2024;19:00;Unirea Slobozia;SCM Gloria Buzău;2;1;1
+8;02/09/2024;21:30;Universitatea Cluj;Dinamo;1;0;1
+9;13/09/2024;18:00;Sepsi;Botoșani;3;0;3
+9;13/09/2024;21:00;Dinamo;Unirea Slobozia;1;0;1
+9;14/09/2024;18:45;SCM Gloria Buzău;Oțelul Galați;0;0;0
+9;14/09/2024;21:30;Petrolul Ploiești;Farul Constanța;1;1;0
+9;15/09/2024;18:15;Poli Iași;CS U Craiova;2;0;2
+9;15/09/2024;21:00;CFR Cluj;FCSB;2;2;0
+9;16/09/2024;18:00;UTA Arad;Hermannstadt;1;1;0
+9;16/09/2024;21:00;Rapid București;Universitatea Cluj;0;2;-2
+10;20/09/2024;18:00;Botoșani;SCM Gloria Buzău;3;3;0
+10;20/09/2024;21:00;Oțelul Galați;Dinamo;1;1;0
+10;21/09/2024;18:30;Hermannstadt;CFR Cluj;0;0;0
+10;21/09/2024;21:30;FCSB;Petrolul Ploiești;1;1;0
+10;22/09/2024;16:00;Farul Constanța;Sepsi;2;1;1
+10;22/09/2024;21:30;Universitatea Cluj;CS U Craiova;1;1;0
+10;23/09/2024;18:00;UTA Arad;Poli Iași;0;0;0
+10;23/09/2024;21:00;Unirea Slobozia;Rapid București;1;2;-1
+11;27/09/2024;18:00;Petrolul Ploiești;Hermannstadt;4;1;3
+11;27/09/2024;21:00;Dinamo;Botoșani;2;2;0
+11;28/09/2024;16:45;Poli Iași;Universitatea Cluj;1;0;1
+11;28/09/2024;19:00;CFR Cluj;UTA Arad;1;3;-2
+11;28/09/2024;21:30;Rapid București;Oțelul Galați;0;0;0
+11;29/09/2024;16:00;SCM Gloria Buzău;Farul Constanța;1;0;1
+11;29/09/2024;21:30;Sepsi;FCSB;0;1;-1
+11;30/09/2024;21:00;CS U Craiova;Unirea Slobozia;3;0;3
+12;04/10/2024;18:00;UTA Arad;Petrolul Ploiești;3;1;2
+12;04/10/2024;21:00;Farul Constanța;Dinamo;1;1;0
+12;05/10/2024;16:45;Unirea Slobozia;Universitatea Cluj;2;2;0
+12;05/10/2024;19:00;CFR Cluj;Poli Iași;2;1;1
+12;05/10/2024;21:30;Oțelul Galați;CS U Craiova;1;1;0
+12;06/10/2024;13:30;Hermannstadt;Sepsi;0;4;-4
+12;06/10/2024;18:15;Botoșani;Rapid București;2;0;2
+12;06/10/2024;21:00;FCSB;SCM Gloria Buzău;3;2;1
+13;18/10/2024;18:30;SCM Gloria Buzău;Hermannstadt;3;0;3
+13;18/10/2024;21:00;Universitatea Cluj;Oțelul Galați;2;0;2
+13;19/10/2024;18:15;Sepsi;UTA Arad;1;0;1
+13;19/10/2024;21:00;Petrolul Ploiești;CFR Cluj;0;0;0
+13;20/10/2024;16:00;CS U Craiova;Botoșani;0;0;0
+13;20/10/2024;21:00;Dinamo;FCSB;0;2;-2
+13;21/10/2024;18:30;Poli Iași;Unirea Slobozia;1;0;1
+13;21/10/2024;21:00;Rapid București;Farul Constanța;5;0;5
+14;25/10/2024;21:00;CFR Cluj;Sepsi;3;3;0
+14;26/10/2024;13:30;UTA Arad;SCM Gloria Buzău;1;0;1
+14;26/10/2024;16:00;Petrolul Ploiești;Poli Iași;3;1;2
+14;26/10/2024;19:00;Hermannstadt;Dinamo;0;2;-2
+14;27/10/2024;16:00;Oțelul Galați;Unirea Slobozia;0;2;-2
+14;27/10/2024;21:00;FCSB;Rapid București;0;0;0
+14;28/10/2024;18:00;Botoșani;Universitatea Cluj;1;2;-1
+14;28/10/2024;21:00;Farul Constanța;CS U Craiova;3;2;1
+15;01/11/2024;21:00;SCM Gloria Buzău;CFR Cluj;0;1;-1
+15;02/11/2024;18:30;Sepsi;Petrolul Ploiești;1;1;0
+15;02/11/2024;21:00;Dinamo;UTA Arad;1;0;1
+15;03/11/2024;13:30;Poli Iași;Oțelul Galați;2;1;1
+15;03/11/2024;16:00;Universitatea Cluj;Farul Constanța;1;1;0
+15;03/11/2024;21:00;CS U Craiova;FCSB;1;1;0
+15;04/11/2024;18:00;Unirea Slobozia;Botoșani;1;0;1
+15;04/11/2024;21:00;Rapid București;Hermannstadt;1;0;1
+16;08/11/2024;18:00;Oțelul Galați;Botoșani;0;0;0
+16;08/11/2024;21:00;Dinamo;CFR Cluj;1;1;0
+16;09/11/2024;13:30;Poli Iași;Sepsi;1;2;-1
+16;09/11/2024;18:15;CS U Craiova;Hermannstadt;3;1;2
+16;09/11/2024;21:00;Rapid București;UTA Arad;2;0;2
+16;10/11/2024;16:00;Unirea Slobozia;Farul Constanța;0;1;-1
+16;10/11/2024;21:00;Universitatea Cluj;FCSB;1;2;-1
+16;11/11/2024;18:00;SCM Gloria Buzău;Petrolul Ploiești;0;1;-1
+6;11/11/2024;21:00;Oțelul Galați;CFR Cluj;0;1;-1
+4;21/11/2024;20:00;Botoșani;FCSB;1;0;1
+17;22/11/2024;17:30;Sepsi;SCM Gloria Buzău;2;0;2
+17;22/11/2024;20:30;Farul Constanța;Oțelul Galați;0;1;-1
+17;23/11/2024;17:00;Hermannstadt;Universitatea Cluj;2;1;1
+17;23/11/2024;21:30;CFR Cluj;Rapid București;1;1;0
+17;24/11/2024;18:15;FCSB;Unirea Slobozia;3;0;3
+17;24/11/2024;20:45;Petrolul Ploiești;Dinamo;0;1;-1
+17;25/11/2024;17:30;Botoșani;Poli Iași;1;1;0
+17;25/11/2024;20:30;UTA Arad;CS U Craiova;1;2;-1
+18;29/11/2024;17:00;Botoșani;Farul Constanța;0;0;0
+18;29/11/2024;20:45;Rapid București;Petrolul Ploiești;1;1;0
+18;30/11/2024;15:00;Unirea Slobozia;Hermannstadt;1;2;-1
+18;30/11/2024;17:30;SCM Gloria Buzău;Poli Iași;2;0;2
+18;30/11/2024;20:30;Dinamo;Sepsi;1;1;0
+18;01/12/2024;20:30;CS U Craiova;CFR Cluj;0;2;-2
+18;02/12/2024;17:30;Universitatea Cluj;UTA Arad;0;1;-1
+18;02/12/2024;20:30;Oțelul Galați;FCSB;1;4;-3
+19;06/12/2024;20:00;Sepsi;Rapid București;2;0;2
+19;07/12/2024;17:00;SCM Gloria Buzău;Dinamo;0;1;-1
+19;07/12/2024;20:00;Petrolul Ploiești;CS U Craiova;1;1;0
+19;08/12/2024;13:30;UTA Arad;Unirea Slobozia;3;4;-1
+19;08/12/2024;16:30;Poli Iași;Farul Constanța;2;2;0
+19;08/12/2024;20:30;FCSB;Botoșani;2;1;1
+19;09/12/2024;17:30;Hermannstadt;Oțelul Galați;1;0;1
+19;09/12/2024;20:30;Universitatea Cluj;CFR Cluj;3;2;1
+20;13/12/2024;17:00;Botoșani;Hermannstadt;1;2;-1
+20;13/12/2024;20:00;Dinamo;Poli Iași;2;0;2
+20;14/12/2024;14:30;Oțelul Galați;UTA Arad;1;1;0
+20;14/12/2024;17:00;CS U Craiova;Sepsi;2;1;1
+20;14/12/2024;20:00;Universitatea Cluj;Petrolul Ploiești;4;1;3
+20;15/12/2024;16:00;Unirea Slobozia;CFR Cluj;1;1;0
+20;15/12/2024;20:45;Farul Constanța;FCSB;1;1;0
+20;16/12/2024;20:00;Rapid București;SCM Gloria Buzău;2;0;2
+21;20/12/2024;19:00;Sepsi;Universitatea Cluj;0;0;0
+21;21/12/2024;17:00;Hermannstadt;Farul Constanța;0;0;0
+21;21/12/2024;19:30;SCM Gloria Buzău;CS U Craiova;0;2;-2
+21;22/12/2024;12:30;Petrolul Ploiești;Unirea Slobozia;2;1;1
+21;22/12/2024;15:00;CFR Cluj;Oțelul Galați;3;2;1
+21;22/12/2024;20:00;Dinamo;Rapid București;0;0;0
+21;23/12/2024;17:00;UTA Arad;Botoșani;2;0;2
+21;23/12/2024;20:00;Poli Iași;FCSB;0;2;-2
+22;17/01/2025;17:00;Unirea Slobozia;Sepsi;3;2;1
+22;17/01/2025;20:00;FCSB;Hermannstadt;1;1;0
+22;18/01/2025;14:30;Universitatea Cluj;SCM Gloria Buzău;2;1;1
+22;18/01/2025;19:30;Oțelul Galați;Petrolul Ploiești;0;0;0
+22;19/01/2025;18:00;Botoșani;CFR Cluj;1;1;0
+22;19/01/2025;20:30;CS U Craiova;Dinamo;1;1;0
+22;20/01/2025;17:00;Farul Constanța;UTA Arad;1;1;0
+22;20/01/2025;20:00;Rapid București;Poli Iași;2;1;1
+23;24/01/2025;17:00;SCM Gloria Buzău;Unirea Slobozia;3;0;3
+23;24/01/2025;20:00;Dinamo;Universitatea Cluj;0;0;0
+23;25/01/2025;14:30;Poli Iași;Hermannstadt;0;2;-2
+23;25/01/2025;20:00;Rapid București;CS U Craiova;1;0;1
+23;26/01/2025;17:00;Sepsi;Oțelul Galați;2;0;2
+23;26/01/2025;20:00;UTA Arad;FCSB;0;1;-1
+23;27/01/2025;17:00;Petrolul Ploiești;Botoșani;3;1;2
+23;27/01/2025;20:00;CFR Cluj;Farul Constanța;3;1;2
+24;31/01/2025;17:00;Hermannstadt;UTA Arad;0;0;0
+24;31/01/2025;20:00;Unirea Slobozia;Dinamo;1;3;-2
+24;01/02/2025;14:30;Botoșani;Sepsi;0;0;0
+24;01/02/2025;17:00;Oțelul Galați;SCM Gloria Buzău;2;1;1
+24;01/02/2025;20:00;Universitatea Cluj;Rapid București;2;1;1
+24;02/02/2025;17:15;CS U Craiova;Poli Iași;4;1;3
+24;02/02/2025;20:00;FCSB;CFR Cluj;1;1;0
+24;03/02/2025;20:00;Farul Constanța;Petrolul Ploiești;2;1;1
+25;04/02/2025;16:00;SCM Gloria Buzău;Botoșani;0;2;-2
+25;04/02/2025;18:00;Rapid București;Unirea Slobozia;2;1;1
+25;04/02/2025;20:30;Dinamo;Oțelul Galați;1;0;1
+25;05/02/2025;18:00;CFR Cluj;Hermannstadt;1;0;1
+25;05/02/2025;20:30;CS U Craiova;Universitatea Cluj;1;0;1
+25;06/02/2025;16:00;Poli Iași;UTA Arad;0;1;-1
+25;06/02/2025;18:00;Sepsi;Farul Constanța;1;0;1
+25;06/02/2025;20:30;Petrolul Ploiești;FCSB;0;0;0
+26;07/02/2025;20:00;Botoșani;Dinamo;1;1;0
+26;08/02/2025;16:00;Unirea Slobozia;CS U Craiova;0;1;-1
+26;08/02/2025;19:00;Oțelul Galați;Rapid București;1;1;0
+26;09/02/2025;14:30;Hermannstadt;Petrolul Ploiești;1;1;0
+26;09/02/2025;17:00;Universitatea Cluj;Poli Iași;2;2;0
+26;09/02/2025;20:00;FCSB;Sepsi;3;0;3
+26;10/02/2025;17:00;Farul Constanța;SCM Gloria Buzău;1;0;1
+26;10/02/2025;20:00;UTA Arad;CFR Cluj;1;4;-3
+27;14/02/2025;17:00;Sepsi;Hermannstadt;2;3;-1
+27;14/02/2025;20:00;CS U Craiova;Oțelul Galați;2;1;1
+27;15/02/2025;15:00;Petrolul Ploiești;UTA Arad;0;1;-1
+27;15/02/2025;20:00;Dinamo;Farul Constanța;0;2;-2
+27;16/02/2025;16:00;Poli Iași;CFR Cluj;1;1;0
+27;16/02/2025;20:45;SCM Gloria Buzău;FCSB;0;2;-2
+27;17/02/2025;17:00;Universitatea Cluj;Unirea Slobozia;3;2;1
+27;17/02/2025;20:00;Rapid București;Botoșani;1;0;1
+28;21/02/2025;17:00;Hermannstadt;SCM Gloria Buzău;2;1;1
+28;21/02/2025;20:00;Oțelul Galați;Universitatea Cluj;0;1;-1
+28;22/02/2025;18:00;Botoșani;CS U Craiova;2;2;0
+28;22/02/2025;20:30;CFR Cluj;Petrolul Ploiești;2;0;2
+28;23/02/2025;15:00;Unirea Slobozia;Poli Iași;0;0;0
+28;23/02/2025;20:00;FCSB;Dinamo;2;1;1
+28;24/02/2025;17:00;UTA Arad;Sepsi;1;2;-1
+28;24/02/2025;20:00;Farul Constanța;Rapid București;1;3;-2
+29;28/02/2025;17:00;Unirea Slobozia;Oțelul Galați;0;1;-1
+29;28/02/2025;20:00;Sepsi;CFR Cluj;1;1;0
+29;01/03/2025;16:00;Universitatea Cluj;Botoșani;0;1;-1
+29;01/03/2025;19:00;CS U Craiova;Farul Constanța;1;0;1
+29;02/03/2025;15:00;Poli Iași;Petrolul Ploiești;1;0;1
+29;02/03/2025;20:00;Rapid București;FCSB;0;0;0
+29;03/03/2025;17:00;SCM Gloria Buzău;UTA Arad;1;1;0
+29;03/03/2025;20:00;Dinamo;Hermannstadt;2;0;2
+30;07/03/2025;17:00;Oțelul Galați;Poli Iași;2;3;-1
+30;07/03/2025;20:00;Farul Constanța;Universitatea Cluj;1;1;0
+30;08/03/2025;18:00;Petrolul Ploiești;Sepsi;1;0;1
+30;08/03/2025;20:30;Hermannstadt;Rapid București;1;0;1
+30;09/03/2025;15:00;CFR Cluj;SCM Gloria Buzău;6;0;6
+30;09/03/2025;20:00;FCSB;CS U Craiova;1;0;1
+30;10/03/2025;17:00;Botoșani;Unirea Slobozia;1;0;1
+30;10/03/2025;20:00;UTA Arad;Dinamo;0;2;-2
+1;14/03/2025;17:00;Petrolul Ploiești;Botoșani;0;2;-2
+1;14/03/2025;20:00;CS U Craiova;Universitatea Cluj;3;0;3
+1;15/03/2025;18:00;Farul Constanța;Poli Iași;0;0;0
+1;15/03/2025;21:00;CFR Cluj;Dinamo;3;1;2
+1;16/03/2025;13:00;Hermannstadt;Unirea Slobozia;1;1;0
+1;16/03/2025;18:00;UTA Arad;Oțelul Galați;2;0;2
+1;16/03/2025;21:00;FCSB;Rapid București;3;3;0
+1;17/03/2025;20:00;Sepsi;SCM Gloria Buzău;1;2;-1
+2;28/03/2025;17:30;Unirea Slobozia;Petrolul Ploiești;0;0;0
+2;28/03/2025;20:30;Sepsi;Hermannstadt;0;2;-2
+2;29/03/2025;14:30;Botoșani;Farul Constanța;4;3;1
+2;29/03/2025;20:00;Rapid București;CS U Craiova;1;2;-1
+2;30/03/2025;15:00;Poli Iași;UTA Arad;4;0;4
+2;30/03/2025;20:30;Dinamo;FCSB;1;2;-1
+2;31/03/2025;17:30;SCM Gloria Buzău;Oțelul Galați;0;2;-2
+2;31/03/2025;20:30;Universitatea Cluj;CFR Cluj;1;0;1
+3;04/04/2025;17:30;Oțelul Galați;Poli Iași;1;0;1
+3;04/04/2025;20:30;Petrolul Ploiești;Sepsi;2;1;1
+3;05/04/2025;16:45;UTA Arad;Botoșani;1;0;1
+3;05/04/2025;21:15;FCSB;Universitatea Cluj;1;0;1
+3;06/04/2025;13:30;Hermannstadt;SCM Gloria Buzău;0;2;-2
+3;06/04/2025;21:00;Rapid București;Dinamo;1;0;1
+3;07/04/2025;17:30;Farul Constanța;Unirea Slobozia;1;1;0
+3;07/04/2025;20:30;CFR Cluj;CS U Craiova;2;0;2
+4;11/04/2025;17:30;SCM Gloria Buzău;Poli Iași;0;1;-1
+4;11/04/2025;20:30;Hermannstadt;Petrolul Ploiești;1;1;0
+4;12/04/2025;17:00;Sepsi;Farul Constanța;1;4;-3
+4;12/04/2025;20:00;Universitatea Cluj;Dinamo;2;4;-2
+4;13/04/2025;18:15;Unirea Slobozia;UTA Arad;2;1;1
+4;13/04/2025;21:00;CS U Craiova;FCSB;0;0;0
+4;14/04/2025;17:30;Botoșani;Oțelul Galați;0;1;-1
+4;14/04/2025;20:30;CFR Cluj;Rapid București;1;1;0
+5;18/04/2025;17:00;Oțelul Galați;Unirea Slobozia;2;0;2
+5;18/04/2025;20:00;UTA Arad;Sepsi;1;1;0
+5;19/04/2025;15:00;Farul Constanța;Hermannstadt;1;1;0
+5;19/04/2025;20:00;Rapid București;Universitatea Cluj;0;2;-2
+5;20/04/2025;17:00;Poli Iași;Botoșani;3;0;3
+5;20/04/2025;20:00;FCSB;CFR Cluj;3;2;1
+5;21/04/2025;18:00;Petrolul Ploiești;SCM Gloria Buzău;4;0;4
+5;21/04/2025;21:00;Dinamo;CS U Craiova;0;2;-2
+6;25/04/2025;18:45;Unirea Slobozia;Poli Iași;1;1;0
+6;25/04/2025;21:00;Sepsi;Oțelul Galați;0;3;-3
+6;26/04/2025;17:00;Hermannstadt;UTA Arad;3;0;3
+6;26/04/2025;20:00;Universitatea Cluj;CS U Craiova;2;1;1
+6;27/04/2025;14:30;SCM Gloria Buzău;Botoșani;0;2;-2
+6;27/04/2025;21:00;Rapid București;FCSB;1;2;-1
+6;28/04/2025;18:00;Petrolul Ploiești;Farul Constanța;0;1;-1
+6;28/04/2025;21:00;Dinamo;CFR Cluj;1;1;0
+7;02/05/2025;17:30;Poli Iași;Sepsi;0;0;0
+7;02/05/2025;20:30;CS U Craiova;Rapid București;1;2;-1
+7;03/05/2025;13:45;Botoșani;Unirea Slobozia;1;1;0
+7;03/05/2025;18:15;Farul Constanța;SCM Gloria Buzău;1;0;1
+7;03/05/2025;21:00;CFR Cluj;Universitatea Cluj;1;0;1
+7;04/05/2025;20:45;Oțelul Galați;Hermannstadt;1;2;-1
+7;05/05/2025;17:30;UTA Arad;Petrolul Ploiești;2;0;2
+7;05/05/2025;20:30;FCSB;Dinamo;3;1;2
+8;09/05/2025;18:00;SCM Gloria Buzău;Unirea Slobozia;0;3;-3
+8;09/05/2025;21:00;Sepsi;Botoșani;2;0;2
+8;10/05/2025;15:00;Farul Constanța;UTA Arad;1;2;-1
+8;10/05/2025;17:30;Hermannstadt;Poli Iași;1;0;1
+8;10/05/2025;20:30;CS U Craiova;CFR Cluj;2;2;0
+8;11/05/2025;20:30;Universitatea Cluj;FCSB;0;2;-2
+8;12/05/2025;18:00;Petrolul Ploiești;Oțelul Galați;1;3;-2
+8;12/05/2025;21:00;Dinamo;Rapid București;0;0;0
+9;16/05/2025;18:00;Oțelul Galați;Farul Constanța;0;0;0
+9;16/05/2025;21:00;Dinamo;Universitatea Cluj;1;3;-2
+9;17/05/2025;14:00;UTA Arad;SCM Gloria Buzău;0;0;0
+9;17/05/2025;20:00;FCSB;CS U Craiova;1;0;1
+9;18/05/2025;16:00;Botoșani;Hermannstadt;2;1;1
+9;18/05/2025;16:00;Poli Iași;Petrolul Ploiești;0;2;-2
+9;18/05/2025;16:00;Unirea Slobozia;Sepsi;2;1;1
+9;19/05/2025;20:30;Rapid București;CFR Cluj;1;4;-3
+10;23/05/2025;20:30;CFR Cluj;FCSB;1;1;0
+10;24/05/2025;18:00;Universitatea Cluj;Rapid București;2;2;0
+10;24/05/2025;21:00;CS U Craiova;Dinamo;2;1;1
