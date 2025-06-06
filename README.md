@@ -5,7 +5,10 @@ Sistema completo de análise de futebol com interface web moderna, incluindo col
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/andreluizfrancabatista/fbrefscrapping)
 
 ![Web Scraping](https://img.shields.io/badge/web_scraping-automated-orange?style=flat-square)
 ![Soccer Analytics](https://img.shields.io/badge/soccer-analytics-4CAF50?style=flat-square)
@@ -339,7 +342,5 @@ O **Soccer Analytics** representa uma solução completa e moderna para análise
 ---
 
 *Desenvolvido com ⚽ para entusiastas do futebol e análise de dados.*
-
-![Made with Love](https://img.shields.io/badge/Made%20with-⚽%20and%20💚-4CAF50?style=for-the-badge)
 
 ![Footer](https://img.shields.io/badge/Made%20with-⚽%20and%20💚-4CAF50?style=for-the-badge)
