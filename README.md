@@ -2,7 +2,13 @@
 
 Sistema completo de análise de futebol com interface web moderna, incluindo coleta de dados, análise estatística avançada e previsão de resultados das principais ligas mundiais.
 
-![Soccer Analytics](https://img.shields.io/badge/Soccer-Analytics-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OSAyIDIgNi40OSAyIDEyUzYuNDkgMjIgMTIgMjJTMjIgMTcuNTEgMjIgMTJTMTcuNTEgMiAxMiAyWk0xMiAyMEMxNi4wNCAyMCAxOCAxNS44MyAxOCAxNUgxOFYxM0gxNkMxNCA5IDE0IDkgMTQgOUgxMFYxMUM4LjY5IDExIDcuNTggMTAuMzMgNyA5LjVWN0M3IDYuNDUgNy45NSA2IDkgNkMxMSA2IDExIDYgMTEgNlY2SDE0VjRDMTQuNCA0IDEyLjcgNSAxMi43IDVIMTJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)
+![Build](https://img.shields.io/github/actions/workflow/status/andreluizfrancabatista/fbrefscrapping/ci.yml?label=build)
+![License](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping)
+![Version](https://img.shields.io/github/v/tag/andreluizfrancabatistafbrefscrapping?label=version)
+![Top Language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping)
+
+Descrição do projeto...
+
 
 ## 🏆 Visão Geral
 
@@ -93,7 +99,7 @@ python chance.py BRA "Campeonato Brasileiro Série A"  # Analisar liga específi
 
 ## 🏟️ Ligas Suportadas
 
-### 🇪🇺 **Europa (Principais)**
+### 🌎 **Europa (Principais)**
 - ![flag](https://flagcdn.com/w20/gb-eng.png) **Inglaterra**: Premier League, Championship, League One, League Two
 - ![flag](https://flagcdn.com/w20/es.png) **Espanha**: La Liga, Segunda División, Liga F
 - ![flag](https://flagcdn.com/w20/de.png) **Alemanha**: Bundesliga, 2. Bundesliga, Frauen-Bundesliga
