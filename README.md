@@ -2,14 +2,10 @@
 
 Sistema completo de análise de futebol com interface web moderna, incluindo coleta de dados, análise estatística avançada e previsão de resultados das principais ligas mundiais.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/andreluizfrancabatista/fbrefscrapping)
+![License](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping)
 ![Top Language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/andreluizfrancabatista/fbrefscrapping)
-
 ![Web Scraping](https://img.shields.io/badge/web_scraping-automated-orange?style=flat-square)
 ![Soccer Analytics](https://img.shields.io/badge/soccer-analytics-4CAF50?style=flat-square)
 ![80+ Leagues](https://img.shields.io/badge/leagues-80+-blue?style=flat-square)
