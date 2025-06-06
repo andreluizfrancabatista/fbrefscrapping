@@ -3,7 +3,6 @@
 Sistema completo de análise de futebol com interface web moderna, incluindo coleta de dados, análise estatística avançada e previsão de resultados das principais ligas mundiais.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andreluizfrancabatista/fbrefscrapping)
-![License](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping)
 ![License](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping?cacheSeconds=60)
 ![Top Language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping)
 ![Last Commit](https://img.shields.io/github/last-commit/andreluizfrancabatista/fbrefscrapping)
