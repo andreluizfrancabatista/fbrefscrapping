@@ -339,4 +339,4 @@ O **Soccer Analytics** representa uma solução completa e moderna para análise
 
 *Desenvolvido com ⚽ para entusiastas do futebol e análise de dados.*
 
-![Footer](https://img.shields.io/badge/Made%20with-⚽%20and%20💚-4CAF50?style=for-the-badge)
+![Footer](https://img.shields.io/badge/Made%20with-⚽%20and%20💚-4CAF50)
