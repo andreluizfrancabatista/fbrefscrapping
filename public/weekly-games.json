@@ -1,7 +1,7 @@
 {
-  "lastUpdate": "2025-06-05T23:25:35.433Z",
-  "totalGames": 224,
-  "totalLeagues": 26,
+  "lastUpdate": "2025-06-06T02:31:31.517Z",
+  "totalGames": 225,
+  "totalLeagues": 27,
   "errors": 0,
   "games": [
     {
@@ -14,7 +14,7 @@
       "awayScore": -1.79,
       "predictedDiff": 3.36,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -28,7 +28,7 @@
       "awayScore": 2.34,
       "predictedDiff": -3.13,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -42,7 +42,7 @@
       "awayScore": 1.82,
       "predictedDiff": -3.13,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -56,7 +56,7 @@
       "awayScore": 0.99,
       "predictedDiff": -2.89,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -70,7 +70,7 @@
       "awayScore": 1.74,
       "predictedDiff": -2.86,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -84,7 +84,7 @@
       "awayScore": 1.76,
       "predictedDiff": -2.76,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -98,7 +98,7 @@
       "awayScore": -0.29,
       "predictedDiff": 2.63,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -112,7 +112,7 @@
       "awayScore": -2.71,
       "predictedDiff": 2.61,
       "league": "DEN - Danish Women's League",
-      "leagueId": "DEN-Danish Women's League",
+      "leagueId": "340-DEN-Danish Women's League",
       "country": "DEN",
       "leagueName": "Danish Women's League"
     },
@@ -126,7 +126,7 @@
       "awayScore": 1.03,
       "predictedDiff": -2.59,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -140,7 +140,7 @@
       "awayScore": 0.07,
       "predictedDiff": -2.53,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -154,7 +154,7 @@
       "awayScore": 1.38,
       "predictedDiff": -2.53,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -168,7 +168,7 @@
       "awayScore": -0.71,
       "predictedDiff": 2.47,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -182,7 +182,7 @@
       "awayScore": -1.19,
       "predictedDiff": 2.43,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -196,7 +196,7 @@
       "awayScore": -1.08,
       "predictedDiff": 2.38,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -210,7 +210,7 @@
       "awayScore": -1.14,
       "predictedDiff": 2.37,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -224,7 +224,7 @@
       "awayScore": -2.73,
       "predictedDiff": 2.36,
       "league": "DEN - Danish Women's League",
-      "leagueId": "DEN-Danish Women's League",
+      "leagueId": "340-DEN-Danish Women's League",
       "country": "DEN",
       "leagueName": "Danish Women's League"
     },
@@ -238,7 +238,7 @@
       "awayScore": 1.27,
       "predictedDiff": -2.23,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -252,7 +252,7 @@
       "awayScore": -0.38,
       "predictedDiff": 2.19,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -266,9 +266,23 @@
       "awayScore": 0.89,
       "predictedDiff": -2.03,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
+    },
+    {
+      "week": "8",
+      "date": "18/05/2025",
+      "time": "17:15",
+      "home": "Bolívar",
+      "away": "GV San José",
+      "homeScore": 1.67,
+      "awayScore": -0.33,
+      "predictedDiff": 2,
+      "league": "BOL - División de Fútbol Profesional",
+      "leagueId": "074-BOL-División de Fútbol Profesional",
+      "country": "BOL",
+      "leagueName": "División de Fútbol Profesional"
     },
     {
       "week": "10",
@@ -280,7 +294,7 @@
       "awayScore": -1.9,
       "predictedDiff": 1.96,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -294,7 +308,7 @@
       "awayScore": -1.07,
       "predictedDiff": 1.92,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -308,7 +322,7 @@
       "awayScore": -0.79,
       "predictedDiff": -1.92,
       "league": "DEN - Danish Women's League",
-      "leagueId": "DEN-Danish Women's League",
+      "leagueId": "340-DEN-Danish Women's League",
       "country": "DEN",
       "leagueName": "Danish Women's League"
     },
@@ -322,7 +336,7 @@
       "awayScore": -0.85,
       "predictedDiff": 1.91,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -336,7 +350,7 @@
       "awayScore": 1.11,
       "predictedDiff": -1.91,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -350,7 +364,7 @@
       "awayScore": -0.5,
       "predictedDiff": 1.91,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -364,7 +378,7 @@
       "awayScore": -0.45,
       "predictedDiff": 1.84,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -378,7 +392,7 @@
       "awayScore": -0.23,
       "predictedDiff": 1.82,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -392,7 +406,7 @@
       "awayScore": -1.3,
       "predictedDiff": 1.81,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -406,7 +420,7 @@
       "awayScore": 0.76,
       "predictedDiff": -1.76,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -420,7 +434,7 @@
       "awayScore": -0.71,
       "predictedDiff": 1.76,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -434,7 +448,7 @@
       "awayScore": 0.85,
       "predictedDiff": -1.7,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -448,7 +462,7 @@
       "awayScore": 0.5,
       "predictedDiff": -1.67,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -462,7 +476,7 @@
       "awayScore": 0.15,
       "predictedDiff": -1.66,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -476,7 +490,7 @@
       "awayScore": -0.28,
       "predictedDiff": -1.63,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -490,7 +504,7 @@
       "awayScore": 1.23,
       "predictedDiff": -1.57,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -504,7 +518,7 @@
       "awayScore": -0.45,
       "predictedDiff": 1.56,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -518,7 +532,7 @@
       "awayScore": 0.5,
       "predictedDiff": -1.55,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -532,7 +546,7 @@
       "awayScore": -0.72,
       "predictedDiff": 1.48,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -546,7 +560,7 @@
       "awayScore": 0.57,
       "predictedDiff": -1.45,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -560,7 +574,7 @@
       "awayScore": -1.29,
       "predictedDiff": -1.45,
       "league": "DEN - Danish Women's League",
-      "leagueId": "DEN-Danish Women's League",
+      "leagueId": "340-DEN-Danish Women's League",
       "country": "DEN",
       "leagueName": "Danish Women's League"
     },
@@ -574,7 +588,7 @@
       "awayScore": 0.58,
       "predictedDiff": -1.41,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -588,7 +602,7 @@
       "awayScore": 1.05,
       "predictedDiff": -1.4,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -602,7 +616,7 @@
       "awayScore": 0.91,
       "predictedDiff": -1.35,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -616,7 +630,7 @@
       "awayScore": -1.51,
       "predictedDiff": 1.35,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -630,7 +644,7 @@
       "awayScore": -0.5,
       "predictedDiff": 1.33,
       "league": "PAR - Paraguayan Primera División",
-      "leagueId": "PAR-Paraguayan Primera División",
+      "leagueId": "061-PAR-Paraguayan Primera División",
       "country": "PAR",
       "leagueName": "Paraguayan Primera División"
     },
@@ -644,7 +658,7 @@
       "awayScore": 0.6,
       "predictedDiff": 1.3,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -658,7 +672,7 @@
       "awayScore": 0.65,
       "predictedDiff": -1.28,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -672,7 +686,7 @@
       "awayScore": -0.44,
       "predictedDiff": 1.26,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -686,7 +700,7 @@
       "awayScore": 0.82,
       "predictedDiff": -1.26,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -700,7 +714,7 @@
       "awayScore": -0.88,
       "predictedDiff": 1.26,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -714,7 +728,7 @@
       "awayScore": -1.42,
       "predictedDiff": 1.25,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -728,7 +742,7 @@
       "awayScore": -0.49,
       "predictedDiff": 1.25,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -742,7 +756,7 @@
       "awayScore": -0.5,
       "predictedDiff": 1.25,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -756,7 +770,7 @@
       "awayScore": 1.41,
       "predictedDiff": -1.23,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -770,7 +784,7 @@
       "awayScore": 0.83,
       "predictedDiff": -1.21,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -784,7 +798,7 @@
       "awayScore": 0.1,
       "predictedDiff": -1.21,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -798,7 +812,7 @@
       "awayScore": 0.75,
       "predictedDiff": -1.21,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -812,7 +826,7 @@
       "awayScore": -1.69,
       "predictedDiff": 1.2,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -826,7 +840,7 @@
       "awayScore": -0.1,
       "predictedDiff": -1.19,
       "league": "DEN - Danish Women's League",
-      "leagueId": "DEN-Danish Women's League",
+      "leagueId": "340-DEN-Danish Women's League",
       "country": "DEN",
       "leagueName": "Danish Women's League"
     },
@@ -840,7 +854,7 @@
       "awayScore": 0.46,
       "predictedDiff": -1.18,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -854,7 +868,7 @@
       "awayScore": 0.79,
       "predictedDiff": -1.18,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -868,7 +882,7 @@
       "awayScore": -0.39,
       "predictedDiff": 1.18,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -882,7 +896,7 @@
       "awayScore": -0.07,
       "predictedDiff": 1.18,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -896,7 +910,7 @@
       "awayScore": 0.72,
       "predictedDiff": -1.16,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -910,7 +924,7 @@
       "awayScore": 0.58,
       "predictedDiff": -1.14,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -924,7 +938,7 @@
       "awayScore": -0.05,
       "predictedDiff": 1.11,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -938,7 +952,7 @@
       "awayScore": -0.3,
       "predictedDiff": 1.1,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -952,7 +966,7 @@
       "awayScore": -0.71,
       "predictedDiff": 1.09,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -966,7 +980,7 @@
       "awayScore": -0.52,
       "predictedDiff": 1.07,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -980,7 +994,7 @@
       "awayScore": 0.8,
       "predictedDiff": -1.07,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -994,7 +1008,7 @@
       "awayScore": -0.39,
       "predictedDiff": 1.07,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -1008,7 +1022,7 @@
       "awayScore": 0.37,
       "predictedDiff": -1.06,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -1022,7 +1036,7 @@
       "awayScore": -1.07,
       "predictedDiff": 1.05,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -1036,7 +1050,7 @@
       "awayScore": 0.25,
       "predictedDiff": 1.05,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -1050,7 +1064,7 @@
       "awayScore": 0.59,
       "predictedDiff": -1.05,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -1064,7 +1078,7 @@
       "awayScore": -0.06,
       "predictedDiff": 1,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -1078,7 +1092,7 @@
       "awayScore": 0.14,
       "predictedDiff": -1,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -1092,7 +1106,7 @@
       "awayScore": -0.71,
       "predictedDiff": -0.98,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -1106,7 +1120,7 @@
       "awayScore": 0.62,
       "predictedDiff": -0.97,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -1120,7 +1134,7 @@
       "awayScore": 1.29,
       "predictedDiff": -0.95,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -1134,7 +1148,7 @@
       "awayScore": 0.6,
       "predictedDiff": -0.95,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -1148,7 +1162,7 @@
       "awayScore": 0.14,
       "predictedDiff": 0.95,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -1162,7 +1176,7 @@
       "awayScore": -0.33,
       "predictedDiff": 0.94,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -1176,7 +1190,7 @@
       "awayScore": 0.1,
       "predictedDiff": -0.93,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -1190,7 +1204,7 @@
       "awayScore": -0.79,
       "predictedDiff": 0.92,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -1204,7 +1218,7 @@
       "awayScore": 0.85,
       "predictedDiff": -0.9,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -1218,7 +1232,7 @@
       "awayScore": 0.29,
       "predictedDiff": -0.89,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -1232,7 +1246,7 @@
       "awayScore": -0.56,
       "predictedDiff": 0.88,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -1246,7 +1260,7 @@
       "awayScore": 0.35,
       "predictedDiff": 0.87,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -1260,7 +1274,7 @@
       "awayScore": -0.18,
       "predictedDiff": -0.87,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -1274,7 +1288,7 @@
       "awayScore": -0.72,
       "predictedDiff": 0.86,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -1288,7 +1302,7 @@
       "awayScore": 0.35,
       "predictedDiff": -0.85,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -1302,7 +1316,7 @@
       "awayScore": -0.39,
       "predictedDiff": 0.85,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -1316,7 +1330,7 @@
       "awayScore": 0.46,
       "predictedDiff": -0.85,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -1330,7 +1344,7 @@
       "awayScore": -0.44,
       "predictedDiff": 0.84,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -1344,7 +1358,7 @@
       "awayScore": 0.5,
       "predictedDiff": 0.84,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -1358,7 +1372,7 @@
       "awayScore": -0.02,
       "predictedDiff": 0.84,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -1372,7 +1386,7 @@
       "awayScore": 0.03,
       "predictedDiff": -0.81,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -1386,7 +1400,7 @@
       "awayScore": 0.62,
       "predictedDiff": -0.81,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -1400,7 +1414,7 @@
       "awayScore": -0.05,
       "predictedDiff": -0.8,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -1414,7 +1428,7 @@
       "awayScore": 0.76,
       "predictedDiff": -0.8,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -1428,7 +1442,7 @@
       "awayScore": -0.07,
       "predictedDiff": 0.77,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -1442,7 +1456,7 @@
       "awayScore": 0.7,
       "predictedDiff": -0.75,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -1456,7 +1470,7 @@
       "awayScore": -0.04,
       "predictedDiff": 0.75,
       "league": "VEN - Venezuelan Primera División",
-      "leagueId": "VEN-Venezuelan Primera División",
+      "leagueId": "105-VEN-Venezuelan Primera División",
       "country": "VEN",
       "leagueName": "Venezuelan Primera División"
     },
@@ -1470,7 +1484,7 @@
       "awayScore": -0.44,
       "predictedDiff": 0.74,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -1484,7 +1498,7 @@
       "awayScore": 0.81,
       "predictedDiff": -0.74,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -1498,7 +1512,7 @@
       "awayScore": 0.15,
       "predictedDiff": -0.74,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -1512,7 +1526,7 @@
       "awayScore": 1.34,
       "predictedDiff": -0.72,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -1526,7 +1540,7 @@
       "awayScore": 0.83,
       "predictedDiff": -0.72,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -1540,7 +1554,7 @@
       "awayScore": 0.15,
       "predictedDiff": 0.72,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -1554,7 +1568,7 @@
       "awayScore": 1.06,
       "predictedDiff": -0.68,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -1568,7 +1582,7 @@
       "awayScore": -0.09,
       "predictedDiff": 0.68,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -1582,7 +1596,7 @@
       "awayScore": 0.39,
       "predictedDiff": -0.67,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -1596,7 +1610,7 @@
       "awayScore": -0.08,
       "predictedDiff": 0.67,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -1610,7 +1624,7 @@
       "awayScore": 0.2,
       "predictedDiff": -0.66,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -1624,7 +1638,7 @@
       "awayScore": 0.59,
       "predictedDiff": 0.65,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -1638,7 +1652,7 @@
       "awayScore": -0.44,
       "predictedDiff": -0.61,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -1652,7 +1666,7 @@
       "awayScore": -0.05,
       "predictedDiff": 0.6,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -1666,7 +1680,7 @@
       "awayScore": 0.06,
       "predictedDiff": 0.6,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -1680,7 +1694,7 @@
       "awayScore": 0.02,
       "predictedDiff": 0.6,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -1694,7 +1708,7 @@
       "awayScore": -0.39,
       "predictedDiff": 0.6,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -1708,7 +1722,7 @@
       "awayScore": 0.14,
       "predictedDiff": 0.6,
       "league": "VEN - Venezuelan Primera División",
-      "leagueId": "VEN-Venezuelan Primera División",
+      "leagueId": "105-VEN-Venezuelan Primera División",
       "country": "VEN",
       "leagueName": "Venezuelan Primera División"
     },
@@ -1722,7 +1736,7 @@
       "awayScore": 0.26,
       "predictedDiff": 0.59,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -1736,7 +1750,7 @@
       "awayScore": -0.46,
       "predictedDiff": -0.59,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -1750,7 +1764,7 @@
       "awayScore": -0.46,
       "predictedDiff": 0.58,
       "league": "PAR - Paraguayan Primera División",
-      "leagueId": "PAR-Paraguayan Primera División",
+      "leagueId": "061-PAR-Paraguayan Primera División",
       "country": "PAR",
       "leagueName": "Paraguayan Primera División"
     },
@@ -1764,7 +1778,7 @@
       "awayScore": 0.27,
       "predictedDiff": -0.57,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -1778,7 +1792,7 @@
       "awayScore": 0.33,
       "predictedDiff": -0.56,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -1792,7 +1806,7 @@
       "awayScore": 0.09,
       "predictedDiff": -0.55,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -1806,7 +1820,7 @@
       "awayScore": -0.21,
       "predictedDiff": 0.55,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -1820,7 +1834,7 @@
       "awayScore": 0.21,
       "predictedDiff": -0.55,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -1834,7 +1848,7 @@
       "awayScore": -0.63,
       "predictedDiff": -0.54,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -1848,7 +1862,7 @@
       "awayScore": 0.41,
       "predictedDiff": -0.54,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -1862,7 +1876,7 @@
       "awayScore": -1.79,
       "predictedDiff": 0.52,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -1876,7 +1890,7 @@
       "awayScore": 0.25,
       "predictedDiff": -0.5,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -1890,7 +1904,7 @@
       "awayScore": -0.04,
       "predictedDiff": 0.5,
       "league": "VEN - Venezuelan Primera División",
-      "leagueId": "VEN-Venezuelan Primera División",
+      "leagueId": "105-VEN-Venezuelan Primera División",
       "country": "VEN",
       "leagueName": "Venezuelan Primera División"
     },
@@ -1904,7 +1918,7 @@
       "awayScore": -0.98,
       "predictedDiff": 0.49,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -1918,7 +1932,7 @@
       "awayScore": 0.14,
       "predictedDiff": -0.46,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -1932,7 +1946,7 @@
       "awayScore": 0.17,
       "predictedDiff": 0.46,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -1946,7 +1960,7 @@
       "awayScore": 0.26,
       "predictedDiff": 0.45,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -1960,7 +1974,7 @@
       "awayScore": 0.15,
       "predictedDiff": 0.45,
       "league": "VEN - Venezuelan Primera División",
-      "leagueId": "VEN-Venezuelan Primera División",
+      "leagueId": "105-VEN-Venezuelan Primera División",
       "country": "VEN",
       "leagueName": "Venezuelan Primera División"
     },
@@ -1974,7 +1988,7 @@
       "awayScore": 0.13,
       "predictedDiff": -0.42,
       "league": "NOR - Toppserien",
-      "leagueId": "NOR-Toppserien",
+      "leagueId": "185-NOR-Toppserien",
       "country": "NOR",
       "leagueName": "Toppserien"
     },
@@ -1988,7 +2002,7 @@
       "awayScore": -0.21,
       "predictedDiff": 0.42,
       "league": "PAR - Paraguayan Primera División",
-      "leagueId": "PAR-Paraguayan Primera División",
+      "leagueId": "061-PAR-Paraguayan Primera División",
       "country": "PAR",
       "leagueName": "Paraguayan Primera División"
     },
@@ -2002,7 +2016,7 @@
       "awayScore": -0.38,
       "predictedDiff": -0.41,
       "league": "DEN - Danish Women's League",
-      "leagueId": "DEN-Danish Women's League",
+      "leagueId": "340-DEN-Danish Women's League",
       "country": "DEN",
       "leagueName": "Danish Women's League"
     },
@@ -2016,7 +2030,7 @@
       "awayScore": -0.05,
       "predictedDiff": -0.4,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -2030,7 +2044,7 @@
       "awayScore": -0.44,
       "predictedDiff": -0.39,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -2044,7 +2058,7 @@
       "awayScore": 0.31,
       "predictedDiff": 0.39,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -2058,7 +2072,7 @@
       "awayScore": -0.07,
       "predictedDiff": -0.39,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -2072,7 +2086,7 @@
       "awayScore": 0.31,
       "predictedDiff": -0.37,
       "league": "BRA - Brasileirão Feminino Série A1",
-      "leagueId": "BRA-Brasileirão Feminino Série A1",
+      "leagueId": "206-BRA-Brasileirão Feminino Série A1",
       "country": "BRA",
       "leagueName": "Brasileirão Feminino Série A1"
     },
@@ -2086,7 +2100,7 @@
       "awayScore": 0.16,
       "predictedDiff": -0.35,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -2100,7 +2114,7 @@
       "awayScore": -0.42,
       "predictedDiff": -0.35,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -2114,7 +2128,7 @@
       "awayScore": -0.08,
       "predictedDiff": -0.35,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -2128,7 +2142,7 @@
       "awayScore": -0.59,
       "predictedDiff": 0.35,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2142,7 +2156,7 @@
       "awayScore": -0.94,
       "predictedDiff": 0.33,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -2156,7 +2170,7 @@
       "awayScore": -0.97,
       "predictedDiff": 0.32,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -2170,7 +2184,7 @@
       "awayScore": -0.02,
       "predictedDiff": 0.31,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -2184,7 +2198,7 @@
       "awayScore": 0.31,
       "predictedDiff": -0.31,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -2198,7 +2212,7 @@
       "awayScore": -0.29,
       "predictedDiff": 0.3,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -2212,7 +2226,7 @@
       "awayScore": -0.32,
       "predictedDiff": 0.3,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -2226,7 +2240,7 @@
       "awayScore": 0.07,
       "predictedDiff": 0.29,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -2240,7 +2254,7 @@
       "awayScore": -0.1,
       "predictedDiff": 0.29,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -2254,7 +2268,7 @@
       "awayScore": -0.25,
       "predictedDiff": -0.29,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -2268,7 +2282,7 @@
       "awayScore": -0.17,
       "predictedDiff": 0.27,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -2282,7 +2296,7 @@
       "awayScore": 0.27,
       "predictedDiff": 0.27,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -2296,7 +2310,7 @@
       "awayScore": 0.77,
       "predictedDiff": -0.27,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -2310,7 +2324,7 @@
       "awayScore": 0.82,
       "predictedDiff": -0.24,
       "league": "FIN - Veikkausliiga",
-      "leagueId": "FIN-Veikkausliiga",
+      "leagueId": "043-FIN-Veikkausliiga",
       "country": "FIN",
       "leagueName": "Veikkausliiga"
     },
@@ -2324,7 +2338,7 @@
       "awayScore": -0.66,
       "predictedDiff": 0.24,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -2338,7 +2352,7 @@
       "awayScore": -0.1,
       "predictedDiff": 0.23,
       "league": "ARG - Liga Profesional de Fútbol Argentina",
-      "leagueId": "ARG-Liga Profesional de Fútbol Argentina",
+      "leagueId": "021-ARG-Liga Profesional de Fútbol Argentina",
       "country": "ARG",
       "leagueName": "Liga Profesional de Fútbol Argentina"
     },
@@ -2352,7 +2366,7 @@
       "awayScore": -0.28,
       "predictedDiff": -0.23,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -2366,7 +2380,7 @@
       "awayScore": 0.13,
       "predictedDiff": 0.22,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -2380,7 +2394,7 @@
       "awayScore": -0.02,
       "predictedDiff": -0.22,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2394,7 +2408,7 @@
       "awayScore": -0.39,
       "predictedDiff": 0.22,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -2408,7 +2422,7 @@
       "awayScore": -0.16,
       "predictedDiff": -0.22,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -2422,7 +2436,7 @@
       "awayScore": -0.56,
       "predictedDiff": 0.22,
       "league": "SWE - Damallsvenskan",
-      "leagueId": "SWE-Damallsvenskan",
+      "leagueId": "187-SWE-Damallsvenskan",
       "country": "SWE",
       "leagueName": "Damallsvenskan"
     },
@@ -2436,7 +2450,7 @@
       "awayScore": 0.25,
       "predictedDiff": 0.21,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -2450,7 +2464,7 @@
       "awayScore": -0.39,
       "predictedDiff": -0.21,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -2464,7 +2478,7 @@
       "awayScore": 0.3,
       "predictedDiff": 0.21,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -2478,7 +2492,7 @@
       "awayScore": 0.51,
       "predictedDiff": -0.2,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -2492,7 +2506,7 @@
       "awayScore": -0.2,
       "predictedDiff": 0.2,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -2506,7 +2520,7 @@
       "awayScore": 0.38,
       "predictedDiff": 0.19,
       "league": "CAN - Canadian Premier League",
-      "leagueId": "CAN-Canadian Premier League",
+      "leagueId": "211-CAN-Canadian Premier League",
       "country": "CAN",
       "leagueName": "Canadian Premier League"
     },
@@ -2520,7 +2534,7 @@
       "awayScore": -0.31,
       "predictedDiff": -0.19,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -2534,7 +2548,7 @@
       "awayScore": -0.39,
       "predictedDiff": 0.18,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -2548,7 +2562,7 @@
       "awayScore": -0.21,
       "predictedDiff": -0.18,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -2562,7 +2576,7 @@
       "awayScore": -0.36,
       "predictedDiff": 0.18,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -2576,7 +2590,7 @@
       "awayScore": 0.14,
       "predictedDiff": -0.17,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -2590,7 +2604,7 @@
       "awayScore": 0.36,
       "predictedDiff": 0.17,
       "league": "PER - Liga 1 de Fútbol Profesional",
-      "leagueId": "PER-Liga 1 de Fútbol Profesional",
+      "leagueId": "044-PER-Liga 1 de Fútbol Profesional",
       "country": "PER",
       "leagueName": "Liga 1 de Fútbol Profesional"
     },
@@ -2604,7 +2618,7 @@
       "awayScore": -0.05,
       "predictedDiff": -0.17,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -2618,7 +2632,7 @@
       "awayScore": -0.14,
       "predictedDiff": -0.16,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2632,7 +2646,7 @@
       "awayScore": -0.11,
       "predictedDiff": 0.16,
       "league": "USA - National Women's Soccer League",
-      "leagueId": "USA-National Women's Soccer League",
+      "leagueId": "182-USA-National Women's Soccer League",
       "country": "USA",
       "leagueName": "National Women's Soccer League"
     },
@@ -2646,7 +2660,7 @@
       "awayScore": -0.2,
       "predictedDiff": 0.15,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -2660,7 +2674,7 @@
       "awayScore": -0.38,
       "predictedDiff": 0.15,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -2674,7 +2688,7 @@
       "awayScore": 0.36,
       "predictedDiff": 0.14,
       "league": "CHI - Chilean Primera División",
-      "leagueId": "CHI-Chilean Primera División",
+      "leagueId": "035-CHI-Chilean Primera División",
       "country": "CHI",
       "leagueName": "Chilean Primera División"
     },
@@ -2688,7 +2702,7 @@
       "awayScore": 0.15,
       "predictedDiff": 0.14,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2702,7 +2716,7 @@
       "awayScore": -0.27,
       "predictedDiff": 0.13,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -2716,7 +2730,7 @@
       "awayScore": -0.15,
       "predictedDiff": 0.13,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2730,7 +2744,7 @@
       "awayScore": -0.35,
       "predictedDiff": -0.11,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -2744,7 +2758,7 @@
       "awayScore": -0.26,
       "predictedDiff": 0.11,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2758,7 +2772,7 @@
       "awayScore": -0.22,
       "predictedDiff": -0.11,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     },
@@ -2772,7 +2786,7 @@
       "awayScore": -0.15,
       "predictedDiff": -0.1,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -2786,7 +2800,7 @@
       "awayScore": 0.76,
       "predictedDiff": -0.1,
       "league": "COL - Categoría Primera A",
-      "leagueId": "COL-Categoría Primera A",
+      "leagueId": "041-COL-Categoría Primera A",
       "country": "COL",
       "leagueName": "Categoría Primera A"
     },
@@ -2800,7 +2814,7 @@
       "awayScore": -0.03,
       "predictedDiff": -0.1,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -2814,7 +2828,7 @@
       "awayScore": 0.44,
       "predictedDiff": 0.09,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -2828,7 +2842,7 @@
       "awayScore": -0.09,
       "predictedDiff": -0.09,
       "league": "BRA - Campeonato Brasileiro Série B",
-      "leagueId": "BRA-Campeonato Brasileiro Série B",
+      "leagueId": "038-BRA-Campeonato Brasileiro Série B",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série B"
     },
@@ -2842,7 +2856,7 @@
       "awayScore": -0.01,
       "predictedDiff": 0.09,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -2856,7 +2870,7 @@
       "awayScore": 0.29,
       "predictedDiff": -0.08,
       "league": "KOR - K League 1",
-      "leagueId": "KOR-K League 1",
+      "leagueId": "055-KOR-K League 1",
       "country": "KOR",
       "leagueName": "K League 1"
     },
@@ -2870,7 +2884,7 @@
       "awayScore": -0.25,
       "predictedDiff": 0.07,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -2884,7 +2898,7 @@
       "awayScore": 0.35,
       "predictedDiff": 0.07,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -2898,7 +2912,7 @@
       "awayScore": -0.5,
       "predictedDiff": 0.06,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -2912,7 +2926,7 @@
       "awayScore": -0.1,
       "predictedDiff": -0.06,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -2926,7 +2940,7 @@
       "awayScore": -0.19,
       "predictedDiff": 0.06,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -2940,7 +2954,7 @@
       "awayScore": 0,
       "predictedDiff": 0.06,
       "league": "ECU - Liga Profesional Ecuador",
-      "leagueId": "ECU-Liga Profesional Ecuador",
+      "leagueId": "058-ECU-Liga Profesional Ecuador",
       "country": "ECU",
       "leagueName": "Liga Profesional Ecuador"
     },
@@ -2954,7 +2968,7 @@
       "awayScore": -0.4,
       "predictedDiff": -0.06,
       "league": "JPN - J1 League",
-      "leagueId": "JPN-J1 League",
+      "leagueId": "025-JPN-J1 League",
       "country": "JPN",
       "leagueName": "J1 League"
     },
@@ -2968,7 +2982,7 @@
       "awayScore": 0.29,
       "predictedDiff": 0.06,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -2982,7 +2996,7 @@
       "awayScore": -0.39,
       "predictedDiff": 0.05,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -2996,7 +3010,7 @@
       "awayScore": 0.08,
       "predictedDiff": 0.05,
       "league": "SWE - Superettan",
-      "leagueId": "SWE-Superettan",
+      "leagueId": "048-SWE-Superettan",
       "country": "SWE",
       "leagueName": "Superettan"
     },
@@ -3010,7 +3024,7 @@
       "awayScore": -0.62,
       "predictedDiff": 0.04,
       "league": "CHN - Chinese Football Association Super League",
-      "leagueId": "CHN-Chinese Football Association Super League",
+      "leagueId": "062-CHN-Chinese Football Association Super League",
       "country": "CHN",
       "leagueName": "Chinese Football Association Super League"
     },
@@ -3024,7 +3038,7 @@
       "awayScore": -0.04,
       "predictedDiff": 0.02,
       "league": "BRA - Campeonato Brasileiro Série A",
-      "leagueId": "BRA-Campeonato Brasileiro Série A",
+      "leagueId": "024-BRA-Campeonato Brasileiro Série A",
       "country": "BRA",
       "leagueName": "Campeonato Brasileiro Série A"
     },
@@ -3038,7 +3052,7 @@
       "awayScore": 0.24,
       "predictedDiff": -0.02,
       "league": "COL - Categoría Primera A",
-      "leagueId": "COL-Categoría Primera A",
+      "leagueId": "041-COL-Categoría Primera A",
       "country": "COL",
       "leagueName": "Categoría Primera A"
     },
@@ -3052,7 +3066,7 @@
       "awayScore": -0.39,
       "predictedDiff": -0.02,
       "league": "RSA - South African Premier Division",
-      "leagueId": "RSA-South African Premier Division",
+      "leagueId": "052-RSA-South African Premier Division",
       "country": "RSA",
       "leagueName": "South African Premier Division"
     },
@@ -3066,7 +3080,7 @@
       "awayScore": 0.35,
       "predictedDiff": -0.02,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -3080,7 +3094,7 @@
       "awayScore": -0.61,
       "predictedDiff": 0.01,
       "league": "NOR - Eliteserien",
-      "leagueId": "NOR-Eliteserien",
+      "leagueId": "028-NOR-Eliteserien",
       "country": "NOR",
       "leagueName": "Eliteserien"
     },
@@ -3094,7 +3108,7 @@
       "awayScore": -0.6,
       "predictedDiff": -0.01,
       "league": "URU - Uruguayan Primera División",
-      "leagueId": "URU-Uruguayan Primera División",
+      "leagueId": "045-URU-Uruguayan Primera División",
       "country": "URU",
       "leagueName": "Uruguayan Primera División"
     },
@@ -3108,7 +3122,7 @@
       "awayScore": -0.44,
       "predictedDiff": 0,
       "league": "BEL - Challenger Pro League",
-      "leagueId": "BEL-Challenger Pro League",
+      "leagueId": "069-BEL-Challenger Pro League",
       "country": "BEL",
       "leagueName": "Challenger Pro League"
     },
@@ -3122,7 +3136,7 @@
       "awayScore": -0.3,
       "predictedDiff": 0,
       "league": "JPN - J2 League",
-      "leagueId": "JPN-J2 League",
+      "leagueId": "049-JPN-J2 League",
       "country": "JPN",
       "leagueName": "J2 League"
     },
@@ -3136,7 +3150,7 @@
       "awayScore": -0.38,
       "predictedDiff": 0,
       "league": "SWE - Allsvenskan",
-      "leagueId": "SWE-Allsvenskan",
+      "leagueId": "029-SWE-Allsvenskan",
       "country": "SWE",
       "leagueName": "Allsvenskan"
     }

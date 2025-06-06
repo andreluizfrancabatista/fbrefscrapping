@@ -6,7 +6,6 @@
     <title>Soccer Analytics - Análise e Previsão de Jogos</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <!-- Adicionar no <head> do index.html -->
     <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
 </head>
 <body>
@@ -50,21 +49,6 @@
                     <div class="countries-grid" id="countriesGrid">
                         <!-- Países serão inseridos dinamicamente aqui -->
                     </div>
-                    
-                    <div class="selected-league" id="selectedLeague" style="display: none;">
-                        <div class="selected-info">
-                            <img id="selectedFlag" class="selected-flag" src="" alt="">
-                            <span class="selected-text" id="selectedText">Nenhuma liga selecionada</span>
-                            <button class="clear-selection" id="clearSelection">
-                                <i class="fas fa-times"></i>
-                            </button>
-                        </div>
-                        
-                        <button id="analyzeBtn" class="analyze-btn">
-                            <i class="fas fa-chart-line"></i>
-                            Analisar Liga
-                        </button>
-                    </div>
                 </div>
             </section>
 
@@ -86,7 +70,7 @@
                     
                     <button id="loadWeeklyBtn" class="weekly-btn">
                         <i class="fas fa-sync-alt"></i>
-                        Carregar Jogos
+                        Atualizar Jogos
                     </button>
                 </div>
 

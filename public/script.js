@@ -2,7 +2,6 @@
 const App = {
     currentSection: 'home',
     leagues: [],
-    selectedLeague: null,
     currentAnalysis: null,
     weeklyGames: [],
     isLoading: false
@@ -16,11 +15,6 @@ const elements = {
     
     // Home section
     countriesGrid: document.getElementById('countriesGrid'),
-    selectedLeague: document.getElementById('selectedLeague'),
-    selectedFlag: document.getElementById('selectedFlag'),
-    selectedText: document.getElementById('selectedText'),
-    clearSelection: document.getElementById('clearSelection'),
-    analyzeBtn: document.getElementById('analyzeBtn'),
     
     // Weekly section
     thresholdSlider: document.getElementById('thresholdSlider'),
@@ -280,14 +274,6 @@ const Navigation = {
 const Home = {
     init() {
         this.loadLeagues();
-        
-        elements.clearSelection.addEventListener('click', () => {
-            this.clearLeagueSelection();
-        });
-        
-        elements.analyzeBtn.addEventListener('click', () => {
-            this.analyzeSelectedLeague();
-        });
     },
 
     async loadLeagues() {
@@ -382,6 +368,19 @@ const Home = {
                 return match ? parseInt(match[1]) : 999;
             };
             
+            // Exceção especial para Itália - ordenação customizada
+            if (countryCode === 'ITA') {
+                const italyOrder = ['Serie A', 'Serie B'];
+                const indexA = italyOrder.findIndex(name => a.league.includes(name));
+                const indexB = italyOrder.findIndex(name => b.league.includes(name));
+                
+                if (indexA !== -1 && indexB !== -1) {
+                    return indexA - indexB;
+                }
+                if (indexA !== -1) return -1;
+                if (indexB !== -1) return 1;
+            }
+            
             const compA = extractCompNumber(a.id);
             const compB = extractCompNumber(b.id);
             
@@ -421,51 +420,16 @@ const Home = {
             selectedItem.classList.add('selected');
         }
         
-        // Atualizar estado
-        App.selectedLeague = {
-            id: leagueId,
-            displayName: displayName,
-            countryCode: countryCode,
-            flagUrl: flagUrl
-        };
-        
-        // Mostrar seleção
-        elements.selectedFlag.src = flagUrl;
-        elements.selectedFlag.alt = countryNames[countryCode] || countryCode;
-        elements.selectedText.textContent = displayName;
-        elements.selectedLeague.style.display = 'block';
-        
-        // Scroll suave para a seleção
-        elements.selectedLeague.scrollIntoView({ 
-            behavior: 'smooth', 
-            block: 'nearest' 
-        });
+        // Ir diretamente para a análise
+        this.analyzeLeague(leagueId, displayName);
     },
 
-    clearLeagueSelection() {
-        // Remover seleção visual
-        document.querySelectorAll('.league-item.selected').forEach(item => {
-            item.classList.remove('selected');
-        });
-        
-        // Limpar estado
-        App.selectedLeague = null;
-        
-        // Esconder seleção
-        elements.selectedLeague.style.display = 'none';
-    },
-
-    async analyzeSelectedLeague() {
-        if (!App.selectedLeague) {
-            Utils.showError('Selecione uma liga para analisar');
-            return;
-        }
-        
+    async analyzeLeague(leagueId, displayName) {
         try {
-            Utils.showLoading(`Analisando ${App.selectedLeague.displayName}...`);
+            Utils.showLoading(`Analisando ${displayName}...`);
             
-            App.currentAnalysis = await API.analyzeLeague(App.selectedLeague.id);
-            App.currentAnalysis.leagueName = App.selectedLeague.displayName;
+            App.currentAnalysis = await API.analyzeLeague(leagueId);
+            App.currentAnalysis.leagueName = displayName;
             
             Results.display();
             Navigation.switchSection('results');
@@ -475,14 +439,21 @@ const Home = {
         } finally {
             Utils.hideLoading();
         }
+    },
+
+    clearLeagueSelection() {
+        // Remover seleção visual
+        document.querySelectorAll('.league-item.selected').forEach(item => {
+            item.classList.remove('selected');
+        });
     }
 };
 
 // Weekly section functionality
 const Weekly = {
     currentGames: [],
-    sortColumn: 'predictedDiff',
-    sortDirection: 'desc',
+    sortColumn: 'datetime',
+    sortDirection: 'asc',
 
     init() {
         elements.thresholdSlider.addEventListener('input', (e) => {
@@ -492,6 +463,29 @@ const Weekly = {
         
         elements.loadWeeklyBtn.addEventListener('click', () => {
             this.loadWeeklyGames();
+        });
+
+        // Carregar jogos automaticamente quando a seção for ativada
+        this.setupAutoLoad();
+    },
+
+    setupAutoLoad() {
+        // Observar quando a seção weekly se torna ativa
+        const weeklySection = document.getElementById('weekly');
+        const observer = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+                    if (weeklySection.classList.contains('active') && this.currentGames.length === 0) {
+                        // Carregar jogos automaticamente na primeira vez que a seção for ativada
+                        this.loadWeeklyGames();
+                    }
+                }
+            });
+        });
+
+        observer.observe(weeklySection, {
+            attributes: true,
+            attributeFilter: ['class']
         });
     },
 
@@ -708,7 +702,10 @@ const Weekly = {
         // Filtrar jogos com dados inválidos ANTES de exibir
         const validGames = data.games.filter(game => this.isValidGameData(game));
         
-        if (validGames.length === 0) {
+        // Ordenar por data/hora por padrão
+        const sortedGames = this.sortGamesByDateTime(validGames);
+        
+        if (sortedGames.length === 0) {
             elements.weeklyResults.innerHTML = `
                 <div class="card">
                     <div class="card-header">
@@ -725,7 +722,7 @@ const Weekly = {
         }
         
         // Statistics usando apenas jogos válidos
-        const stats = this.calculateStats(validGames);
+        const stats = this.calculateStats(sortedGames);
         
         // Update info
         const updateInfo = data.lastUpdate ? 
@@ -753,8 +750,8 @@ const Weekly = {
             </div>
         `;
         
-        // Sortable table usando apenas jogos válidos
-        const table = this.createSortableTable(validGames);
+        // Sortable table usando jogos ordenados
+        const table = this.createSortableTable(sortedGames);
         
         const tableCard = document.createElement('div');
         tableCard.className = 'card';
@@ -770,6 +767,14 @@ const Weekly = {
         
         tableCard.querySelector('.table-container').appendChild(table);
         elements.weeklyResults.appendChild(tableCard);
+    },
+
+    sortGamesByDateTime(games) {
+        return games.sort((a, b) => {
+            const dateTimeA = this.parseDateTime(a.date, a.time);
+            const dateTimeB = this.parseDateTime(b.date, b.time);
+            return dateTimeA - dateTimeB; // Ordem crescente (mais próximo primeiro)
+        });
     },
 
     createSortableTable(games) {

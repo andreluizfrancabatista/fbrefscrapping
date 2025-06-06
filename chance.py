@@ -66,10 +66,24 @@ if len(sys.argv) > 1:
         pais = sys.argv[1]
         liga = sys.argv[2]
         identifier = f"{pais}-{liga}"
-        file_path = f'data/{identifier}.csv'
-        new_file_path = f'data/{identifier}_next.csv'
+        
+        # Buscar arquivo com prefixo numérico na pasta data
+        import glob
+        data_dir = 'data'
+        pattern = f"{data_dir}/*-{identifier}.csv"
+        matching_files = glob.glob(pattern)
+        
+        if matching_files:
+            file_path = matching_files[0]  # Pegar o primeiro arquivo encontrado
+            # Extrair o nome base do arquivo para construir o _next
+            base_name = file_path.replace('.csv', '')
+            new_file_path = f"{base_name}_next.csv"
+        else:
+            print(f'ERRO: Nenhum arquivo encontrado para padrão {pattern}')
+            print('Use --list para ver as ligas disponíveis.')
+            sys.exit(1)
     else:
-        # Formato antigo: python chance.py pais-liga
+        # Formato antigo: python chance.py pais-liga (com prefixo)
         identifier = sys.argv[1]
         file_path = f'data/{identifier}.csv'
         new_file_path = f'data/{identifier}_next.csv'

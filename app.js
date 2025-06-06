@@ -26,8 +26,11 @@ function getAvailableLeagues() {
 
     try {
         const files = fs.readdirSync(dataDir);
+        // Filtrar arquivos principais (com prefixo numérico, sem _next)
         const mainFiles = files.filter(file => 
-            file.endsWith('.csv') && !file.endsWith('_next.csv')
+            file.endsWith('.csv') && 
+            !file.endsWith('_next.csv') &&
+            file.match(/^\d{3}-/)  // Começar com 3 dígitos seguidos de hífen
         );
 
         const leagues = [];
@@ -37,16 +40,17 @@ function getAvailableLeagues() {
             const nextFile = `${baseName}_next.csv`;
             
             if (files.includes(nextFile)) {
-                const parts = baseName.split('-');
-                if (parts.length >= 2) {
-                    const country = parts[0];
-                    const league = parts.slice(1).join('-');
+                // Extrair compNumber, país e liga do novo formato: "009-ENG-Premier_League.csv"
+                const match = baseName.match(/^(\d{3})-(.+?)-(.+)$/);
+                if (match) {
+                    const [, compNumber, country, league] = match;
                     
                     leagues.push({
                         id: baseName,
                         country: country,
                         league: league.replace(/_/g, ' '),
-                        displayName: `${country} - ${league.replace(/_/g, ' ')}`
+                        displayName: `${country} - ${league.replace(/_/g, ' ')}`,
+                        compNumber: parseInt(compNumber)
                     });
                 }
             }
