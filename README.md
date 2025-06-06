@@ -2,13 +2,22 @@
 
 Sistema completo de análise de futebol com interface web moderna, incluindo coleta de dados, análise estatística avançada e previsão de resultados das principais ligas mundiais.
 
-![Build](https://img.shields.io/github/actions/workflow/status/andreluizfrancabatista/fbrefscrapping/ci.yml?label=build)
-![License](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping)
-![Version](https://img.shields.io/github/v/tag/andreluizfrancabatistafbrefscrapping?label=version)
-![Top Language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/andreluizfrancabatista/fbrefscrapping?style=for-the-badge)
 
-Descrição do projeto...
+![Web Scraping](https://img.shields.io/badge/web_scraping-automated-orange?style=flat-square)
+![Soccer Analytics](https://img.shields.io/badge/soccer-analytics-4CAF50?style=flat-square)
+![80+ Leagues](https://img.shields.io/badge/leagues-80+-blue?style=flat-square)
+![Real Time Data](https://img.shields.io/badge/data-real_time-red?style=flat-square)
+![Predictions](https://img.shields.io/badge/predictions-ML_powered-purple?style=flat-square)
+![Responsive Web](https://img.shields.io/badge/web_app-responsive-success?style=flat-square)
 
+![GitHub issues](https://img.shields.io/github/issues/andreluizfrancabatista/fbrefscrapping?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/andreluizfrancabatista/fbrefscrapping?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/andreluizfrancabatista/fbrefscrapping?style=flat-square)
+![Maintenance](https://img.shields.io/badge/maintained-yes-green?style=flat-square)
 
 ## 🏆 Visão Geral
 
@@ -330,5 +339,7 @@ O **Soccer Analytics** representa uma solução completa e moderna para análise
 ---
 
 *Desenvolvido com ⚽ para entusiastas do futebol e análise de dados.*
+
+![Made with Love](https://img.shields.io/badge/Made%20with-⚽%20and%20💚-4CAF50?style=for-the-badge)
 
 ![Footer](https://img.shields.io/badge/Made%20with-⚽%20and%20💚-4CAF50?style=for-the-badge)
